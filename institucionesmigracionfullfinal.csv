@@ -1,4 +1,4 @@
-name,descripcion,latitud,longitud,coordenadas,tipo,direccion,bd
+﻿name,descripcion,latitud,longitud,coordenadas,tipo,direccion,bd
 DIF Estatal Baja California,DIF,32.6637802,-115.464355,"32.6637802, -115.464355",GOB,"Av. Obregón 1290, Col. Nueva 2da. Secc., C.P. 21100, Mexicali, B.C.",Directorio OIM
 Ángeles Sin Fronteras,Centros de Atención Social,32.66293698,-115.4949834,"32.66293697601438, -115.49498343917332",OSC / ONG,"Av. Reforma 244, Altos Zona Centro C.P.21100",Directorio OIM
 Centro de Apoyo al Trabajor Migrante,Centros de Atención Social,32.66084772,-115.4794935,"32.660847720110326, -115.4794934911816",OSC / ONG,"Jabonera 6, Col. Nueva C.P. 21100",Directorio OIM
@@ -18,12 +18,12 @@ El Buen Samaritano,Centros de Atención Social,32.65385434,-115.4789914,"32.6538
 Albergue Temporal Mexicali,Centros de Atención Social,32.637519,-115.498128,"32.637519, -115.498128",OSC / ONG,"Salina Cruz 1253, Col. Guajardo Mexicali, Baja California. C. P. 21050",Directorio OIM
  El camino a un Nuevo Amanecer ,Centros de Atención Social,32.62655285,-115.3650196,"32.62655284800146, -115.36501956672195",OSC / ONG,"Pte. Canal Pacifico , km 15, 5 Ej. Hipolito Renteria,Mexicali, Baja California",redes
 Grupo Beta Mexicali,Grupos Beta,32.62536263,-115.4521844,"32.62536262692454, -115.452184362009",OSC / ONG,"Av. Melgar No. 1, Garita Internacional, Zona Centro, C.P. 21100, Mexicali, B.C.",Directorio OIM
- INM Grupo Beta Mexicali ,Centros de Atención Social,32.62454916171159,-115.4522609914491,"32.62454916171159, -115.4522609914491",OSC / ONG,"Av. Melgar No. 1, Garita, Centro Cívico, 21000 Mexicali, B.C.,Tijuana, Baja California",redes
+ INM Grupo Beta Mexicali ,Grupos Beta,32.62454916,-115.452261,"32.62454916171159, -115.4522609914491",OSC / ONG,"Av. Melgar No. 1, Garita, Centro Cívico, 21000 Mexicali, B.C.,Tijuana, Baja California",redes
 " Módulo Fronterizo ""Juntos en el Camino"" ",Centros de Atención Social,32.62370026,-115.4428449,"32.62370025694043, -115.44284486059425",OSC / ONG,"Garita número 1, Carretera Mexicali-Calexico, Módulo # 3,Mexicali, Baja California",redes
 " Casa de Oración del Migrante, A.C. ",Centros de Atención Social,32.60976727,-115.4336842,"32.609767272951366, -115.43368415942778",OSC / ONG,"Niños Héroes 981, Col. General Jesús Munguia, C.P.22840,Ensenada, Baja California",redes
 " Coordinadora del Programa de Apoyo al Trabajador Migrante Deportado, A.C. ""Casa Betania"" ",Centros de Atención Social,32.6072504,-115.4436791,"32.6072504, -115.4436791",OSC / ONG,"Lago Hudson # 2408 Col. Xochimilco, C.P. 21380,Mexicali, Baja California",redes
 Casa Betania,Centros de Atención Social,32.60406223,-115.4393674,"32.60406223467113, -115.43936742358323",OSC / ONG,"Lago Hudson 2408, Col. Xochimilco C.P. 21380",Directorio OIM
-Grupo Beta Tecate,Grupos Beta,32.56928991503085,-116.6523372581046,"32.56928991503085, -116.6523372581046",OSC / ONG,"Calle 18, esq. con Tanamá s/n, Col. Bella Vista, C.P. 21440, Tecate, B.C.",Directorio OIM
+Grupo Beta Tecate,Grupos Beta,32.56928992,-116.6523373,"32.56928991503085, -116.6523372581046",OSC / ONG,"Calle 18, esq. con Tanamá s/n, Col. Bella Vista, C.P. 21440, Tecate, B.C.",Directorio OIM
  Casa de Ayuda Alfa y Omega ,Centros de Atención Social,32.56754405,-114.9958286,"32.567544049999995, -114.99582857842219",OSC / ONG,"Av, Benito Juárez #92, Col. Zona Centro, C.P. 21100,Mexicali, Baja California",redes
 Nuestra Señora de Guadalupe,Centros de Atención Social,32.56267732,-116.6044826,"32.56267732137669, -116.60448257353652",OSC / ONG,"Misión Santa Teresa 1400, Col. El Descanso C.P.21478",Directorio OIM
 Albergue para migrantes “El Buen Samaritano”,Centros de Atención Social,32.5481449,-106.5256603,"32.5481449, -106.5256603",OSC / ONG,"Calle Islas Esmeraldas # 2012 Col. Luis Echeverría. Ciudad Juárez, Chihuahua",ACNUR albergues
@@ -38,7 +38,7 @@ Espacio Migrante,Centros de Atención Social,32.5385082,-117.034304,"32.5385082,
 Espacio Migrante,Centros de Atención Social,32.538341,-117.0342535,"32.538341, -117.0342535",OSC / ONG,,ACNUR servicios
  Programa de Repatriación Humana (Módulo Tijuana) ,Centros de Atención Social,32.53808867,-117.0368087,"32.53808866962532, -117.03680867686685",OSC / ONG,"Garita Internacional El Chaparral, S/N, Col. Federal, C.P. 22010,Tijuana, Baja California",redes
  Madres y familias deportadas en acción ,Centros de Atención Social,32.5375158,-117.0296459,"32.5375158, -117.0296459",OSC / ONG,"Vía de la Juventud Ote 8800, Defensores de Baja California, CP 22010,Tijuana, Baja California",redes
-Instituto Municipal de la Mujer,Centros de Atención Social,32.5374915,-117.0337884,"32.5374915, -117.0337884",OSC / ONG,,ACNUR servicios
+Instituto Municipal de la Mujer,Mujeres,32.5374915,-117.0337884,"32.5374915, -117.0337884",OSC / ONG,,ACNUR servicios
  Enclave Caracol ,Centros de Atención Social,32.5370643,-117.036046,"32.537064302137814, -117.03604600198183",OSC / ONG,"1er Andador 8250 CP 22000,Tijuana, Baja California",redes
 " Salesiano de Tijuana Desayunador ""Padre Chava"" ",Centros de Atención Social,32.5367633,-117.0321805,"32.5367633, -117.0321805",OSC / ONG,"Av. Melchor Ocampo #700, Zona Centro CP 22000,Tijuana, Baja California",redes
 "Ejército de Salvación, A.C.",Centros de Atención Social,32.5354111,-117.0126211,"32.5354111, -117.0126211",OSC / ONG,"Aquiles Serdán 11585, Col. Libertad C.P. 22300",Directorio OIM
@@ -74,9 +74,9 @@ Casa YMCA,Centros de Atención Social,32.5139808,-117.021498,"32.5139808, -117.0
 " Federación de Asociaciones Cristianas de Jóvenes de la República Mexicana, A.C. ""Casas YMCA para menores Migrantes"" ",Centros de Atención Social,32.51394463,-117.0212405,"32.51394462917329, -117.02124045411387",OSC / ONG,"Blvd. Cuauhtémoc Sur # 3170 Colonia Chula Vista CP 22410,Tijuana, Baja California",redes
 Casa YMCA,Centros de Atención Social,32.51383224,-117.0215267,"32.51383224167722, -117.02152669152379",OSC / ONG,"Blvd. Cuauhtémoc Sur 3170, Col. Chula vista C.P. 22410",Directorio OIM
 Casa YMCA,Centros de Atención Social,32.5119193,-117.0226056,"32.5119193, -117.0226056",OSC / ONG,,ACNUR servicios
-Oficinas de Atención a Migrante - Baja California,Oficinas de Atención a Migrante,32.51180341314272,-116.98500225046756,"32.51180341314272, -116.98500225046757",GOB,"5, Blvd. Gustavo Díaz Ordaz 12649-Interior 37, El Paraiso, 22106 Tijuana, B.C.",Oficinas de Atención a Migrantes (OFAMs)
+Oficinas de Atención a Migrante - Baja California,Oficinas de Atención a Migrante,32.51180341,-116.9850023,"32.51180341314272, -116.98500225046757",GOB,"5, Blvd. Gustavo Díaz Ordaz 12649-Interior 37, El Paraiso, 22106 Tijuana, B.C.",Oficinas de Atención a Migrantes (OFAMs)
  Centro Binacional de Derechos Humanos A.C. ,Centros de Atención Social,32.505976,-116.9497659,"32.50597599533705, -116.94976588180496",OSC / ONG,"Avda. Paseo del Centenario # 3-B Oficina 11 Zona Río Tijuana contraesquina de Palacio Municipal CP 22320,Tijuana, Baja California",redes
-Instituto Nacional de Migración (INM),Centros de Atención Social,32.5049938,-116.9522701,"32.5049938, -116.9522701",OSC / ONG,,ACNUR servicios
+Instituto Nacional de Migración (INM),INM,32.5049938,-116.9522701,"32.5049938, -116.9522701",GOB,,ACNUR servicios
 Comisión Estatal de los Derechos Humanos de Baja California,CNDH,32.50463132,-116.9511927,"32.50463131901399, -116.95119270477852",OSC / ONG,"Av. Diego Rivera 2532 edif. Cortez Carbajal 5to piso, Col. Zona Ríos, C.P. 22320, Tijuana, Baja California",Directorio OIM
 Comisión Estatal de los Derechos Humanos de Baja California ,Centros de Atención Social,32.504085,-116.9510415,"32.504085, -116.9510415",OSC / ONG,,ACNUR servicios
 Oficina de representación consular de Haití,Centros de Atención Social,32.5039151,-116.9745087,"32.5039151, -116.9745087",OSC / ONG,,ACNUR servicios
@@ -102,7 +102,7 @@ Diocesana de Torreón,Centros de Atención Social,32.4649811,-117.0067088,"32.46
 "Casa de Oración del Migrante, A.C.",Centros de Atención Social,31.8708036,-116.5867126,"31.870803596687143, -116.58671256804844",OSC / ONG,"Niños Héroes 981, Col. Jesús Munguia C.P. 22840",Directorio OIM
 San Vicente,Centros de Atención Social,31.86697,-116.6009704,"31.86697, -116.6009704",OSC / ONG,"Calle 9a 691, Col. Bustamante C.P. 22840",Directorio OIM
  Mexicanos en Exilio ,Centros de Atención Social,31.76232195,-106.4919642,"31.76232195, -106.49196419678495",OSC / ONG,"1430 E Yandell El Paso, TX 79902,El Paso, Texas",redes
-Instituto Nacional de Migración,Centros de Atención Social,31.7620471,-106.453061,"31.7620471, -106.453061",OSC / ONG,,ACNUR servicios
+Instituto Nacional de Migración,INM,31.7620471,-106.453061,"31.7620471, -106.453061",GOB,,ACNUR servicios
  Hope Border Institute ,Centros de Atención Social,31.76015175,-106.4915897,"31.76015175, -106.49158969919804",OSC / ONG,"8330 Park Haven Ave, El Paso, TX 79907, United States,El Paso, Texas",redes
 DIF Municipal Ciudad Juárez,Centros de Atención Social,31.7514626,-106.4545877,"31.7514626, -106.4545877",OSC / ONG,,ACNUR servicios
 Subsecretaría de Educación y Deporte ,Centros de Atención Social,31.7501227,-106.4523911,"31.7501227, -106.4523911",OSC / ONG,,ACNUR servicios
@@ -126,13 +126,13 @@ Comisión Estatal de los Derechos Humanos,Centros de Atención Social,31.7318124
  Programa YMCA de Desarrollo Comunitario y Asistencia Social. Casas YMCA para Menores Migrantes ,Centros de Atención Social,31.73043212,-106.4833476,"31.73043212084702, -106.483347564748",OSC / ONG,"Mariana Varela 191, Col. Chavena, Cd Juarez CP 32060,Ciudad Juárez, Chihuahua",redes
 Comision Nacional De Los Derechos Humanos,Centros de Atención Social,31.7267717,-106.434451,"31.7267717, -106.434451",OSC / ONG,,ACNUR servicios
 Oficina de la Comisión Nacional de los Derechos Humanos,CNDH,31.7266824,-106.4341127,"31.7266824, -106.4341127",OSC / ONG,"Av. de la Raza 5784, Col. Minerva C.P. 32370, Ciudad Juárez, Chihuahua",Directorio OIM
-Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género.,Centros de Atención Social,31.7169675,-106.474066,"31.7169675, -106.474066",OSC / ONG,,ACNUR servicios
-Fiscalia General del Estado de Chihuahua Zona Norte,Centros de Atención Social,31.711959,-106.461768,"31.711959, -106.461768",OSC / ONG,,ACNUR servicios
+Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género.,FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,31.7169675,-106.474066,"31.7169675, -106.474066",GOB,,ACNUR servicios
+Fiscalia General del Estado de Chihuahua Zona Norte,FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,31.711959,-106.461768,"31.711959, -106.461768",GOB,,ACNUR servicios
 Servicio Nacional de Empleo,Centros de Atención Social,31.7105772,-106.4598942,"31.7105772, -106.4598942",OSC / ONG,,ACNUR servicios
 México Mi Hogar,Centros de Atención Social,31.69652634,-106.4235326,"31.6965263371669, -106.42353264406822",OSC / ONG,"Bolivia 605 Nte. Col. Hidalgo Ciudad Juárez, Chihuahua.",Directorio OIM
 Central de Autobuses Ciudad Juarez,Centros de Atención Social,31.6922602,-106.4373521,"31.6922602, -106.4373521",OSC / ONG,,ACNUR servicios
 Centros de Servicios Comunitarios Integrados del Estado,Centros de Atención Social,31.68701,-106.4262384,"31.68701, -106.4262384",OSC / ONG,,ACNUR servicios
-"Juárez, A.C.",Centros de Atención Social,31.682995202942667,-106.379755270684,"31.682995202942667, -106.379755270684",OSC / ONG,"Neptuno 1855, Col. Satélite C.P. 32540",Directorio OIM
+"Juárez, A.C.",Centros de Atención Social,31.6829952,-106.3797553,"31.682995202942667, -106.379755270684",OSC / ONG,"Neptuno 1855, Col. Satélite C.P. 32540",Directorio OIM
  Casa del Migrante en Juárez A.C. ,Centros de Atención Social,31.68209526,-106.3777248,"31.682095263781136, -106.377724846192",OSC / ONG,"Calle Neptuno # 1855 Colonia Satélite CP 32540,Ciudad Juárez, Chihuahua",redes
 Sin Violencia A.C.,Centros de Atención Social,31.6748665,-106.4382024,"31.6748665, -106.4382024",OSC / ONG,,ACNUR servicios
 (IFDP) Instituto Federal de Defensoría Pública,Centros de Atención Social,31.6671011,-106.4267678,"31.6671011, -106.4267678",OSC / ONG,,ACNUR servicios
@@ -162,7 +162,7 @@ San Luis Gonzaga,Centros de Atención Social,29.12620772,-110.8929385,"29.126207
 Hogar Temporal para Menores en Situación de Calle JINESEKI,Centros de Atención Social,29.1189964,-110.9749588,"29.1189964, -110.97495881993564",OSC / ONG,"Av. Ley Federal del Trabajo 160 Col. Bugambilia, Hermosillo, Sonora. C.P. 83150",Directorio OIM
 "Casa Guadalupe Libre, I. A. P",Centros de Atención Social,29.09463624,-111.0176385,"29.094636237223714, -111.0176385147111",OSC / ONG,"Blvd. García Morales Km 6, Col. Quinta Emilia, Hermosillo, Sonora. CP 83220",Directorio OIM
 CAIM UNACARI,Centros de Atención Social,29.08485907,-110.9252355,"29.08485907029186, -110.9252354725305",OSC / ONG,"Periférico Oriente 15 Col. Los Naranjos Hermosillo, Sonora. C.P. 83060",Directorio OIM
-Oficinas de Atención a Migrante - Sonora,Oficinas de Atención a Migrante,29.08353722208489,-110.94425387596134,"29.083537222084892, -110.94425387596134",GOB,"Del Razo 16, Centro, 83079 Centro, Son.",Oficinas de Atención a Migrantes (OFAMs)
+Oficinas de Atención a Migrante - Sonora,Oficinas de Atención a Migrante,29.08353722,-110.9442539,"29.083537222084892, -110.94425387596134",GOB,"Del Razo 16, Centro, 83079 Centro, Son.",Oficinas de Atención a Migrantes (OFAMs)
 INSTITUTO NACIONAL DE MIGRACIÓN - Sonora,INM,29.0684502,-110.9478848,"29.0684502, -110.9478848",GOB,"Av. Paseo Río Sonora No. 175, Col. Proyecto Río Sonora, C.P. 83270, Hermosillo, Sonora.",Directorio OIM
 "“Ciudad de los Niños” Comisión de Protección y Asistencia del Menor, A. C.",Centros de Atención Social,29.00595175,-110.9201633,"29.00595175472397, -110.92016331727537",OSC / ONG,"Blvd. Cimarrón oriente final s/n, Col. Las Diligencias, Hermosillo, Sonora.",Directorio OIM
 Casa YMCA para menores migrantes,Centros de Atención Social,28.71822894,-100.5302223,"28.71822893576355, -100.53022228435539",OSC / ONG,"Av. 1ro de Mayo 1403 Int - 1, Col. Santa Rita C.P. 31240",Directorio OIM
@@ -174,13 +174,13 @@ Agua Prieta,Centros de Atención Social,28.70174186,-100.5160946,"28.70174185708
 INSTITUTO NACIONAL DE MIGRACIÓN - Chihuahua,INM,28.68243128,-106.077319,"28.682431275193974, -106.07731899475816",GOB,"Puente Internacional Córdova de las Américas s/n. Área del Chamizal C.P. 32310 Ciudad Juárez, Chih.",Directorio OIM
 DIF Estatal Chihuahua,DIF,28.6734077,-106.065943,"28.6734077, -106.065943",GOB,"Av. Tecnológico 2903, Col. Magisterial C.P. 31310, Chihuahua, Chih.",Directorio OIM
 Comisión Estatal de los Derechos Humanos de Chihuahua,CNDH,28.624916,-106.0860858,"28.624916, -106.0860858",OSC / ONG,"Avenida Francisco Zarco Mateos No. 2427, col. Zarco, C.P. 31020, Chihuahua, Chihuahua",Directorio OIM
-Madre Teresa,Centros de Atención Social,28.392710618466992,-106.90661827513564,"28.392710618466992, -106.90661827513563",OSC / ONG,"Calle 106 y Las Águilas, Col. Tierra Nueva C.P. 31528",Directorio OIM
+Madre Teresa,Centros de Atención Social,28.39271062,-106.9066183,"28.392710618466992, -106.90661827513563",OSC / ONG,"Calle 106 y Las Águilas, Col. Tierra Nueva C.P. 31528",Directorio OIM
 Las Patronas,Centros de Atención Social,27.7733191,-101.0188808,"27.7733191, -101.0188808",OSC / ONG,"Calle 14 s/n, Col. Guadalupe C.P. 94940",Directorio OIM
 "Casa Hogar para Menores “Elim”, A.C.",Centros de Atención Social,27.53313255,-99.56857947,"27.53313255480701, -99.56857947442191",OSC / ONG,"Unión M-24 L-9 Col. Unión del Recuerdo Nuevo Laredo, Tamaulipas. C.P. 88150",Directorio OIM
 INSTITUTO NACIONAL DE MIGRACIÓN - Tamaulipas,INM,27.49865456,-99.5073817,"27.498654556261677, -99.50738169618374",GOB,"Av. Guerrero y 15 de Junio s/n Garita Miguel Alemán y Puente Internacional No. 1, Piso 2, C.P. 88000. Nuevo Laredo, Tamaulipas.",Directorio OIM
-INM Delegación Tamaulipas,Centros de Atención Social,27.4982311,-99.5079887,"27.4982311, -99.5079887",OSC / ONG,,ACNUR servicios
+INM Delegación Tamaulipas,INM,27.4982311,-99.5079887,"27.4982311, -99.5079887",GOB,,ACNUR servicios
 Instituto Tamaulipeco para los migrantes,Centros de Atención Social,27.4971533,-99.5021586,"27.4971533, -99.5021586",OSC / ONG,,ACNUR servicios
-Amar,Centros de Atención Social,27.492227187228693,-99.50213433501482,"27.492227187228693, -99.50213433501482",OSC / ONG,"Canales 2112, Sector Centro C.P. 88160",Directorio OIM
+Amar,Centros de Atención Social,27.49222719,-99.50213434,"27.492227187228693, -99.50213433501482",OSC / ONG,"Canales 2112, Sector Centro C.P. 88160",Directorio OIM
 Amar,Centros de Atención Social,27.4920063,-99.5026535,"27.4920063, -99.5026535",OSC / ONG,"Calle canales No. 2112, col. Sector Centro, Nuevo Laredo",ACNUR albergues
 " Casa del Migrante Amar, A.C. ",Centros de Atención Social,27.4920063,-99.5026535,"27.4920063, -99.5026535",OSC / ONG,"Canales 2112, Sector Centro, C.P. 88160,Nuevo Laredo, Tamaulipas",redes
  Casa del Migrante Nazareth A.C. ,Centros de Atención Social,27.4875676,-99.484875,"27.4875676, -99.484875",OSC / ONG,"Calle Francisco I. Madero 350, Colonia Viveros, 88070 Nuevo Laredo, Tamps.,Nuevo Laredo, Tamaulipas",redes
@@ -191,7 +191,7 @@ Instituto Federal de Defensoría Pública (IFDP),Centros de Atención Social,27
 " Red Paisano México-USA, AC. ",Centros de Atención Social,27.3880753,-99.5561154,"27.3880753, -99.5561154",OSC / ONG,"Obregon 1810, Nuevo Laredo, Tamaulipas C.P 88000,Nuevo Laredo, Tamaulipas",redes
 Ejército de Salvación,Centros de Atención Social,27.1908302,-109.9096325,"27.1908302, -109.9096325",OSC / ONG,"Labradores 85, Col. Morelos C.P. 15270",Directorio OIM
 Comisión de Derechos Humanos del Estado de Hidalgo,CNDH,26.9333859,-105.7091379,"26.9333859, -105.7091379",OSC / ONG,Comisión de Derechos Humanos del Estado de Hidalgo,Directorio OIM
-Casa Hogar El Altísimo A.C.,Centros de Atención Social,26.89171964182915,-111.98646761366965,"26.89171964182915, -111.98646761366965",OSC / ONG,"Mulegé, Las Palomas, B.C.S.",Directorio OIM
+Casa Hogar El Altísimo A.C.,Centros de Atención Social,26.89171964,-111.9864676,"26.89171964182915, -111.98646761366965",OSC / ONG,"Mulegé, Las Palomas, B.C.S.",Directorio OIM
 Cruz Roja  (Albergue Senda de Vida),Centros de Atención Social,26.0999829,-98.2845747,"26.0999829, -98.2845747",OSC / ONG,,ACNUR servicios
  Casa del Migrante Senda de Vida ,Centros de Atención Social,26.0990021,-98.2974517,"26.0990021, -98.2974517",OSC / ONG,"Calle Bordo de Protección No. 5,Reynosa, Tamaulipas",redes
  Albergue del Migrante Nuestra Señora de Guadalupe A.C. ,Centros de Atención Social,26.09748892,-98.28658309,"26.097488922359098, -98.28658309057056",OSC / ONG,"Nogal-aldama 501, Col. Aquiles Serdan I, 88520 Reynosa, Tamaulipas, Mexico.,Reynosa, Tamaulipas",redes
@@ -205,18 +205,18 @@ Casa Hogar La Esperanza,Centros de Atención Social,26.00977531,-111.3532566,"26
 Emmaus,Centros de Atención Social,25.92503547,-99.18333449,"25.925035470490908, -99.18333448612083",OSC / ONG,"Dr. Coss 47, Col. Centro C.P.26200",Directorio OIM
 Comisión Estatal de Derechos Humanos de Nuevo León,CNDH,25.921472,-100.3662297,"25.921471997139875, -100.36622967080909",OSC / ONG,"Av. Ignacio Morones Prieto No. 2110 pte., Edif. Manchester,local 2, col. Loma Larga, C.P. 64710, Monterrey, Nuevo León",Directorio OIM
 Grupo Beta Matamoros,Grupos Beta,25.89646732,-97.49819271,"25.896467318162095, -97.49819271012346",OSC / ONG,"Av. Álvaro Obregón s/n, Col. Jardín, Puente Internacional Puerta México, 1er. Piso, C.P. 87330, H. Matamoros, Tamaulipas.",Directorio OIM
-Grupo Beta Matamoros,Centros de Atención Social,25.8945137,-97.4988589,"25.8945137, -97.4988589",OSC / ONG,,ACNUR servicios
+Grupo Beta Matamoros,Grupos Beta,25.8945137,-97.4988589,"25.8945137, -97.4988589",OSC / ONG,,ACNUR servicios
 "Centro de atención al menor fronterizo CAMEF, DIF",Centros de Atención Social,25.88735953,-97.50660638,"25.88735953, -97.50660638",OSC / ONG,"Privada 5 de mayo No. 107, entre Av. Constitución y Bravo, Zona centro, Matamoros.",ACNUR albergues
 "Procuraduría General de la República, agencia orientadora Matamoros",Centros de Atención Social,25.8855774,-97.5050314,"25.8855774, -97.5050314",OSC / ONG,,ACNUR servicios
 "Centro de atención al menor fronterizo CAMEF, DIF",Centros de Atención Social,25.8819796,-97.5002386,"25.8819796, -97.5002386",OSC / ONG,,ACNUR servicios
  HIAS Matamoros ,Centros de Atención Social,25.87949846,-97.50376069,"25.879498459049987, -97.50376068873129",OSC / ONG,"Av. Tamaulipas 241, Jardín, 87330 Heroica Matamoros, Tamps.edificio RCM,Matamoros, Tamaulipas",redes
 Secretaría del Trabajo Unidad regional Matamoros,Centros de Atención Social,25.8660563,-97.4820505,"25.8660563, -97.4820505",OSC / ONG,,ACNUR servicios
-Esfera Cultural Buena Vista,Centros de Atención Social,25.855512988327963,-100.3747108547102,"25.855512988327963, -100.3747108547102",OSC / ONG,"Av. Vista Regia, Buenavista, 66583 Carmen, N.L.",ACNUR servicios
+Esfera Cultural Buena Vista,Centros de Atención Social,25.85551299,-100.3747109,"25.855512988327963, -100.3747108547102",OSC / ONG,"Av. Vista Regia, Buenavista, 66583 Carmen, N.L.",ACNUR servicios
 Instituto Federal de la Defensoría Pública (IFDP),Centros de Atención Social,25.8495022,-97.5068808,"25.8495022, -97.5068808",OSC / ONG,,ACNUR servicios
 Centro Comunitario Alianza Real,Centros de Atención Social,25.8448524,-100.3849892,"25.8448524, -100.3849892",OSC / ONG,,ACNUR servicios
 Casa San Juan Diego y San Francisco de Asís,Centros de Atención Social,25.83721235,-97.48604672,"25.83721235, -97.48604672",OSC / ONG,"Golfo de México No. 49, col. Ampliación Solidaridad, Matamoros.",ACNUR albergues
  Casa San Juan Diego y San Francisco de Asís A.C. ,Centros de Atención Social,25.83720269,-97.48587506,"25.83720269152195, -97.48587505805104",OSC / ONG,"Avenida Golfo de México No. 49, Colonia Ampliación Solidaridad C.P. 87456,Matamoros, Tamaulipas",redes
-Esfera Cultural García,Centros de Atención Social,25.82530061565843,-100.4765656285524,"25.82530061565843, -100.47656562855241",OSC / ONG,"Real de Minas, Valle de Lincoln, 66026 García, N.L.",ACNUR servicios
+Esfera Cultural García,Centros de Atención Social,25.82530062,-100.4765656,"25.82530061565843, -100.47656562855241",OSC / ONG,"Real de Minas, Valle de Lincoln, 66026 García, N.L.",ACNUR servicios
 Puerta Violeta Apodaca,Centros de Atención Social,25.8177721,-100.2389916,"25.8177721, -100.2389916",OSC / ONG,,ACNUR servicios
 Comedor Padre Roberto Infante,Centros de Atención Social,25.809442,-100.3639459,"25.809442, -100.3639459",OSC / ONG,,ACNUR servicios
 Comedor Padre Roberto Infante,Centros de Atención Social,25.808163,-100.6060747,"25.808163, -100.6060747",OSC / ONG,,ACNUR servicios
@@ -278,7 +278,7 @@ Servicio Nacional de Empleo en Guadalupe,Centros de Atención Social,25.6740684,
 Casa Monarca,Centros de Atención Social,25.6740353,-100.4608412,"25.6740353, -100.4608412",OSC / ONG,,ACNUR servicios
 Consulado de Colombia ,Centros de Atención Social,25.6739047,-100.4406962,"25.6739047, -100.4406962",OSC / ONG,,ACNUR servicios
 LABNL Lab Cultural Ciudadano,Centros de Atención Social,25.67386736,-100.3090869,"25.67386736120565, -100.30908694563699",OSC / ONG,,ACNUR servicios
-Instituto Estatal de las Mujeres,Mujeres,25.673329656110607,-100.31052250438748,"25.673329656110607, -100.31052250438748",OSC / ONG,"5 de Mayo 525, Centro, 64000 Monterrey, N.L.",Directorio OIM
+Instituto Estatal de las Mujeres,Mujeres,25.67332966,-100.3105225,"25.673329656110607, -100.31052250438748",OSC / ONG,"5 de Mayo 525, Centro, 64000 Monterrey, N.L.",Directorio OIM
 Instituto Estatal de las Mujeres,Centros de Atención Social,25.6731669,-100.3105169,"25.6731669, -100.3105169",OSC / ONG,,ACNUR servicios
 DIF Estatal Nuevo León,DIF,25.671604,-100.3549688,"25.671604, -100.3549688",GOB,"Dr. Ignacio Morones Prieto 600, Col. Independencia, C.P.64720, Monterrey, N.L.",Directorio OIM
 ACNUR - Agencia de la ONU para los Refugiados,Centros de Atención Social,25.670937,-100.3110976,"25.670937, -100.3110976",OSC / ONG,,ACNUR servicios
@@ -435,17 +435,17 @@ Casa Hogar “Inmaculada Concepción”,Centros de Atención Social,22.131201,-1
  Centro Crecer San Francisco De Los Romo ,Centros de Atención Social,22.0741242,-102.2701389,"22.0741242, -102.2701389",OSC / ONG,"Av. México esquina Venezuela Fracc. San José Buenavista,Aguascalientes, Aguascalientes",redes
 Casa Hogar “BETESDA”,Centros de Atención Social,22.018423,-99.0146463,"22.018423, -99.0146463",OSC / ONG,"Cascada 100, esq. Cielo, Col. Garita San Luis Potosí.",Directorio OIM
  Centro Crecer San Marcos ,Centros de Atención Social,21.9989758,-102.1995373,"21.9989758, -102.1995373",OSC / ONG,"Av. Aguascalientes #604 Col. San Marcos,Aguascalientes, Aguascalientes",redes
- SEMIGRANTE (Tiquicheo) ,Centros de Atención Social,21.9864731,-99.0175071,"21.9864731, -99.0175071",OSC / ONG,"Guerrero S/N, Colonia Centro, C.P. 61370,Tiquicheo, Michoacán",redes
+ SEMIGRANTE (Tiquicheo) ,SEMIGRANTE,21.9864731,-99.0175071,"21.9864731, -99.0175071",GOB,"Guerrero S/N, Colonia Centro, C.P. 61370,Tiquicheo, Michoacán",redes
  Centro Crecer José María Matamoros ,Centros de Atención Social,21.9641777,-102.3496074,"21.9641777, -102.3496074",OSC / ONG,"Matamoros #704 Centro Jesús María,Aguascalientes, Aguascalientes",redes
  Centro Crecer Rincón De Romos ,Centros de Atención Social,21.96408705,-102.283281,"21.96408705, -102.2832810327379",OSC / ONG,"Fracc. Haciendas de San José del Rincón,Aguascalientes, Aguascalientes",redes
  Centro Crecer Olivares Santana ,Centros de Atención Social,21.9615899,-102.2704338,"21.9615899, -102.2704338",OSC / ONG,"Benjamín de la Mora S/N Fracc. Olivares Santana,Aguascalientes, Aguascalientes",redes
 INSTITUTO NACIONAL DE MIGRACIÓN - Aguascalientes,INM,21.9499344,-102.3339839,"21.9499344, -102.3339839",GOB,"Boulevard Lic. Miguel de la Madrid Hurtado 2790 Interior 15, Col. Corral de Barrancos, C.P. 20900, Jesús María, Aguascalientes.",Directorio OIM
-Instituto Nacional de Migración ,Centros de Atención Social,21.9400366,-102.3264611,"21.9400366, -102.3264611",OSC / ONG,,ACNUR servicios
+Instituto Nacional de Migración ,INM,21.9400366,-102.3264611,"21.9400366, -102.3264611",GOB,,ACNUR servicios
  Centro Crecer La Salud ,Centros de Atención Social,21.9311864,-102.2688076,"21.9311864, -102.2688076",OSC / ONG,"Calle De La Luna 125, Laurel, Barrio de la Salud, C.P. 20240,Aguascalientes, Aguascalientes",redes
  Centro Crecer Constitución ,Centros de Atención Social,21.93065,-102.2849828,"21.93065, -102.28498277897444",OSC / ONG,"Art. 24 esquina con Art. 14 Col. Constitución,Aguascalientes, Aguascalientes",redes
  Centro Crecer Palomino Dena ,Centros de Atención Social,21.91666694,-102.2511348,"21.91666694380956, -102.25113481768703",OSC / ONG,"Gilberto López Velarde #314, Lic Benito Palomino Dena, C. P. 20172,Aguascalientes, Aguascalientes",redes
  Centro Crecer Primo Verdad ,Centros de Atención Social,21.90958392,-102.3186746,"21.90958391933778, -102.31867463302804",OSC / ONG,"Av. Guadalupe González #611 Col. Primo Verdad,Aguascalientes, Aguascalientes",redes
-DIF Municipal de Aguascalientes,Centros de Atención Social,21.908612,-102.310767,"21.908612, -102.310767",OSC / ONG,,ACNUR servicios
+DIF Municipal de Aguascalientes,DIF,21.908612,-102.310767,"21.908612, -102.310767",OSC / ONG,,ACNUR servicios
  Centro Crecer Nazario Ortiz Garza ,Centros de Atención Social,21.9049946,-102.26619,"21.9049946, -102.26619",OSC / ONG,"Calle Agustín Pradillo #302, Col. Progreso, C. P. 20179,Aguascalientes, Aguascalientes",redes
 Centenario Hospital Miguel Hidalgo,Centros de Atención Social,21.8947652,-102.2825251,"21.8947652, -102.2825251",OSC / ONG,,ACNUR servicios
 Comedor San Judas Tadeo,Centros de Atención Social,21.8938054,-102.2957278,"21.8938054, -102.2957278",OSC / ONG,,ACNUR servicios
@@ -486,7 +486,7 @@ Centro de Justicia para Mujeres,Centros de Atención Social,21.8668426,-102.2528
 Terminal de autobuses Aguascalientes,Centros de Atención Social,21.8657368,-102.2989623,"21.8657368, -102.2989623",OSC / ONG,,ACNUR servicios
 Comisión Estatal de Derechos Humanos de Aguascalientes,CNDH,21.86461169,-102.3023577,"21.864611693177224, -102.30235773277501",OSC / ONG,"República de Perú 502, Fracc. Jardines de Santa Elena, C.P. 20236, Aguascalientes",Directorio OIM
 Comisión Estatal de Derechos Humanos,Centros de Atención Social,21.8644747,-102.3023486,"21.8644747, -102.3023486",OSC / ONG,,ACNUR servicios
-"Centro de Asistencia Social de Niñas, Niños y Adolescentes Migrantes",Centros de Atención Social,21.863269781853507,-102.29748832140456,"21.863269781853507, -102.29748832140456",OSC / ONG,"Argentina 710, Col. Agricultura Aguascalientes, Ags. C. P. 20234",Directorio OIM
+"Centro de Asistencia Social de Niñas, Niños y Adolescentes Migrantes",Centros de Atención Social,21.86326978,-102.2974883,"21.863269781853507, -102.29748832140456",OSC / ONG,"Argentina 710, Col. Agricultura Aguascalientes, Ags. C. P. 20234",Directorio OIM
 Cruz Roja Estatal Aguascalientes,Salud,21.86152408,-102.3032222,"21.86152408141393, -102.3032222279972",OSC / ONG,"Dr. Enrique González Medina 104, Fracc. El Dorado C.P. 20230, Aguascalientes",Directorio OIM
 Cruz Roja,Centros de Atención Social,21.8613155,-102.3032217,"21.8613155, -102.3032217",OSC / ONG,,ACNUR servicios
 Instituto Federal de la Defensoría Pública (IFDP),Centros de Atención Social,21.8590472,-102.3051088,"21.8590472, -102.3051088",OSC / ONG,,ACNUR servicios
@@ -523,8 +523,8 @@ Secretaria de Bienestar,Centros de Atención Social,21.1648091,-86.829181,"21.16
 Central de Autobuses,Centros de Atención Social,21.164339,-86.8266457,"21.164339, -86.8266457",OSC / ONG,,ACNUR servicios
 Centro de capacitación y comedor comunitario,Centros de Atención Social,21.164304,-86.828961,"21.164304, -86.828961",OSC / ONG,,ACNUR servicios
 Centro de Capacitación para el Trabajo Industrial (CECATI) 119,Centros de Atención Social,21.1640206,-86.8545789,"21.1640206, -86.8545789",OSC / ONG,,ACNUR servicios
-Instituto Nacional de Migración,Centros de Atención Social,21.1633073,-86.8242232,"21.1633073, -86.8242232",OSC / ONG,,ACNUR servicios
-Fiscalía Especializada para la Atención de Delitos contra la Mujer y por razones de Género ,Centros de Atención Social,21.1629238,-86.8632886,"21.1629238, -86.8632886",OSC / ONG,,ACNUR servicios
+Instituto Nacional de Migración,INM,21.1633073,-86.8242232,"21.1633073, -86.8242232",GOB,,ACNUR servicios
+Fiscalía Especializada para la Atención de Delitos contra la Mujer y por razones de Género ,FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,21.1629238,-86.8632886,"21.1629238, -86.8632886",GOB,,ACNUR servicios
 Sistema para el Desarrollo Integral de la Familia (DIF),Centros de Atención Social,21.1627212,-86.8676262,"21.1627212, -86.8676262",OSC / ONG,,ACNUR servicios
 Dirección de la Coordinación de Registro Civil en Cancún,Centros de Atención Social,21.161914,-86.8280649,"21.161914, -86.8280649",OSC / ONG,,ACNUR servicios
 Mercado 28,Centros de Atención Social,21.1612911,-86.8344996,"21.1612911, -86.8344996",OSC / ONG,,ACNUR servicios
@@ -542,7 +542,7 @@ Procuraduría de los Derechos Humanos del Estado de Guanajuato,CNDH,21.1025899,-
 INSTITUTO NACIONAL DE MIGRACIÓN - Guanajuato,INM,21.08839361,-101.6109022,"21.08839360986573, -101.61090223513538",GOB,"Boulevard Adolfo Lopez Mateos 3002 Ote. “Plaza Venecia” Local B Colonia Jardines del Jerez, León, Guanajuato C.P. 37530",Directorio OIM
  Hmnas de San José de Lyón (albergue Decanal Guadalupano) ,Centros de Atención Social,21.08140337,-97.37691806,"21.0814033717943, -97.37691806000707",OSC / ONG,"Calle Aldama #50, entre Tuxpan y Lafragua Tierra Blanca, Col. El Viejo, C.P. 95180,Tierra Blanca de Ignacio de la Llave, Veracruz",redes
 Obsidiana,Centros de Atención Social,21.0491515,-104.4164896,"21.049151497244562, -104.41648964105208",OSC / ONG,"Calle Amado Nervo 164A, Col. Everardo Peña Navarro C.P. 63940",Directorio OIM
-Consulado Honorario de Honduras en Mérida,Oficina Consular,21.04446446040176,-89.57199002341079,"21.04446446040176, -89.57199002341079",GOB,"C. 64 418, Parque Santa Ana, Centro, 97000 Mérida, Yuc.",Directorio OIM
+Consulado Honorario de Honduras en Mérida,Oficina Consular,21.04446446,-89.57199002,"21.04446446040176, -89.57199002341079",GOB,"C. 64 418, Parque Santa Ana, Centro, 97000 Mérida, Yuc.",Directorio OIM
 Aeropuerto Internacional de Cancún,Centros de Atención Social,21.0417033,-86.8740062,"21.0417033, -86.8740062",OSC / ONG,,ACNUR servicios
  Albergue Obsidiana ,Centros de Atención Social,21.03953669,-104.3708381,"21.039536693030207, -104.37083813120552",OSC / ONG,"Calle Amado Nervo 164 A, Col. Everardo Peña Navarro C.P. 63940,Ixtlán del Río, Nayarit",redes
 Casa del Migrante para Niñas y Niños No Acompañados,Centros de Atención Social,21.0171873,-89.57724918,"21.01718729700499, -89.57724917722437",OSC / ONG,"Avenida Bonampak, esquina Chocol-Ha s/n, Col. Maya Laca",Directorio OIM
@@ -567,7 +567,7 @@ Secretaría de Movilidad,Centros de Atención Social,20.7056247,-103.3461804,"20
 Centro Cultural Casa Colomos,Centros de Atención Social,20.7052498,-103.3907775,"20.7052498, -103.3907775",OSC / ONG,,ACNUR servicios
 Centro de Justicia para las Mujeres,Centros de Atención Social,20.7015624,-103.3376534,"20.7015624, -103.3376534",OSC / ONG,,ACNUR servicios
 San Juan de Dios,Centros de Atención Social,20.6999218,-101.3497475,"20.6999218, -101.3497475",OSC / ONG,"Río Silao 1897, esq. Río Balsas, Col. La Pradera C.P. 36670",Directorio OIM
-Instituto Municipal de las Mujeres en Guadalajara,Centros de Atención Social,20.6990934,-103.3222778,"20.6990934, -103.3222778",OSC / ONG,,ACNUR servicios
+Instituto Municipal de las Mujeres en Guadalajara,Mujeres,20.6990934,-103.3222778,"20.6990934, -103.3222778",OSC / ONG,,ACNUR servicios
 COMUDE Guadalajara (Consejo Municipal Del Deporte de Guadalajara),Centros de Atención Social,20.6949995,-103.3331684,"20.6949995, -103.3331684",OSC / ONG,,ACNUR servicios
 Acuario Michin Guadalajara,Centros de Atención Social,20.692824,-103.351358,"20.692824, -103.351358",OSC / ONG,,ACNUR servicios
 "COMAR - Guadalajara, Jalisco",COMAR,20.68950067,-103.3516615,"20.689500671685103, -103.3516615015793",GOB,"Jesús García 720, ingreso por Mariano Bárcena 820, Col. Artesanos, Zona Centro, C.P. 44200",COMAR
@@ -581,7 +581,7 @@ INSTITUTO NACIONAL DE MIGRACIÓN - Jalisco,INM,20.6849716,-103.3473558,"20.68497
 Centro Cultural Hacienda de Oblatos / Biblioteca Maria Luisa Hidalgo Riestra,Centros de Atención Social,20.6844009,-103.2938783,"20.6844009, -103.2938783",OSC / ONG,,ACNUR servicios
 Tianguis El Baratillo,Centros de Atención Social,20.6835529,-103.3192294,"20.6835529, -103.3192294",OSC / ONG,,ACNUR servicios
 Centro Cultural San Diego,Centros de Atención Social,20.6833277,-103.3502006,"20.6833277, -103.3502006",OSC / ONG,,ACNUR servicios
-Fiscalía General Del Estado de Jalisco,Centros de Atención Social,20.6829761,-103.3588984,"20.6829761, -103.3588984",OSC / ONG,,ACNUR servicios
+Fiscalía General Del Estado de Jalisco,FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,20.6829761,-103.3588984,"20.6829761, -103.3588984",GOB,,ACNUR servicios
 "Asociación Jalisciense de Apoyo a los Grupos Indígenas, A.C. (AJAGI)",Centros de Atención Social,20.6829147,-103.3323734,"20.6829147, -103.3323734",OSC / ONG,,ACNUR servicios
 DIF Estatal Jalisco,DIF,20.6811168,-103.3477479,"20.6811168, -103.3477479",GOB,"Fray Antonio Alcalde 1220, Col. Miraflores, C.P. 44270 Guadalajara, Jal.",Directorio OIM
 Centro de Justicia para la Paz y el Desarrollo A.C. (CEPAD),Centros de Atención Social,20.6810287,-103.3528985,"20.6810287, -103.3528985",OSC / ONG,,ACNUR servicios
@@ -614,7 +614,7 @@ Aldea Arcoíris,Centros de Atención Social,20.6715739,-103.3155908,"20.6715739,
 Parque Metropolitano de Guadalajara,Centros de Atención Social,20.6712451,-103.4383442,"20.6712451, -103.4383442",OSC / ONG,,ACNUR servicios
 Secretaría de Educación Pública (Jalisco),Centros de Atención Social,20.6705969,-103.3836173,"20.6705969, -103.3836173",OSC / ONG,,ACNUR servicios
 ACNUR - Agencia de la ONU para los Refugiados,Centros de Atención Social,20.6704485,-103.3751944,"20.6704485, -103.3751944",OSC / ONG,,ACNUR servicios
-Oficinas de Atención a Migrante - Jalisco,Oficinas de Atención a Migrante,20.6699553213728,-103.35357558478287,"20.6699553213728, -103.35357558478287",GOB,"Calle Pavo No. 457, Esq. La Paz. 2 Pisa, Col.  Centro, C.P. 44100, Guadalajara, Jalisco.",Oficinas de Atención a Migrantes (OFAMs)
+Oficinas de Atención a Migrante - Jalisco,Oficinas de Atención a Migrante,20.66995532,-103.3535756,"20.6699553213728, -103.35357558478287",GOB,"Calle Pavo No. 457, Esq. La Paz. 2 Pisa, Col.  Centro, C.P. 44100, Guadalajara, Jalisco.",Oficinas de Atención a Migrantes (OFAMs)
 Consulado Honorario de El Salvador en Guadalajara,Oficina Consular,20.6698906,-103.3660443,"20.6698906, -103.3660443",GOB,"Efraín González Luna 2183, Col. Americana, C. P. 44150, Guadalajara",Directorio OIM
 FM4 Paso libre,Centros de Atención Social,20.6674802,-103.3790077,"20.6674802, -103.3790077",OSC / ONG,"Calderón de la Barca No. 468-A, Col. Barrera, Guadalajara, Jalisco.",ACNUR albergues
 "Dignidad y Justicia en el Camino, A.C.",Centros de Atención Social,20.6674802,-103.3790077,"20.6674802, -103.3790077",OSC / ONG,Calderón de la Barca 468-A Col. Arcos Vallarta C.P. 44130,Directorio OIM
@@ -655,10 +655,10 @@ Instituto de capacitación para el trabajo del estado de Quintana Roo (ICAT),Cen
 Instituto Jalisciense de Ciencias Forenses / Unidad Administrativa Las Águilas,Centros de Atención Social,20.6311816,-103.4169073,"20.6311816, -103.4169073",OSC / ONG,,ACNUR servicios
 DIF Municipal Playa del Carmen,Centros de Atención Social,20.6297323,-87.0778789,"20.6297323, -87.0778789",OSC / ONG,,ACNUR servicios
 Terminal de autobuses alterna,Centros de Atención Social,20.6294407,-87.0743765,"20.6294407, -87.0743765",OSC / ONG,,ACNUR servicios
-Instituto Quintanarooense de La Mujer,Centros de Atención Social,20.628561,-87.0751269,"20.628561, -87.0751269",OSC / ONG,,ACNUR servicios
+Instituto Quintanarooense de La Mujer,Mujeres,20.628561,-87.0751269,"20.628561, -87.0751269",OSC / ONG,,ACNUR servicios
 Central de autobuses ,Centros de Atención Social,20.6227966,-87.0752223,"20.6227966, -87.0752223",OSC / ONG,,ACNUR servicios
 Aeropuerto Intercontinental de Querétaro,Centros de Atención Social,20.6225114,-100.1872709,"20.6225114, -100.1872709",OSC / ONG,,ACNUR servicios
-Instituto Nacional de Migracion,Centros de Atención Social,20.6207545,-87.0778399,"20.6207545, -87.0778399",OSC / ONG,,ACNUR servicios
+Instituto Nacional de Migracion,INM,20.6207545,-87.0778399,"20.6207545, -87.0778399",GOB,,ACNUR servicios
 Casa Monarca,Centros de Atención Social,20.6100081,-103.3375723,"20.6100081, -103.3375723",OSC / ONG,"Calle Hidalgo #100 entre Manuel Ordoñez y Benito Juárez col. Centro Santa Catarina, N.L.",ACNUR albergues
 "Vida y Familia Querétaro, A.C.",Centros de Atención Social,20.6093964,-100.377501,"20.6093964, -100.377501",OSC / ONG,"Nogaleda 202, Col. Arboledas del Parque Querétaro, Querétaro, C.P. 76140",Directorio OIM
  The Rhizome Center for Migrants ,Centros de Atención Social,20.60851254,-103.3481204,"20.608512536167282, -103.3481204436785",OSC / ONG,"Contactar vía página web o por teléfono.,Guadalajara, Jalisco",redes
@@ -666,17 +666,17 @@ La Casa del Migrante Cerro del Cuarto,Centros de Atención Social,20.6071814,-10
  La casa del migrante del Cerro del Cuatro ,Centros de Atención Social,20.605528,-103.370684,"20.605528, -103.370684",OSC / ONG,"Constitución 332 esquina con Ignacio Mejia, Col. Cerro del 4 C.P. 45599,Tlaquepaque, Jalisco",redes
 Casa de la Cultura,Centros de Atención Social,20.603359,-100.4232789,"20.603359, -100.4232789",OSC / ONG,,ACNUR servicios
 "Mercado Benito Juárez ""El Tepetate""",Centros de Atención Social,20.6029818,-100.3960696,"20.6029818, -100.3960696",OSC / ONG,,ACNUR servicios
-CAMMI,Centros de Atención Social,20.60274305481267,-100.38459962272412,"20.60274305481267, -100.38459962272411",OSC / ONG,"76160, Avenida Universidad 235, Las Brujas, 76000 Santiago de Querétaro, Qro.",ACNUR albergues
+CAMMI,Centros de Atención Social,20.60274305,-100.3845996,"20.60274305481267, -100.38459962272411",OSC / ONG,"76160, Avenida Universidad 235, Las Brujas, 76000 Santiago de Querétaro, Qro.",ACNUR albergues
 El Refugio,Centros de Atención Social,20.60263499,-103.3479408,"20.602634988172387, -103.3479407940542",OSC / ONG,"Constitución 350, entre Melchor Ocampo e Ignacio Mejía, Col. Cerro del Cuatro C.P. 45599",Directorio OIM
 Marista al Migrante,Centros de Atención Social,20.6016889,-100.3850034,"20.6016889, -100.38500341158252",OSC / ONG,"Marte 2, Col. Centro Universidad Marista de Queretaro C.P. 76000",Directorio OIM
 La Casa Del Migrante Cerro Del Cuarto,Centros de Atención Social,20.6014841,-103.3498476,"20.6014841, -103.3498476",OSC / ONG,,ACNUR servicios
 Centro de Apoyo Marista al Migrante (CAMMI),Centros de Atención Social,20.6013896,-100.386469,"20.6013896, -100.386469",OSC / ONG,,ACNUR servicios
 Centro Cultural la Vieja Estación,Centros de Atención Social,20.6012145,-100.3968045,"20.6012145, -100.3968045",OSC / ONG,,ACNUR servicios
-Instituto Nacional de Migración,Centros de Atención Social,20.5983311,-100.3880188,"20.5983311, -100.3880188",OSC / ONG,,ACNUR servicios
+Instituto Nacional de Migración,INM,20.5983311,-100.3880188,"20.5983311, -100.3880188",GOB,,ACNUR servicios
 Instituto Queretano de las Mujeres,Centros de Atención Social,20.5981913,-100.3870558,"20.5981913, -100.3870558",OSC / ONG,,ACNUR servicios
 "Mercado Josefa Ortiz de Domínguez ""La Cruz""",Centros de Atención Social,20.5981222,-100.3858361,"20.5981222, -100.3858361",OSC / ONG,,ACNUR servicios
 INSTITUTO NACIONAL DE MIGRACIÓN - Querétaro,INM,20.5974485,-100.3879196,"20.5974485, -100.3879196",GOB,"Calle Francisco Peñuñuri N° 15 Fracc San José Inn, Delegación Centro Histórico C.P. 76000 Querétaro, Qro.",Directorio OIM
-SRE - Delegación de la Secretaría de Relaciones Exteriores en Querétaro,Centros de Atención Social,20.5954905,-100.3719024,"20.5954905, -100.3719024",OSC / ONG,,ACNUR servicios
+SRE - Delegación de la Secretaría de Relaciones Exteriores en Querétaro,INM,20.5954905,-100.3719024,"20.5954905, -100.3719024",GOB,,ACNUR servicios
 DIF Estatal Querétaro,DIF,20.595375,-100.3913695,"20.595375, -100.3913695",GOB,"Av. Pasteur 6A, Col. Centro, C.P. 76000, Querétaro, Qro.",Directorio OIM
 Oficina de Atención a Migrantes,Centros de Atención Social,20.5940392,-100.3881737,"20.5940392, -100.3881737",OSC / ONG,,ACNUR servicios
 Secretaría de la Juventud ,Centros de Atención Social,20.5927161,-100.3819872,"20.5927161, -100.3819872",OSC / ONG,,ACNUR servicios
@@ -684,7 +684,7 @@ Servicio Nacional del Empleo,Centros de Atención Social,20.5916636,-100.3982308
 Hogar de Protección Infantil DIF Caminando Juntos,Centros de Atención Social,20.59115495,-100.4130026,"20.59115495, -100.41300260474972",OSC / ONG,"Av. Universidad s/n, Col. Cerro de las Campanas, Querétaro, Querétaro C.P. 76010",Directorio OIM
 Cáritas de Querétaro I.A.P.,Centros de Atención Social,20.5904461,-100.3889313,"20.5904461, -100.3889313",OSC / ONG,,ACNUR servicios
 Cáritas de Querétaro I.A.P.,Centros de Atención Social,20.5902405,-100.3888379,"20.5902405, -100.3888379",OSC / ONG,"Calle Vergara Sur #35-A, Centro, C. P.76000.",ACNUR albergues
-Instituto Queretano de la Mujeres,Mujeres,20.58757817940338,-100.40221584686071,"20.58757817940338, -100.40221584686071",OSC / ONG,"Calle José María Pino Suárez 229, Centro, 76000 Santiago de Querétaro, Qro.",Directorio OIM
+Instituto Queretano de la Mujeres,Mujeres,20.58757818,-100.4022158,"20.58757817940338, -100.40221584686071",OSC / ONG,"Calle José María Pino Suárez 229, Centro, 76000 Santiago de Querétaro, Qro.",Directorio OIM
 Centro Educativo Cultural del Estado de Querétaro,Centros de Atención Social,20.5857754,-100.3863449,"20.5857754, -100.3863449",OSC / ONG,,ACNUR servicios
 Defensoría de los Derechos Humanos,Centros de Atención Social,20.584255,-100.3896332,"20.584255, -100.3896332",OSC / ONG,,ACNUR servicios
 Procuraduría de la Defensa del Trabajo ,Centros de Atención Social,20.5838181,-100.4048949,"20.5838181, -100.4048949",OSC / ONG,,ACNUR servicios
@@ -692,14 +692,14 @@ Centro de Atención Integral para Victimas de la Comisión Ejecutiva de Atenció
 Cruz Roja Estatal Querétaro,Salud,20.58053846,-100.3641567,"20.58053845783729, -100.36415670592304",OSC / ONG,"Av. Luis Vega, esq. Estadio Olímpico. Col. Centro Sur C.P.76070, Querétaro",Directorio OIM
 Cruz Roja,Centros de Atención Social,20.5801128,-100.3639815,"20.5801128, -100.3639815",OSC / ONG,,ACNUR servicios
 Módulo de Afiliación al Sistema de Salud,Centros de Atención Social,20.5797837,-100.4057431,"20.5797837, -100.4057431",OSC / ONG,,ACNUR servicios
-Defensoría de los Derechos Humanos de Querétaro,CNDH,20.577546873062715,-100.3751551973854,"20.577546873062715, -100.3751551973854",OSC / ONG,"Av. Luis Vega Monrroy 1101, zona dos extendida, Plazas del Sol 1ra Secc, 76099 Santiago de Querétaro, Qro.",Directorio OIM
+Defensoría de los Derechos Humanos de Querétaro,CNDH,20.57754687,-100.3751552,"20.577546873062715, -100.3751551973854",OSC / ONG,"Av. Luis Vega Monrroy 1101, zona dos extendida, Plazas del Sol 1ra Secc, 76099 Santiago de Querétaro, Qro.",Directorio OIM
 Central de Autobuses Querétaro,Centros de Atención Social,20.5773249,-100.3592591,"20.5773249, -100.3592591",OSC / ONG,,ACNUR servicios
 Mercado Municipal Lomas de Casa Blanca,Centros de Atención Social,20.5712709,-100.3922634,"20.5712709, -100.3922634",OSC / ONG,,ACNUR servicios
 Dirección de Educación,Centros de Atención Social,20.5626698,-100.3700011,"20.5626698, -100.3700011",OSC / ONG,,ACNUR servicios
  Casa San Carlos Borromeo ,Centros de Atención Social,20.5611765,-101.2012816,"20.5611765, -101.2012816",OSC / ONG,"Moroleón #107, Col. Guanajuato C.P. 36790,Salamanca, Guanajuato",redes
 Mercado Municipal Lázaro Cárdenas,Centros de Atención Social,20.5571226,-100.3815158,"20.5571226, -100.3815158",OSC / ONG,,ACNUR servicios
 Centro de Justicia para las Mujeres Secretaria de Seguridad Ciudadana,Centros de Atención Social,20.5558465,-100.3831627,"20.5558465, -100.3831627",OSC / ONG,,ACNUR servicios
-Instituto Municipal de la Mujer de Corregidora,Centros de Atención Social,20.552119,-100.4476047,"20.552119, -100.4476047",OSC / ONG,,ACNUR servicios
+Instituto Municipal de la Mujer de Corregidora,Mujeres,20.552119,-100.4476047,"20.552119, -100.4476047",OSC / ONG,,ACNUR servicios
 Instituto Municipal para Prevenir y Eliminar la Discriminación,Centros de Atención Social,20.5491589,-100.3724775,"20.5491589, -100.3724775",OSC / ONG,,ACNUR servicios
 "Procuraduría Municipal de Protección de Niñas, Niños y Adolescentes de Corregidora",Centros de Atención Social,20.5463633,-100.4328179,"20.5463633, -100.4328179",OSC / ONG,,ACNUR servicios
  Casa del migrante ABBA ,Centros de Atención Social,20.5458105,-100.7950601,"20.5458105, -100.7950601",OSC / ONG,"Calle, Eufemio Zapata #216. Colonia, Emiliano Zapata. Celaya Guanajuato. C.P 38030,Celaya, Guanajuato",redes
@@ -712,9 +712,9 @@ Padre Chava,Centros de Atención Social,20.4536004,-100.6167234,"20.4536004, -10
 "Nuestra Señora de Guadalupe, A.C.",Centros de Atención Social,20.4463728,-97.3258503,"20.4463728, -97.3258503",OSC / ONG,"María J. González 501, Col. Aquiles Serdán C.P. 88540",Directorio OIM
 San Carlos Borromeo,Centros de Atención Social,20.3781593,-101.1593774,"20.3781593, -101.1593774",OSC / ONG,"2a Privada de Morelon 107, Col. Guanajuato C.P. 36780",Directorio OIM
 ABBA,Centros de Atención Social,20.3641739,-101.9746263,"20.3641739, -101.9746263",OSC / ONG,"Eufemio Zapata 216, Col. Emiliano Zapata C.P. 03800",Directorio OIM
- SEMIGRANTE (Yurécuaro) ,Centros de Atención Social,20.33447907,-102.2843848,"20.334479072186323, -102.2843847523239",OSC / ONG,"Portal Hidalgo S/N, Col. Centro, C.P. 59250,Yurécuaro, Michoacán",redes
- SEMIGRANTE (Tanhuato) ,Centros de Atención Social,20.31741824,-102.3646004,"20.317418235771505, -102.36460042763743",GOB,"Portal Hidalgo No. 19, Col. Centro, C.P. 59230,Tanhuato, Michoacán",redes
- SEMIGRANTE (Vista Hermosa) ,Centros de Atención Social,20.26309765,-102.4831407,"20.26309765, -102.48314072625244",GOB,"Interior Antigua Escuela de Los Hermanos, Av. Juarez S/N, Col. Centro, C.P. 59200,Vista Hermosa, Michoacán",redes
+ SEMIGRANTE (Yurécuaro) ,SEMIGRANTE,20.33447907,-102.2843848,"20.334479072186323, -102.2843847523239",OSC / ONG,"Portal Hidalgo S/N, Col. Centro, C.P. 59250,Yurécuaro, Michoacán",redes
+ SEMIGRANTE (Tanhuato) ,SEMIGRANTE,20.31741824,-102.3646004,"20.317418235771505, -102.36460042763743",GOB,"Portal Hidalgo No. 19, Col. Centro, C.P. 59230,Tanhuato, Michoacán",redes
+ SEMIGRANTE (Vista Hermosa) ,SEMIGRANTE,20.26309765,-102.4831407,"20.26309765, -102.48314072625244",GOB,"Interior Antigua Escuela de Los Hermanos, Av. Juarez S/N, Col. Centro, C.P. 59200,Vista Hermosa, Michoacán",redes
 Gran Cenote,Centros de Atención Social,20.2465818,-87.464201,"20.2465818, -87.464201",OSC / ONG,,ACNUR servicios
 Instituto Quintanarroense de la Mujer,Centros de Atención Social,20.2156866,-87.4607209,"20.2156866, -87.4607209",OSC / ONG,,ACNUR servicios
 Zona Arqueológica de Tulum,Centros de Atención Social,20.2150812,-87.4294668,"20.2150812, -87.4294668",OSC / ONG,,ACNUR servicios
@@ -724,61 +724,61 @@ Centro De Salud Urbano Tulum,Centros de Atención Social,20.208972,-87.4653396,"
 Mercado Tulum,Centros de Atención Social,20.20893,-87.4622734,"20.20893, -87.4622734",OSC / ONG,,ACNUR servicios
 Casa de la Cultura ,Centros de Atención Social,20.2082185,-87.4627189,"20.2082185, -87.4627189",OSC / ONG,,ACNUR servicios
 Cruz Roja Mexicana Tulum,Centros de Atención Social,20.2073614,-87.4506189,"20.2073614, -87.4506189",OSC / ONG,,ACNUR servicios
- SEMIGRANTE (Zináparo) ,Centros de Atención Social,20.17343738,-101.9986624,"20.17343737715387, -101.9986624195805",OSC / ONG,"Interior Palacio Municipal, Calle Ruiseñor No. 01, Col. Centro, C.P. 59460,Zináparo, Michoacán",redes
+ SEMIGRANTE (Zináparo) ,SEMIGRANTE,20.17343738,-101.9986624,"20.17343737715387, -101.9986624195805",OSC / ONG,"Interior Palacio Municipal, Calle Ruiseñor No. 01, Col. Centro, C.P. 59460,Zináparo, Michoacán",redes
 "Casa Hogar Annabel de Vallejo, A.C. (Casa de Varones)",Centros de Atención Social,20.1600133,-103.1147188,"20.1600133, -103.1147188",OSC / ONG,"Carretera a Tizapan el Alto 51, Localidad de Mismaloya, Tizapan El Alto, Jalisco.",Directorio OIM
 " El Diamante de Fuego, AC ",Centros de Atención Social,20.1265924,-98.7543876,"20.1265924, -98.7543876",OSC / ONG,"V Carranza 528, San Clemente C.P. 42070,Pachuca, Hidalgo",redes
 DIF Estatal Hidalgo,DIF,20.1249724,-98.734076,"20.1249724, -98.734076",GOB,"Calle Vicente Salazar 100, Col. Centro, C.P. 42000, Pachuca de Soto, Hgo.",Directorio OIM
- SEMIGRANTE (Penjamillo) ,Centros de Atención Social,20.10447616,-101.9335652,"20.10447615767848, -101.93356520424143",GOB,"Morelos No. 07, Colonia Centro, C.P. 59470,Penjamillo, Michoacán",redes
- SEMIGRANTE (Puruándiro) ,Centros de Atención Social,20.08837525,-101.515336,"20.088375251888184, -101.51533597540663",GOB,"Portal Hidalgo No. 70, Colonia Centro, C.P. 58502,Puruándiro, Michoacán",redes
+ SEMIGRANTE (Penjamillo) ,SEMIGRANTE,20.10447616,-101.9335652,"20.10447615767848, -101.93356520424143",GOB,"Morelos No. 07, Colonia Centro, C.P. 59470,Penjamillo, Michoacán",redes
+ SEMIGRANTE (Puruándiro) ,SEMIGRANTE,20.08837525,-101.515336,"20.088375251888184, -101.51533597540663",GOB,"Portal Hidalgo No. 70, Colonia Centro, C.P. 58502,Puruándiro, Michoacán",redes
 El Santuario,Centros de Atención Social,20.0858249,-104.1105118,"20.0858249, -104.11051184360814",OSC / ONG,Capilla de Macuspana (Estación de tren),Directorio OIM
 INSTITUTO NACIONAL DE MIGRACIÓN - Hidalgo,INM,20.0786982,-98.7874442,"20.0786982, -98.7874442",GOB,"Blvd. Ramón G. Bonfil # 318 col. Parque de Poblamiento, Pachuca de Soto Hidalgo C.P. 42032",Directorio OIM
- SEMIGRANTE (Sahuayo) ,Centros de Atención Social,20.05736343,-102.7167869,"20.057363434787746, -102.71678691773693",GOB,"Palacio Municipal, Boulevard Lazaro Cardenas, Esq. Constitucion S/N, Col. Centro, C.P. 59000,Sahuayo, Michoacán",redes
+ SEMIGRANTE (Sahuayo) ,SEMIGRANTE,20.05736343,-102.7167869,"20.057363434787746, -102.71678691773693",GOB,"Palacio Municipal, Boulevard Lazaro Cardenas, Esq. Constitucion S/N, Col. Centro, C.P. 59000,Sahuayo, Michoacán",redes
 Casa del Migrante “El Samaritano”,Centros de Atención Social,20.04639658,-99.24159988,"20.046396580531606, -99.24159987989377",OSC / ONG,"Estación Bojay s/n, Barrio el Carbonal (Enfrente de las vías del tren) C.P. 42827",Directorio OIM
  Casa del Migrante El Samaritano ,Centros de Atención Social,20.0438802,-99.2473813,"20.0438802, -99.2473813",OSC / ONG,"Av. del Bosque 360, U.H. Antonio Osorio de León, Col. Bojay, Atitalaquia, Hidalgo. C.P. 42970,Atitalaquia, Hidalgo",redes
  HERMANAS de los Sagrados Corazones Casa del Migrante “El Samaritano” ,Centros de Atención Social,20.043333,-99.244722,"20.043333, -99.244722",OSC / ONG,"Av. del Bosque 360, U.H. Antonio Osorio de León, Col. Bojay, Atitalaquia, Hidalgo.,Bojay, Hidalgo",redes
- SEMIGRANTE (Zacapu) ,Centros de Atención Social,20.03953845,-102.346492,"20.039538446372063, -102.34649195636358",OSC / ONG,"Interior Oficina de Relaciones Exteriores, Allende No. 91-A, Col. Centro, C.P. 58600,Zacapu, Michoacán",redes
- SEMIGRANTE (Tangamandapio) ,Centros de Atención Social,20.02419252,-102.4212642,"20.02419251722886, -102.42126415303194",GOB,"Portal Hidalgo S/N, Colonia Centro, C.P. 59920,Tangamandapio, Michoacán",redes
- SEMIGRANTE (Villamar) ,Centros de Atención Social,20.01856313,-102.5958204,"20.018563133595375, -102.59582040467002",GOB,"Interior Palacio Municipal S/N, Colonia Centro, C.P. 59550,Villamar, Michoacán",redes
- SEMIGRANTE (Santa Ana Maya) ,Centros de Atención Social,20.01009482,-101.0204836,"20.010094823576015, -101.02048356191426",GOB,"Lazaro Cardenas Nte. S/N, Col. Centro, C.P. 58900,Santa Ana Maya, Michoacán",redes
- SEMIGRANTE (Panindícuaro) ,Centros de Atención Social,19.98427122,-101.7615044,"19.984271220670493, -101.76150437725572",GOB,"Portal Hidalgo No. 01, Col. Centro, C.P. 58570,Panindícuaro, Michoacán",redes
- SEMIGRANTE (Zamora) ,Centros de Atención Social,19.98379936,-102.2859147,"19.983799358456796, -102.28591471773895",OSC / ONG,"Palacio Municipal, Guerrero Ote. No. 82, Col. Centro, C.P. 59600,Zamora, Michoacán",redes
+ SEMIGRANTE (Zacapu) ,SEMIGRANTE,20.03953845,-102.346492,"20.039538446372063, -102.34649195636358",GOB,"Interior Oficina de Relaciones Exteriores, Allende No. 91-A, Col. Centro, C.P. 58600,Zacapu, Michoacán",redes
+ SEMIGRANTE (Tangamandapio) ,SEMIGRANTE,20.02419252,-102.4212642,"20.02419251722886, -102.42126415303194",GOB,"Portal Hidalgo S/N, Colonia Centro, C.P. 59920,Tangamandapio, Michoacán",redes
+ SEMIGRANTE (Villamar) ,SEMIGRANTE,20.01856313,-102.5958204,"20.018563133595375, -102.59582040467002",GOB,"Interior Palacio Municipal S/N, Colonia Centro, C.P. 59550,Villamar, Michoacán",redes
+ SEMIGRANTE (Santa Ana Maya) ,SEMIGRANTE,20.01009482,-101.0204836,"20.010094823576015, -101.02048356191426",GOB,"Lazaro Cardenas Nte. S/N, Col. Centro, C.P. 58900,Santa Ana Maya, Michoacán",redes
+ SEMIGRANTE (Panindícuaro) ,SEMIGRANTE,19.98427122,-101.7615044,"19.984271220670493, -101.76150437725572",GOB,"Portal Hidalgo No. 01, Col. Centro, C.P. 58570,Panindícuaro, Michoacán",redes
+ SEMIGRANTE (Zamora) ,SEMIGRANTE,19.98379936,-102.2859147,"19.983799358456796, -102.28591471773895",GOB,"Palacio Municipal, Guerrero Ote. No. 82, Col. Centro, C.P. 59600,Zamora, Michoacán",redes
 Instituto de la Mujer del Estado de Campeche,Mujeres,19.97223534,-90.4941546,"19.972235338076498, -90.49415459815141",OSC / ONG,"Calle 53 s/n entre 16 y Circuito Baluartes, Col. Centro, C.P. 24000, San Francisco de Campeche, Campeche.",Directorio OIM
- SEMIGRANTE (Tlazazalca) ,Centros de Atención Social,19.971460912355205,-102.05671822486109,"19.971460912355205, -102.05671822486107",OSC / ONG,"Interior Palacio Municipal S/N, Col. Centro, C.P. 58740,Tlazazalca, Michoacán",redes
- SEMIGRANTE (Tangancícuaro) ,Centros de Atención Social,19.93332551,-102.2190452,"19.933325506032663, -102.21904516747676",GOB,"Dr. Miguel Silva No. 105, Colonia Centro, 59750,Tangancícuaro, Michoacán",redes
- SEMIGRANTE (Purépero) ,Centros de Atención Social,19.91025488,-102.0069323,"19.910254882695646, -102.0069323195872",GOB,"Interior Palacio Municipal, Alvaro Obregon S/N, Col. Centro, C.P. 58760,Purépero, Michoacán",redes
- SEMIGRANTE (Zinapécuaro) ,Centros de Atención Social,19.86008134,-100.827374,"19.860081342667428, -100.82737401404921",OSC / ONG,"Interior Casa de la Cultura, Av. Hidalgo No. 32, Col. Centro, C.P. 58930,Zinapécuaro, Michoacán",redes
+ SEMIGRANTE (Tlazazalca) ,SEMIGRANTE,19.97146091,-102.0567182,"19.971460912355205, -102.05671822486107",OSC / ONG,"Interior Palacio Municipal S/N, Col. Centro, C.P. 58740,Tlazazalca, Michoacán",redes
+ SEMIGRANTE (Tangancícuaro) ,SEMIGRANTE,19.93332551,-102.2190452,"19.933325506032663, -102.21904516747676",GOB,"Dr. Miguel Silva No. 105, Colonia Centro, 59750,Tangancícuaro, Michoacán",redes
+ SEMIGRANTE (Purépero) ,SEMIGRANTE,19.91025488,-102.0069323,"19.910254882695646, -102.0069323195872",GOB,"Interior Palacio Municipal, Alvaro Obregon S/N, Col. Centro, C.P. 58760,Purépero, Michoacán",redes
+ SEMIGRANTE (Zinapécuaro) ,SEMIGRANTE,19.86008134,-100.827374,"19.860081342667428, -100.82737401404921",OSC / ONG,"Interior Casa de la Cultura, Av. Hidalgo No. 32, Col. Centro, C.P. 58930,Zinapécuaro, Michoacán",redes
 Cruz Roja Estatal Campeche,Salud,19.8600753,-90.5152719,"19.8600753, -90.5152719",OSC / ONG,"Gustavo Díaz Ordaz, Área Ah, C.P.24014, Campeche",Directorio OIM
 Comisión Estatal de Derechos Humanos del Estado de Campeche,CNDH,19.8492445,-90.53580936,"19.8492445, -90.53580936148322",OSC / ONG,"Prolongación 59 No. 6,colonia Centro, C.P. 24000, Campeche, Campeche.",Directorio OIM
 INSTITUTO NACIONAL DE MIGRACIÓN - Campeche,INM,19.8457881,-90.5397018,"19.8457881, -90.5397018",GOB,"Av. 16 de Septiembre s/n Palacio Federal P.B, Col. Centro C.P. 24000 Campeche, Camp.",Directorio OIM
 DIF Estatal Campeche,DIF,19.84497002,-90.53841379,"19.844970017315532, -90.5384137888175",GOB,"Calle 10 230, entre 51 y 53, Col. Centro Ciudad Amurallada, C.P. 24000, Campeche, Camp.",Directorio OIM
 San Juan Diego,Centros de Atención Social,19.83545746,-99.2052551,"19.835457464684065, -99.20525509952573",OSC / ONG,"Camino Tequixquiac Km 50.5, Barrio San Bartolo C.P. 54680",Directorio OIM
  SEMIGRANTE (Venustiano Carranza) ,Centros de Atención Social,19.83345578,-101.1595697,"19.833455777489085, -101.15956970859158",GOB,"Interior Palacio Municipal, Hidalgo No. 2, Col. Centro, C.P. 59160,Venustiano Carranza, Michoacán",redes
-Oficinas de Atención a Migrante - Campeche,Oficinas de Atención a Migrante,19.82749138455163,-90.53067579458845,"19.82749138455163, -90.53067579458845",GOB,"Niebla No.2, Fracciorama 2000, C.P.24090,",Oficinas de Atención a Migrantes (OFAMs)
- SEMIGRANTE (Tlalpujahua) ,Centros de Atención Social,19.80562401,-100.1726079,"19.8056240119838, -100.17260785510307",GOB,"Interior Palacio Municipal, Portal Centenario No. 04, Colonia Centro, C.P. 61060,Tlalpujahua, Michoacán",redes
- SEMIGRANTE (Tarímbaro) ,Centros de Atención Social,19.76060664,-101.1823175,"19.760606643315857, -101.182317542887",GOB,"Interior Palacio Municipal, Hidalgo No. 11, Col. Centro, C.P. 58880,Tarímbaro, Michoacán",redes
- SEMIGRANTE (Paracho) ,Centros de Atención Social,19.7507753,-102.0251101,"19.7507753, -102.0251101",OSC / ONG,"Plaza Principal S/N, Col. Centro, C.P. 60250,Paracho, Michoacán",redes
- SEMIGRANTE (Tinguindin) ,Centros de Atención Social,19.73975743,-102.4867785,"19.73975743464277, -102.48677846046292",GOB,"Portal Hidalgo S/N, Colonia Centro, C.P. 59980,Tingüindín, Michoacán",redes
- SEMIGRANTE (Senguio) ,Centros de Atención Social,19.73350132,-100.3522521,"19.73350132299265, -100.35225207328463",GOB,"Hidalgo No. 01, Col. Centro, C.P. 61290,Senguio, Michoacán",redes
+Oficinas de Atención a Migrante - Campeche,Oficinas de Atención a Migrante,19.82749138,-90.53067579,"19.82749138455163, -90.53067579458845",GOB,"Niebla No.2, Fracciorama 2000, C.P.24090,",Oficinas de Atención a Migrantes (OFAMs)
+ SEMIGRANTE (Tlalpujahua) ,SEMIGRANTE,19.80562401,-100.1726079,"19.8056240119838, -100.17260785510307",GOB,"Interior Palacio Municipal, Portal Centenario No. 04, Colonia Centro, C.P. 61060,Tlalpujahua, Michoacán",redes
+ SEMIGRANTE (Tarímbaro) ,SEMIGRANTE,19.76060664,-101.1823175,"19.760606643315857, -101.182317542887",GOB,"Interior Palacio Municipal, Hidalgo No. 11, Col. Centro, C.P. 58880,Tarímbaro, Michoacán",redes
+ SEMIGRANTE (Paracho) ,SEMIGRANTE,19.7507753,-102.0251101,"19.7507753, -102.0251101",OSC / ONG,"Plaza Principal S/N, Col. Centro, C.P. 60250,Paracho, Michoacán",redes
+ SEMIGRANTE (Tinguindin) ,SEMIGRANTE,19.73975743,-102.4867785,"19.73975743464277, -102.48677846046292",GOB,"Portal Hidalgo S/N, Colonia Centro, C.P. 59980,Tingüindín, Michoacán",redes
+ SEMIGRANTE (Senguio) ,SEMIGRANTE,19.73350132,-100.3522521,"19.73350132299265, -100.35225207328463",GOB,"Hidalgo No. 01, Col. Centro, C.P. 61290,Senguio, Michoacán",redes
 Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas,Mujeres,19.72584216,-101.1434596,"19.725842159843385, -101.14345956617014",OSC / ONG,"Calle Av. Lázaro Cárdenas No. 2440 Esq. Batalla de la Angostura, Chapultepec sur, C.P. 58260. Morelia, Michoacán.",Directorio OIM
 Movilidad Humana de Morelia,Centros de Atención Social,19.70716262,-101.1877993,"19.707162623946342, -101.18779930229373",OSC / ONG,"Morelia 1ro de Mayo 255 y 225, Col. Centro C.P. 58000",Directorio OIM
 DIF Estatal Michoacán,DIF,19.70015141,-101.1785711,"19.70015141193928, -101.17857114256408",GOB,"Acueducto Lt. 17, Col. Bosque Cuauhtémoc, C.P. 58020, Morelia, Mich.",Directorio OIM
 Oficina de la Comisión Nacional de los Derechos Humanos,CNDH,19.69758042,-101.1673223,"19.697580422211466, -101.16732230557255",OSC / ONG,"Av. Del Estudiante 102, Col. Matamoros, C.P. 58240, Morelia, Michoacán.",Directorio OIM
 Comisión Estatal de los Derechos Humanos de Michoacán,CNDH,19.6968117,-101.1751514,"19.6968117, -101.1751514",OSC / ONG,"Calle Fernando Montes de Oca No. 108, Col. Chapultepec Norte, C.P. 58260, Morelia, Michoacán",Directorio OIM
- SEMIGRANTE (Tuxpan) ,Centros de Atención Social,19.6936692,-101.1772821,"19.693669197078098, -101.17728210240551",GOB,"Interior Palacio Municipal, Av. Morelos No. 04, Col. Centro, C.P. 61420,Tuxpan, Michoacán",redes
- SEMIGRANTE Morelia ,Centros de Atención Social,19.6920399,-101.16194,"19.6920399, -101.16194",OSC / ONG,"Colegio Militar 248 Chapultepec Nte. C.P. 58260 Morelia,  Michoacán,Morelia, Michoacán",redes
+ SEMIGRANTE (Tuxpan) ,SEMIGRANTE,19.6936692,-101.1772821,"19.693669197078098, -101.17728210240551",GOB,"Interior Palacio Municipal, Av. Morelos No. 04, Col. Centro, C.P. 61420,Tuxpan, Michoacán",redes
+ SEMIGRANTE Morelia ,SEMIGRANTE,19.6920399,-101.16194,"19.6920399, -101.16194",OSC / ONG,"Colegio Militar 248 Chapultepec Nte. C.P. 58260 Morelia,  Michoacán,Morelia, Michoacán",redes
 INSTITUTO NACIONAL DE MIGRACIÓN - Michoacán,INM,19.6862179,-101.1622703,"19.6862179, -101.1622703",GOB,"Av. Camelinas No. 2309, Fracc. Camelinas, C.P. 58290, Morelia, Mich.",Directorio OIM
- SEMIGRANTE (Tzintzuntzan) ,Centros de Atención Social,19.63064956,-101.5732885,"19.630649558600776, -101.57328852047527",GOB,"Interior Palacio Municipal, Av. Yacatas No. 25, Col. Centro, Tzintzuntzan, Mich. C.P. 58440,Tzintzuntzan, Michoacán",redes
- SEMIGRANTE (Tzitzio) ,Centros de Atención Social,19.6034684,-100.9221645,"19.603468403364726, -100.92216454067527",GOB,"Interior Palacio Municipal, Calle Allende S/N, Col. Centro, C.P. 61330,Tzitzio, Michoacán",redes
+ SEMIGRANTE (Tzintzuntzan) ,SEMIGRANTE,19.63064956,-101.5732885,"19.630649558600776, -101.57328852047527",GOB,"Interior Palacio Municipal, Av. Yacatas No. 25, Col. Centro, Tzintzuntzan, Mich. C.P. 58440,Tzintzuntzan, Michoacán",redes
+ SEMIGRANTE (Tzitzio) ,SEMIGRANTE,19.6034684,-100.9221645,"19.603468403364726, -100.92216454067527",GOB,"Interior Palacio Municipal, Calle Allende S/N, Col. Centro, C.P. 61330,Tzitzio, Michoacán",redes
  Albergue Casa del Migrante San Juan Diego ,Centros de Atención Social,19.5793867,-99.7581572,"19.5793867, -99.7581572",OSC / ONG,"Camino Tequixquiac km 50.5, Barrio San Bartolo,Huehuetoca, Estado de México",redes
 INSTITUTO NACIONAL DE MIGRACIÓN - Estado de México,INM,19.5548488,-99.0373089,"19.5548488, -99.0373089",GOB,"Pino Suárez N° 304 Sur, Col. 5 De Mayo, Toluca, Estado de México, C.P. 50090.",Directorio OIM
 Senda de Vida,Centros de Atención Social,19.5504175,-99.0757521,"19.5504175, -99.0757521",OSC / ONG,"Bordo de Protección 5, Col. 21 de Marzo",Directorio OIM
 Estancia Temporal para Menores Migrantes No Acompañados,Centros de Atención Social,19.5501478,-96.9276091,"19.5501478, -96.9276091",OSC / ONG,"Chihuahua 114, Col. Progreso Macuiltépetl, Xalapa, Veracruz. C.P. 91130",Directorio OIM
 Aldea Emelia Exsome Niños,Centros de Atención Social,19.5449017,-96.91470863,"19.544901698793787, -96.91470863228521",OSC / ONG,"Cerro de Malacatepec s/n esquina Paricutín, Fraccionamiento Lomas del Coyol, Veracruz, Veracruz. C.P. 91729",Directorio OIM
- SEMIGRANTE (Paracuaro) ,Centros de Atención Social,19.53110882,-101.6208293,"19.531108819115957, -101.6208292990805",GOB,"Portal Hidalgo No. 34, Col. Centro, C.P. 60760,Parácuaro, Michoacán",redes
- SEMIGRANTE (Peribán) ,Centros de Atención Social,19.53035925,-102.4162333,"19.530359251271122, -102.41623330011139",GOB,"Ocampo No. 01, Colonia Centro, C.P. 60440,Peribán, Michoacán",redes
+ SEMIGRANTE (Paracuaro) ,SEMIGRANTE,19.53110882,-101.6208293,"19.531108819115957, -101.6208292990805",GOB,"Portal Hidalgo No. 34, Col. Centro, C.P. 60760,Parácuaro, Michoacán",redes
+ SEMIGRANTE (Peribán) ,SEMIGRANTE,19.53035925,-102.4162333,"19.530359251271122, -102.41623330011139",GOB,"Ocampo No. 01, Colonia Centro, C.P. 60440,Peribán, Michoacán",redes
 Comisión Estatal de Derechos Humanos de Veracruz,CNDH,19.5284809,-96.9206629,"19.5284809, -96.9206629",OSC / ONG,"Calle Carrillo Puerto No. 21, Zona Centro, C.P. 91000, Xalapa Enríquez, Veracruz",Directorio OIM
- SEMIGRANTE (Tingambato) ,Centros de Atención Social,19.52044487,-101.8487027,"19.520444872741958, -101.84870273767092",GOB,"Interior Palacio Municipal, Portal Hidalgo S/N, Colonia Centro, C.P. 60290,Tingambato, Michoacán",redes
- SEMIGRANTE (Pátzcuaro) ,Centros de Atención Social,19.51382027,-101.6097285,"19.513820271328946, -101.60972850241",GOB,"Portal Hidalgo No. 01, Col. Centro, C.P. 61600,Pátzcuaro, Michoacán",redes
+ SEMIGRANTE (Tingambato) ,SEMIGRANTE,19.52044487,-101.8487027,"19.520444872741958, -101.84870273767092",GOB,"Interior Palacio Municipal, Portal Hidalgo S/N, Colonia Centro, C.P. 60290,Tingambato, Michoacán",redes
+ SEMIGRANTE (Pátzcuaro) ,SEMIGRANTE,19.51382027,-101.6097285,"19.513820271328946, -101.60972850241",GOB,"Portal Hidalgo No. 01, Col. Centro, C.P. 61600,Pátzcuaro, Michoacán",redes
 DIF Estatal Veracruz,DIF,19.51121562,-96.93001267,"19.511215624046393, -96.93001266538097",GOB,"Carretera Xalapa - Coatepec Km. 1.5, Col. Benito Juárez, C.P. 91070, Xalapa, Veracruz",Directorio OIM
 CAFEMIN,Centros de Atención Social,19.5075188,-99.152906,"19.5075188, -99.152906",OSC / ONG,"Constantino 251, Col. Vallejo, Gustavo A. Madero, Mexico",ACNUR albergues
 Fiscalía Especializada de Atención para Personas Migrantes,FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,19.50470685,-96.87754677,"19.50470684542565, -96.87754677401465",GOB,"Circuito Guizar y Valencia 147 Col. Reserva Territorial C.P. 91096, Xalapa, Veracruz",Directorio OIM
@@ -801,10 +801,10 @@ Oficina de Naciones Unidas contra la Droga y el Delito,ONU,19.4402557,-99.192632
 Comisión Nacional de los Derechos Humanos,CNDH,19.43942045,-99.13470005,"19.43942045, -99.13470004998297",OSC / ONG,"República de Cuba 60, Col. Centro Histórico C.P. 06010, Ciudad de México, México",Directorio OIM
 Cruz Roja Estatal CDMX,Salud,19.43891535,-99.20227442,"19.438915350000002, -99.20227441759036",OSC / ONG,"Av. Ejército Nacional 1032, Polanco Secc. I C.P.11510, Miguel Hidalgo",Directorio OIM
  Casa de los Amigos A.C. APOFAM ,Centros de Atención Social,19.4380716,-99.154505,"19.4380716, -99.154505",OSC / ONG,"Ignacio Mariscal 132,Ciudad de México, Ciudad de México",redes
-Instituto Nacional de Migración (INM),Centros de Atención Social,19.4379497,-99.2028128,"19.4379497, -99.2028128",OSC / ONG,,ACNUR servicios
+Instituto Nacional de Migración (INM),INM,19.4379497,-99.2028128,"19.4379497, -99.2028128",GOB,,ACNUR servicios
 INSTITUTO NACIONAL DE MIGRACIÓN - Ciudad de México,INM,19.4373908,-99.2099817,"19.4373908, -99.2099817",GOB,"Calle Homero 1832, Los Morales Polanco, Del. Miguel Hidalgo, Ciudad de México. C.P. 11510",Directorio OIM
 CEAVI-Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México,Centros de Atención Social,19.4372945,-99.1374683,"19.4372945, -99.1374683",OSC / ONG,,ACNUR servicios
- SEMIGRANTE (Zitácuaro) ,Centros de Atención Social,19.43719572,-100.3574278,"19.437195720786807, -100.35742777726968",OSC / ONG,"Interior Palacio Municipal, Ocampo Poniente No. 13, Col. Centro, C.P. 61500,Zitácuaro, Michoacán",redes
+ SEMIGRANTE (Zitácuaro) ,SEMIGRANTE,19.43719572,-100.3574278,"19.437195720786807, -100.35742777726968",OSC / ONG,"Interior Palacio Municipal, Ocampo Poniente No. 13, Col. Centro, C.P. 61500,Zitácuaro, Michoacán",redes
 Instituto Nacional de Migración - INM - Oficinas Centrales,Centros de Atención Social,19.4368852,-99.2113014,"19.4368852, -99.2113014",OSC / ONG,,ACNUR servicios
 INSTITUTO NACIONAL DE MIGRACIÓN - Ciudad de México,INM,19.4367572,-99.2038986,"19.4367572, -99.2038986",GOB,"Av. Ejército Nacional 862, Col. Los Morales Sección Palmas, Delegación Miguel Hidalgo, C.P. 11540, México Ciudad de México.",Directorio OIM
 Instituto Federal de Defensoría Pública,Centros de Atención Social,19.4337905,-99.1502992,"19.4337905, -99.1502992",OSC / ONG,,ACNUR servicios
@@ -831,10 +831,10 @@ Agencias del Ministerio Público Especializada en Delitos Sexuales,Centros de At
 Adevi Centro de Apoyo Sociojurídico a Víctimas de Delito Violento,Centros de Atención Social,19.4252581,-99.1485071,"19.4252581, -99.1485071",OSC / ONG,,ACNUR servicios
 Corporación Financiera Internacional,ONU,19.42481615,-99.17443887,"19.424816149999998, -99.17443887344135",OSC / ONG,"Paseo de la Reforma 483, Torre Reforma piso 18, Col. Cuauhtémoc, C.P. 06500, Ciudad de México",Directorio OIM
  Servicios Jesuitas a Migrantes SJM ,Centros de Atención Social,19.4245972,-99.15204001,"19.4245972, -99.15204000971002",OSC / ONG,"Orizaba 39 Roma Nte. Cuauhtémoc 06700,de México, CDMX Ciudad Ciudad de México, Ciudad de México",redes
-Fiscalía General de Justicia de la CDMX,Centros de Atención Social,19.4245285,-99.1471914,"19.4245285, -99.1471914",OSC / ONG,,ACNUR servicios
+Fiscalía General de Justicia de la CDMX,FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,19.4245285,-99.1471914,"19.4245285, -99.1471914",GOB,,ACNUR servicios
 Agencias del Ministerio Público Especializada en Delitos Sexuales,Centros de Atención Social,19.4244238,-99.1476366,"19.4244238, -99.1476366",OSC / ONG,,ACNUR servicios
 Fiscalía de Investigación de los delitos de materia de Trata de Personas ,Centros de Atención Social,19.4243727,-99.1473881,"19.4243727, -99.1473881",OSC / ONG,,ACNUR servicios
- SEMIGRANTE (Uruapan) ,Centros de Atención Social,19.42428309,-102.0481507,"19.424283090830855, -102.04815069076427",GOB,"Av. Chiapas No. 93, Int. 201, Col. Ramon Farias, C.P. 60050,Uruapan, Michoacán",redes
+ SEMIGRANTE (Uruapan) ,SEMIGRANTE,19.42428309,-102.0481507,"19.424283090830855, -102.04815069076427",GOB,"Av. Chiapas No. 93, Int. 201, Col. Ramon Farias, C.P. 60050,Uruapan, Michoacán",redes
 Consejo Nacional Para Prevenir la Discriminación - CONAPRED,Centros de Atención Social,19.4229242,-99.1697128,"19.4229242, -99.1697128",OSC / ONG,,ACNUR servicios
  Fundación Loyola A.C ,Centros de Atención Social,19.42209963,-99.16047264,"19.42209962977828, -99.16047263735624",OSC / ONG,"Mariano Matamoros # 75 Col. del Carmen,Delegación Coyoacán, Estado de México",redes
 Servicio Jesuita a Migrantes México (SJM-México),Centros de Atención Social,19.4220598,-99.1608107,"19.4220598, -99.1608107",OSC / ONG,,ACNUR servicios
@@ -849,8 +849,8 @@ Instituto de Atención a Poblaciones Prioritarias - IAPP,Centros de Atención So
 Unidad de Investigación de Delitos para Personas Migrantes y el Mecanismo de Apoyo Exterior Mexicano de Búsqueda e Investigación (UIDPM),FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,19.4183227,-99.1625655,"19.4183227, -99.1625655",GOB,"Av. Insurgentes 20, Col. Roma Norte C.P.06700, Cuauhtémoc, Ciudad de México",Directorio OIM
  Asociación Mexicana de Uniones de Crédito del Sector Social (AMUCSS) ,Centros de Atención Social,19.4183227,-99.1625655,"19.4183227, -99.1625655",OSC / ONG,"Hermosillo 14 código 2, Roma Sur Cuauhtémoc 06760,de México, CDMX Ciudad Ciudad de México, Ciudad de México",redes
 Programa de las Naciones Unidas para el Ambiente,ONU,19.4182486,-99.1647551,"19.4182486, -99.1647551",OSC / ONG,"Edificio CONAFOR Calle de Oro 17, Col. Roma Norte, C.P. 06700 Ciudad de México",Directorio OIM
- SEMIGRANTE (Salvador Escalante) ,Centros de Atención Social,19.41823584,-101.639782,"19.418235839273642, -101.63978195057119",GOB,"Allende No. 56, Colonia Centro, C.P. 61800, Santa Clara,Salvador Escalante, Michoacán",redes
- SEMIGRANTE (Ziracuaretiro) ,Centros de Atención Social,19.41722747,-101.9104835,"19.417227465908454, -101.91048348891805",OSC / ONG,"Presidencia Municipal, Portal Matamoros S/N, Colonia Centro, C.P. 61700,Ziracuaretiro, Michoacán",redes
+ SEMIGRANTE (Salvador Escalante) ,SEMIGRANTE,19.41823584,-101.639782,"19.418235839273642, -101.63978195057119",GOB,"Allende No. 56, Colonia Centro, C.P. 61800, Santa Clara,Salvador Escalante, Michoacán",redes
+ SEMIGRANTE (Ziracuaretiro) ,SEMIGRANTE,19.41722747,-101.9104835,"19.417227465908454, -101.91048348891805",OSC / ONG,"Presidencia Municipal, Portal Matamoros S/N, Colonia Centro, C.P. 61700,Ziracuaretiro, Michoacán",redes
  Albergue para migrantes “La Sagrada familia” ,Centros de Atención Social,19.4166882,-98.13201818,"19.41668819887568, -98.13201817542362",OSC / ONG,"3ª Privada Álvaro Obregón s/n, Col. Ferrocarrilera,Apizaco, Tlaxcala",redes
 Centro Cultural Jauría Trans,Centros de Atención Social,19.4166225,-99.1563611,"19.4166225, -99.1563611",OSC / ONG,,ACNUR servicios
 " Iniciativa Ciudadana para la Promoción de la Cultura del Diálogo, AC ",Centros de Atención Social,19.415222,-99.165413,"19.415222, -99.165413",OSC / ONG,"Tepic 83 Col. Roma Sur,Delegación Cuauhtémoc, Ciudad de México",redes
@@ -917,7 +917,7 @@ Centro de Justicia para las Mujeres de la Ciudad de México - Iztapalapa ,Cent
 Organización Meteorológica Mundial,ONU,19.3375325,-99.1899911,"19.3375325, -99.1899911",OSC / ONG,"Edificio CONAGUA Insurgentes Sur 2416, Piso 8, Col. Copilco el Bajo, C.P. 04340 Ciudad de México",Directorio OIM
 INSTITUTO NACIONAL DE MIGRACIÓN - Tlaxcala,INM,19.3366554,-98.1933967,"19.3366554, -98.1933967",GOB,"Calle Santos Degollado No.62 Col. Centro C.P. 90600 San Pablo Apetatitlán de Antonio Carvajal Tlaxcala, Tlaxcala.",Directorio OIM
 Oficina de la Comisión Nacional de Derechos Humanos,CNDH,19.3349129,-99.2043226,"19.3349129, -99.2043226",OSC / ONG,"Río Magdalena 108, Col. Tizapán San Ángel C.P. 01090 Ciudad de México, México",Directorio OIM
- SEMIGRANTE (Taretan) ,Centros de Atención Social,19.33490674,-101.9172569,"19.334906742917298, -101.91725690610744",GOB,"Portal Ocampo No. 01, Col. Centro, C.P. 61710,Taretan, Michoacán",redes
+ SEMIGRANTE (Taretan) ,SEMIGRANTE,19.33490674,-101.9172569,"19.334906742917298, -101.91725690610744",GOB,"Portal Ocampo No. 01, Col. Centro, C.P. 61710,Taretan, Michoacán",redes
  Comisión Nacional de los Derechos Humanos ,Centros de Atención Social,19.3250371,-99.2284244,"19.3250371, -99.2284244",OSC / ONG,"Periférico Sur 3469, Col. San Jerónimo Lídice,Ciudad de México, Ciudad de México",redes
 Grupo Beta CDMX,Grupos Beta,19.32453564,-99.21682704,"19.324535635717947, -99.21682703676774",OSC / ONG,"Blvd. Adolfo López Mateos 3325, piso 5., San Jerónimo Lídice, Ciudad de México. C.P. 10200",Directorio OIM
 Comisión Nacional de los Derechos Humanos de México (CNDH),Centros de Atención Social,19.3217777,-99.2205517,"19.3217777, -99.2205517",OSC / ONG,,ACNUR servicios
@@ -925,7 +925,7 @@ Comisión Nacional de los Derechos Humanos de México (CNDH),Centros de Atenció
 Comisión de Derechos Humanos del Estado de México,CNDH,19.3200127,-99.63484069,"19.32001269687433, -99.63484069050429",OSC / ONG,"Avenida Dr. Nicolás San Juan No. 113, Col. Ex Rancho Cuauhtémoc, C.P. 50010, Toluca, Estado de Mexico.",Directorio OIM
 Organización de las Naciones Unidas para la Alimentación y la Agricultura,ONU,19.3197812,-99.2073801,"19.3197812, -99.2073801",OSC / ONG,"Farallón 130, Col. Jardines del Pedregal, C.P. 01900, Ciudad de México",Directorio OIM
 " Fundar, Centro de Análisis e Investigación, AC ",Centros de Atención Social,19.3178414,-99.1419825,"19.3178414, -99.1419825",OSC / ONG,"Cerrada de Alberto Zamora 21, Col. Villa Coyoacán.,Delegación Coyoacán, Ciudad de México",redes
-INM - Estación Migratoria - Las Agujas,Centros de Atención Social,19.3162704,-99.0832561,"19.3162704, -99.0832561",OSC / ONG,,ACNUR servicios
+INM - Estación Migratoria - Las Agujas,INM,19.3162704,-99.0832561,"19.3162704, -99.0832561",GOB,,ACNUR servicios
 Comisión Estatal de Derechos Humanos de Tlaxcala,CNDH,19.3150248,-98.21772702,"19.315024798232397, -98.21772701741844",OSC / ONG,"Arquitectos No. 27, Col. Loma Bonita, C.P. 90090, Tlaxcala, Tlaxcala",Directorio OIM
 DIF Estatal Tlaxcala,DIF,19.3146377,-98.237635,"19.3146377, -98.237635",GOB,"José Ma. Morelos 4, Col. Centro, C.P. 90000, Tlaxcala, Tlax.",Directorio OIM
  Centro Fray Julián Garces A. C. ,Centros de Atención Social,19.3116764,-98.2442069,"19.3116764, -98.2442069",OSC / ONG,"Calle 11 No. 214,Loma Xicohténcatl, Tlaxcala",redes
@@ -938,13 +938,13 @@ Cruz Roja Tlalpan Xochimilco,Salud,19.2874886,-99.1494461,"19.2874886, -99.14944
 DIF Estatal Estado de México,DIF,19.2826621,-99.671323,"19.2826621, -99.671323",GOB,"Paseo Colón s/n, esq. Paseo Tollocan, Col. Isidro Fabela, C.P. 50170, Toluca, Edo. Mex.",Directorio OIM
 Albergue Temporal Infantil,Centros de Atención Social,19.2791783,-99.658784,"19.2791783, -99.658784",OSC / ONG,"Paseo Colón 600, Col. Villa Hogar Toluca, Estado de México.",Directorio OIM
  Instituto del Rincón A.C. ,Centros de Atención Social,19.26749032,-99.60971699,"19.26749032038358, -99.60971698771078",OSC / ONG,"Avenida Morelos No. 124 CP 52440,Malinalco, Estado de México",redes
-DIF Estatal Colima,DIF,19.238676569870204,-103.74132147087096,"19.238676569870204, -103.74132147087097",GOB,"Calle Encino 530, Col. Rinconada del Pereyra, C.P. 28077, Colima, Col.",Directorio OIM
+DIF Estatal Colima,DIF,19.23867657,-103.7413215,"19.238676569870204, -103.74132147087097",GOB,"Calle Encino 530, Col. Rinconada del Pereyra, C.P. 28077, Colima, Col.",Directorio OIM
  SEMIGRANTE (Tacámbaro) ,Centros de Atención Social,19.23564698,-101.4576789,"19.235646979365235, -101.4576788637802",GOB,"Portal Marcos A. Jimenez S/N, Colonia Centro C.P. 61650,Tacámbaro, Michoacán",redes
 Comisión de Derechos Humanos del Estado de Colima,CNDH,19.2340533,-103.7294894,"19.2340533, -103.7294894",OSC / ONG,"Degollado No. 79, Colima, Zona Centro, C.P. 28000, Colima, Colima.",Directorio OIM
- SEMIGRANTE (Susupuato) ,Centros de Atención Social,19.23002703,-100.4036143,"19.230027032690764, -100.40361431479852",GOB,"Interior Palacio Municipal, Vicente Guerrero No. 06, Colonia Centro, C.P. 61590,Susupuato, Michoacán",redes
- SEMIGRANTE (Tuzantla) ,Centros de Atención Social,19.20775544,-100.5730013,"19.207755440157094, -100.57300131775845",GOB,"Av. Sixto Verduzco No. 06, Col. Centro, C.P. 61540,Tuzantla, Michoacán",redes
+ SEMIGRANTE (Susupuato) ,SEMIGRANTE,19.23002703,-100.4036143,"19.230027032690764, -100.40361431479852",GOB,"Interior Palacio Municipal, Vicente Guerrero No. 06, Colonia Centro, C.P. 61590,Susupuato, Michoacán",redes
+ SEMIGRANTE (Tuzantla) ,SEMIGRANTE,19.20775544,-100.5730013,"19.207755440157094, -100.57300131775845",GOB,"Av. Sixto Verduzco No. 06, Col. Centro, C.P. 61540,Tuzantla, Michoacán",redes
 COMI,Centros de Atención Social,19.1996151,-99.5003113,"19.1996151, -99.5003113",OSC / ONG,"Callejón de Guadalupe Victoria s/n, Col. Centro C.P. 68000",Directorio OIM
- SEMIGRANTE (Tepalcatepec) ,Centros de Atención Social,19.19127674,-102.8438816,"19.191276742006306, -102.84388155854577",GOB,"Melchor Ocampo No. 145, Col. Centro, C.P. 60540,Tepalcatepec, Michoacán",redes
+ SEMIGRANTE (Tepalcatepec) ,SEMIGRANTE,19.19127674,-102.8438816,"19.191276742006306, -102.84388155854577",GOB,"Melchor Ocampo No. 145, Col. Centro, C.P. 60540,Tepalcatepec, Michoacán",redes
 Consulado General de Honduras en Veracruz,Oficina Consular,19.1893279,-96.1236966,"19.1893279, -96.1236966",GOB,"Blvd. Manuel Ávila Camacho 343, Col. Ricardo Flores Magón, C.P. 91900, Veracruz",Directorio OIM
 Aldea Emelia Exsome Niñas,Centros de Atención Social,19.18236338,-96.14691843,"19.1823633792845, -96.14691843044555",OSC / ONG,"Calle 16 s/n, entre Echeven y Cortés, Col. Pocitos y Rivera, Veracruz, Veracruz. C.P. 91729",Directorio OIM
 Aeropuerto de Puebla,Centros de Atención Social,19.1639189,-98.3761404,"19.1639189, -98.3761404",OSC / ONG,,ACNUR servicios
@@ -962,7 +962,7 @@ Secretaria de Educación Pública,Centros de Atención Social,19.0627819,-98.222
 Instituto de Capacitación para el Trabajo ,Centros de Atención Social,19.0567343,-98.2310177,"19.0567343, -98.2310177",OSC / ONG,,ACNUR servicios
 Museo Regional de Puebla,Centros de Atención Social,19.0562659,-98.1828034,"19.0562659, -98.1828034",OSC / ONG,,ACNUR servicios
 Museo de la Talavera,Centros de Atención Social,19.0560987,-98.1769569,"19.0560987, -98.1769569",OSC / ONG,,ACNUR servicios
- SEMIGRANTE (Turicato) ,Centros de Atención Social,19.05416285,-101.4193304,"19.05416284853995, -101.41933044844387",GOB,"Interior Palacio Municipal, Portal Manuel Muñiz S/N, Colonia Centro, C.P. 61680,Turicato, Michoacán",redes
+ SEMIGRANTE (Turicato) ,SEMIGRANTE,19.05416285,-101.4193304,"19.05416284853995, -101.41933044844387",GOB,"Interior Palacio Municipal, Portal Manuel Muñiz S/N, Colonia Centro, C.P. 61680,Turicato, Michoacán",redes
 Mercado 5 de mayo,Centros de Atención Social,19.0525041,-98.1975305,"19.0525041, -98.1975305",OSC / ONG,,ACNUR servicios
 INSTITUTO NACIONAL DE MIGRACIÓN - Puebla,INM,19.0517748,-98.2134088,"19.0517748, -98.2134088",GOB,"Avenida Reforma 1907, Colonia Barrio San Matías, Puebla, Pue. C.P. 72090.",Directorio OIM
 Instituto Nacional de Migración (INM) ,Centros de Atención Social,19.0516716,-98.2133101,"19.0516716, -98.2133101",OSC / ONG,,ACNUR servicios
@@ -997,9 +997,9 @@ Centro de Asistencia Morelense para la Infancia,Centros de Atención Social,18.8
  Comedor para migrantes Las Patronas ,Centros de Atención Social,18.8131068,-96.9262761,"18.8131068, -96.9262761",OSC / ONG,"Calle 14 s/n Col. Guadalupe Amatlán de los Reyes,Amatlán de los Reyes, Veracruz",redes
 Albergue Infantil “María Palmira Lavalle” del DIF Estatal Campeche,Centros de Atención Social,18.6533451,-91.7920685,"18.6533451, -91.7920685",OSC / ONG,"Av. Juan Escutia s/n, Col.Buenavista, San Francisco de Campeche, Campeche. C.P.24040",Directorio OIM
 Meced Arrecife,Centros de Atención Social,18.644268,-91.7825531,"18.644268, -91.7825531",OSC / ONG,"Av. Puerto de Campeche s/, Col. Santa Isabel, Carmen, Campeche, C.P. 24157",Directorio OIM
- SEMIGRANTE (San Lucas) ,Centros de Atención Social,18.59127711,-100.7839582,"18.591277107020066, -100.78395824660869",GOB,"Av. Servando Chavez No. 01, Col. Centro, C.P. 61980,San Lucas, Michoacán",redes
+ SEMIGRANTE (San Lucas) ,SEMIGRANTE,18.59127711,-100.7839582,"18.591277107020066, -100.78395824660869",GOB,"Av. Servando Chavez No. 01, Col. Centro, C.P. 61980,San Lucas, Michoacán",redes
 Grupos Especializados de Atención  la Violencia de Género (GEAVIG),Centros de Atención Social,18.5412705,-88.3055254,"18.5412705, -88.3055254",OSC / ONG,,ACNUR servicios
- SEMIGRANTE (Tumbiscatio) ,Centros de Atención Social,18.52571678,-102.3754455,"18.525716781883173, -102.37544550833935",GOB,"Interior Presidencia Municipal, Kennedy No. 02, Col. Centro, C.P. 60900,Tumbiscatío, Michoacán",redes
+ SEMIGRANTE (Tumbiscatio) ,SEMIGRANTE,18.52571678,-102.3754455,"18.525716781883173, -102.37544550833935",GOB,"Interior Presidencia Municipal, Kennedy No. 02, Col. Centro, C.P. 60900,Tumbiscatío, Michoacán",redes
 Terminal de Autobuses de Chetumal,Centros de Atención Social,18.5188127,-88.3135849,"18.5188127, -88.3135849",OSC / ONG,,ACNUR servicios
 Hospital General de Chetumal,Centros de Atención Social,18.5170703,-88.3040718,"18.5170703, -88.3040718",OSC / ONG,,ACNUR servicios
 Mercado Lazaro Cardenas,Centros de Atención Social,18.514348,-88.2891517,"18.514348, -88.2891517",OSC / ONG,,ACNUR servicios
@@ -1016,15 +1016,15 @@ Mercado Municipal Chetumal,Centros de Atención Social,18.5035249,-88.2961093,"1
 Hospital Materno Infantil Morelos,Centros de Atención Social,18.5020859,-88.298131,"18.5020859, -88.298131",OSC / ONG,,ACNUR servicios
 Museo de la Ciudad de Chetumal,Centros de Atención Social,18.5014723,-88.2966366,"18.5014723, -88.2966366",OSC / ONG,,ACNUR servicios
 Ventanilla Única de Atención a Migrantes,Centros de Atención Social,18.4976244,-88.3043312,"18.4976244, -88.3043312",OSC / ONG,,ACNUR servicios
-DIF Municipal ,Centros de Atención Social,18.4971866,-88.3049895,"18.4971866, -88.3049895",OSC / ONG,,ACNUR servicios
+DIF Municipal ,DIF,18.4971866,-88.3049895,"18.4971866, -88.3049895",OSC / ONG,,ACNUR servicios
 Instituto Quintanarroense de la Mujer,Centros de Atención Social,18.4968688,-88.3071064,"18.4968688, -88.3071064",OSC / ONG,,ACNUR servicios
 Fiscalía especializada en delitos cometidos en contra de los migrantes,Centros de Atención Social,18.4934448,-88.395465,"18.4934448, -88.395465",OSC / ONG,,ACNUR servicios
 Fiscalía Especializada de Atención a Personas Migrantes,FISCALÍAS ESPECIALIZADAS PARA PERSONAS MIGRANTES,18.49260054,-88.39592816,"18.492600538905126, -88.39592816215213",GOB,"Av. México s/n, esquina Caboa, Frente a edificio de INM, Pueblo Subteniente Lopez C.P.77900, Chetumal, Q. Roo",Directorio OIM
-Decanal Guadalupano,Centros de Atención Social,18.43747273445868,-96.34913655899858,"18.437472734458677, -96.34913655899858",OSC / ONG,"Hermanos Aldama 50, Tierra Blanca el Viejo, 95180 Tierra Blanca, Ver.",Directorio OIM
+Decanal Guadalupano,Centros de Atención Social,18.43747273,-96.34913656,"18.437472734458677, -96.34913655899858",OSC / ONG,"Hermanos Aldama 50, Tierra Blanca el Viejo, 95180 Tierra Blanca, Ver.",Directorio OIM
  Casa de Atención al Migrante El Santuario ,Centros de Atención Social,18.40556287,-92.48796682,"18.405562866415316, -92.48796682069982",OSC / ONG,"Capilla de Macuspana (Estación de tren),Macuspana, Tabasco",redes
  Casa del Migrante Santa Faustina Kowalska ,Centros de Atención Social,18.1626665,-94.5529821,"18.1626665, -94.5529821",OSC / ONG,"Calle La Venta 434 Col. Dunas,Coatzacoalcos, Veracruz",redes
 Oficina de la Comisión Nacional de los Derechos Humanos,CNDH,18.1472859,-94.4135422,"18.1472859, -94.4135422",OSC / ONG,"Av. Zaragoza 102, Col. Centro C.P. 96400, Coatzacoalcos, Veracruz.",Directorio OIM
-Instituto Municipal de la Mujer,Centros de Atención Social,18.1469732,-94.417606,"18.1469732, -94.417606",OSC / ONG,,ACNUR servicios
+Instituto Municipal de la Mujer,Mujeres,18.1469732,-94.417606,"18.1469732, -94.417606",OSC / ONG,,ACNUR servicios
 Comisión Estatal de los Derechos Humanos,Centros de Atención Social,18.1462695,-94.419073,"18.1462695, -94.419073",OSC / ONG,,ACNUR servicios
 Movimiento de Asistencia a la Mujer Veracruzana A.C.,Centros de Atención Social,18.1462659,-94.4427517,"18.1462659, -94.4427517",OSC / ONG,,ACNUR servicios
 Centro Ambulatorio para la Prevención y Atención en SIDA e Infecciones de Transmisión Sexual (CAPASITS),Centros de Atención Social,18.1454887,-94.4240998,"18.1454887, -94.4240998",OSC / ONG,,ACNUR servicios
@@ -1038,14 +1038,14 @@ Cruz Roja Mexicana Delegación Coatzacoalcos,Centros de Atención Social,18.1376
 Central de autobuses de Coatzacoalcos ,Centros de Atención Social,18.1208153,-94.4447862,"18.1208153, -94.4447862",OSC / ONG,,ACNUR servicios
 Casa del Migrante Movilidad Humana de la Diócesis de Coatzacoalcos. ,Centros de Atención Social,18.1206146,-94.4269147,"18.1206146, -94.4269147",OSC / ONG,,ACNUR servicios
 "COMAR - Acayucan, Veracruz ",COMAR,18.05321655,-94.12606244,"18.05321655, -94.12606244208568",GOB,"Carretera Costera del Golfo 180, Km. 221, Col. Miguel Aleman, C.P 96000",COMAR
-Estación Migratoria de Acayucan - INM - Instituto Nacional de Migración,Centros de Atención Social,18.0017518,-94.9217003,"18.0017518, -94.9217003",OSC / ONG,,ACNUR servicios
+Estación Migratoria de Acayucan - INM - Instituto Nacional de Migración,INM,18.0017518,-94.9217003,"18.0017518, -94.9217003",GOB,,ACNUR servicios
 Oficina de la Comisión Nacional de los Derechos Humanos,CNDH,18.0013809,-92.9275597,"18.0013809, -92.9275597",OSC / ONG,"Av. Ruiz Cortines 54, Col. Magisterial C.P. 86040, Villahermosa, Tabasco",Directorio OIM
 Comisión Estatal de los Derechos Humanos de Tabasco,CNDH,18.00023732,-92.92037991,"18.000237315092217, -92.92037990780143",OSC / ONG,"Blvd. Adolfo Ruiz Cortínes, esquina prolongación Francisco J. Mina #503, Col. Casa Blanca, Villahermosa, Tabasco",Directorio OIM
 INSTITUTO NACIONAL DE MIGRACIÓN - Tabasco,INM,17.9978424,-92.9458272,"17.9978424, -92.9458272",GOB,"Retorno Via 5 No. 104, Col. Tabasco 2000 C.P. 86035 Villahermosa, Tab",Directorio OIM
 Grupo Beta Acayucan,Grupos Beta,17.9978302,-94.921635,"17.9978302, -94.921635",OSC / ONG,"Carretera Costera del Golfo No. 180, Km 221, Col. Tecuanapa, C.P. 96000, Acayucan, Veracruz.",Directorio OIM
- SEMIGRANTE (Tancítaro) ,Centros de Atención Social,17.99444045,-102.1879473,"17.994440449176533, -102.18794725342315",GOB,"Interior Palacio Municipal, Lazaro Cardenas S/N, Col. Centro, C.P. 60460,Tancítaro, Michoacán",redes
+ SEMIGRANTE (Tancítaro) ,SEMIGRANTE,17.99444045,-102.1879473,"17.994440449176533, -102.18794725342315",GOB,"Interior Palacio Municipal, Lazaro Cardenas S/N, Col. Centro, C.P. 60460,Tancítaro, Michoacán",redes
 DIF Estatal Tabasco,DIF,17.9727554,-92.9661139,"17.9727554, -92.9661139",GOB,"Manuel Antonio Romero 203, Col. Pensiones, C.P. 86170, Villahermosa, Tab.",Directorio OIM
- SEMIGRANTE (Tocumbo) ,Centros de Atención Social,17.9625665,-102.200602,"17.9625665, -102.200602",OSC / ONG,"Portal Lazaro Cardenas No. 16, Colonia Centro, C.P. 59960,Tocumbo, Michoacán",redes
+ SEMIGRANTE (Tocumbo) ,SEMIGRANTE,17.9625665,-102.200602,"17.9625665, -102.200602",OSC / ONG,"Portal Lazaro Cardenas No. 16, Colonia Centro, C.P. 59960,Tocumbo, Michoacán",redes
 Consulado de EI Salvador,Centros de Atención Social,17.9565032,-94.9103659,"17.9565032, -94.9103659",OSC / ONG,,ACNUR servicios
 RET,Centros de Atención Social,17.9553111,-94.9189622,"17.9553111, -94.9189622",OSC / ONG,,ACNUR servicios
 ACNUR Agencia de la ONU para los Regufiados,Centros de Atención Social,17.9535286,-94.9162539,"17.9535286, -94.9162539",OSC / ONG,,ACNUR servicios
@@ -1074,7 +1074,7 @@ Jtatic Samuel Ruiz,Centros de Atención Social,17.5382112,-91.9882207,"17.538211
 DIF Estatal Guerrero,DIF,17.53317072,-99.49359247,"17.533170721972, -99.49359247465333",GOB,"Gabriel Leyva s/n, esq. Ruffo Figueroa, Col. Burocratas, C.P. 39000, Chilpancingo de los Bravo, Gro.",Directorio OIM
 "COMAR - Palenque, Chiapas",COMAR,17.51949981,-91.99241816,"17.519499813432276, -91.99241816115935",GOB,"Carretera Playas de Catazaja-Ocosingo, Km. 26 A + 100. Col Guayacan, C.P. 29960.",COMAR
 Grupo Beta Palenque,Grupos Beta,17.51872148,-91.99331582,"17.518721482890168, -91.99331581566538",OSC / ONG,"Carretera Palenque - Playas de Catazajá, Ocosingo, Km 26 + 100, Lado A, Col. Guayacán, C.P. 29960, Palenque, Chiapas",Directorio OIM
-Grupo Beta (INM),Centros de Atención Social,17.5185836,-91.9934228,"17.5185836, -91.9934228",OSC / ONG,,ACNUR servicios
+Grupo Beta (INM),Grupos Beta,17.5185836,-91.9934228,"17.5185836, -91.9934228",OSC / ONG,,ACNUR servicios
 Estación Migratoria (INM),Centros de Atención Social,17.5184334,-91.9929122,"17.5184334, -91.9929122",OSC / ONG,,ACNUR servicios
 Unidad Deportiva Municipal,Centros de Atención Social,17.5139501,-91.9786857,"17.5139501, -91.9786857",OSC / ONG,,ACNUR servicios
 Cruz Roja ,Centros de Atención Social,17.5138951,-91.9986564,"17.5138951, -91.9986564",OSC / ONG,,ACNUR servicios
@@ -1098,12 +1098,12 @@ Instituto de Formación Para El Trabajador del Estado de Tabasco,Centros de Aten
 La72: Hogar-Refugio para personas migrantes,Centros de Atención Social,17.47213825,-91.40776533,"17.47213825, -91.40776532633315",OSC / ONG,"Prolongacion 20 S/N, Estacion Nueva 86901, Tenosique de Pino Suárez, Tabasco,Tenosique, Tabasco",redes
 Biblioteca Publica Muncipal,Centros de Atención Social,17.4712146,-91.4225261,"17.4712146, -91.4225261",OSC / ONG,,ACNUR servicios
 Jurisdicción Sanitaria Tenosique,Centros de Atención Social,17.4698877,-91.4248967,"17.4698877, -91.4248967",OSC / ONG,,ACNUR servicios
-"COMAR - Tenosique, Tabasco",COMAR,17.46970192289758,-91.43035837908076,"17.46970192289758, -91.43035837908077",GOB,Calle 2 S/N esquina Calle 55. Col. Pueblo Nuevo. C.P. 86900,COMAR
-Comisión Mexicana de Ayuda a Refugiados COMAR ,Centros de Atención Social,17.4696751,-91.4303754,"17.4696751, -91.4303754",OSC / ONG,,ACNUR servicios
+"COMAR - Tenosique, Tabasco",COMAR,17.46970192,-91.43035838,"17.46970192289758, -91.43035837908077",GOB,Calle 2 S/N esquina Calle 55. Col. Pueblo Nuevo. C.P. 86900,COMAR
+Comisión Mexicana de Ayuda a Refugiados COMAR ,COMAR,17.4696751,-91.4303754,"17.4696751, -91.4303754",OSC / ONG,,ACNUR servicios
 Hospital Comunitario de Tenosique,Centros de Atención Social,17.4691885,-91.4117654,"17.4691885, -91.4117654",OSC / ONG,,ACNUR servicios
 Centro Ambulatorio para la Prevención y Atención en SIDA e Infecciones de Transmisión Sexual (CAPASITS),Centros de Atención Social,17.4689988,-91.4128734,"17.4689988, -91.4128734",OSC / ONG,,ACNUR servicios
 Instituto de Educación para Adultos,Centros de Atención Social,17.4689259,-91.4227222,"17.4689259, -91.4227222",OSC / ONG,,ACNUR servicios
-DIF Tenosique,Centros de Atención Social,17.4686029,-91.4188445,"17.4686029, -91.4188445",OSC / ONG,,ACNUR servicios
+DIF Tenosique,DIF,17.4686029,-91.4188445,"17.4686029, -91.4188445",OSC / ONG,,ACNUR servicios
 "Procuraduría Municipal de Protección a Niñas, Niños y Adolescentes",Centros de Atención Social,17.4683971,-91.4188461,"17.4683971, -91.4188461",OSC / ONG,,ACNUR servicios
 Grupo Beta Tenosique,Grupos Beta,17.4682288,-91.42182442,"17.468228801284518, -91.42182442126537",OSC / ONG,"Calle 25 No. 638 entre la 46 y 50, Col. Cocoyol, C.P. 86902, Tenosique, Tabasco.",Directorio OIM
 Visitaduría Regional de Población Migrante y Grupos Vulnerables de la Frontera Sur pertenecientes a la Comisión Estatal de los Derechos Humanos,Centros de Atención Social,17.4678876,-91.4240857,"17.4678876, -91.4240857",OSC / ONG,,ACNUR servicios
@@ -1148,7 +1148,7 @@ Agencia Consular de Guatemala en Comitán de Domínguez,Oficina Consular,16.2504
 Grupo Beta Comitán,Grupos Beta,16.2472069,-92.1452141,"16.2472069, -92.1452141",OSC / ONG,"Calle Central Poniente, Benito Juárez No. 130, esq. con 9na Poniente, Col. Barrio Candelaria, C.P. 30060, Comitán de Domínguez, Chiapas.",Directorio OIM
 Agencia Consular de El Salvador en Comitán de Domínguez,Oficina Consular,16.244695,-92.1421749,"16.244695, -92.1421749",GOB,"3a. Calle Sur Poniente 3, Barrio de San José, Col. Centro, C.P. 30030, Comitán",Directorio OIM
 Agencia Consular de El Salvador en Arriaga,Oficina Consular,16.23887677,-93.89837334,"16.238876768525408, -93.89837333713207",GOB,"Av. Central s/n, entre 2a y 4a 22 Sur Poniente, C.P. 30450, Arriaga",Directorio OIM
-Agencia Consular de Guatemala en Arriaga,Oficina Consular,16.236244809041146,-93.8979013585973,"16.236244809041146, -93.8979013585973",GOB,"Calle Primera Nte 136, Centro, Capricho, 30450 Arriaga, Chis.",Directorio OIM
+Agencia Consular de Guatemala en Arriaga,Oficina Consular,16.23624481,-93.89790136,"16.236244809041146, -93.8979013585973",GOB,"Calle Primera Nte 136, Centro, Capricho, 30450 Arriaga, Chis.",Directorio OIM
 El Faro de Esperanza A. C.,Centros de Atención Social,16.2355405,-93.90028174,"16.23554050209915, -93.90028174030017",OSC / ONG,"Carretera Panamericana Km. 980, Cintalapa, Chiapas.",Directorio OIM
 Hogar de la Misericordia,Centros de Atención Social,16.23520437,-93.89927484,"16.235204373530166, -93.89927483980574",OSC / ONG,"5ta. Sur 1420, Col. Playa fina C.P. 30450",Directorio OIM
 Grupo Beta Arriaga,Grupos Beta,16.2061474,-93.85365426,"16.206147402035015, -93.85365425987064",OSC / ONG,"4ta Calle Sur No. 108-B, entre Av. Ferrocarril y 1ra Poniente, Col. Centro, C.P. 30450, Arriaga, Chiapas.",Directorio OIM
@@ -1192,7 +1192,7 @@ Servicio Jesuita para Refugiados,Centros de Atención Social,14.9059916,-92.2611
 Consulado de Honduras,Consulados,14.9057185,-92.2646867,"14.9057185, -92.2646867",OSC / ONG,,ACNUR servicios
 Cruz Roja Méxicana,Centros de Atención Social,14.9048102,-92.2581812,"14.9048102, -92.2581812",OSC / ONG,,ACNUR servicios
 Centro de Registro y Asistencia Humanitaria  CERAH - ACNUR,Centros de Atención Social,14.9046668,-92.2607145,"14.9046668, -92.2607145",OSC / ONG,,ACNUR servicios
-Consulado General de El Salvador en Tapachula,Oficina Consular,14.904385864444397,-92.26479186047308,"14.904385864444395, -92.26479186047307",GOB,"Central Sur 43, Los Naranjos, Centro, 30830 Tapachula de Córdova y Ordoñez, Chis.",Directorio OIM
+Consulado General de El Salvador en Tapachula,Oficina Consular,14.90438586,-92.26479186,"14.904385864444395, -92.26479186047307",GOB,"Central Sur 43, Los Naranjos, Centro, 30830 Tapachula de Córdova y Ordoñez, Chis.",Directorio OIM
 "Dando Amor, Vida y Esperanza, A.C.",Centros de Atención Social,14.90381924,-92.25491425,"14.903819238542926, -92.25491425316577",OSC / ONG,"15 Norte 9, Col. Centro C.P. 30700",Directorio OIM
 "Centro de Día: Centro de Atención a Niños, Niñas y Jóvenes Migrantes",Centros de Atención Social,14.9024114,-92.2622439,"14.9024114, -92.2622439",OSC / ONG,,ACNUR servicios
 Consulado de Nicaragua,Consulados,14.9019174,-92.2470549,"14.9019174, -92.2470549",OSC / ONG,,ACNUR servicios
