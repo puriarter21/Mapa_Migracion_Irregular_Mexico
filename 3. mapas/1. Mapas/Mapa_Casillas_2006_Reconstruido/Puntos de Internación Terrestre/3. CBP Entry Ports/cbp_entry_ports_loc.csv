@@ -1,0 +1,60 @@
+PedWest,SYS,Virginia Avenue,"San Ysidro, California",Puerta Oeste,Plaza Viva Tijuana,"Tijuana, Baja California",Pedestrian only; southbound in to MX has limited hours.,2016
+San Ysidro,SYS, I-5,"San Ysidro, California",El Chaparral, Fed. 1,"Tijuana, Baja California",No Trucks,1906
+San Ysidro Pedestrian,SYS,San Ysidro Boulevard,"San Ysidro, California",Puerta Este,Rampa Xicoténcatl,"Tijuana, Baja California",Pedestrian only,1906
+"Cross-border Terminal, Tijuana International Airport",OTM,Otay Pacific Drive,"Otay Mesa, California",Tijuana International Airport,"Carretera Aeropuerto S/N, colonia Nueva Tijuana","Tijuana, Baja California","Pedestrian only, ticketed passengers only",2015
+Otay Mesa,OTM, SR 905,"Otay Mesa, California",Mesa de Otay,Boulevard Garita de Otay,"Tijuana, Baja California",,1983
+Tecate,TEC, SR 188,"Tecate, California",Tecate,Avenida Presidente Lázaro Cárdenas,"Tecate, Baja California",,1919
+Calexico West,CAL,Cesar Chavez Boulevard,"Calexico, California",Mexicali,Calzada de los Presidentes,"Mexicali, Baja California",No Trucks,1902
+Calexico West Pedestrian,CAL,E. 1st. Street,"Calexico, California",Mexicali,Calle Agustín Melgar,"Mexicali, Baja California",Pedestrian only,1902
+Calexico East,IVP, SR 7,"Calexico, California",Mexicali,Boulevard Abelardo L. Rodríguez,"Mexicali, Baja California",,1996
+Andrade,AND, SR 186,"Andrade, California",Los Algodones,Ave. Mariano Lee y calle 2a.,,,
+San Luis,SLU, US 95,"San Luis, Arizona",San Luis Río Colorado,Calle 1,"San Luis Río Colorado, Sonora",No Trucks,1930
+San Luis II,SLU, SR 195,"San Luis, Arizona",San Luis Río Colorado 2, Fed. 2,"San Luis Río Colorado, Sonora",,2010
+Lukeville,LUK, SR 85,"Lukeville, Arizona",Sonoyta, Fed. 8 (Benemérito de las Americas),"Sonoyta, Sonora",,1949
+Sasabe,SAS, SR 286,"Sasabe, Arizona",Sasabe,Calle Sásabe,"El Sásabe, Sonora",,1916
+Nogales–Mariposa,NOG, SR 189,"Nogales, Arizona",Mariposa, Fed. 15D,"Nogales, Sonora",,1973
+Nogales-Grand Avenue,NOG, BL 19,"Nogales, Arizona",Nogales, Fed. 15,"Nogales, Sonora",No Trucks,1903
+Nogales-Morley Gate,NOG,Morley Avenue,"Nogales, Arizona",Nogales,Plutarco Elias Calles,"Nogales, Sonora",Pedestrians only,1913
+Naco,NAC,D Street,"Naco, Arizona",Naco,Avenida Francisco I Madera,"Naco, Sonora",,1900
+Douglas,DOU,Picture,"Douglas, Arizona",Agua Prieta,Calzada Panamericana,"Agua Prieta, Sonora",,1914
+,, US 191 Bus. (Pan American Avenue),,,,,,
+Antelope Wells,ANP, NM 81,"Antelope Wells, New Mexico",El Berrendo,Carretera El Berrendo-Janos,"El Berrendo, Chihuahua",,1928
+Columbus,COL, NM 11 (Ike Smalley Memorial Highway),"Columbus, New Mexico",Palomas, Fed. 2 spur,"Puerto Palomas, Chihuahua",,1902
+Santa Teresa,STR, NM 136 (Pete Domenici Boulevard),"Santa Teresa, New Mexico",San Jeronimo,Carretera Samalayuca el Oasis,"San Jerónimo, Chihuahua",,1992
+Santa Teresa Livestock export-import facility,STR, NM 136 (Binational Avenue),"Santa Teresa, New Mexico",San Jeronimo,Carretera Anapra-San Jeronimo,"San Jerónimo, Chihuahua","Livestock only (no trucks, no cars, no pedestrians)",?
+El Paso-PDN,PDN,El Paso Street,"El Paso, Texas",Santa Fe,Vial Juan Gabriel,"Ciudad Juárez, Chihuahua",One-way northbound only; no trucks; two-way for pedestrians; Paso del Norte International Bridge,1898
+El Paso-Stanton,ELP, US 85 (Stanton Street),"El Paso, Texas",Lerdo,Calle Lerdo,"Ciudad Juárez, Chihuahua",Northbound SENTRI-only and Southbound; Stanton Street Bridge,1898
+El Paso–BOTA,BOA, I-110,"El Paso, Texas",Cordova, Fed. 45 (Avd. Abraham Lincoln),"Ciudad Juárez, Chihuahua",Bridge of the Americas,1967
+El Paso–Ysleta,YSL,Zaragoza Road,"El Paso, Texas",Zaragoza,Avenida Zaragoza,"Ciudad Juárez, Chihuahua",Ysleta–Zaragoza International Bridge,1938
+Tornillo,FAB, FM 3380,"Tornillo, Texas",Guadalupe, Fed. 2,"Guadalupe, Chihuahua",Tornillo-Guadalupe Bridge,2014
+Fort Hancock,FHK, FM 1088,"Fort Hancock, Texas",El Porvenir,Praxedis Guerrero,"El Porvenir, Chihuahua",Fort Hancock – El Porvenir International Bridge; no trucks,1936
+Presidio,PRE, US 67,"Presidio, Texas",Ojinaga, Fed. 16,"Ojinaga, Chihuahua",Presidio–Ojinaga International Bridge,1917
+Boquillas,,Big Bend National Park,"Big Bend, Texas",Boquillas del Carmen,,"Boquillas del Carmen, Coahuila","Crossing re-opened in April, 2013. Transit of the Rio Grande can be accomplished by foot, burro or rowboat. Motor vehicles are not permitted. Border crossing is staffed by NPS rangers. People entering the US must report for inspection using video kiosks. There are also border services on the Mexico side.[2]",2013
+Amistad Dam,ADT, Spur 349,"Del Rio, Texas",La Amistad, Fed. 2,"Ciudad Acuña, Coahuila",Amistad Dam; no trucks,1969
+Del Rio,DLR, Spur 239,"Del Rio, Texas",Acuña,Francisco Javier Mina,"Ciudad Acuña, Coahuila",Del Río – Ciudad Acuña International Bridge,1919
+Eagle Pass,EGP, US 57,"Eagle Pass, Texas",Piedras Negras, Fed. 57,"Piedras Negras, Coahuila",Eagle Pass – Piedras Negras International Bridge; no trucks,1896
+Eagle Pass II,FDE,South Adams,"Eagle Pass, Texas",Piedras Negras 2,Libramiento Sur,"Piedras Negras, Coahuila",Camino Real International Bridge,1999
+Laredo–Colombia Solidarity,LCB, SH 255,"Laredo, Texas",Colombia,Nuevo Leon State Highway Spur 1,"Colombia, Nuevo León",Laredo Bridge 3,1991
+,,,,,,,(Colombia – Solidarity International Bridge),
+Laredo-World Trade,LWT, I-69W,"Laredo, Texas",Nuevo Laredo, Fed. 85D,"Nuevo Laredo, Tamaulipas",Laredo Bridge 4; no cars or pedestrians - commercial vehicles only,2000
+,, US 59,,,,,,
+,, Loop 20,,,,,,
+Laredo Bridge 1,LAR,Convent Ave,"Laredo, Texas",Nuevo Laredo,Avenida Guerrero,"Nuevo Laredo, Tamaulipas",Laredo Bridge 1; no trucks,1898
+Laredo-Juarez/Lincoln,LLB, I-35 BL (San Dario Avenue),"Laredo, Texas",Nuevo Laredo, Fed. 85 (Boulevard Leandro Valle),"Nuevo Laredo, Tamaulipas",Laredo Bridge 2,1976
+,,,,,,,(Juárez–Lincoln International Bridge); no trucks,
+Falcon Dam,FAL, FM 2098 Spur,"Falcon Heights, Texas",Guerrero,Blas de la Garza Falcon,"Nueva Ciudad Guerrero, Tamaulipas",Falcon Dam; no trucks,1954
+Roma,ROM,Estrella Street,"Roma, Texas",Miguel Aleman,Avenida Venustiano Carranza,"Ciudad Miguel Alemán, Tamaulipas",Roma – Ciudad Miguel Alemán International Bridge,1928
+Rio Grande City,RIO,Pete Díaz Avenue,"Rio Grande City, Texas",Camargo,Boulevard Ensenada,"Ciudad Camargo, Tamaulipas",Rio Grande City – Camargo International Bridge,1905
+Los Ebanos,LSE,Flores Street,"Los Ebanos, Texas",Diaz Ordaz,Avenida Adolfo Lopez Mateo,"Gustavo Díaz Ordaz, Tamaulipas",hand-pulled ferry crossing; no trucks,1950
+Anzalduas,ANZ,Bryan Road,"Mission, Texas",Anzalduas,Reynosa-Monterrey Highway,"Reynosa, Tamaulipas",Anzalduas International Bridge; no trucks until 2015,2009
+Hidalgo,HID,South International Boulevard,"Hidalgo, Texas",Reynosa,Luis Echeverria Alvarez,"Reynosa, Tamaulipas",McAllen–Hidalgo–Reynosa International Bridge,1905
+Pharr,PHR, Spur 600 (South Cage Boulevard),"Pharr, Texas",Reynosa,Av Puente Pharr,"Reynosa, Tamaulipas",Pharr–Reynosa International Bridge,1994
+Donna,DNA, FM 493,"Donna, Texas",Río Bravo,Carretera Reynosa-Matamoros,"Río Bravo, Tamaulipas",Donna – Río Bravo International Bridge,2010
+,,,,,,,(Alliance International Bridge); no trucks,
+Progreso,PGR, FM 1015,"Progreso, Texas",Nuevo Progreso,Benito Juarez,"Nuevo Progreso, Río Bravo, Tamaulipas",Progreso – Nuevo Progreso International Bridge,1952
+Los Indios,IND, FM 509 (Cantu Road),"Los Indios, Texas",Lucio Blanco,Carretera Reynosa-Matamoros,"Matamoros, Tamaulipas",Free Trade International Bridge,1992
+Brownsville - B&M,BBM,Mexico Street,"Brownsville, Texas",Matamoros,Las Americas,"Matamoros, Tamaulipas",Brownsville & Matamoros International Bridge; no trucks,1909
+Brownsville - Gateway,GTW, SH 4 (International Boulevard),"Brownsville, Texas",Matamoros,Alvaro Obregon,"Matamoros, Tamaulipas",Gateway International Bridge; no trucks,1926
+Brownsville - Veterans,BRO, I-69E,"Brownsville, Texas",Matamoros,Avenida 5 de Mayo,"Matamoros, Tamaulipas",Veterans International Bridge at Los Tomates,1999
+,, US 77,,,,,,
+,, US 83,,,,,,
