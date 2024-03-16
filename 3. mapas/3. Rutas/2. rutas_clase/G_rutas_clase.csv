@@ -1,0 +1,26 @@
+ciudad,estado,ruta,latitud,longitud,codigo_ruta,etiqueta,posicion_diagonal
+"Orizaba, Veracruz",Veracruz,Ruta del Golfo,18.8497366,-97.1060062,G,G1,-78.2562696
+"Cordoba, Veracruz",Veracruz,Ruta del Golfo,18.8944704,-96.9352891,G,G2,-78.0408187
+"Tierra Blanca, Veracruz",Veracruz,Ruta del Golfo,18.5272475,-96.21520077487332,G,G3,-77.68795327487331
+"Xalapa, Veracruz",Veracruz,Ruta del Golfo,19.5408338,-96.9146374,G,G4,-77.3738036
+"Medias Aguas, Veracruz",Veracruz,Ruta del Golfo,17.666944,-95.029444,G,G5,-77.3625
+"Veracruz, Veracruz",Veracruz,Ruta del Golfo,19.333333,-96.666667,G,G6,-77.33333400000001
+"Poza Rica, Veracruz",Veracruz,Ruta del Golfo,20.53765745,-97.44512479987276,G,G7,-76.90746734987276
+"Papantla, Veracruz",Veracruz,Ruta del Golfo,20.445872100000003,-97.32327774944926,G,G8,-76.87740564944926
+"Minatitlan, Veracruz",Veracruz,Ruta del Golfo,17.992773,-94.5567103,G,G9,-76.5639373
+"Tuxpan, Veracruz",Veracruz,Ruta del Golfo,20.95647915,-97.40738177120748,G,G10,-76.45090262120746
+"Las Choapas, Veracruz",Veracruz,Ruta del Golfo,17.56348585,-93.94000863532293,G,G11,-76.37652278532292
+"Coatzacoalcos, Veracruz",Veracruz,Ruta del Golfo,18.1396787,-94.4501731,G,G12,-76.3104944
+"Ciudad Mante, Tamaulipas",Tamaulipas,Ruta del Golfo,22.7411278,-98.9714093,G,G13,-76.2302815
+"Tampico, Tamaulipas",Tamaulipas,Ruta del Golfo,22.2157619,-97.8577713,G,G14,-75.64200939999999
+"Altamira, Tamaulipas",Tamaulipas,Ruta del Golfo,22.3921625,-97.9362975,G,G15,-75.544135
+"Villahermosa, Tabasco",Tabasco,Ruta del Golfo,17.9884657,-92.9366326,G,G16,-74.94816689999999
+"Monterrey, Nuevo Leon",Nuevo Leon,Ruta del Golfo,25.6802019,-100.315258,G,G17,-74.6350561
+"Tenosique, Tabasco",Tabasco,Ruta del Golfo,17.4707129,-91.4220212,G,G18,-73.95130830000001
+"Ciudad Miguel Aleman, Tamaulipas",Tamaulipas,Ruta del Golfo,26.4032518,-99.0202676,G,G19,-72.61701579999999
+"Ciudad Camargo, Tamaulipas",Tamaulipas,Ruta del Golfo,26.3159794,-98.8326371,G,G20,-72.5166577
+"Diaz Ordaz, Tamaulipas",Tamaulipas,Ruta del Golfo,26.2325413,-98.5962127,G,G21,-72.36367139999999
+"Reynosa, Tamaulipas",Tamaulipas,Ruta del Golfo,26.0907673,-98.2788191,G,G22,-72.18805180000001
+"Nuevo Laredo, Tamaulipas",Tamaulipas,Ruta del Golfo,27.4950571,-99.5074431,G,G23,-72.012386
+"Nuevo Progreso, Tamaulipas",Tamaulipas,Ruta del Golfo,26.0544108,-97.9518067,G,G24,-71.8973959
+"Matamoros, Tamaulipas",Tamaulipas,Ruta del Golfo,25.8810158,-97.5064866,G,G25,-71.6254708

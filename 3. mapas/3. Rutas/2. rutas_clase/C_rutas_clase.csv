@@ -1,0 +1,32 @@
+ciudad,estado,ruta,latitud,longitud,codigo_ruta,etiqueta,posicion_diagonal
+"El Mezquital, Durango",Durango,Ruta Centro,23.4137533,-104.4292148,C,C1,-81.0154615
+"Irapuato, Guanajuato",Guanajuato,Ruta Centro,20.6758761,-101.3521052,C,C2,-80.6762291
+"Salamanca, Guanajuato",Guanajuato,Ruta Centro,20.571358,-101.192444,C,C3,-80.62108599999999
+"Leon, Guanajuato",Guanajuato,Ruta Centro,21.1218598,-101.6825081,C,C4,-80.56064830000001
+"Aguascalientes, Aguascalientes",Aguascalientes,Ruta Centro,22.0000001,-102.5000001,C,C5,-80.5
+"Celaya, Guanajuato",Guanajuato,Ruta Centro,20.521788,-100.8140458,C,C6,-80.2922578
+"Zacatecas, Zacatecas",Zacatecas,Ruta Centro,23.0823582,-103.20856984509813,C,C7,-80.12621164509811
+"Durango, Durango",Durango,Ruta Centro,24.833333,-104.833333,C,C8,-80.0
+"Queretaro, Queretaro",Queretaro,Ruta Centro,20.5927744,-100.3902245,C,C9,-79.7974501
+"Ciudad de Mexico, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,19.4326296,-99.1331785,C,C10,-79.7005489
+"Lecheria, Estado de Mexico",Estado de Mexico,Ruta Centro,19.602439,-99.18329510350333,C,C11,-79.58085610350332
+"Tultitlan, Estado de Mexico",Estado de Mexico,Ruta Centro,19.61699125,-99.15927745045197,C,C12,-79.54228620045195
+"Tula, Hidalgo",Hidalgo,Ruta Centro,20.051702,-99.3450677,C,C13,-79.29336570000001
+"Puebla, Puebla",Puebla,Ruta Centro,18.833333,-98.0,C,C14,-79.166667
+"Tehuacan, Puebla",Puebla,Ruta Centro,18.4599877,-97.3903616,C,C15,-78.9303739
+"Tlaxcala, Tlaxcala",Tlaxcala,Ruta Centro,19.416667,-98.166667,C,C16,-78.75
+"Apizaco, Tlaxcala",Tlaxcala,Ruta Centro,19.415556,-98.14,C,C17,-78.724444
+"Pachuca, Hidalgo",Hidalgo,Ruta Centro,20.1165413,-98.7413535,C,C18,-78.62481220000001
+"Tulancingo, Hidalgo",Hidalgo,Ruta Centro,20.0839585,-98.3635381,C,C19,-78.2795796
+"San Luis Potosi, San Luis Potosi",San Luis Potosi,Ruta Centro,22.5000001,-100.4949145,C,C20,-77.9949144
+"Torreon, Coahuila",Coahuila,Ruta Centro,25.542698,-103.410512,C,C21,-77.867814
+"Benito Juarez, Chihuahua",Chihuahua,Ruta Centro,29.1667478,-106.95868,C,C22,-77.7919322
+"Tamazunchale, San Luis Potosi",San Luis Potosi,Ruta Centro,21.2618403,-98.7907425,C,C23,-77.52890219999999
+"Chihuahua, Chihuahua",Chihuahua,Ruta Centro,28.5000001,-106.0000001,C,C24,-77.5
+"Ciudad Valles, San Luis Potosi",San Luis Potosi,Ruta Centro,21.9916551,-99.0102967,C,C25,-77.0186416
+"Saltillo, Coahuila",Coahuila,Ruta Centro,25.4230425,-100.9927509,C,C26,-75.5697084
+"Ojinaga, Chihuahua",Chihuahua,Ruta Centro,29.5654282,-104.4128523,C,C27,-74.8474241
+"Ciudad Juarez, Chihuahua",Chihuahua,Ruta Centro,31.7372575,-106.485655,C,C28,-74.7483975
+"Monclova, Coahuila",Coahuila,Ruta Centro,26.8999988,-101.4171173,C,C29,-74.51711850000001
+"Piedras Negras, Coahuila",Coahuila,Ruta Centro,28.7041725,-100.5148362,C,C30,-71.8106637
+"Ciudad Acuna, Coahuila",Coahuila,Ruta Centro,29.3248796,-100.9322287,C,C31,-71.6073491

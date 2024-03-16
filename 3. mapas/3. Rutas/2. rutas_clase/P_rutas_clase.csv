@@ -1,0 +1,38 @@
+ciudad,estado,ruta,latitud,longitud,codigo_ruta,etiqueta,posicion_diagonal
+"Isla de Cedros, Baja California",Baja California,Ruta del Pacifico,28.0963636,-115.1885764,P,P1,-87.0922128
+"Cabo San Lucas, Baja California Sur",Baja California Sur,Ruta del Pacifico,22.8938884,-109.92006,P,P2,-87.0261716
+"Pichilingue, Baja California Sur",Baja California Sur,Ruta del Pacifico,24.1181726,-110.3157458,P,P3,-86.1975732
+"La Paz, Baja California Sur",Baja California Sur,Ruta del Pacifico,24.1619948,-110.3158532,P,P4,-86.1538584
+"Guerrero Negro, Baja California Sur",Baja California Sur,Ruta del Pacifico,27.9709506,-114.036389,P,P5,-86.0654384
+"Barra de Navidad, Jalisco",Jalisco,Ruta del Pacifico,19.2056444,-104.6820897,P,P6,-85.47644530000001
+"Loreto, Baja California Sur",Baja California Sur,Ruta del Pacifico,26.0097913,-111.3452523,P,P7,-85.335461
+"Manzanillo, Colima",Colima,Ruta del Pacifico,19.0506256,-104.3159957,P,P8,-85.2653701
+"Santa Rosalia, Baja California Sur",Baja California Sur,Ruta del Pacifico,27.3364279,-112.2680462,P,P9,-84.9316183
+"Punta Chivato, Baja California Sur",Baja California Sur,Ruta del Pacifico,27.0686798,-111.9637299,P,P10,-84.8950501
+"Isla San Marcos, Baja California Sur",Baja California Sur,Ruta del Pacifico,27.18797,-112.0800646,P,P11,-84.89209460000001
+"El Sauzal, Baja California",Baja California,Ruta del Pacifico,31.8932996,-116.6912627,P,P12,-84.7979631
+"Ensenada, Baja California",Baja California,Ruta del Pacifico,31.8658887,-116.602983,P,P13,-84.7370943
+"Nuevo Vallarta, Nayarit",Nayarit,Ruta del Pacifico,20.7027575,-105.2885106,P,P14,-84.58575309999999
+"Puerto Vallarta, Jalisco",Jalisco,Ruta del Pacifico,20.6407176,-105.220306,P,P15,-84.57958839999999
+"Tijuana, Baja California",Baja California,Ruta del Pacifico,32.5317397,-117.019529,P,P16,-84.4877893
+"Lazaro Cardenas, Michoacan",Michoacan,Ruta del Pacifico,17.9594769,-102.198659,P,P17,-84.23918210000001
+"Ixtapa, Guerrero",Guerrero,Ruta del Pacifico,17.6640299,-101.6107384,P,P18,-83.9467085
+"Zihuatanejo, Guerrero",Guerrero,Ruta del Pacifico,17.6467874,-101.551974,P,P19,-83.90518660000001
+"Tepic, Nayarit",Nayarit,Ruta del Pacifico,21.5119156,-104.8915889,P,P20,-83.37967330000001
+"Mazatlan, Sinaloa",Sinaloa,Ruta del Pacifico,23.2035785,-106.4208391,P,P21,-83.2172606
+"Los Mochis, Sinaloa",Sinaloa,Ruta del Pacifico,25.7928058,-108.990188,P,P22,-83.1973822
+"Acapulco, Guerrero",Guerrero,Ruta del Pacifico,16.8680495,-99.8940182,P,P23,-83.0259687
+"Guaymas, Sonora",Sonora,Ruta del Pacifico,27.9216441,-110.8994059,P,P24,-82.9777618
+"Mexicali, Baja California",Baja California,Ruta del Pacifico,32.6405247,-115.474899,P,P25,-82.8343743
+"Guadalajara, Jalisco",Jalisco,Ruta del Pacifico,20.6720375,-103.338396,P,P26,-82.6663585
+"Uruapan, Michoacan",Michoacan,Ruta del Pacifico,19.4147269,-102.0522647,P,P27,-82.63753779999999
+"Sinaloa, Sinaloa",Sinaloa,Ruta del Pacifico,25.0000001,-107.5000001,P,P28,-82.5
+"San Luis Rio Colorado, Sonora",Sonora,Ruta del Pacifico,32.4517957,-114.7652542,P,P29,-82.3134585
+"Zamora, Michoacan",Michoacan,Ruta del Pacifico,19.9828948,-102.28363,P,P30,-82.3007352
+"Puerto Penasco, Sonora",Sonora,Ruta del Pacifico,31.3170867,-113.531819,P,P31,-82.2147323
+"Morelia, Michoacan",Michoacan,Ruta del Pacifico,19.7027116,-101.1923818,P,P32,-81.4896702
+"Sonoyta, Sonora",Sonora,Ruta del Pacifico,31.863444,-112.849739,P,P33,-80.986295
+"Sasabe, Sonora",Sonora,Ruta del Pacifico,31.4742939,-111.5450714,P,P34,-80.07077749999999
+"Nogales, Sonora",Sonora,Ruta del Pacifico,31.3285057,-110.9450472,P,P35,-79.61654150000001
+"Naco, Sonora",Sonora,Ruta del Pacifico,31.3229703,-109.9459547,P,P36,-78.6229844
+"Agua Prieta, Sonora",Sonora,Ruta del Pacifico,31.3330151,-109.5594265,P,P37,-78.2264114
