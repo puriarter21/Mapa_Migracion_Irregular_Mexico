@@ -1,0 +1,25 @@
+ciudad,estado,ruta,latitud,longitud,codigo_ruta,etiqueta,posicion_diagonal
+"Puerto Escondido, Oaxaca",Oaxaca,Ruta Sur,15.8693331,-97.0726428,S,S1,-81.20330969999999
+"San Pedro Pochutla, Oaxaca",Oaxaca,Ruta Sur,15.744444,-96.465278,S,S2,-80.720834
+"Huatulco, Oaxaca",Oaxaca,Ruta Sur,15.8337711,-96.3214401,S,S3,-80.48766900000001
+"Oaxaca, Oaxaca",Oaxaca,Ruta Sur,17.0,-96.5,S,S4,-79.5
+"Salina Cruz, Oaxaca",Oaxaca,Ruta Sur,16.1825,-95.195833,S,S5,-79.01333299999999
+"Ixtepec, Oaxaca",Oaxaca,Ruta Sur,16.5564139,-95.0959653,S,S6,-78.53955140000001
+"Juchitan de Zaragoza, Oaxaca",Oaxaca,Ruta Sur,16.413328999999997,-94.9118794582709,S,S7,-78.4985504582709
+"San Gregorio Chamicico, Oaxaca",Oaxaca,Ruta Sur,18.313889,-96.795556,S,S8,-78.481667
+"Chahuitea, Oaxaca",Oaxaca,Ruta Sur,16.2885299,-94.1942777,S,S9,-77.9057478
+"Puerto Madero, Chiapas",Chiapas,Ruta Sur,14.7157931,-92.4184006,S,S10,-77.7026075
+"Arriaga, Chiapas",Chiapas,Ruta Sur,16.2344709,-93.9008414,S,S11,-77.6663705
+"Tapachula, Chiapas",Chiapas,Ruta Sur,14.9042905,-92.2609265,S,S12,-77.356636
+"Tuxtla Gutierrez, Chiapas",Chiapas,Ruta Sur,16.753801,-93.115959,S,S13,-76.36215800000001
+"Ciudad Cuauhtemoc, Chiapas",Chiapas,Ruta Sur,15.6661005,-92.0037873,S,S14,-76.3376868
+"San Cristobal de las Casas, Chiapas",Chiapas,Ruta Sur,16.6835469,-92.61551841991157,S,S15,-75.93197151991157
+"Comitan, Chiapas",Chiapas,Ruta Sur,16.2441097,-92.1348514,S,S16,-75.8907417
+"Palenque, Chiapas",Chiapas,Ruta Sur,17.509188,-91.980922,S,S17,-74.471734
+"Campeche, Campeche",Campeche,Ruta Sur,19.0,-90.5,S,S18,-71.5
+"Francisco Villa, Quintana Roo",Quintana Roo,Ruta Sur,18.4783097,-88.8429446,S,S19,-70.3646349
+"Chetumal, Quintana Roo",Quintana Roo,Ruta Sur,18.5081738,-88.297144,S,S20,-69.7889702
+"Merida, Yucatan",Yucatan,Ruta Sur,20.9670759,-89.6237402,S,S21,-68.6566643
+"Cozumel, Quintana Roo",Quintana Roo,Ruta Sur,20.4320599,-86.92069058377268,S,S22,-66.48863068377268
+"Playa del Carmen, Quintana Roo",Quintana Roo,Ruta Sur,20.6308643,-87.0779503,S,S23,-66.447086
+"Cancun, Quintana Roo",Quintana Roo,Ruta Sur,21.1617854,-86.8510468,S,S24,-65.6892614
