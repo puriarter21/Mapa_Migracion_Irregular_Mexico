@@ -1,0 +1,87 @@
+ciudad,estado,ruta,latitud,longitud,codigo_ruta,etiqueta
+"Irapuato, Guanajuato",Guanajuato,Ruta Centro,20.6758761,-101.3521052,C,C1
+"Durango, Durango",Durango,Ruta Centro,24.022008,-104.654741,C,C2
+"Salamanca, Guanajuato",Guanajuato,Ruta Centro,20.65232455,-101.16684156787477,C,C3
+"Leon, Guanajuato",Guanajuato,Ruta Centro,21.0792557,-101.5897695,C,C4
+"Aguascalientes, Aguascalientes",Aguascalientes,Ruta Centro,21.880487,-102.2967195,C,C5
+"Celaya, Guanajuato",Guanajuato,Ruta Centro,20.521788,-100.8140458,C,C6
+"Queretaro, Queretaro",Queretaro,Ruta Centro,20.5954708,-100.397059,C,C7
+"Zacatecas, Zacatecas",Zacatecas,Ruta Centro,22.7753891,-102.5722706,C,C8
+"Ciudad de Mexico, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,19.3997047,-99.1248161,C,C9
+"Lecheria, Estado de Mexico",Estado de Mexico,Ruta Centro,19.6122242,-98.97079353436794,C,C10
+"Tula, Hidalgo",Hidalgo,Ruta Centro,20.051702,-99.3450677,C,C11
+"Puebla, Puebla",Puebla,Ruta Centro,19.0437196,-98.1981486,C,C12
+"Tehuacan, Puebla",Puebla,Ruta Centro,18.4599877,-97.3903616,C,C13
+"Tlaxcala, Tlaxcala",Tlaxcala,Ruta Centro,19.3167101,-98.2386138,C,C14
+"San Luis Potosi, San Luis Potosi",San Luis Potosi,Ruta Centro,22.1516472,-100.9763993,C,C15
+"Pachuca, Hidalgo",Hidalgo,Ruta Centro,20.1165413,-98.7413535,C,C16
+"Tulancingo, Hidalgo",Hidalgo,Ruta Centro,20.0839585,-98.3635381,C,C17
+"Torreon, Coahuila",Coahuila,Ruta Centro,25.542698,-103.410512,C,C18
+"Tamazunchale, San Luis Potosi",San Luis Potosi,Ruta Centro,21.2618403,-98.7907425,C,C19
+"Chihuahua, Chihuahua",Chihuahua,Ruta Centro,28.6368669,-106.076745,C,C20
+"Ciudad Valles, San Luis Potosi",San Luis Potosi,Ruta Centro,21.9916551,-99.0102967,C,C21
+"Saltillo, Coahuila",Coahuila,Ruta Centro,25.4230425,-100.9927509,C,C22
+"Ciudad Juarez, Chihuahua",Chihuahua,Ruta Centro,31.7372575,-106.485655,C,C23
+"Monclova, Coahuila",Coahuila,Ruta Centro,26.8999988,-101.4171173,C,C24
+"Piedras Negras, Coahuila",Coahuila,Ruta Centro,28.704596,-100.5167137,C,C25
+"Ciudad Acuna, Coahuila",Coahuila,Ruta Centro,29.3248796,-100.9322287,C,C26
+"Orizaba, Veracruz",Veracruz,Ruta del Golfo,18.8497366,-97.1060062,G,G1
+"Cordoba, Veracruz",Veracruz,Ruta del Golfo,18.8944704,-96.9352891,G,G2
+"Tierra Blanca, Veracruz",Veracruz,Ruta del Golfo,18.5272475,-96.21520077487331,G,G3
+"Xalapa, Veracruz",Veracruz,Ruta del Golfo,19.5408338,-96.9146374,G,G4
+"Medias Aguas, Veracruz",Veracruz,Ruta del Golfo,17.666944,-95.029444,G,G5
+"Veracruz, Veracruz",Veracruz,Ruta del Golfo,19.2003429,-96.1383572,G,G6
+"Poza Rica, Veracruz",Veracruz,Ruta del Golfo,20.5320852,-97.4536355,G,G7
+"Minatitlan, Veracruz",Veracruz,Ruta del Golfo,17.992773,-94.5567103,G,G8
+"Tuxpan, Veracruz",Veracruz,Ruta del Golfo,20.9298337,-97.39366174892393,G,G9
+"Coatzacoalcos, Veracruz",Veracruz,Ruta del Golfo,18.1396787,-94.4501731,G,G10
+"Ciudad Mante, Tamaulipas",Tamaulipas,Ruta del Golfo,22.7411278,-98.9714093,G,G11
+"Tampico, Tamaulipas",Tamaulipas,Ruta del Golfo,22.2157619,-97.8577713,G,G12
+"Altamira, Tamaulipas",Tamaulipas,Ruta del Golfo,22.3921625,-97.9362975,G,G13
+"Villahermosa, Tabasco",Tabasco,Ruta del Golfo,17.9884657,-92.9366326,G,G14
+"Monterrey, Nuevo Leon",Nuevo Leon,Ruta del Golfo,25.6802019,-100.315258,G,G15
+"Tenosique, Tabasco",Tabasco,Ruta del Golfo,17.45949075,-91.3134075788233,G,G16
+"Nuevo Laredo, Tamaulipas",Tamaulipas,Ruta del Golfo,27.4930466,-99.5074055,G,G17
+"Matamoros, Tamaulipas",Tamaulipas,Ruta del Golfo,25.8810158,-97.5064866,G,G18
+"Guerrero Negro, Baja California Sur",Baja California Sur,Ruta del Pacifico,27.9709506,-114.036389,P,P1
+"Barra de Navidad, Jalisco",Jalisco,Ruta del Pacifico,19.2056444,-104.6820897,P,P2
+"Manzanillo, Colima",Colima,Ruta del Pacifico,19.127656950000002,-104.28412563007706,P,P3
+"Santa Rosalia, Baja California Sur",Baja California Sur,Ruta del Pacifico,27.3364279,-112.2680462,P,P4
+"Ensenada, Baja California",Baja California,Ruta del Pacifico,31.8658887,-116.602983,P,P5
+"Puerto Vallarta, Jalisco",Jalisco,Ruta del Pacifico,20.6407176,-105.220306,P,P6
+"Tijuana, Baja California",Baja California,Ruta del Pacifico,32.5317397,-117.019529,P,P7
+"Lazaro Cardenas, Michoacan",Michoacan,Ruta del Pacifico,17.9594769,-102.198659,P,P8
+"Ixtapa, Guerrero",Guerrero,Ruta del Pacifico,17.6640299,-101.6107384,P,P9
+"Zihuatanejo, Guerrero",Guerrero,Ruta del Pacifico,17.6467874,-101.551974,P,P10
+"Tepic, Nayarit",Nayarit,Ruta del Pacifico,21.5119156,-104.8915889,P,P11
+"Mazatlan, Sinaloa",Sinaloa,Ruta del Pacifico,23.2035785,-106.4208391,P,P12
+"Los Mochis, Sinaloa",Sinaloa,Ruta del Pacifico,25.7928058,-108.990188,P,P13
+"Acapulco, Guerrero",Guerrero,Ruta del Pacifico,16.8680495,-99.8940182,P,P14
+"Guaymas, Sonora",Sonora,Ruta del Pacifico,27.9216441,-110.8994059,P,P15
+"Mexicali, Baja California",Baja California,Ruta del Pacifico,32.6405247,-115.474899,P,P16
+"Guadalajara, Jalisco",Jalisco,Ruta del Pacifico,20.6720375,-103.338396,P,P17
+"Uruapan, Michoacan",Michoacan,Ruta del Pacifico,19.4060961,-102.03430719292024,P,P18
+"Sinaloa, Sinaloa",Sinaloa,Ruta del Pacifico,24.78797735,-107.37332601006004,P,P19
+"San Luis Rio Colorado, Sonora",Sonora,Ruta del Pacifico,32.4517957,-114.7652542,P,P20
+"Puerto Penasco, Sonora",Sonora,Ruta del Pacifico,31.3170867,-113.531819,P,P21
+"Morelia, Michoacan",Michoacan,Ruta del Pacifico,19.7027116,-101.1923818,P,P22
+"Sonoyta, Sonora",Sonora,Ruta del Pacifico,31.863444,-112.849739,P,P23
+"Nogales, Sonora",Sonora,Ruta del Pacifico,31.3285057,-110.9450472,P,P24
+"Agua Prieta, Sonora",Sonora,Ruta del Pacifico,31.3305591,-109.5564331,P,P25
+"Puerto Escondido, Oaxaca",Oaxaca,Ruta Sur,15.8693331,-97.0726428,S,S1
+"San Pedro Pochutla, Oaxaca",Oaxaca,Ruta Sur,15.744444,-96.465278,S,S2
+"Huatulco, Oaxaca",Oaxaca,Ruta Sur,15.83133725,-96.31980130449259,S,S3
+"Oaxaca, Oaxaca",Oaxaca,Ruta Sur,17.0604663,-96.7253575,S,S4
+"Salina Cruz, Oaxaca",Oaxaca,Ruta Sur,16.1825,-95.195833,S,S5
+"Juchitan de Zaragoza, Oaxaca",Oaxaca,Ruta Sur,16.440150611652577,-95.02226337475147,S,S6
+"Ixtepec, Oaxaca",Oaxaca,Ruta Sur,16.561107098248225,-95.0973463801423,S,S7
+"Arriaga, Chiapas",Chiapas,Ruta Sur,16.254951249999998,-93.89498812393427,S,S8
+"Tapachula, Chiapas",Chiapas,Ruta Sur,14.9258055,-92.32219567868036,S,S9
+"Tuxtla Gutierrez, Chiapas",Chiapas,Ruta Sur,16.753801,-93.115959,S,S10
+"Ciudad Cuauhtemoc, Chiapas",Chiapas,Ruta Sur,15.6661005,-92.0037873,S,S11
+"San Cristobal de las Casas, Chiapas",Chiapas,Ruta Sur,16.6835469,-92.61551841991157,S,S12
+"Comitan, Chiapas",Chiapas,Ruta Sur,16.2441097,-92.1348514,S,S13
+"Palenque, Chiapas",Chiapas,Ruta Sur,17.45316095,-91.81212411848196,S,S14
+"Campeche, Campeche",Campeche,Ruta Sur,19.8381215,-90.5198253,S,S15
+"Chetumal, Quintana Roo",Quintana Roo,Ruta Sur,18.5081738,-88.297144,S,S16
+"Merida, Yucatan",Yucatan,Ruta Sur,20.9670759,-89.6237402,S,S17
