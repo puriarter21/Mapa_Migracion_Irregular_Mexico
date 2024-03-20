@@ -53,8 +53,7 @@ ciudad,estado,ruta,detenciones,latitud,longitud,tipo,ID_Poligono,geometry,codigo
 "San Francisco de los Romo, Aguascalientes",Aguascalientes,Ruta Centro,18,22.0746282,-102.2707133,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,2,C-PG473-2
 "Cosio, Aguascalientes",Aguascalientes,Ruta Centro,98,22.3705155,-102.3120085105234,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,3,C-PG473-3
 "Trancoso, Zacatecas",Zacatecas,Ruta Centro,96,22.7353025,-102.3667969,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,4,C-PG473-4
-"Zacatecas, Zacatecas",Zacatecas,Ruta Centro,986,22.77172729831632,-102.57893967251228,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,5,C-PG473-5
-"Calera, Zacatecas",Zacatecas,Ruta Centro,42,22.97848,-102.85622288611614,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,6,C-PG473-6
+"Calera, Zacatecas",Zacatecas,Ruta Centro,42,22.97848,-102.85622288611614,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,5,C-PG473-5
 "Zihuatanejo de Azueta, Guerrero",Guerrero,Ruta del Pacifico,14,17.80789995,-101.49695243500553,Presencia Migración Irregular,PG495,"POLYGON ((-102 18, -101 18, -101 17, -102 17, -102 18))",P,1,P-PG495-1
 "Morelia, Michoacan",Michoacan,Ruta del Pacifico,137,19.7027116,-101.1923818,Presencia Migración Irregular,PG497,"POLYGON ((-102 20, -101 20, -101 19, -102 19, -102 20))",P,1,P-PG497-1
 "Cuitzeo, Michoacan",Michoacan,Ruta del Pacifico,1,19.9693141,-101.1412203,Presencia Migración Irregular,PG497,"POLYGON ((-102 20, -101 20, -101 19, -102 19, -102 20))",P,2,P-PG497-2
@@ -152,42 +151,43 @@ ciudad,estado,ruta,detenciones,latitud,longitud,tipo,ID_Poligono,geometry,codigo
 "Santiago Juxtlahuaca, Oaxaca",Oaxaca,Ruta Sur,1,17.334443,-98.010574,Presencia Migración Irregular,PG576,"POLYGON ((-99 18, -98 18, -98 17, -99 17, -99 18))",S,1,S-PG576-1
 "Jantetelco, Morelos",Morelos,Ruta Centro,3,18.7167516,-98.7766172,Presencia Migración Irregular,PG577,"POLYGON ((-99 19, -98 19, -98 18, -99 18, -99 19))",C,1,C-PG577-1
 "Puebla, Puebla",Puebla,Ruta Centro,0,19.038406227976886,-98.2069491554557,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,1,C-PG578-1
-"Amecameca, Estado de Mexico",Estado de Mexico,Ruta Centro,1,19.120025400000003,-98.70653181362624,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,2,C-PG578-2
-"San Pablo del Monte, Tlaxcala",Tlaxcala,Ruta Centro,2,19.12695185,-98.16539571695478,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,3,C-PG578-3
-"Papalotla de Xicohtencatl, Tlaxcala",Tlaxcala,Ruta Centro,2,19.168611,-98.203889,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,4,C-PG578-4
-"Santa Cruz Quilehtla, Tlaxcala",Tlaxcala,Ruta Centro,9,19.212222,-98.221111,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,5,C-PG578-5
-"Zacatelco, Tlaxcala",Tlaxcala,Ruta Centro,8,19.215833,-98.239722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,6,C-PG578-6
-"San Juan Huactzinco, Tlaxcala",Tlaxcala,Ruta Centro,1,19.2329326,-98.2520375,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,7,C-PG578-7
-"Nativitas, Tlaxcala",Tlaxcala,Ruta Centro,17,19.233333,-98.314722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,8,C-PG578-8
-"San Jeronimo Zacualpan, Tlaxcala",Tlaxcala,Ruta Centro,4,19.240833,-98.261389,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,9,C-PG578-9
-"Chalco, Estado de Mexico",Estado de Mexico,Ruta Centro,405,19.2612215,-98.8958362,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,10,C-PG578-10
-"Ixtapaluca, Estado de Mexico",Estado de Mexico,Ruta Centro,11,19.3129326,-98.8840481,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,11,C-PG578-11
-"Chiautempan, Tlaxcala",Tlaxcala,Ruta Centro,16,19.313889,-98.1925,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,12,C-PG578-12
-"Ixtacuixtla de Mariano Matamoros, Tlaxcala",Tlaxcala,Ruta Centro,0,19.34670365,-98.37815810373962,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,13,C-PG578-13
-"Amaxac de Guerrero, Tlaxcala",Tlaxcala,Ruta Centro,1,19.348889,-98.167778,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,14,C-PG578-14
-"Apetatitlan de Antonio Carvajal, Tlaxcala",Tlaxcala,Ruta Centro,339,19.3505173,-98.19120205454092,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,15,C-PG578-15
-"Tzompantepec, Tlaxcala",Tlaxcala,Ruta Centro,33,19.38326045,-98.08616228147103,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,16,C-PG578-16
-"Tocatlan, Tlaxcala",Tlaxcala,Ruta Centro,7,19.389167,-98.03,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,17,C-PG578-17
-"Xaloztoc, Tlaxcala",Tlaxcala,Ruta Centro,0,19.403611,-98.048611,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,18,C-PG578-18
-"Yauhquemehcan, Tlaxcala",Tlaxcala,Ruta Centro,101,19.4057444,-98.1824244,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,19,C-PG578-19
-"Apizaco, Tlaxcala",Tlaxcala,Ruta Centro,134,19.415556,-98.14,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,20,C-PG578-20
-"Tlaxcala, Tlaxcala",Tlaxcala,Ruta Centro,33,19.416667,-98.166667,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,21,C-PG578-21
-"Tetla de la Solidaridad, Tlaxcala",Tlaxcala,Ruta Centro,2,19.440556,-98.103333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,22,C-PG578-22
-"Hueyotlipan, Tlaxcala",Tlaxcala,Ruta Centro,14,19.469444,-98.348056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,23,C-PG578-23
-"Munoz de Domingo Arenas, Tlaxcala",Tlaxcala,Ruta Centro,2,19.474722,-98.208056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,24,C-PG578-24
-"Sanctorum de Lazaro Cardenas, Tlaxcala",Tlaxcala,Ruta Centro,13,19.4925,-98.471944,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,25,C-PG578-25
-"Nanacamilpa de Mariano Arista, Tlaxcala",Tlaxcala,Ruta Centro,2,19.5080315,-98.54324076456274,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,26,C-PG578-26
-"Texcoco, Estado de Mexico",Estado de Mexico,Ruta Centro,120,19.5144327,-98.8821254,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,27,C-PG578-27
-"Atlangatepec, Tlaxcala",Tlaxcala,Ruta Centro,83,19.530833,-98.208333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,28,C-PG578-28
-"Calpulalpan, Tlaxcala",Tlaxcala,Ruta Centro,25,19.587778,-98.569167,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,29,C-PG578-29
-"Tlaxco, Tlaxcala",Tlaxcala,Ruta Centro,49,19.62058645,-98.17076010112392,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,30,C-PG578-30
-"Emiliano Zapata, Hidalgo",Hidalgo,Ruta Centro,1,19.6546865,-98.544552,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,31,C-PG578-31
-"Apan, Hidalgo",Hidalgo,Ruta Centro,4,19.7098559,-98.4502318,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,32,C-PG578-32
-"Tecamac, Estado de Mexico",Estado de Mexico,Ruta Centro,2,19.7115011,-98.968354,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,33,C-PG578-33
-"Tepeapulco, Hidalgo",Hidalgo,Ruta Centro,35,19.7875962,-98.5522855,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,34,C-PG578-34
-"Tizayuca, Hidalgo",Hidalgo,Ruta Centro,14,19.841245,-98.9815648,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,35,C-PG578-35
-"Villa de Tezontepec, Hidalgo",Hidalgo,Ruta Centro,14,19.9143587,-98.80032767789965,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,36,C-PG578-36
-"Tolcayuca, Hidalgo",Hidalgo,Ruta Centro,3,19.956667,-98.920278,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,37,C-PG578-37
+"Zacatecas, Zacatecas",Zacatecas,Ruta Centro,986,19.039018782328817,-98.20248616428334,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,2,C-PG578-2
+"Amecameca, Estado de Mexico",Estado de Mexico,Ruta Centro,1,19.120025400000003,-98.70653181362624,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,3,C-PG578-3
+"San Pablo del Monte, Tlaxcala",Tlaxcala,Ruta Centro,2,19.12695185,-98.16539571695478,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,4,C-PG578-4
+"Papalotla de Xicohtencatl, Tlaxcala",Tlaxcala,Ruta Centro,2,19.168611,-98.203889,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,5,C-PG578-5
+"Santa Cruz Quilehtla, Tlaxcala",Tlaxcala,Ruta Centro,9,19.212222,-98.221111,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,6,C-PG578-6
+"Zacatelco, Tlaxcala",Tlaxcala,Ruta Centro,8,19.215833,-98.239722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,7,C-PG578-7
+"San Juan Huactzinco, Tlaxcala",Tlaxcala,Ruta Centro,1,19.2329326,-98.2520375,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,8,C-PG578-8
+"Nativitas, Tlaxcala",Tlaxcala,Ruta Centro,17,19.233333,-98.314722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,9,C-PG578-9
+"San Jeronimo Zacualpan, Tlaxcala",Tlaxcala,Ruta Centro,4,19.240833,-98.261389,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,10,C-PG578-10
+"Chalco, Estado de Mexico",Estado de Mexico,Ruta Centro,405,19.2612215,-98.8958362,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,11,C-PG578-11
+"Ixtapaluca, Estado de Mexico",Estado de Mexico,Ruta Centro,11,19.3129326,-98.8840481,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,12,C-PG578-12
+"Chiautempan, Tlaxcala",Tlaxcala,Ruta Centro,16,19.313889,-98.1925,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,13,C-PG578-13
+"Ixtacuixtla de Mariano Matamoros, Tlaxcala",Tlaxcala,Ruta Centro,0,19.34670365,-98.37815810373962,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,14,C-PG578-14
+"Amaxac de Guerrero, Tlaxcala",Tlaxcala,Ruta Centro,1,19.348889,-98.167778,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,15,C-PG578-15
+"Apetatitlan de Antonio Carvajal, Tlaxcala",Tlaxcala,Ruta Centro,339,19.3505173,-98.19120205454092,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,16,C-PG578-16
+"Tzompantepec, Tlaxcala",Tlaxcala,Ruta Centro,33,19.38326045,-98.08616228147103,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,17,C-PG578-17
+"Tocatlan, Tlaxcala",Tlaxcala,Ruta Centro,7,19.389167,-98.03,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,18,C-PG578-18
+"Xaloztoc, Tlaxcala",Tlaxcala,Ruta Centro,0,19.403611,-98.048611,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,19,C-PG578-19
+"Yauhquemehcan, Tlaxcala",Tlaxcala,Ruta Centro,101,19.4057444,-98.1824244,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,20,C-PG578-20
+"Apizaco, Tlaxcala",Tlaxcala,Ruta Centro,134,19.415556,-98.14,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,21,C-PG578-21
+"Tlaxcala, Tlaxcala",Tlaxcala,Ruta Centro,33,19.416667,-98.166667,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,22,C-PG578-22
+"Tetla de la Solidaridad, Tlaxcala",Tlaxcala,Ruta Centro,2,19.440556,-98.103333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,23,C-PG578-23
+"Hueyotlipan, Tlaxcala",Tlaxcala,Ruta Centro,14,19.469444,-98.348056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,24,C-PG578-24
+"Munoz de Domingo Arenas, Tlaxcala",Tlaxcala,Ruta Centro,2,19.474722,-98.208056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,25,C-PG578-25
+"Sanctorum de Lazaro Cardenas, Tlaxcala",Tlaxcala,Ruta Centro,13,19.4925,-98.471944,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,26,C-PG578-26
+"Nanacamilpa de Mariano Arista, Tlaxcala",Tlaxcala,Ruta Centro,2,19.5080315,-98.54324076456274,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,27,C-PG578-27
+"Texcoco, Estado de Mexico",Estado de Mexico,Ruta Centro,120,19.5144327,-98.8821254,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,28,C-PG578-28
+"Atlangatepec, Tlaxcala",Tlaxcala,Ruta Centro,83,19.530833,-98.208333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,29,C-PG578-29
+"Calpulalpan, Tlaxcala",Tlaxcala,Ruta Centro,25,19.587778,-98.569167,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,30,C-PG578-30
+"Tlaxco, Tlaxcala",Tlaxcala,Ruta Centro,49,19.62058645,-98.17076010112392,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,31,C-PG578-31
+"Emiliano Zapata, Hidalgo",Hidalgo,Ruta Centro,1,19.6546865,-98.544552,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,32,C-PG578-32
+"Apan, Hidalgo",Hidalgo,Ruta Centro,4,19.7098559,-98.4502318,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,33,C-PG578-33
+"Tecamac, Estado de Mexico",Estado de Mexico,Ruta Centro,2,19.7115011,-98.968354,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,34,C-PG578-34
+"Tepeapulco, Hidalgo",Hidalgo,Ruta Centro,35,19.7875962,-98.5522855,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,35,C-PG578-35
+"Tizayuca, Hidalgo",Hidalgo,Ruta Centro,14,19.841245,-98.9815648,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,36,C-PG578-36
+"Villa de Tezontepec, Hidalgo",Hidalgo,Ruta Centro,14,19.9143587,-98.80032767789965,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,37,C-PG578-37
+"Tolcayuca, Hidalgo",Hidalgo,Ruta Centro,3,19.956667,-98.920278,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,38,C-PG578-38
 "Epazoyucan, Hidalgo",Hidalgo,Ruta Centro,1,20.0181268,-98.6364294,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,1,C-PG579-1
 "Mineral de la Reforma, Hidalgo",Hidalgo,Ruta Centro,22,20.06063885,-98.73057242363193,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,2,C-PG579-2
 "Tulancingo de Bravo, Hidalgo",Hidalgo,Ruta Centro,19,20.0792094,-98.3475328,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,3,C-PG579-3
