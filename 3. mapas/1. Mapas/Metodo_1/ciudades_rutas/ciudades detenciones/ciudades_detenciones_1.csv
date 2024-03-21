@@ -1,390 +1,390 @@
 ciudad,estado,ruta,detenciones,latitud,longitud,tipo,ID_Poligono,geometry,codigo_ruta,contador_xy,codigo_unico
-"Ensenada, Baja California",Baja California,Ruta del Pacifico,29,31.8658887,-116.602983,Presencia Migración Irregular,PG104,"POLYGON ((-117 32, -116 32, -116 31, -117 31, -117 32))",P,1,P-PG104-1
-"Playas de Rosarito, Baja California",Baja California,Ruta del Pacifico,38,32.25812915,-116.87330722517584,Presencia Migración Irregular,PG105,"POLYGON ((-117 33, -116 33, -116 32, -117 32, -117 33))",P,1,P-PG105-1
-"Tecate, Baja California",Baja California,Ruta del Pacifico,594,32.5653831,-116.6298787,Presencia Migración Irregular,PG105,"POLYGON ((-117 33, -116 33, -116 32, -117 32, -117 33))",P,2,P-PG105-2
-"Mexicali, Baja California",Baja California,Ruta del Pacifico,0,32.6405247,-115.474899,Presencia Migración Irregular,PG132,"POLYGON ((-116 33, -115 33, -115 32, -116 32, -116 33))",P,1,P-PG132-1
-"San Felipe, Baja California",Baja California,Ruta del Pacifico,4,31.0269529,-114.839607,Presencia Migración Irregular,PG158,"POLYGON ((-115 32, -114 32, -114 31, -115 31, -115 32))",P,1,P-PG158-1
-"San Luis Rio Colorado, Sonora",Sonora,Ruta del Pacifico,67,32.4517957,-114.7652542,Presencia Migración Irregular,PG159,"POLYGON ((-115 33, -114 33, -114 32, -115 32, -115 33))",P,1,P-PG159-1
-"Puerto Penasco, Sonora",Sonora,Ruta del Pacifico,1,31.3170867,-113.531819,Presencia Migración Irregular,PG185,"POLYGON ((-114 32, -113 32, -113 31, -114 31, -114 32))",P,1,P-PG185-1
-"Caborca, Sonora",Sonora,Ruta del Pacifico,414,30.7166014,-112.1562598,Presencia Migración Irregular,PG211,"POLYGON ((-113 31, -112 31, -112 30, -113 30, -113 31))",P,1,P-PG211-1
-"General Plutarco Elias Calles, Sonora",Sonora,Ruta del Pacifico,0,31.6949837,-112.71174894524104,Presencia Migración Irregular,PG212,"POLYGON ((-113 32, -112 32, -112 31, -113 31, -113 32))",P,1,P-PG212-1
-"Santa Ana, Sonora",Sonora,Ruta del Pacifico,0,30.5410922,-111.1184881,Presencia Migración Irregular,PG238,"POLYGON ((-112 31, -111 31, -111 30, -112 30, -112 31))",P,1,P-PG238-1
-"Altar, Sonora",Sonora,Ruta del Pacifico,30,30.7170323,-111.8380038,Presencia Migración Irregular,PG238,"POLYGON ((-112 31, -111 31, -111 30, -112 30, -112 31))",P,2,P-PG238-2
-"La Paz, Baja California Sur",Baja California Sur,Ruta del Pacifico,342,24.1619948,-110.3158532,Presencia Migración Irregular,PG259,"POLYGON ((-111 25, -110 25, -110 24, -111 24, -111 25))",P,1,P-PG259-1
-"Guaymas, Sonora",Sonora,Ruta del Pacifico,860,27.9216441,-110.8994059,Presencia Migración Irregular,PG262,"POLYGON ((-111 28, -110 28, -110 27, -111 27, -111 28))",P,1,P-PG262-1
-"Hermosillo, Sonora",Sonora,Ruta del Pacifico,0,29.0948207,-110.9692202,Presencia Migración Irregular,PG264,"POLYGON ((-111 30, -110 30, -110 29, -111 29, -111 30))",P,1,P-PG264-1
-"Imuris, Sonora",Sonora,Ruta del Pacifico,7,30.7874899,-110.8463861,Presencia Migración Irregular,PG265,"POLYGON ((-111 31, -110 31, -110 30, -111 30, -111 31))",P,1,P-PG265-1
-"Nogales, Sonora",Sonora,Ruta del Pacifico,0,31.3285057,-110.9450472,Presencia Migración Irregular,PG266,"POLYGON ((-111 32, -110 32, -110 31, -111 31, -111 32))",P,1,P-PG266-1
-"Los Cabos, Baja California Sur",Baja California Sur,Ruta del Pacifico,62,23.271848050000003,-109.6897684130629,Presencia Migración Irregular,PG285,"POLYGON ((-110 24, -109 24, -109 23, -110 23, -110 24))",P,1,P-PG285-1
-"Ahome, Sinaloa",Sinaloa,Ruta del Pacifico,4,25.9240491,-109.20583440830308,Presencia Migración Irregular,PG287,"POLYGON ((-110 26, -109 26, -109 25, -110 25, -110 26))",P,1,P-PG287-1
-"Huatabampo, Sonora",Sonora,Ruta del Pacifico,0,26.8248431,-109.6420085,Presencia Migración Irregular,PG288,"POLYGON ((-110 27, -109 27, -109 26, -110 26, -110 27))",P,1,P-PG288-1
-"Navojoa, Sonora",Sonora,Ruta del Pacifico,823,27.0721872,-109.4438227,Presencia Migración Irregular,PG289,"POLYGON ((-110 28, -109 28, -109 27, -110 27, -110 28))",P,1,P-PG289-1
-"Cajeme, Sonora",Sonora,Ruta del Pacifico,0,27.71198065,-109.9022075359282,Presencia Migración Irregular,PG289,"POLYGON ((-110 28, -109 28, -109 27, -110 27, -110 28))",P,2,P-PG289-2
-"Agua Prieta, Sonora",Sonora,Ruta del Pacifico,35,31.3305591,-109.5564331,Presencia Migración Irregular,PG293,"POLYGON ((-110 32, -109 32, -109 31, -110 31, -110 32))",P,1,P-PG293-1
-"Angostura, Sinaloa",Sinaloa,Ruta del Pacifico,79,25.3657471,-108.16152,Presencia Migración Irregular,PG314,"POLYGON ((-109 26, -108 26, -108 25, -109 25, -109 26))",P,1,P-PG314-1
-"Guasave, Sinaloa",Sinaloa,Ruta del Pacifico,1,25.5738,-108.4674697,Presencia Migración Irregular,PG314,"POLYGON ((-109 26, -108 26, -108 25, -109 25, -109 26))",P,2,P-PG314-2
-"Janos, Chihuahua",Chihuahua,Ruta Centro,129,30.8893267,-108.1930484,Presencia Migración Irregular,PG319,"POLYGON ((-109 31, -108 31, -108 30, -109 30, -109 31))",C,1,C-PG319-1
-"Culiacan, Sinaloa",Sinaloa,Ruta del Pacifico,11,24.7978965,-107.393395,Presencia Migración Irregular,PG340,"POLYGON ((-108 25, -107 25, -107 24, -108 24, -108 25))",P,1,P-PG340-1
-"Mazatlan, Sinaloa",Sinaloa,Ruta del Pacifico,976,23.2035785,-106.4208391,Presencia Migración Irregular,PG366,"POLYGON ((-107 24, -106 24, -106 23, -107 23, -107 24))",P,1,P-PG366-1
-"Chihuahua, Chihuahua",Chihuahua,Ruta Centro,0,28.5000001,-106.0000001,Presencia Migración Irregular,PG371,"POLYGON ((-107 29, -106 29, -106 28, -107 28, -107 29))",C,1,C-PG371-1
-"Juarez, Chihuahua",Chihuahua,Ruta Centro,0,31.7372575,-106.485655,Presencia Migración Irregular,PG374,"POLYGON ((-107 32, -106 32, -106 31, -107 31, -107 32))",C,1,C-PG374-1
-"Bahia de Banderas, Nayarit",Nayarit,Ruta del Pacifico,2,20.8290434,-105.31750873696538,Presencia Migración Irregular,PG390,"POLYGON ((-106 21, -105 21, -105 20, -106 20, -106 21))",P,1,P-PG390-1
-"Manzanillo, Colima",Colima,Ruta del Pacifico,9,19.0506256,-104.3159957,Presencia Migración Irregular,PG416,"POLYGON ((-105 20, -104 20, -104 19, -105 19, -105 20))",P,1,P-PG416-1
-"Tepic, Nayarit",Nayarit,Ruta del Pacifico,219,21.5119156,-104.8915889,Presencia Migración Irregular,PG418,"POLYGON ((-105 22, -104 22, -104 21, -105 21, -105 22))",P,1,P-PG418-1
-"Durango, Durango",Durango,Ruta Centro,375,24.03507526470482,-104.66366132513204,Presencia Migración Irregular,PG421,"POLYGON ((-105 25, -104 25, -104 24, -105 24, -105 25))",C,1,C-PG421-1
-"Ojinaga, Chihuahua",Chihuahua,Ruta Centro,94,29.5654282,-104.4128523,Presencia Migración Irregular,PG426,"POLYGON ((-105 30, -104 30, -104 29, -105 29, -105 30))",C,1,C-PG426-1
-"Colima, Colima",Colima,Ruta del Pacifico,6,19.24487815537049,-103.7250306766154,Presencia Migración Irregular,PG443,"POLYGON ((-104 20, -103 20, -103 19, -104 19, -104 20))",P,1,P-PG443-1
-"Villa de Alvarez, Colima",Colima,Ruta del Pacifico,2,19.2651417,-103.736013,Presencia Migración Irregular,PG443,"POLYGON ((-104 20, -103 20, -103 19, -104 19, -104 20))",P,2,P-PG443-2
-"Zapotlan el Grande, Jalisco",Jalisco,Ruta del Pacifico,1,19.6973465,-103.51064802186409,Presencia Migración Irregular,PG443,"POLYGON ((-104 20, -103 20, -103 19, -104 19, -104 20))",P,3,P-PG443-3
-"Tlajomulco de Zuniga, Jalisco",Jalisco,Ruta del Pacifico,103,20.48187375,-103.40050966382874,Presencia Migración Irregular,PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))",P,1,P-PG444-1
-"El Salto, Jalisco",Jalisco,Ruta del Pacifico,1,20.5196964,-103.1813141,Presencia Migración Irregular,PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))",P,2,P-PG444-2
-"Guadalajara, Jalisco",Jalisco,Ruta del Pacifico,0,20.6720375,-103.338396,Presencia Migración Irregular,PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))",P,3,P-PG444-3
-"Jerez, Zacatecas",Zacatecas,Ruta Centro,1,22.7105933,-103.00147264243049,Presencia Migración Irregular,PG446,"POLYGON ((-104 23, -103 23, -103 22, -104 22, -104 23))",C,1,C-PG446-1
-"Torreon, Coahuila",Coahuila,Ruta Centro,825,25.542698,-103.410512,Presencia Migración Irregular,PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))",C,1,C-PG449-1
-"Gomez Palacio, Durango",Durango,Ruta Centro,0,25.5732473,-103.494779,Presencia Migración Irregular,PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))",C,2,C-PG449-2
-"Mapimi, Durango",Durango,Ruta Centro,23,25.8337403,-103.8480216,Presencia Migración Irregular,PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))",C,3,C-PG449-3
-"Francisco I. Madero, Coahuila",Coahuila,Ruta Centro,25,26.23755265,-103.09965556876554,Presencia Migración Irregular,PG450,"POLYGON ((-104 27, -103 27, -103 26, -104 26, -104 27))",C,1,C-PG450-1
-"Lazaro Cardenas, Michoacan",Michoacan,Ruta del Pacifico,1,17.9594769,-102.198659,Presencia Migración Irregular,PG468,"POLYGON ((-103 18, -102 18, -102 17, -103 17, -103 18))",P,1,P-PG468-1
-"Apatzingan, Michoacan",Michoacan,Ruta del Pacifico,1,19.0913792,-102.3537356,Presencia Migración Irregular,PG470,"POLYGON ((-103 20, -102 20, -102 19, -103 19, -103 20))",P,1,P-PG470-1
-"Buenavista, Michoacan",Michoacan,Ruta del Pacifico,1,19.21451245,-102.55515798507564,Presencia Migración Irregular,PG470,"POLYGON ((-103 20, -102 20, -102 19, -103 19, -103 20))",P,2,P-PG470-2
-"Uruapan, Michoacan",Michoacan,Ruta del Pacifico,1,19.4147269,-102.0522647,Presencia Migración Irregular,PG470,"POLYGON ((-103 20, -102 20, -102 19, -103 19, -103 20))",P,3,P-PG470-3
-"Jesus Maria, Aguascalientes",Aguascalientes,Ruta Centro,20,21.9345555,-102.46845171651152,Presencia Migración Irregular,PG472,"POLYGON ((-103 22, -102 22, -102 21, -103 21, -103 22))",C,1,C-PG472-1
-"Aguascalientes, Aguascalientes",Aguascalientes,Ruta Centro,423,22.0000001,-102.5000001,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,1,C-PG473-1
-"San Francisco de los Romo, Aguascalientes",Aguascalientes,Ruta Centro,18,22.0746282,-102.2707133,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,2,C-PG473-2
-"Cosio, Aguascalientes",Aguascalientes,Ruta Centro,98,22.3705155,-102.3120085105234,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,3,C-PG473-3
-"Trancoso, Zacatecas",Zacatecas,Ruta Centro,96,22.7353025,-102.3667969,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,4,C-PG473-4
-"Calera, Zacatecas",Zacatecas,Ruta Centro,42,22.97848,-102.85622288611614,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,5,C-PG473-5
-"Zihuatanejo de Azueta, Guerrero",Guerrero,Ruta del Pacifico,14,17.80789995,-101.49695243500553,Presencia Migración Irregular,PG495,"POLYGON ((-102 18, -101 18, -101 17, -102 17, -102 18))",P,1,P-PG495-1
-"Morelia, Michoacan",Michoacan,Ruta del Pacifico,137,19.7027116,-101.1923818,Presencia Migración Irregular,PG497,"POLYGON ((-102 20, -101 20, -101 19, -102 19, -102 20))",P,1,P-PG497-1
-"Cuitzeo, Michoacan",Michoacan,Ruta del Pacifico,1,19.9693141,-101.1412203,Presencia Migración Irregular,PG497,"POLYGON ((-102 20, -101 20, -101 19, -102 19, -102 20))",P,2,P-PG497-2
-"Salamanca, Guanajuato",Guanajuato,Ruta Centro,6,20.571358,-101.192444,Presencia Migración Irregular,PG498,"POLYGON ((-102 21, -101 21, -101 20, -102 20, -102 21))",C,1,C-PG498-1
-"Irapuato, Guanajuato",Guanajuato,Ruta Centro,44,20.6758761,-101.3521052,Presencia Migración Irregular,PG498,"POLYGON ((-102 21, -101 21, -101 20, -102 20, -102 21))",C,2,C-PG498-2
-"Leon, Guanajuato",Guanajuato,Ruta Centro,2,21.1218598,-101.6825081,Presencia Migración Irregular,PG499,"POLYGON ((-102 22, -101 22, -101 21, -102 21, -102 22))",C,1,C-PG499-1
-"Ocampo, Guanajuato",Guanajuato,Ruta Centro,6,21.6042823,-101.47623930019084,Presencia Migración Irregular,PG499,"POLYGON ((-102 22, -101 22, -101 21, -102 21, -102 22))",C,2,C-PG499-2
-"Monclova, Coahuila",Coahuila,Ruta Centro,0,26.8999988,-101.4171173,Presencia Migración Irregular,PG504,"POLYGON ((-102 27, -101 27, -101 26, -102 26, -102 27))",C,1,C-PG504-1
-"Zinapecuaro, Michoacan",Michoacan,Ruta del Pacifico,176,19.856318100000003,-100.7709097129878,Presencia Migración Irregular,PG524,"POLYGON ((-101 20, -100 20, -100 19, -101 19, -101 20))",P,1,P-PG524-1
-"Apaseo el Alto, Guanajuato",Guanajuato,Ruta Centro,1,20.4562767,-100.621263,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,1,C-PG525-1
-"Celaya, Guanajuato",Guanajuato,Ruta Centro,8,20.521788,-100.8140458,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,2,C-PG525-2
-"Apaseo el Grande, Guanajuato",Guanajuato,Ruta Centro,22,20.59193265,-100.59798678636592,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,3,C-PG525-3
-"Queretaro, Queretaro",Queretaro,Ruta Centro,872,20.5927744,-100.3902245,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,4,C-PG525-4
-"Comonfort, Guanajuato",Guanajuato,Ruta Centro,29,20.7199475,-100.761188,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,5,C-PG525-5
-"El Marques, Queretaro",Queretaro,Ruta Centro,16,20.73507785,-100.28357653504231,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,6,C-PG525-6
-"San Miguel de Allende, Guanajuato",Guanajuato,Ruta Centro,15,20.9142238,-100.743784,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,7,C-PG525-7
-"Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato",Guanajuato,Ruta Centro,6,21.1043597,-100.7259581,Presencia Migración Irregular,PG526,"POLYGON ((-101 22, -100 22, -100 21, -101 21, -101 22))",C,1,C-PG526-1
-"San Luis de la Paz, Guanajuato",Guanajuato,Ruta Centro,60,21.2970466,-100.516269,Presencia Migración Irregular,PG526,"POLYGON ((-101 22, -100 22, -100 21, -101 21, -101 22))",C,2,C-PG526-2
-"San Luis Potosi, San Luis Potosi",San Luis Potosi,Ruta Centro,0,22.5000001,-100.4949145,Presencia Migración Irregular,PG527,"POLYGON ((-101 23, -100 23, -100 22, -101 22, -101 23))",C,1,C-PG527-1
-"Doctor Arroyo, Nuevo Leon",Nuevo Leon,Ruta del Golfo,11,23.80420455,-100.22566349807497,Presencia Migración Irregular,PG528,"POLYGON ((-101 24, -100 24, -100 23, -101 23, -101 24))",G,1,G-PG528-1
-"Cedral, San Luis Potosi",San Luis Potosi,Ruta Centro,5,23.8205361,-100.7242892,Presencia Migración Irregular,PG528,"POLYGON ((-101 24, -100 24, -100 23, -101 23, -101 24))",C,2,C-PG528-2
-"Galeana, Nuevo Leon",Nuevo Leon,Ruta del Golfo,0,24.758306,-100.38135131017378,Presencia Migración Irregular,PG529,"POLYGON ((-101 25, -100 25, -100 24, -101 24, -101 25))",G,1,G-PG529-1
-"Saltillo, Coahuila",Coahuila,Ruta Centro,945,25.4230425,-100.9927509,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",C,1,C-PG530-1
-"Santiago, Nuevo Leon",Nuevo Leon,Ruta del Golfo,23,25.4243595,-100.1513376,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,2,G-PG530-2
-"Juarez, Nuevo Leon",Nuevo Leon,Ruta del Golfo,180,25.6467011,-100.0907766,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,3,G-PG530-3
-"Garcia, Nuevo Leon",Nuevo Leon,Ruta del Golfo,17,25.6651753,-100.4018251,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,4,G-PG530-4
-"San Pedro Garza Garcia, Nuevo Leon",Nuevo Leon,Ruta del Golfo,1,25.6651753,-100.4018251,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,5,G-PG530-5
-"Santa Catarina, Nuevo Leon",Nuevo Leon,Ruta del Golfo,167,25.6745052,-100.4616371,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,6,G-PG530-6
-"Guadalupe, Nuevo Leon",Nuevo Leon,Ruta del Golfo,225,25.6751114,-100.2151753,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,7,G-PG530-7
-"Monterrey, Nuevo Leon",Nuevo Leon,Ruta del Golfo,449,25.6802019,-100.315258,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,8,G-PG530-8
-"San Nicolas de los Garza, Nuevo Leon",Nuevo Leon,Ruta del Golfo,50,25.7558021,-100.289648,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,9,G-PG530-9
-"Apodaca, Nuevo Leon",Nuevo Leon,Ruta del Golfo,0,25.7816542,-100.1887501,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,10,G-PG530-10
-"Pesqueria, Nuevo Leon",Nuevo Leon,Ruta del Golfo,93,25.7851361,-100.0520621,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,11,G-PG530-11
-"General Escobedo, Nuevo Leon",Nuevo Leon,Ruta del Golfo,0,25.808517,-100.3224334,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,12,G-PG530-12
-"General Zuazua, Nuevo Leon",Nuevo Leon,Ruta del Golfo,35,25.8953873,-100.1078021,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,13,G-PG530-13
-"El Carmen, Nuevo Leon",Nuevo Leon,Ruta del Golfo,35,25.9368419,-100.3613419,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,14,G-PG530-14
-"Cienega de Flores, Nuevo Leon",Nuevo Leon,Ruta del Golfo,41,25.956169,-100.1662028,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,15,G-PG530-15
-"Mina, Nuevo Leon",Nuevo Leon,Ruta del Golfo,0,26.0025145,-100.5300485,Presencia Migración Irregular,PG531,"POLYGON ((-101 27, -100 27, -100 26, -101 26, -101 27))",G,1,G-PG531-1
-"Salinas Victoria, Nuevo Leon",Nuevo Leon,Ruta del Golfo,18,26.1216805,-100.3270876995874,Presencia Migración Irregular,PG531,"POLYGON ((-101 27, -100 27, -100 26, -101 26, -101 27))",G,2,G-PG531-2
-"Anahuac, Nuevo Leon",Nuevo Leon,Ruta del Golfo,86,27.0285283,-100.0333715,Presencia Migración Irregular,PG532,"POLYGON ((-101 28, -100 28, -100 27, -101 27, -101 28))",G,1,G-PG532-1
-"Guerrero, Coahuila",Coahuila,Ruta Centro,6,28.3093253,-100.3805564,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,1,C-PG533-1
-"Allende, Coahuila",Coahuila,Ruta Centro,289,28.3420816,-100.8517302,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,2,C-PG533-2
-"Nava, Coahuila",Coahuila,Ruta Centro,3,28.4217309,-100.7674167,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,3,C-PG533-3
-"Piedras Negras, Coahuila",Coahuila,Ruta Centro,0,28.7041725,-100.5148362,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,4,C-PG533-4
-"Acuna, Coahuila",Coahuila,Ruta Centro,0,29.3248796,-100.9322287,Presencia Migración Irregular,PG534,"POLYGON ((-101 30, -100 30, -100 29, -101 29, -101 30))",C,1,C-PG534-1
-"San Marcos, Guerrero",Guerrero,Ruta del Pacifico,379,16.85734375,-99.39034185147702,Presencia Migración Irregular,PG548,"POLYGON ((-100 17, -99 17, -99 16, -100 16, -100 17))",P,1,P-PG548-1
-"Acapulco de Juarez, Guerrero",Guerrero,Ruta del Pacifico,32,16.8680495,-99.8940182,Presencia Migración Irregular,PG548,"POLYGON ((-100 17, -99 17, -99 16, -100 16, -100 17))",P,2,P-PG548-2
-"Chilpancingo de los Bravo, Guerrero",Guerrero,Ruta del Pacifico,30,17.5542149,-99.5048416,Presencia Migración Irregular,PG549,"POLYGON ((-100 18, -99 18, -99 17, -100 17, -100 18))",P,1,P-PG549-1
-"Puente de Ixtla, Morelos",Morelos,Ruta Centro,8,18.6171111,-99.3192092,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,1,C-PG550-1
-"Xochitepec, Morelos",Morelos,Ruta Centro,2,18.7831747,-99.2308448,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,2,C-PG550-2
-"Emiliano Zapata, Morelos",Morelos,Ruta Centro,4,18.83995,-99.1870274,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,3,C-PG550-3
-"Temixco, Morelos",Morelos,Ruta Centro,7,18.8449428,-99.2236369,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,4,C-PG550-4
-"Cuernavaca, Morelos",Morelos,Ruta Centro,21,18.9218274,-99.2342282,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,5,C-PG550-5
-"Tepoztlan, Morelos",Morelos,Ruta Centro,1,18.9914959,-99.10254532724872,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,6,C-PG550-6
-"Xalatlaco, Estado de Mexico",Estado de Mexico,Ruta Centro,2,19.1843821,-99.4145622,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,1,C-PG551-1
-"Ocoyoacac, Estado de Mexico",Estado de Mexico,Ruta Centro,2,19.2587373,-99.41777785971426,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,2,C-PG551-2
-"Toluca, Estado de Mexico",Estado de Mexico,Ruta Centro,753,19.292545,-99.6569007,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,3,C-PG551-3
-"Coyoacan, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,7,19.349885,-99.1623599,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,4,C-PG551-4
-"Iztapalapa, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,0,19.3591195,-99.0929294,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,5,C-PG551-5
-"Nezahualcoyotl, Estado de Mexico",Estado de Mexico,Ruta Centro,22,19.4079028,-99.0181547,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,6,C-PG551-6
-"Venustiano Carranza, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,0,19.4192787,-99.1135639,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,7,C-PG551-7
-"Naucalpan de Juarez, Estado de Mexico",Estado de Mexico,Ruta Centro,1,19.4788356,-99.2327986,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,8,C-PG551-8
-"Gustavo A. Madero, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,0,19.4831686,-99.1137888,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,9,C-PG551-9
-"Tlalnepantla de Baz, Estado de Mexico",Estado de Mexico,Ruta Centro,75,19.54649025,-99.1899352247449,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,10,C-PG551-10
-"Ecatepec de Morelos, Estado de Mexico",Estado de Mexico,Ruta Centro,185,19.6074415,-99.000754,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,11,C-PG551-11
-"Cuautitlan, Estado de Mexico",Estado de Mexico,Ruta Centro,2,19.6531356,-99.2145002,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,12,C-PG551-12
-"Tepotzotlan, Estado de Mexico",Estado de Mexico,Ruta Centro,0,19.7173392,-99.2230683,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,13,C-PG551-13
-"Zumpango, Estado de Mexico",Estado de Mexico,Ruta Centro,155,19.81293675,-99.08180953352704,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,14,C-PG551-14
-"Atlacomulco, Estado de Mexico",Estado de Mexico,Ruta Centro,42,19.81591915,-99.86811932469178,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,15,C-PG551-15
-"Huehuetoca, Estado de Mexico",Estado de Mexico,Ruta Centro,348,19.833375,-99.2044638,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,16,C-PG551-16
-"Tepeji del Rio de Ocampo, Hidalgo",Hidalgo,Ruta Centro,789,19.89368265,-99.34871815266254,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,17,C-PG551-17
-"Acambay de Ruiz Castaneda, Estado de Mexico",Estado de Mexico,Ruta Centro,1,19.95904705,-99.84802086293078,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,18,C-PG551-18
-"Apaxco, Estado de Mexico",Estado de Mexico,Ruta Centro,0,19.9807399,-99.15181011020428,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,19,C-PG551-19
-"Tula de Allende, Hidalgo",Hidalgo,Ruta Centro,78,20.0489487,-99.37295616011426,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,1,C-PG552-1
-"Atitalaquia, Hidalgo",Hidalgo,Ruta Centro,2,20.0597395,-99.21328819731298,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,2,C-PG552-2
-"San Juan del Rio, Queretaro",Queretaro,Ruta Centro,0,20.3867547,-99.9931982,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,3,C-PG552-3
-"Alfajayucan, Hidalgo",Hidalgo,Ruta Centro,1,20.410277,-99.40315343558592,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,4,C-PG552-4
-"Ixmiquilpan, Hidalgo",Hidalgo,Ruta Centro,1,20.481944,-99.218056,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,5,C-PG552-5
-"Antiguo Morelos, Tamaulipas",Tamaulipas,Ruta del Golfo,117,22.56570125,-99.08713716065976,Presencia Migración Irregular,PG554,"POLYGON ((-100 23, -99 23, -99 22, -100 22, -100 23))",G,1,G-PG554-1
-"Jaumave, Tamaulipas",Tamaulipas,Ruta del Golfo,501,23.40496,-99.3806698,Presencia Migración Irregular,PG555,"POLYGON ((-100 24, -99 24, -99 23, -100 23, -100 24))",G,1,G-PG555-1
-"Victoria, Tamaulipas",Tamaulipas,Ruta del Golfo,33,23.7389846,-99.1441352,Presencia Migración Irregular,PG555,"POLYGON ((-100 24, -99 24, -99 23, -100 23, -100 24))",G,2,G-PG555-2
-"Aramberri, Nuevo Leon",Nuevo Leon,Ruta del Golfo,4,24.22172555,-99.92413452069506,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,1,G-PG556-1
-"Hidalgo, Tamaulipas",Tamaulipas,Ruta del Golfo,45,24.2480354,-99.4382079,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,2,G-PG556-2
-"Linares, Nuevo Leon",Nuevo Leon,Ruta del Golfo,19,24.8596282,-99.5684539,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,3,G-PG556-3
-"Hualahuises, Nuevo Leon",Nuevo Leon,Ruta del Golfo,34,24.8838044,-99.6739794,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,4,G-PG556-4
-"Montemorelos, Nuevo Leon",Nuevo Leon,Ruta del Golfo,1,25.1886604,-99.8293539,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,1,G-PG557-1
-"Cadereyta Jimenez, Nuevo Leon",Nuevo Leon,Ruta del Golfo,83,25.517337,-99.8711735172066,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,2,G-PG557-2
-"Los Ramones, Nuevo Leon",Nuevo Leon,Ruta del Golfo,7,25.6973768,-99.6250811,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,3,G-PG557-3
-"General Bravo, Nuevo Leon",Nuevo Leon,Ruta del Golfo,0,25.7932962,-99.1811424,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,4,G-PG557-4
-"Miguel Aleman, Tamaulipas",Tamaulipas,Ruta del Golfo,16,26.3995446,-99.0314218,Presencia Migración Irregular,PG558,"POLYGON ((-100 27, -99 27, -99 26, -100 26, -100 27))",G,1,G-PG558-1
-"Paras, Nuevo Leon",Nuevo Leon,Ruta del Golfo,13,26.4993853,-99.5229954,Presencia Migración Irregular,PG558,"POLYGON ((-100 27, -99 27, -99 26, -100 26, -100 27))",G,2,G-PG558-2
-"Nuevo Laredo, Tamaulipas",Tamaulipas,Ruta del Golfo,143,27.4930466,-99.5074055,Presencia Migración Irregular,PG559,"POLYGON ((-100 28, -99 28, -99 27, -100 27, -100 28))",G,1,G-PG559-1
-"Santiago Pinotepa Nacional, Oaxaca",Oaxaca,Ruta Sur,7,16.3406076,-98.0536701,Presencia Migración Irregular,PG575,"POLYGON ((-99 17, -98 17, -98 16, -99 16, -99 17))",S,1,S-PG575-1
-"Azoyu, Guerrero",Guerrero,Ruta del Pacifico,0,16.730833,-98.600833,Presencia Migración Irregular,PG575,"POLYGON ((-99 17, -98 17, -98 16, -99 16, -99 17))",P,2,P-PG575-2
-"Santiago Juxtlahuaca, Oaxaca",Oaxaca,Ruta Sur,1,17.334443,-98.010574,Presencia Migración Irregular,PG576,"POLYGON ((-99 18, -98 18, -98 17, -99 17, -99 18))",S,1,S-PG576-1
-"Jantetelco, Morelos",Morelos,Ruta Centro,3,18.7167516,-98.7766172,Presencia Migración Irregular,PG577,"POLYGON ((-99 19, -98 19, -98 18, -99 18, -99 19))",C,1,C-PG577-1
-"Puebla, Puebla",Puebla,Ruta Centro,0,19.038406227976886,-98.2069491554557,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,1,C-PG578-1
-"Zacatecas, Zacatecas",Zacatecas,Ruta Centro,986,19.039018782328817,-98.20248616428334,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,2,C-PG578-2
-"Amecameca, Estado de Mexico",Estado de Mexico,Ruta Centro,1,19.120025400000003,-98.70653181362624,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,3,C-PG578-3
-"San Pablo del Monte, Tlaxcala",Tlaxcala,Ruta Centro,2,19.12695185,-98.16539571695478,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,4,C-PG578-4
-"Papalotla de Xicohtencatl, Tlaxcala",Tlaxcala,Ruta Centro,2,19.168611,-98.203889,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,5,C-PG578-5
-"Santa Cruz Quilehtla, Tlaxcala",Tlaxcala,Ruta Centro,9,19.212222,-98.221111,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,6,C-PG578-6
-"Zacatelco, Tlaxcala",Tlaxcala,Ruta Centro,8,19.215833,-98.239722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,7,C-PG578-7
-"San Juan Huactzinco, Tlaxcala",Tlaxcala,Ruta Centro,1,19.2329326,-98.2520375,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,8,C-PG578-8
-"Nativitas, Tlaxcala",Tlaxcala,Ruta Centro,17,19.233333,-98.314722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,9,C-PG578-9
-"San Jeronimo Zacualpan, Tlaxcala",Tlaxcala,Ruta Centro,4,19.240833,-98.261389,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,10,C-PG578-10
-"Chalco, Estado de Mexico",Estado de Mexico,Ruta Centro,405,19.2612215,-98.8958362,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,11,C-PG578-11
-"Ixtapaluca, Estado de Mexico",Estado de Mexico,Ruta Centro,11,19.3129326,-98.8840481,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,12,C-PG578-12
-"Chiautempan, Tlaxcala",Tlaxcala,Ruta Centro,16,19.313889,-98.1925,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,13,C-PG578-13
-"Ixtacuixtla de Mariano Matamoros, Tlaxcala",Tlaxcala,Ruta Centro,0,19.34670365,-98.37815810373962,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,14,C-PG578-14
-"Amaxac de Guerrero, Tlaxcala",Tlaxcala,Ruta Centro,1,19.348889,-98.167778,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,15,C-PG578-15
-"Apetatitlan de Antonio Carvajal, Tlaxcala",Tlaxcala,Ruta Centro,339,19.3505173,-98.19120205454092,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,16,C-PG578-16
-"Tzompantepec, Tlaxcala",Tlaxcala,Ruta Centro,33,19.38326045,-98.08616228147103,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,17,C-PG578-17
-"Tocatlan, Tlaxcala",Tlaxcala,Ruta Centro,7,19.389167,-98.03,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,18,C-PG578-18
-"Xaloztoc, Tlaxcala",Tlaxcala,Ruta Centro,0,19.403611,-98.048611,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,19,C-PG578-19
-"Yauhquemehcan, Tlaxcala",Tlaxcala,Ruta Centro,101,19.4057444,-98.1824244,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,20,C-PG578-20
-"Apizaco, Tlaxcala",Tlaxcala,Ruta Centro,134,19.415556,-98.14,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,21,C-PG578-21
-"Tlaxcala, Tlaxcala",Tlaxcala,Ruta Centro,33,19.416667,-98.166667,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,22,C-PG578-22
-"Tetla de la Solidaridad, Tlaxcala",Tlaxcala,Ruta Centro,2,19.440556,-98.103333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,23,C-PG578-23
-"Hueyotlipan, Tlaxcala",Tlaxcala,Ruta Centro,14,19.469444,-98.348056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,24,C-PG578-24
-"Munoz de Domingo Arenas, Tlaxcala",Tlaxcala,Ruta Centro,2,19.474722,-98.208056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,25,C-PG578-25
-"Sanctorum de Lazaro Cardenas, Tlaxcala",Tlaxcala,Ruta Centro,13,19.4925,-98.471944,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,26,C-PG578-26
-"Nanacamilpa de Mariano Arista, Tlaxcala",Tlaxcala,Ruta Centro,2,19.5080315,-98.54324076456274,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,27,C-PG578-27
-"Texcoco, Estado de Mexico",Estado de Mexico,Ruta Centro,120,19.5144327,-98.8821254,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,28,C-PG578-28
-"Atlangatepec, Tlaxcala",Tlaxcala,Ruta Centro,83,19.530833,-98.208333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,29,C-PG578-29
-"Calpulalpan, Tlaxcala",Tlaxcala,Ruta Centro,25,19.587778,-98.569167,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,30,C-PG578-30
-"Tlaxco, Tlaxcala",Tlaxcala,Ruta Centro,49,19.62058645,-98.17076010112392,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,31,C-PG578-31
-"Emiliano Zapata, Hidalgo",Hidalgo,Ruta Centro,1,19.6546865,-98.544552,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,32,C-PG578-32
-"Apan, Hidalgo",Hidalgo,Ruta Centro,4,19.7098559,-98.4502318,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,33,C-PG578-33
-"Tecamac, Estado de Mexico",Estado de Mexico,Ruta Centro,2,19.7115011,-98.968354,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,34,C-PG578-34
-"Tepeapulco, Hidalgo",Hidalgo,Ruta Centro,35,19.7875962,-98.5522855,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,35,C-PG578-35
-"Tizayuca, Hidalgo",Hidalgo,Ruta Centro,14,19.841245,-98.9815648,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,36,C-PG578-36
-"Villa de Tezontepec, Hidalgo",Hidalgo,Ruta Centro,14,19.9143587,-98.80032767789965,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,37,C-PG578-37
-"Tolcayuca, Hidalgo",Hidalgo,Ruta Centro,3,19.956667,-98.920278,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,38,C-PG578-38
-"Epazoyucan, Hidalgo",Hidalgo,Ruta Centro,1,20.0181268,-98.6364294,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,1,C-PG579-1
-"Mineral de la Reforma, Hidalgo",Hidalgo,Ruta Centro,22,20.06063885,-98.73057242363193,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,2,C-PG579-2
-"Tulancingo de Bravo, Hidalgo",Hidalgo,Ruta Centro,19,20.0792094,-98.3475328,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,3,C-PG579-3
-"Pachuca de Soto, Hidalgo",Hidalgo,Ruta Centro,44,20.1165413,-98.7413535,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,4,C-PG579-4
-"Huasca de Ocampo, Hidalgo",Hidalgo,Ruta Centro,1,20.2231549,-98.5552467331717,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,5,C-PG579-5
-"Actopan, Hidalgo",Hidalgo,Ruta Centro,2,20.2687373,-98.9431476,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,6,C-PG579-6
-"Chapulhuacan, Hidalgo",Hidalgo,Ruta Centro,18,21.1263192,-98.95211915598163,Presencia Migración Irregular,PG580,"POLYGON ((-99 22, -98 22, -98 21, -99 21, -99 22))",C,1,C-PG580-1
-"Panuco, Veracruz",Veracruz,Ruta del Golfo,8,22.08052495,-98.23295792186904,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,1,G-PG581-1
-"El Mante, Tamaulipas",Tamaulipas,Ruta del Golfo,6,22.60787365,-98.93534140593027,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,2,G-PG581-2
-"Gonzalez, Tamaulipas",Tamaulipas,Ruta del Golfo,8,22.790387350000003,-98.57631895542931,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,3,G-PG581-3
-"Aldama, Tamaulipas",Tamaulipas,Ruta del Golfo,14,22.9196081,-98.0741727,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,4,G-PG581-4
-"Soto la Marina, Tamaulipas",Tamaulipas,Ruta del Golfo,53,23.87599915,-98.0502640007194,Presencia Migración Irregular,PG582,"POLYGON ((-99 24, -98 24, -98 23, -99 23, -99 24))",G,1,G-PG582-1
-"Jimenez, Tamaulipas",Tamaulipas,Ruta del Golfo,1,24.2169169,-98.483929,Presencia Migración Irregular,PG583,"POLYGON ((-99 25, -98 25, -98 24, -99 24, -99 25))",G,1,G-PG583-1
-"Cruillas, Tamaulipas",Tamaulipas,Ruta del Golfo,985,24.7554618,-98.5369904,Presencia Migración Irregular,PG583,"POLYGON ((-99 25, -98 25, -98 24, -99 24, -99 25))",G,2,G-PG583-2
-"San Fernando, Tamaulipas",Tamaulipas,Ruta del Golfo,673,24.8466769,-98.1473493,Presencia Migración Irregular,PG583,"POLYGON ((-99 25, -98 25, -98 24, -99 24, -99 25))",G,3,G-PG583-3
-"China, Nuevo Leon",Nuevo Leon,Ruta del Golfo,146,25.4915799,-98.98111150455688,Presencia Migración Irregular,PG584,"POLYGON ((-99 26, -98 26, -98 25, -99 25, -99 26))",G,1,G-PG584-1
-"Rio Bravo, Tamaulipas",Tamaulipas,Ruta del Golfo,58,25.988981,-98.0945766,Presencia Migración Irregular,PG584,"POLYGON ((-99 26, -98 26, -98 25, -99 25, -99 26))",G,2,G-PG584-2
-"Reynosa, Tamaulipas",Tamaulipas,Ruta del Golfo,0,26.0907673,-98.2788191,Presencia Migración Irregular,PG585,"POLYGON ((-99 27, -98 27, -98 26, -99 26, -99 27))",G,1,G-PG585-1
-"San Pedro Totolapam, Oaxaca",Oaxaca,Ruta Sur,20,15.8659835,-97.0043148,Presencia Migración Irregular,PG601,"POLYGON ((-98 16, -97 16, -97 15, -98 15, -98 16))",S,1,S-PG601-1
-"Villa de Tututepec, Oaxaca",Oaxaca,Ruta Sur,37,16.1303062,-97.6080871,Presencia Migración Irregular,PG602,"POLYGON ((-98 17, -97 17, -97 16, -98 16, -98 17))",S,1,S-PG602-1
-"San Andres Huaxpaltepec, Oaxaca",Oaxaca,Ruta Sur,31,16.3411829,-97.93462519426676,Presencia Migración Irregular,PG602,"POLYGON ((-98 17, -97 17, -97 16, -98 16, -98 17))",S,2,S-PG602-2
-"Asuncion Nochixtlan, Oaxaca",Oaxaca,Ruta Sur,13,17.457222,-97.225,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,1,S-PG603-1
-"Santo Domingo Yanhuitlan, Oaxaca",Oaxaca,Ruta Sur,44,17.5273478,-97.3421502,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,2,S-PG603-2
-"San Bartolo Soyaltepec, Oaxaca",Oaxaca,Ruta Sur,36,17.57706925,-97.31194366093106,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,3,S-PG603-3
-"Villa Tejupam de la Union, Oaxaca",Oaxaca,Ruta Sur,2,17.6625,-97.470833,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,4,S-PG603-4
-"Villa de Tamazulapam del Progreso, Oaxaca",Oaxaca,Ruta Sur,2,17.6748203,-97.5720083,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,5,S-PG603-5
-"San Cristobal Suchixtlahuaca, Oaxaca",Oaxaca,Ruta Sur,4,17.7265261,-97.3666425,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,6,S-PG603-6
-"San Miguel Tequixtepec, Oaxaca",Oaxaca,Ruta Sur,109,17.801944,-97.340556,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,7,S-PG603-7
-"Heroica Ciudad de Huajuapan de Leon, Oaxaca",Oaxaca,Ruta Sur,46,17.808846,-97.7780564,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,8,S-PG603-8
-"Concepcion Buenavista, Oaxaca",Oaxaca,Ruta Sur,25,17.8781515,-97.4004708,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,9,S-PG603-9
-"Camerino Z. Mendoza, Veracruz",Veracruz,Ruta del Golfo,126,18.7896308,-97.15993214034108,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,1,G-PG604-1
-"Nogales, Veracruz",Veracruz,Ruta del Golfo,6,18.8226013,-97.1627659,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,2,G-PG604-2
-"Rio Blanco, Veracruz",Veracruz,Ruta del Golfo,73,18.84522475,-97.15229388882732,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,3,G-PG604-3
-"Orizaba, Veracruz",Veracruz,Ruta del Golfo,0,18.8497366,-97.1060062,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,4,G-PG604-4
-"Ixtaczoquitlan, Veracruz",Veracruz,Ruta del Golfo,2,18.85134015,-97.02710712449068,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,5,G-PG604-5
-"Ixtenco, Tlaxcala",Tlaxcala,Ruta Centro,242,19.2518725,-97.8947561,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",C,1,C-PG605-1
-"Cuapiaxtla, Tlaxcala",Tlaxcala,Ruta Centro,47,19.2961777,-97.768912,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",C,2,C-PG605-2
-"Huamantla, Tlaxcala",Tlaxcala,Ruta Centro,73,19.313427,-97.9230236,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",C,3,C-PG605-3
-"Perote, Veracruz",Veracruz,Ruta del Golfo,2,19.51086405,-97.26853448069734,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",G,4,G-PG605-4
-"Villa Aldama, Veracruz",Veracruz,Ruta del Golfo,3,19.6489805,-97.2228382,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",G,5,G-PG605-5
-"Martinez de la Torre, Veracruz",Veracruz,Ruta del Golfo,15,20.1197165,-97.04616467665728,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,1,G-PG606-1
-"Papantla, Veracruz",Veracruz,Ruta del Golfo,48,20.445872100000003,-97.32327774944926,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,2,G-PG606-2
-"Gutierrez Zamora, Veracruz",Veracruz,Ruta del Golfo,9,20.456991,-97.085536109707,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,3,G-PG606-3
-"Poza Rica de Hidalgo, Veracruz",Veracruz,Ruta del Golfo,129,20.53765745,-97.44512479987276,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,4,G-PG606-4
-"Tihuatlan, Veracruz",Veracruz,Ruta del Golfo,8,20.716735,-97.5367859622192,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,5,G-PG606-5
-"Tuxpan, Veracruz",Veracruz,Ruta del Golfo,231,20.95647915,-97.40738177120748,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,6,G-PG606-6
-"Alamo Temapache, Veracruz",Veracruz,Ruta del Golfo,1,20.995193200000003,-97.75578419140824,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,7,G-PG606-7
-"Naranjos Amatlan, Veracruz",Veracruz,Ruta del Golfo,21,21.3093326,-97.67600130026644,Presencia Migración Irregular,PG607,"POLYGON ((-98 22, -97 22, -97 21, -98 21, -98 22))",G,1,G-PG607-1
-"Ozuluama de Mascarenas, Veracruz",Veracruz,Ruta del Golfo,74,21.661111,-97.850556,Presencia Migración Irregular,PG607,"POLYGON ((-98 22, -97 22, -97 21, -98 21, -98 22))",G,2,G-PG607-2
-"Pueblo Viejo, Veracruz",Veracruz,Ruta del Golfo,3,22.1638426,-97.89855507348236,Presencia Migración Irregular,PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",G,1,G-PG608-1
-"Tampico, Tamaulipas",Tamaulipas,Ruta del Golfo,563,22.2157619,-97.8577713,Presencia Migración Irregular,PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",G,2,G-PG608-2
-"Altamira, Tamaulipas",Tamaulipas,Ruta del Golfo,833,22.3921625,-97.9362975,Presencia Migración Irregular,PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",G,3,G-PG608-3
-"Matamoros, Tamaulipas",Tamaulipas,Ruta del Golfo,405,25.8810158,-97.5064866,Presencia Migración Irregular,PG611,"POLYGON ((-98 26, -97 26, -97 25, -98 25, -98 26))",G,1,G-PG611-1
-"San Pedro Pochutla, Oaxaca",Oaxaca,Ruta Sur,36,15.744444,-96.465278,Presencia Migración Irregular,PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",S,1,S-PG628-1
-"Santa Maria Tonameca, Oaxaca",Oaxaca,Ruta Sur,1,15.745833,-96.547222,Presencia Migración Irregular,PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",S,2,S-PG628-2
-"Santa Maria Huatulco, Oaxaca",Oaxaca,Ruta Sur,170,15.8337711,-96.3214401,Presencia Migración Irregular,PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",S,3,S-PG628-3
-"San Pedro Mixtepec -Dto. 22 -, Oaxaca",Oaxaca,Ruta Sur,3,16.271111,-96.2825,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,1,S-PG629-1
-"Miahuatlan de Porfirio Diaz, Oaxaca",Oaxaca,Ruta Sur,13,16.3610815,-96.5850578538718,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,2,S-PG629-2
-"San Dionisio Ocotepec, Oaxaca",Oaxaca,Ruta Sur,7,16.7975187,-96.3960971,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,3,S-PG629-3
-"Trinidad Zaachila, Oaxaca",Oaxaca,Ruta Sur,1,16.921389,-96.765,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,4,S-PG629-4
-"Tlacolula de Matamoros, Oaxaca",Oaxaca,Ruta Sur,351,16.9314623,-96.46110745930906,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,5,S-PG629-5
-"Villa de Zaachila, Oaxaca",Oaxaca,Ruta Sur,77,16.950833,-96.749167,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,6,S-PG629-6
-"San Bartolo Coyotepec, Oaxaca",Oaxaca,Ruta Sur,5,16.9575983,-96.7066199,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,7,S-PG629-7
-"Santa Maria Coyotepec, Oaxaca",Oaxaca,Ruta Sur,10,16.9716988,-96.71080424404754,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,8,S-PG629-8
-"San Agustin de las Juntas, Oaxaca",Oaxaca,Ruta Sur,2,17.005436,-96.7092291,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,1,S-PG630-1
-"Santa Cruz Xoxocotlan, Oaxaca",Oaxaca,Ruta Sur,731,17.026389,-96.733333,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,2,S-PG630-2
-"San Antonio de la Cal, Oaxaca",Oaxaca,Ruta Sur,1,17.028333,-96.700556,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,3,S-PG630-3
-"Santa Maria del Tule, Oaxaca",Oaxaca,Ruta Sur,1,17.0476822,-96.6334574,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,4,S-PG630-4
-"San Sebastian Tutla, Oaxaca",Oaxaca,Ruta Sur,3,17.059722,-96.672222,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,5,S-PG630-5
-"Oaxaca de Juarez, Oaxaca",Oaxaca,Ruta Sur,0,17.0604663,-96.7253575,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,6,S-PG630-6
-"Santa Lucia del Camino, Oaxaca",Oaxaca,Ruta Sur,6,17.0625,-96.693333,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,7,S-PG630-7
-"San Pedro Ixtlahuaca, Oaxaca",Oaxaca,Ruta Sur,1,17.063056,-96.818056,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,8,S-PG630-8
-"Santa Maria Atzompa, Oaxaca",Oaxaca,Ruta Sur,4,17.1011053,-96.7777739,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,9,S-PG630-9
-"San Jacinto Amilpas, Oaxaca",Oaxaca,Ruta Sur,45,17.1011376,-96.7606784,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,10,S-PG630-10
-"San Lorenzo Cacaotepec, Oaxaca",Oaxaca,Ruta Sur,2,17.1278714,-96.8017692,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,11,S-PG630-11
-"San Pablo Etla, Oaxaca",Oaxaca,Ruta Sur,35,17.1450449,-96.7644253,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,12,S-PG630-12
-"Villa de Etla, Oaxaca",Oaxaca,Ruta Sur,2,17.2057678,-96.7981939,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,13,S-PG630-13
-"San Pablo Huitzo, Oaxaca",Oaxaca,Ruta Sur,729,17.2777969,-96.8866692,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,14,S-PG630-14
-"San Francisco Telixtlahuaca, Oaxaca",Oaxaca,Ruta Sur,49,17.296628,-96.9056112,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,15,S-PG630-15
-"San Juan Bautista Tuxtepec, Oaxaca",Oaxaca,Ruta Sur,108,18.0874632,-96.1227767,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",S,1,S-PG631-1
-"San Jose Tenango, Oaxaca",Oaxaca,Ruta Sur,6,18.15,-96.716667,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",S,2,S-PG631-2
-"Tres Valles, Veracruz",Veracruz,Ruta del Golfo,2,18.2921576,-96.16641196824392,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,3,G-PG631-3
-"Tierra Blanca, Veracruz",Veracruz,Ruta del Golfo,13,18.5272475,-96.21520077487332,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,4,G-PG631-4
-"Tezonapa, Veracruz",Veracruz,Ruta del Golfo,6,18.5587309,-96.78234114824798,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,5,G-PG631-5
-"Cuitlahuac, Veracruz",Veracruz,Ruta del Golfo,0,18.814226,-96.7223775,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,6,G-PG631-6
-"Carrillo Puerto, Veracruz",Veracruz,Ruta del Golfo,55,18.8215893,-96.58428389542232,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,7,G-PG631-7
-"Yanga, Veracruz",Veracruz,Ruta del Golfo,62,18.8313634,-96.7992608,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,8,G-PG631-8
-"Cotaxtla, Veracruz",Veracruz,Ruta del Golfo,250,18.857657250000003,-96.35099905704104,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,9,G-PG631-9
-"Amatlan de los Reyes, Veracruz",Veracruz,Ruta del Golfo,17,18.87251165,-96.86857239686655,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,10,G-PG631-10
-"Cordoba, Veracruz",Veracruz,Ruta del Golfo,609,18.8944704,-96.9352891,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,11,G-PG631-11
-"Fortin, Veracruz",Veracruz,Ruta del Golfo,54,18.8993309,-96.9982014,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,12,G-PG631-12
-"Medellin de Bravo, Veracruz",Veracruz,Ruta del Golfo,27,19.0404677,-96.1442918,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,1,G-PG632-1
-"Soledad de Doblado, Veracruz",Veracruz,Ruta del Golfo,3,19.0452067,-96.4233756,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,2,G-PG632-2
-"La Antigua, Veracruz",Veracruz,Ruta del Golfo,160,19.3176799,-96.31864092519668,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,3,G-PG632-3
-"Veracruz, Veracruz",Veracruz,Ruta del Golfo,0,19.333333,-96.666667,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,4,G-PG632-4
-"Coatepec, Veracruz",Veracruz,Ruta del Golfo,1,19.4543134,-96.9596375,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,5,G-PG632-5
-"Xalapa, Veracruz",Veracruz,Ruta del Golfo,109,19.5408338,-96.9146374,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,6,G-PG632-6
-"Tecolutla, Veracruz",Veracruz,Ruta del Golfo,2,20.41847865,-96.9936370355502,Presencia Migración Irregular,PG633,"POLYGON ((-97 21, -96 21, -96 20, -97 20, -97 21))",G,1,G-PG633-1
-"Salina Cruz, Oaxaca",Oaxaca,Ruta Sur,112,16.1825,-95.195833,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,1,S-PG656-1
-"Santo Domingo Tehuantepec, Oaxaca",Oaxaca,Ruta Sur,222,16.3172613,-95.2468005,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,2,S-PG656-2
-"Santa Maria Mixtequilla, Oaxaca",Oaxaca,Ruta Sur,37,16.374444,-95.259722,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,3,S-PG656-3
-"Santa Maria Jalapa del Marques, Oaxaca",Oaxaca,Ruta Sur,0,16.4403557,-95.4448148,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,4,S-PG656-4
-"El Espinal, Oaxaca",Oaxaca,Ruta Sur,10,16.4609135,-95.05818330487185,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,5,S-PG656-5
-"Ciudad Ixtepec, Oaxaca",Oaxaca,Ruta Sur,10,16.5564139,-95.0959653,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,6,S-PG656-6
-"Matias Romero Avendano, Oaxaca",Oaxaca,Ruta Sur,157,16.8761133,-95.0405586,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,7,S-PG656-7
-"San Juan Evangelista, Veracruz",Veracruz,Ruta del Golfo,1,17.76252635,-95.23042939358857,Presencia Migración Irregular,PG657,"POLYGON ((-96 18, -95 18, -95 17, -96 17, -96 18))",G,1,G-PG657-1
-"Juan Rodriguez Clara, Veracruz",Veracruz,Ruta del Golfo,8,17.97320895,-95.34412799338502,Presencia Migración Irregular,PG657,"POLYGON ((-96 18, -95 18, -95 17, -96 17, -96 18))",G,2,G-PG657-2
-"Isla, Veracruz",Veracruz,Ruta del Golfo,15,18.0276212,-95.5281332,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,1,G-PG658-1
-"Cosamaloapan de Carpio, Veracruz",Veracruz,Ruta del Golfo,0,18.28167395,-95.96435747268424,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,2,G-PG658-2
-"Carlos A. Carrillo, Veracruz",Veracruz,Ruta del Golfo,1,18.32836115,-95.71540338041564,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,3,G-PG658-3
-"San Andres Tuxtla, Veracruz",Veracruz,Ruta del Golfo,102,18.4633672,-95.19831533920046,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,4,G-PG658-4
-"Angel R. Cabada, Veracruz",Veracruz,Ruta del Golfo,17,18.5927238,-95.38616824749718,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,5,G-PG658-5
-"Alvarado, Veracruz",Veracruz,Ruta del Golfo,59,18.82874235,-95.9238540059007,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,6,G-PG658-6
-"Chahuites, Oaxaca",Oaxaca,Ruta Sur,54,16.2885299,-94.1942777,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,1,S-PG683-1
-"San Pedro Tapanatepec, Oaxaca",Oaxaca,Ruta Sur,283,16.3689223,-94.1927528,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,2,S-PG683-2
-"Juchitan de Zaragoza, Oaxaca",Oaxaca,Ruta Sur,0,16.413328999999997,-94.9118794582709,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,3,S-PG683-3
-"Santiago Niltepec, Oaxaca",Oaxaca,Ruta Sur,14,16.5614134,-94.6131085,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,4,S-PG683-4
-"Jesus Carranza, Veracruz",Veracruz,Ruta del Golfo,0,17.38793115,-94.90949730630518,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,1,G-PG684-1
-"Sayula de Aleman, Veracruz",Veracruz,Ruta del Golfo,53,17.74768255,-94.95439752101804,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,2,G-PG684-2
-"Texistepec, Veracruz",Veracruz,Ruta del Golfo,7,17.894167,-94.816389,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,3,G-PG684-3
-"Acayucan, Veracruz",Veracruz,Ruta del Golfo,0,17.9487862,-94.9145752,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,4,G-PG684-4
-"Moloacan, Veracruz",Veracruz,Ruta del Golfo,81,17.9926405,-94.28232907418123,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,5,G-PG684-5
-"Minatitlan, Veracruz",Veracruz,Ruta del Golfo,10,17.992773,-94.5567103,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,6,G-PG684-6
-"Cosoleacaque, Veracruz",Veracruz,Ruta del Golfo,17,18.0060183,-94.61748300858764,Presencia Migración Irregular,PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",G,1,G-PG685-1
-"Agua Dulce, Veracruz",Veracruz,Ruta del Golfo,0,18.0899541,-94.16236305223826,Presencia Migración Irregular,PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",G,2,G-PG685-2
-"Coatzacoalcos, Veracruz",Veracruz,Ruta del Golfo,297,18.1396787,-94.4501731,Presencia Migración Irregular,PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",G,3,G-PG685-3
-"Pijijiapan, Chiapas",Chiapas,Ruta Sur,0,15.6849991,-93.2080195,Presencia Migración Irregular,PG709,"POLYGON ((-94 16, -93 16, -93 15, -94 15, -94 16))",S,1,S-PG709-1
-"Villa Corzo, Chiapas",Chiapas,Ruta Sur,8,16.0631888,-93.26500252520376,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,1,S-PG710-1
-"Tonala, Chiapas",Chiapas,Ruta Sur,230,16.0894476,-93.7546502,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,2,S-PG710-2
-"Arriaga, Chiapas",Chiapas,Ruta Sur,0,16.2344709,-93.9008414,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,3,S-PG710-3
-"Villaflores, Chiapas",Chiapas,Ruta Sur,5,16.37550225,-93.3589334041931,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,4,S-PG710-4
-"Jiquipilas, Chiapas",Chiapas,Ruta Sur,677,16.57497565,-93.60565427888372,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,5,S-PG710-5
-"Cintalapa de Figueroa, Chiapas",Chiapas,Ruta Sur,3,16.6905402,-93.7257625,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,6,S-PG710-6
-"Chiapa de Corzo, Chiapas",Chiapas,Ruta Sur,120,16.7075202,-93.0115045,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,7,S-PG710-7
-"Tuxtla Gutierrez, Chiapas",Chiapas,Ruta Sur,0,16.753801,-93.115959,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,8,S-PG710-8
-"Ocozocoautla de Espinosa, Chiapas",Chiapas,Ruta Sur,0,16.7931431,-93.45696355337824,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,9,S-PG710-9
-"Berriozabal, Chiapas",Chiapas,Ruta Sur,160,16.871689449999998,-93.33707618047065,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,10,S-PG710-10
-"Copainala, Chiapas",Chiapas,Ruta Sur,7,17.0930214,-93.2102105,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",S,1,S-PG711-1
-"Pantepec, Chiapas",Chiapas,Ruta Sur,1,17.194414199999997,-93.05246608493754,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",S,2,S-PG711-2
-"Mezcalapa, Chiapas",Chiapas,Ruta Sur,440,17.2364959,-93.6349751688609,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",S,3,S-PG711-3
-"Las Choapas, Veracruz",Veracruz,Ruta del Golfo,303,17.56348585,-93.94000863532293,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",G,4,G-PG711-4
-"Huimanguillo, Tabasco",Tabasco,Ruta del Golfo,0,17.7620967,-93.66344080511584,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",G,5,G-PG711-5
-"Cardenas, Tabasco",Tabasco,Ruta del Golfo,0,17.990878,-93.3753314,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",G,6,G-PG711-6
-"Cunduacan, Tabasco",Tabasco,Ruta del Golfo,2,18.066059,-93.173675,Presencia Migración Irregular,PG712,"POLYGON ((-94 19, -93 19, -93 18, -94 18, -94 19))",G,1,G-PG712-1
-"Comalcalco, Tabasco",Tabasco,Ruta del Golfo,368,18.2615076,-93.2231523,Presencia Migración Irregular,PG712,"POLYGON ((-94 19, -93 19, -93 18, -94 18, -94 19))",G,2,G-PG712-2
-"Paraiso, Tabasco",Tabasco,Ruta del Golfo,2,18.3987331,-93.2125326,Presencia Migración Irregular,PG712,"POLYGON ((-94 19, -93 19, -93 18, -94 18, -94 19))",G,3,G-PG712-3
-"Suchiate, Chiapas",Chiapas,Ruta Sur,0,14.6321744,-92.24196336095298,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,1,S-PG735-1
-"Frontera Hidalgo, Chiapas",Chiapas,Ruta Sur,15,14.7531678,-92.21613683447438,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,2,S-PG735-2
-"Tuxtla Chico, Chiapas",Chiapas,Ruta Sur,595,14.8768619,-92.19675245459756,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,3,S-PG735-3
-"Tapachula, Chiapas",Chiapas,Ruta Sur,0,14.9042905,-92.2609265,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,4,S-PG735-4
-"Huehuetan, Chiapas",Chiapas,Ruta Sur,0,15.0217164,-92.42866979063194,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,1,S-PG736-1
-"Union Juarez, Chiapas",Chiapas,Ruta Sur,0,15.07074175,-92.09254280799922,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,2,S-PG736-2
-"Huixtla, Chiapas",Chiapas,Ruta Sur,0,15.122125,-92.50399707604466,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,3,S-PG736-3
-"Villa Comaltitlan, Chiapas",Chiapas,Ruta Sur,0,15.1709732,-92.61288629080111,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,4,S-PG736-4
-"Motozintla, Chiapas",Chiapas,Ruta Sur,8,15.3050827,-92.34880361871576,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,5,S-PG736-5
-"Escuintla, Chiapas",Chiapas,Ruta Sur,19,15.35100255,-92.55576537361532,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,6,S-PG736-6
-"Acacoyagua, Chiapas",Chiapas,Ruta Sur,2,15.4060577,-92.6972939305788,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,7,S-PG736-7
-"Mapastepec, Chiapas",Chiapas,Ruta Sur,36,15.43981,-92.898367,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,8,S-PG736-8
-"Siltepec, Chiapas",Chiapas,Ruta Sur,1,15.5561492,-92.3226035,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,9,S-PG736-9
-"Frontera Comalapa, Chiapas",Chiapas,Ruta Sur,802,15.6590135,-92.1422219,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,10,S-PG736-10
-"Chicomuselo, Chiapas",Chiapas,Ruta Sur,1,15.7935524,-92.41926620137892,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,11,S-PG736-11
-"La Trinitaria, Chiapas",Chiapas,Ruta Sur,177,16.1206164,-92.0542431,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,1,S-PG737-1
-"Comitan de Dominguez, Chiapas",Chiapas,Ruta Sur,337,16.2911698,-92.17532124270645,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,2,S-PG737-2
-"Teopisca, Chiapas",Chiapas,Ruta Sur,1,16.5420839,-92.4736561,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,3,S-PG737-3
-"San Cristobal de las Casas, Chiapas",Chiapas,Ruta Sur,745,16.6835469,-92.61551841991157,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,4,S-PG737-4
-"Ocosingo, Chiapas",Chiapas,Ruta Sur,182,16.9057,-92.092776,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,5,S-PG737-5
-"Chenalho, Chiapas",Chiapas,Ruta Sur,341,16.971716100000002,-92.51921237690784,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,6,S-PG737-6
-"Yajalon, Chiapas",Chiapas,Ruta Sur,3,17.1768885,-92.3519609858044,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",S,1,S-PG738-1
-"Salto de Agua, Chiapas",Chiapas,Ruta Sur,9,17.4348976,-92.22480249886088,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",S,2,S-PG738-2
-"Teapa, Tabasco",Tabasco,Ruta del Golfo,0,17.5566526,-92.9480504,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,3,G-PG738-3
-"Tacotalpa, Tabasco",Tabasco,Ruta del Golfo,0,17.5952197,-92.8253388,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,4,G-PG738-4
-"Jalapa, Tabasco",Tabasco,Ruta del Golfo,0,17.721716,-92.812012,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,5,G-PG738-5
-"Macuspana, Tabasco",Tabasco,Ruta del Golfo,0,17.760922,-92.596108,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,6,G-PG738-6
-"Catazaja, Chiapas",Chiapas,Ruta Sur,392,17.76826375,-92.03793125285311,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",S,7,S-PG738-7
-"Centro, Tabasco",Tabasco,Ruta del Golfo,0,18.0271588,-92.77479118046158,Presencia Migración Irregular,PG739,"POLYGON ((-93 19, -92 19, -92 18, -93 18, -93 19))",G,1,G-PG739-1
-"Palizada, Campeche",Campeche,Ruta Sur,15,18.2549484,-92.0907089,Presencia Migración Irregular,PG739,"POLYGON ((-93 19, -92 19, -92 18, -93 18, -93 19))",S,2,S-PG739-2
-"Centla, Tabasco",Tabasco,Ruta del Golfo,45,18.3536762,-92.65219864326907,Presencia Migración Irregular,PG739,"POLYGON ((-93 19, -92 19, -92 18, -93 18, -93 19))",G,3,G-PG739-3
-"Tenosique, Tabasco",Tabasco,Ruta del Golfo,0,17.4707129,-91.4220212,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",G,1,G-PG765-1
-"Palenque, Chiapas",Chiapas,Ruta Sur,0,17.509188,-91.980922,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",S,2,S-PG765-2
-"Emiliano Zapata, Tabasco",Tabasco,Ruta del Golfo,0,17.693626000000002,-91.63973455765353,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",G,3,G-PG765-3
-"Balancan, Tabasco",Tabasco,Ruta del Golfo,0,17.79751665,-91.34585889385215,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",G,4,G-PG765-4
-"Carmen, Campeche",Campeche,Ruta Sur,255,18.651739,-91.81492,Presencia Migración Irregular,PG766,"POLYGON ((-92 19, -91 19, -91 18, -92 18, -92 19))",S,1,S-PG766-1
-"Tijuana, Baja California",Baja California,Ruta del Pacifico,0,32.5317397,-117.019529,Presencia Migración Irregular,PG78,"POLYGON ((-118 33, -117 33, -117 32, -118 32, -118 33))",P,1,P-PG78-1
-"Escarcega, Campeche",Campeche,Ruta Sur,0,18.606934,-90.7385823,Presencia Migración Irregular,PG793,"POLYGON ((-91 19, -90 19, -90 18, -91 18, -91 19))",S,1,S-PG793-1
-"Champoton, Campeche",Campeche,Ruta Sur,150,19.3439655,-90.7242742,Presencia Migración Irregular,PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",S,1,S-PG794-1
-"Seybaplaya, Campeche",Campeche,Ruta Sur,8,19.60337225,-90.62536695555148,Presencia Migración Irregular,PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",S,2,S-PG794-2
-"Campeche, Campeche",Campeche,Ruta Sur,0,19.830285751988043,-90.53551463998544,Presencia Migración Irregular,PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",S,3,S-PG794-3
-"Tenabo, Campeche",Campeche,Ruta Sur,22,20.0406607,-90.2254956,Presencia Migración Irregular,PG795,"POLYGON ((-91 21, -90 21, -90 20, -91 20, -91 21))",S,1,S-PG795-1
-"Calkini, Campeche",Campeche,Ruta Sur,1,20.3695121,-90.0510784,Presencia Migración Irregular,PG795,"POLYGON ((-91 21, -90 21, -90 20, -91 20, -91 21))",S,2,S-PG795-2
-"Calakmul, Campeche",Campeche,Ruta Sur,194,18.1073406,-89.80832803981309,Presencia Migración Irregular,PG820,"POLYGON ((-90 19, -89 19, -89 18, -90 18, -90 19))",S,1,S-PG820-1
-"Merida, Yucatan",Yucatan,Ruta Sur,931,20.9670759,-89.6237402,Presencia Migración Irregular,PG822,"POLYGON ((-90 21, -89 21, -89 20, -90 20, -90 21))",S,1,S-PG822-1
-"Progreso, Yucatan",Yucatan,Ruta Sur,3,21.2822136,-89.6636637,Presencia Migración Irregular,PG823,"POLYGON ((-90 22, -89 22, -89 21, -90 21, -90 22))",S,1,S-PG823-1
-"Othon P. Blanco, Quintana Roo",Quintana Roo,Ruta Sur,369,18.43704555,-88.82575815803347,Presencia Migración Irregular,PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",S,1,S-PG847-1
-"Bacalar, Quintana Roo",Quintana Roo,Ruta Sur,9,18.6782559,-88.3922556,Presencia Migración Irregular,PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",S,2,S-PG847-2
-"Valladolid, Yucatan",Yucatan,Ruta Sur,5,20.6902505,-88.2016999,Presencia Migración Irregular,PG849,"POLYGON ((-89 21, -88 21, -88 20, -89 20, -89 21))",S,1,S-PG849-1
-"Tulum, Quintana Roo",Quintana Roo,Ruta Sur,13,20.1692965,-87.44954812616734,Presencia Migración Irregular,PG876,"POLYGON ((-88 21, -87 21, -87 20, -88 20, -88 21))",S,1,S-PG876-1
-"Solidaridad, Quintana Roo",Quintana Roo,Ruta Sur,178,20.5843747,-87.50345268296755,Presencia Migración Irregular,PG876,"POLYGON ((-88 21, -87 21, -87 20, -88 20, -88 21))",S,2,S-PG876-2
-"Cozumel, Quintana Roo",Quintana Roo,Ruta Sur,24,20.4320599,-86.92069058377268,Presencia Migración Irregular,PG903,"POLYGON ((-87 21, -86 21, -86 20, -87 20, -87 21))",S,1,S-PG903-1
-"Benito Juarez, Quintana Roo",Quintana Roo,Ruta Sur,0,21.07668085,-86.92633521708406,Presencia Migración Irregular,PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",S,1,S-PG904-1
-"Isla Mujeres, Quintana Roo",Quintana Roo,Ruta Sur,24,21.2371906,-86.7350001,Presencia Migración Irregular,PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",S,2,S-PG904-2
+"Aguascalientes, Aguascalientes",Aguascalientes,Ruta Centro, 423,22.0000001,-102.5000001,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,1,C-PG473-1
+"Cosio, Aguascalientes",Aguascalientes,Ruta Centro, 98,22.3705155,-102.3120085105234,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,3,C-PG473-3
+"San Francisco de los Romo, Aguascalientes",Aguascalientes,Ruta Centro, 18,22.0746282,-102.2707133,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,2,C-PG473-2
+"Jesus Maria, Aguascalientes",Aguascalientes,Ruta Centro, 20,21.9345555,-102.46845171651152,Presencia Migración Irregular,PG472,"POLYGON ((-103 22, -102 22, -102 21, -103 21, -103 22))",C,1,C-PG472-1
+"Tijuana, Baja California",Baja California,Ruta del Pacifico,27 568,32.5317397,-117.019529,Presencia Migración Irregular,PG78,"POLYGON ((-118 33, -117 33, -117 32, -118 32, -118 33))",P,1,P-PG78-1
+"Ensenada, Baja California",Baja California,Ruta del Pacifico, 29,31.8658887,-116.602983,Presencia Migración Irregular,PG104,"POLYGON ((-117 32, -116 32, -116 31, -117 31, -117 32))",P,1,P-PG104-1
+"Playas de Rosarito, Baja California",Baja California,Ruta del Pacifico, 38,32.25812915,-116.87330722517584,Presencia Migración Irregular,PG105,"POLYGON ((-117 33, -116 33, -116 32, -117 32, -117 33))",P,1,P-PG105-1
+"Tecate, Baja California",Baja California,Ruta del Pacifico, 594,32.5653831,-116.6298787,Presencia Migración Irregular,PG105,"POLYGON ((-117 33, -116 33, -116 32, -117 32, -117 33))",P,2,P-PG105-2
+"Mexicali, Baja California",Baja California,Ruta del Pacifico,5 706,32.6405247,-115.474899,Presencia Migración Irregular,PG132,"POLYGON ((-116 33, -115 33, -115 32, -116 32, -116 33))",P,1,P-PG132-1
+"San Felipe, Baja California",Baja California,Ruta del Pacifico, 4,31.0269529,-114.839607,Presencia Migración Irregular,PG158,"POLYGON ((-115 32, -114 32, -114 31, -115 31, -115 32))",P,1,P-PG158-1
+"La Paz, Baja California Sur",Baja California Sur,Ruta del Pacifico, 342,24.1619948,-110.3158532,Presencia Migración Irregular,PG259,"POLYGON ((-111 25, -110 25, -110 24, -111 24, -111 25))",P,1,P-PG259-1
+"Los Cabos, Baja California Sur",Baja California Sur,Ruta del Pacifico, 62,23.271848050000003,-109.6897684130629,Presencia Migración Irregular,PG285,"POLYGON ((-110 24, -109 24, -109 23, -110 23, -110 24))",P,1,P-PG285-1
+"Calkini, Campeche",Campeche,Ruta Sur, 1,20.3695121,-90.0510784,Presencia Migración Irregular,PG795,"POLYGON ((-91 21, -90 21, -90 20, -91 20, -91 21))",S,2,S-PG795-2
+"Calakmul, Campeche",Campeche,Ruta Sur, 194,18.1073406,-89.80832803981309,Presencia Migración Irregular,PG820,"POLYGON ((-90 19, -89 19, -89 18, -90 18, -90 19))",S,1,S-PG820-1
+"Palizada, Campeche",Campeche,Ruta Sur, 15,18.2549484,-92.0907089,Presencia Migración Irregular,PG739,"POLYGON ((-93 19, -92 19, -92 18, -93 18, -93 19))",S,2,S-PG739-2
+"Escarcega, Campeche",Campeche,Ruta Sur,1 232,18.606934,-90.7385823,Presencia Migración Irregular,PG793,"POLYGON ((-91 19, -90 19, -90 18, -91 18, -91 19))",S,1,S-PG793-1
+"Champoton, Campeche",Campeche,Ruta Sur, 150,19.3439655,-90.7242742,Presencia Migración Irregular,PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",S,1,S-PG794-1
+"Seybaplaya, Campeche",Campeche,Ruta Sur, 8,19.60337225,-90.62536695555148,Presencia Migración Irregular,PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",S,2,S-PG794-2
+"Campeche, Campeche",Campeche,Ruta Sur,1 754,19.830285751988043,-90.53551463998544,Presencia Migración Irregular,PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",S,3,S-PG794-3
+"Tenabo, Campeche",Campeche,Ruta Sur, 22,20.0406607,-90.2254956,Presencia Migración Irregular,PG795,"POLYGON ((-91 21, -90 21, -90 20, -91 20, -91 21))",S,1,S-PG795-1
+"Carmen, Campeche",Campeche,Ruta Sur, 255,18.651739,-91.81492,Presencia Migración Irregular,PG766,"POLYGON ((-92 19, -91 19, -91 18, -92 18, -92 19))",S,1,S-PG766-1
+"Huixtla, Chiapas",Chiapas,Ruta Sur,20 836,15.122125,-92.50399707604466,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,3,S-PG736-3
+"Mezcalapa, Chiapas",Chiapas,Ruta Sur, 440,17.2364959,-93.6349751688609,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",S,3,S-PG711-3
+"Union Juarez, Chiapas",Chiapas,Ruta Sur,2 674,15.07074175,-92.09254280799922,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,2,S-PG736-2
+"Tapachula, Chiapas",Chiapas,Ruta Sur,98 486,14.9042905,-92.2609265,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,4,S-PG735-4
+"Tuxtla Chico, Chiapas",Chiapas,Ruta Sur, 595,14.8768619,-92.19675245459756,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,3,S-PG735-3
+"Frontera Hidalgo, Chiapas",Chiapas,Ruta Sur, 15,14.7531678,-92.21613683447438,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,2,S-PG735-2
+"Suchiate, Chiapas",Chiapas,Ruta Sur,25 989,14.6321744,-92.24196336095298,Presencia Migración Irregular,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",S,1,S-PG735-1
+"Pantepec, Chiapas",Chiapas,Ruta Sur, 1,17.194414199999997,-93.05246608493754,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",S,2,S-PG711-2
+"Chiapa de Corzo, Chiapas",Chiapas,Ruta Sur, 120,16.7075202,-93.0115045,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,7,S-PG710-7
+"Berriozabal, Chiapas",Chiapas,Ruta Sur, 160,16.871689449999998,-93.33707618047065,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,10,S-PG710-10
+"Ocozocoautla de Espinosa, Chiapas",Chiapas,Ruta Sur,1 226,16.7931431,-93.45696355337824,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,9,S-PG710-9
+"Tuxtla Gutierrez, Chiapas",Chiapas,Ruta Sur,15 141,16.753801,-93.115959,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,8,S-PG710-8
+"Villa Comaltitlan, Chiapas",Chiapas,Ruta Sur,1 835,15.1709732,-92.61288629080111,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,4,S-PG736-4
+"Cintalapa de Figueroa, Chiapas",Chiapas,Ruta Sur, 3,16.6905402,-93.7257625,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,6,S-PG710-6
+"Jiquipilas, Chiapas",Chiapas,Ruta Sur, 677,16.57497565,-93.60565427888372,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,5,S-PG710-5
+"Villaflores, Chiapas",Chiapas,Ruta Sur, 5,16.37550225,-93.3589334041931,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,4,S-PG710-4
+"Arriaga, Chiapas",Chiapas,Ruta Sur,19 839,16.2344709,-93.9008414,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,3,S-PG710-3
+"Tonala, Chiapas",Chiapas,Ruta Sur, 230,16.0894476,-93.7546502,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,2,S-PG710-2
+"Villa Corzo, Chiapas",Chiapas,Ruta Sur, 8,16.0631888,-93.26500252520376,Presencia Migración Irregular,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))",S,1,S-PG710-1
+"Pijijiapan, Chiapas",Chiapas,Ruta Sur,11 297,15.6849991,-93.2080195,Presencia Migración Irregular,PG709,"POLYGON ((-94 16, -93 16, -93 15, -94 15, -94 16))",S,1,S-PG709-1
+"Copainala, Chiapas",Chiapas,Ruta Sur, 7,17.0930214,-93.2102105,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",S,1,S-PG711-1
+"Motozintla, Chiapas",Chiapas,Ruta Sur, 8,15.3050827,-92.34880361871576,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,5,S-PG736-5
+"Huehuetan, Chiapas",Chiapas,Ruta Sur,18 319,15.0217164,-92.42866979063194,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,1,S-PG736-1
+"Chicomuselo, Chiapas",Chiapas,Ruta Sur, 1,15.7935524,-92.41926620137892,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,11,S-PG736-11
+"Comitan de Dominguez, Chiapas",Chiapas,Ruta Sur, 337,16.2911698,-92.17532124270645,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,2,S-PG737-2
+"Teopisca, Chiapas",Chiapas,Ruta Sur, 1,16.5420839,-92.4736561,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,3,S-PG737-3
+"Escuintla, Chiapas",Chiapas,Ruta Sur, 19,15.35100255,-92.55576537361532,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,6,S-PG736-6
+"Acacoyagua, Chiapas",Chiapas,Ruta Sur, 2,15.4060577,-92.6972939305788,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,7,S-PG736-7
+"Mapastepec, Chiapas",Chiapas,Ruta Sur, 36,15.43981,-92.898367,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,8,S-PG736-8
+"La Trinitaria, Chiapas",Chiapas,Ruta Sur, 177,16.1206164,-92.0542431,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,1,S-PG737-1
+"Siltepec, Chiapas",Chiapas,Ruta Sur, 1,15.5561492,-92.3226035,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,9,S-PG736-9
+"Frontera Comalapa, Chiapas",Chiapas,Ruta Sur, 802,15.6590135,-92.1422219,Presencia Migración Irregular,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",S,10,S-PG736-10
+"Yajalon, Chiapas",Chiapas,Ruta Sur, 3,17.1768885,-92.3519609858044,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",S,1,S-PG738-1
+"San Cristobal de las Casas, Chiapas",Chiapas,Ruta Sur, 745,16.6835469,-92.61551841991157,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,4,S-PG737-4
+"Ocosingo, Chiapas",Chiapas,Ruta Sur, 182,16.9057,-92.092776,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,5,S-PG737-5
+"Salto de Agua, Chiapas",Chiapas,Ruta Sur, 9,17.4348976,-92.22480249886088,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",S,2,S-PG738-2
+"Chenalho, Chiapas",Chiapas,Ruta Sur, 341,16.971716100000002,-92.51921237690784,Presencia Migración Irregular,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))",S,6,S-PG737-6
+"Catazaja, Chiapas",Chiapas,Ruta Sur, 392,17.76826375,-92.03793125285311,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",S,7,S-PG738-7
+"Palenque, Chiapas",Chiapas,Ruta Sur,9 027,17.509188,-91.980922,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",S,2,S-PG765-2
+"Juarez, Chihuahua",Chihuahua,Ruta Centro,7 925,31.7372575,-106.485655,Presencia Migración Irregular,PG374,"POLYGON ((-107 32, -106 32, -106 31, -107 31, -107 32))",C,1,C-PG374-1
+"Ojinaga, Chihuahua",Chihuahua,Ruta Centro, 94,29.5654282,-104.4128523,Presencia Migración Irregular,PG426,"POLYGON ((-105 30, -104 30, -104 29, -105 29, -105 30))",C,1,C-PG426-1
+"Chihuahua, Chihuahua",Chihuahua,Ruta Centro,2 035,28.5000001,-106.0000001,Presencia Migración Irregular,PG371,"POLYGON ((-107 29, -106 29, -106 28, -107 28, -107 29))",C,1,C-PG371-1
+"Janos, Chihuahua",Chihuahua,Ruta Centro, 129,30.8893267,-108.1930484,Presencia Migración Irregular,PG319,"POLYGON ((-109 31, -108 31, -108 30, -109 30, -109 31))",C,1,C-PG319-1
+"Gustavo A. Madero, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,1 023,19.4831686,-99.1137888,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,9,C-PG551-9
+"Coyoacan, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro, 7,19.349885,-99.1623599,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,4,C-PG551-4
+"Iztapalapa, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,6 176,19.3591195,-99.0929294,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,5,C-PG551-5
+"Venustiano Carranza, Ciudad de Mexico",Ciudad de Mexico,Ruta Centro,1 851,19.4192787,-99.1135639,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,7,C-PG551-7
+"Guerrero, Coahuila",Coahuila,Ruta Centro, 6,28.3093253,-100.3805564,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,1,C-PG533-1
+"Allende, Coahuila",Coahuila,Ruta Centro, 289,28.3420816,-100.8517302,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,2,C-PG533-2
+"Saltillo, Coahuila",Coahuila,Ruta Centro, 945,25.4230425,-100.9927509,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",C,1,C-PG530-1
+"Nava, Coahuila",Coahuila,Ruta Centro, 3,28.4217309,-100.7674167,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,3,C-PG533-3
+"Piedras Negras, Coahuila",Coahuila,Ruta Centro,21 201,28.7041725,-100.5148362,Presencia Migración Irregular,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",C,4,C-PG533-4
+"Acuna, Coahuila",Coahuila,Ruta Centro,1 672,29.3248796,-100.9322287,Presencia Migración Irregular,PG534,"POLYGON ((-101 30, -100 30, -100 29, -101 29, -101 30))",C,1,C-PG534-1
+"Francisco I. Madero, Coahuila",Coahuila,Ruta Centro, 25,26.23755265,-103.09965556876554,Presencia Migración Irregular,PG450,"POLYGON ((-104 27, -103 27, -103 26, -104 26, -104 27))",C,1,C-PG450-1
+"Torreon, Coahuila",Coahuila,Ruta Centro, 825,25.542698,-103.410512,Presencia Migración Irregular,PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))",C,1,C-PG449-1
+"Monclova, Coahuila",Coahuila,Ruta Centro,1 207,26.8999988,-101.4171173,Presencia Migración Irregular,PG504,"POLYGON ((-102 27, -101 27, -101 26, -102 26, -102 27))",C,1,C-PG504-1
+"Manzanillo, Colima",Colima,Ruta del Pacifico, 9,19.0506256,-104.3159957,Presencia Migración Irregular,PG416,"POLYGON ((-105 20, -104 20, -104 19, -105 19, -105 20))",P,1,P-PG416-1
+"Villa de Alvarez, Colima",Colima,Ruta del Pacifico, 2,19.2651417,-103.736013,Presencia Migración Irregular,PG443,"POLYGON ((-104 20, -103 20, -103 19, -104 19, -104 20))",P,2,P-PG443-2
+"Colima, Colima",Colima,Ruta del Pacifico, 6,19.24487815537049,-103.7250306766154,Presencia Migración Irregular,PG443,"POLYGON ((-104 20, -103 20, -103 19, -104 19, -104 20))",P,1,P-PG443-1
+"Gomez Palacio, Durango",Durango,Ruta Centro,1 048,25.5732473,-103.494779,Presencia Migración Irregular,PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))",C,2,C-PG449-2
+"Mapimi, Durango",Durango,Ruta Centro, 23,25.8337403,-103.8480216,Presencia Migración Irregular,PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))",C,3,C-PG449-3
+"Durango, Durango",Durango,Ruta Centro, 375,24.03507526470482,-104.66366132513204,Presencia Migración Irregular,PG421,"POLYGON ((-105 25, -104 25, -104 24, -105 24, -105 25))",C,1,C-PG421-1
+"Tlalnepantla de Baz, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.54649025,-99.1899352247449,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,10,C-PG551-10
+"Texcoco, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.5144327,-98.8821254,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,28,C-PG578-28
+"Ixtapaluca, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.3129326,-98.8840481,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,12,C-PG578-12
+"Xalatlaco, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.1843821,-99.4145622,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,1,C-PG551-1
+"Ocoyoacac, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.2587373,-99.41777785971426,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,2,C-PG551-2
+"Toluca, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.292545,-99.6569007,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,3,C-PG551-3
+"Amecameca, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.120025400000003,-98.70653181362624,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,3,C-PG578-3
+"Nezahualcoyotl, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.4079028,-99.0181547,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,6,C-PG551-6
+"Naucalpan de Juarez, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.4788356,-99.2327986,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,8,C-PG551-8
+"Acambay de Ruiz Castaneda, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.95904705,-99.84802086293078,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,18,C-PG551-18
+"Chalco, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.2612215,-98.8958362,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,11,C-PG578-11
+"Huehuetoca, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.833375,-99.2044638,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,16,C-PG551-16
+"Atlacomulco, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.81591915,-99.86811932469178,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,15,C-PG551-15
+"Zumpango, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.81293675,-99.08180953352704,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,14,C-PG551-14
+"Tepotzotlan, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.7173392,-99.2230683,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,13,C-PG551-13
+"Cuautitlan, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.6531356,-99.2145002,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,12,C-PG551-12
+"Ecatepec de Morelos, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.6074415,-99.000754,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,11,C-PG551-11
+"Apaxco, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.9807399,-99.15181011020428,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,19,C-PG551-19
+"Tecamac, Estado de Mexico",Estado de Mexico,Ruta Centro,,19.7115011,-98.968354,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,34,C-PG578-34
+"Celaya, Guanajuato",Guanajuato,Ruta Centro, 8,20.521788,-100.8140458,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,2,C-PG525-2
+"Salamanca, Guanajuato",Guanajuato,Ruta Centro, 6,20.571358,-101.192444,Presencia Migración Irregular,PG498,"POLYGON ((-102 21, -101 21, -101 20, -102 20, -102 21))",C,1,C-PG498-1
+"Irapuato, Guanajuato",Guanajuato,Ruta Centro, 44,20.6758761,-101.3521052,Presencia Migración Irregular,PG498,"POLYGON ((-102 21, -101 21, -101 20, -102 20, -102 21))",C,2,C-PG498-2
+"Leon, Guanajuato",Guanajuato,Ruta Centro, 2,21.1218598,-101.6825081,Presencia Migración Irregular,PG499,"POLYGON ((-102 22, -101 22, -101 21, -102 21, -102 22))",C,1,C-PG499-1
+"Ocampo, Guanajuato",Guanajuato,Ruta Centro, 6,21.6042823,-101.47623930019084,Presencia Migración Irregular,PG499,"POLYGON ((-102 22, -101 22, -101 21, -102 21, -102 22))",C,2,C-PG499-2
+"Apaseo el Alto, Guanajuato",Guanajuato,Ruta Centro, 1,20.4562767,-100.621263,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,1,C-PG525-1
+"Apaseo el Grande, Guanajuato",Guanajuato,Ruta Centro, 22,20.59193265,-100.59798678636592,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,3,C-PG525-3
+"Comonfort, Guanajuato",Guanajuato,Ruta Centro, 29,20.7199475,-100.761188,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,5,C-PG525-5
+"San Miguel de Allende, Guanajuato",Guanajuato,Ruta Centro, 15,20.9142238,-100.743784,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,7,C-PG525-7
+"San Luis de la Paz, Guanajuato",Guanajuato,Ruta Centro, 60,21.2970466,-100.516269,Presencia Migración Irregular,PG526,"POLYGON ((-101 22, -100 22, -100 21, -101 21, -101 22))",C,2,C-PG526-2
+"Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato",Guanajuato,Ruta Centro, 6,21.1043597,-100.7259581,Presencia Migración Irregular,PG526,"POLYGON ((-101 22, -100 22, -100 21, -101 21, -101 22))",C,1,C-PG526-1
+"Acapulco de Juarez, Guerrero",Guerrero,Ruta del Pacifico, 32,16.8680495,-99.8940182,Presencia Migración Irregular,PG548,"POLYGON ((-100 17, -99 17, -99 16, -100 16, -100 17))",P,2,P-PG548-2
+"Zihuatanejo de Azueta, Guerrero",Guerrero,Ruta del Pacifico, 14,17.80789995,-101.49695243500553,Presencia Migración Irregular,PG495,"POLYGON ((-102 18, -101 18, -101 17, -102 17, -102 18))",P,1,P-PG495-1
+"San Marcos, Guerrero",Guerrero,Ruta del Pacifico, 379,16.85734375,-99.39034185147702,Presencia Migración Irregular,PG548,"POLYGON ((-100 17, -99 17, -99 16, -100 16, -100 17))",P,1,P-PG548-1
+"Azoyu, Guerrero",Guerrero,Ruta del Pacifico,1 023,16.730833,-98.600833,Presencia Migración Irregular,PG575,"POLYGON ((-99 17, -98 17, -98 16, -99 16, -99 17))",P,2,P-PG575-2
+"Chilpancingo de los Bravo, Guerrero",Guerrero,Ruta del Pacifico, 30,17.5542149,-99.5048416,Presencia Migración Irregular,PG549,"POLYGON ((-100 18, -99 18, -99 17, -100 17, -100 18))",P,1,P-PG549-1
+"Tepeapulco, Hidalgo",Hidalgo,Ruta Centro, 35,19.7875962,-98.5522855,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,35,C-PG578-35
+"Chapulhuacan, Hidalgo",Hidalgo,Ruta Centro, 18,21.1263192,-98.95211915598163,Presencia Migración Irregular,PG580,"POLYGON ((-99 22, -98 22, -98 21, -99 21, -99 22))",C,1,C-PG580-1
+"Pachuca de Soto, Hidalgo",Hidalgo,Ruta Centro, 44,20.1165413,-98.7413535,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,4,C-PG579-4
+"Tulancingo de Bravo, Hidalgo",Hidalgo,Ruta Centro, 19,20.0792094,-98.3475328,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,3,C-PG579-3
+"Mineral de la Reforma, Hidalgo",Hidalgo,Ruta Centro, 22,20.06063885,-98.73057242363193,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,2,C-PG579-2
+"Epazoyucan, Hidalgo",Hidalgo,Ruta Centro, 1,20.0181268,-98.6364294,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,1,C-PG579-1
+"Tolcayuca, Hidalgo",Hidalgo,Ruta Centro, 3,19.956667,-98.920278,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,38,C-PG578-38
+"Villa de Tezontepec, Hidalgo",Hidalgo,Ruta Centro, 14,19.9143587,-98.80032767789965,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,37,C-PG578-37
+"Tizayuca, Hidalgo",Hidalgo,Ruta Centro, 14,19.841245,-98.9815648,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,36,C-PG578-36
+"Emiliano Zapata, Hidalgo",Hidalgo,Ruta Centro, 1,19.6546865,-98.544552,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,32,C-PG578-32
+"Apan, Hidalgo",Hidalgo,Ruta Centro, 4,19.7098559,-98.4502318,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,33,C-PG578-33
+"Huasca de Ocampo, Hidalgo",Hidalgo,Ruta Centro, 1,20.2231549,-98.5552467331717,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,5,C-PG579-5
+"Ixmiquilpan, Hidalgo",Hidalgo,Ruta Centro, 1,20.481944,-99.218056,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,5,C-PG552-5
+"Actopan, Hidalgo",Hidalgo,Ruta Centro, 2,20.2687373,-98.9431476,Presencia Migración Irregular,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))",C,6,C-PG579-6
+"Atitalaquia, Hidalgo",Hidalgo,Ruta Centro, 2,20.0597395,-99.21328819731298,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,2,C-PG552-2
+"Alfajayucan, Hidalgo",Hidalgo,Ruta Centro, 1,20.410277,-99.40315343558592,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,4,C-PG552-4
+"Tepeji del Rio de Ocampo, Hidalgo",Hidalgo,Ruta Centro, 789,19.89368265,-99.34871815266254,Presencia Migración Irregular,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",C,17,C-PG551-17
+"Tula de Allende, Hidalgo",Hidalgo,Ruta Centro, 78,20.0489487,-99.37295616011426,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,1,C-PG552-1
+"Zapotlan el Grande, Jalisco",Jalisco,Ruta del Pacifico, 1,19.6973465,-103.51064802186409,Presencia Migración Irregular,PG443,"POLYGON ((-104 20, -103 20, -103 19, -104 19, -104 20))",P,3,P-PG443-3
+"Tlajomulco de Zuniga, Jalisco",Jalisco,Ruta del Pacifico, 103,20.48187375,-103.40050966382874,Presencia Migración Irregular,PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))",P,1,P-PG444-1
+"Guadalajara, Jalisco",Jalisco,Ruta del Pacifico,1 332,20.6720375,-103.338396,Presencia Migración Irregular,PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))",P,3,P-PG444-3
+"El Salto, Jalisco",Jalisco,Ruta del Pacifico, 1,20.5196964,-103.1813141,Presencia Migración Irregular,PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))",P,2,P-PG444-2
+"Zinapecuaro, Michoacan",Michoacan,Ruta del Pacifico, 176,19.856318100000003,-100.7709097129878,Presencia Migración Irregular,PG524,"POLYGON ((-101 20, -100 20, -100 19, -101 19, -101 20))",P,1,P-PG524-1
+"Apatzingan, Michoacan",Michoacan,Ruta del Pacifico, 1,19.0913792,-102.3537356,Presencia Migración Irregular,PG470,"POLYGON ((-103 20, -102 20, -102 19, -103 19, -103 20))",P,1,P-PG470-1
+"Buenavista, Michoacan",Michoacan,Ruta del Pacifico, 1,19.21451245,-102.55515798507564,Presencia Migración Irregular,PG470,"POLYGON ((-103 20, -102 20, -102 19, -103 19, -103 20))",P,2,P-PG470-2
+"Uruapan, Michoacan",Michoacan,Ruta del Pacifico, 1,19.4147269,-102.0522647,Presencia Migración Irregular,PG470,"POLYGON ((-103 20, -102 20, -102 19, -103 19, -103 20))",P,3,P-PG470-3
+"Morelia, Michoacan",Michoacan,Ruta del Pacifico, 137,19.7027116,-101.1923818,Presencia Migración Irregular,PG497,"POLYGON ((-102 20, -101 20, -101 19, -102 19, -102 20))",P,1,P-PG497-1
+"Lazaro Cardenas, Michoacan",Michoacan,Ruta del Pacifico, 1,17.9594769,-102.198659,Presencia Migración Irregular,PG468,"POLYGON ((-103 18, -102 18, -102 17, -103 17, -103 18))",P,1,P-PG468-1
+"Cuitzeo, Michoacan",Michoacan,Ruta del Pacifico, 1,19.9693141,-101.1412203,Presencia Migración Irregular,PG497,"POLYGON ((-102 20, -101 20, -101 19, -102 19, -102 20))",P,2,P-PG497-2
+"Xochitepec, Morelos",Morelos,Ruta Centro, 2,18.7831747,-99.2308448,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,2,C-PG550-2
+"Tepoztlan, Morelos",Morelos,Ruta Centro, 1,18.9914959,-99.10254532724872,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,6,C-PG550-6
+"Emiliano Zapata, Morelos",Morelos,Ruta Centro, 4,18.83995,-99.1870274,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,3,C-PG550-3
+"Temixco, Morelos",Morelos,Ruta Centro, 7,18.8449428,-99.2236369,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,4,C-PG550-4
+"Cuernavaca, Morelos",Morelos,Ruta Centro, 21,18.9218274,-99.2342282,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,5,C-PG550-5
+"Puente de Ixtla, Morelos",Morelos,Ruta Centro, 8,18.6171111,-99.3192092,Presencia Migración Irregular,PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",C,1,C-PG550-1
+"Jantetelco, Morelos",Morelos,Ruta Centro, 3,18.7167516,-98.7766172,Presencia Migración Irregular,PG577,"POLYGON ((-99 19, -98 19, -98 18, -99 18, -99 19))",C,1,C-PG577-1
+"Tepic, Nayarit",Nayarit,Ruta del Pacifico, 219,21.5119156,-104.8915889,Presencia Migración Irregular,PG418,"POLYGON ((-105 22, -104 22, -104 21, -105 21, -105 22))",P,1,P-PG418-1
+"Bahia de Banderas, Nayarit",Nayarit,Ruta del Pacifico, 2,20.8290434,-105.31750873696538,Presencia Migración Irregular,PG390,"POLYGON ((-106 21, -105 21, -105 20, -106 20, -106 21))",P,1,P-PG390-1
+"Monterrey, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 449,25.6802019,-100.315258,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,8,G-PG530-8
+"Salinas Victoria, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 18,26.1216805,-100.3270876995874,Presencia Migración Irregular,PG531,"POLYGON ((-101 27, -100 27, -100 26, -101 26, -101 27))",G,2,G-PG531-2
+"Mina, Nuevo Leon",Nuevo Leon,Ruta del Golfo,2 348,26.0025145,-100.5300485,Presencia Migración Irregular,PG531,"POLYGON ((-101 27, -100 27, -100 26, -101 26, -101 27))",G,1,G-PG531-1
+"Cienega de Flores, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 41,25.956169,-100.1662028,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,15,G-PG530-15
+"El Carmen, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 35,25.9368419,-100.3613419,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,14,G-PG530-14
+"General Zuazua, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 35,25.8953873,-100.1078021,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,13,G-PG530-13
+"General Escobedo, Nuevo Leon",Nuevo Leon,Ruta del Golfo,1 204,25.808517,-100.3224334,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,12,G-PG530-12
+"Pesqueria, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 93,25.7851361,-100.0520621,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,11,G-PG530-11
+"Apodaca, Nuevo Leon",Nuevo Leon,Ruta del Golfo,4 262,25.7816542,-100.1887501,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,10,G-PG530-10
+"China, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 146,25.4915799,-98.98111150455688,Presencia Migración Irregular,PG584,"POLYGON ((-99 26, -98 26, -98 25, -99 25, -99 26))",G,1,G-PG584-1
+"San Nicolas de los Garza, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 50,25.7558021,-100.289648,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,9,G-PG530-9
+"Anahuac, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 86,27.0285283,-100.0333715,Presencia Migración Irregular,PG532,"POLYGON ((-101 28, -100 28, -100 27, -101 27, -101 28))",G,1,G-PG532-1
+"Guadalupe, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 225,25.6751114,-100.2151753,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,7,G-PG530-7
+"Santa Catarina, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 167,25.6745052,-100.4616371,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,6,G-PG530-6
+"Paras, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 13,26.4993853,-99.5229954,Presencia Migración Irregular,PG558,"POLYGON ((-100 27, -99 27, -99 26, -100 26, -100 27))",G,2,G-PG558-2
+"Los Ramones, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 7,25.6973768,-99.6250811,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,3,G-PG557-3
+"General Bravo, Nuevo Leon",Nuevo Leon,Ruta del Golfo,2 059,25.7932962,-99.1811424,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,4,G-PG557-4
+"San Pedro Garza Garcia, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 1,25.6651753,-100.4018251,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,5,G-PG530-5
+"Hualahuises, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 34,24.8838044,-99.6739794,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,4,G-PG556-4
+"Linares, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 19,24.8596282,-99.5684539,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,3,G-PG556-3
+"Doctor Arroyo, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 11,23.80420455,-100.22566349807497,Presencia Migración Irregular,PG528,"POLYGON ((-101 24, -100 24, -100 23, -101 23, -101 24))",G,1,G-PG528-1
+"Cadereyta Jimenez, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 83,25.517337,-99.8711735172066,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,2,G-PG557-2
+"Montemorelos, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 1,25.1886604,-99.8293539,Presencia Migración Irregular,PG557,"POLYGON ((-100 26, -99 26, -99 25, -100 25, -100 26))",G,1,G-PG557-1
+"Aramberri, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 4,24.22172555,-99.92413452069506,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,1,G-PG556-1
+"Santiago, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 23,25.4243595,-100.1513376,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,2,G-PG530-2
+"Juarez, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 180,25.6467011,-100.0907766,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,3,G-PG530-3
+"Garcia, Nuevo Leon",Nuevo Leon,Ruta del Golfo, 17,25.6651753,-100.4018251,Presencia Migración Irregular,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",G,4,G-PG530-4
+"Galeana, Nuevo Leon",Nuevo Leon,Ruta del Golfo,5 407,24.758306,-100.38135131017378,Presencia Migración Irregular,PG529,"POLYGON ((-101 25, -100 25, -100 24, -101 24, -101 25))",G,1,G-PG529-1
+"San Miguel Tequixtepec, Oaxaca",Oaxaca,Ruta Sur, 109,17.801944,-97.340556,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,7,S-PG603-7
+"Heroica Ciudad de Huajuapan de Leon, Oaxaca",Oaxaca,Ruta Sur, 46,17.808846,-97.7780564,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,8,S-PG603-8
+"San Cristobal Suchixtlahuaca, Oaxaca",Oaxaca,Ruta Sur, 4,17.7265261,-97.3666425,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,6,S-PG603-6
+"San Jacinto Amilpas, Oaxaca",Oaxaca,Ruta Sur, 45,17.1011376,-96.7606784,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,10,S-PG630-10
+"Santa Maria Atzompa, Oaxaca",Oaxaca,Ruta Sur, 4,17.1011053,-96.7777739,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,9,S-PG630-9
+"Villa de Tamazulapam del Progreso, Oaxaca",Oaxaca,Ruta Sur, 2,17.6748203,-97.5720083,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,5,S-PG603-5
+"Santa Lucia del Camino, Oaxaca",Oaxaca,Ruta Sur, 6,17.0625,-96.693333,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,7,S-PG630-7
+"Oaxaca de Juarez, Oaxaca",Oaxaca,Ruta Sur,1 270,17.0604663,-96.7253575,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,6,S-PG630-6
+"Villa Tejupam de la Union, Oaxaca",Oaxaca,Ruta Sur, 2,17.6625,-97.470833,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,4,S-PG603-4
+"Concepcion Buenavista, Oaxaca",Oaxaca,Ruta Sur, 25,17.8781515,-97.4004708,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,9,S-PG603-9
+"San Bartolo Soyaltepec, Oaxaca",Oaxaca,Ruta Sur, 36,17.57706925,-97.31194366093106,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,3,S-PG603-3
+"Santa Maria Huatulco, Oaxaca",Oaxaca,Ruta Sur, 170,15.8337711,-96.3214401,Presencia Migración Irregular,PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",S,3,S-PG628-3
+"San Pedro Mixtepec -Dto. 22 -, Oaxaca",Oaxaca,Ruta Sur, 3,16.271111,-96.2825,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,1,S-PG629-1
+"Miahuatlan de Porfirio Diaz, Oaxaca",Oaxaca,Ruta Sur, 13,16.3610815,-96.5850578538718,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,2,S-PG629-2
+"Santa Maria del Tule, Oaxaca",Oaxaca,Ruta Sur, 1,17.0476822,-96.6334574,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,4,S-PG630-4
+"San Dionisio Ocotepec, Oaxaca",Oaxaca,Ruta Sur, 7,16.7975187,-96.3960971,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,3,S-PG629-3
+"Trinidad Zaachila, Oaxaca",Oaxaca,Ruta Sur, 1,16.921389,-96.765,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,4,S-PG629-4
+"San Antonio de la Cal, Oaxaca",Oaxaca,Ruta Sur, 1,17.028333,-96.700556,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,3,S-PG630-3
+"Santa Cruz Xoxocotlan, Oaxaca",Oaxaca,Ruta Sur, 731,17.026389,-96.733333,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,2,S-PG630-2
+"San Agustin de las Juntas, Oaxaca",Oaxaca,Ruta Sur, 2,17.005436,-96.7092291,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,1,S-PG630-1
+"Santa Maria Coyotepec, Oaxaca",Oaxaca,Ruta Sur, 10,16.9716988,-96.71080424404754,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,8,S-PG629-8
+"San Bartolo Coyotepec, Oaxaca",Oaxaca,Ruta Sur, 5,16.9575983,-96.7066199,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,7,S-PG629-7
+"Villa de Zaachila, Oaxaca",Oaxaca,Ruta Sur, 77,16.950833,-96.749167,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,6,S-PG629-6
+"Tlacolula de Matamoros, Oaxaca",Oaxaca,Ruta Sur, 351,16.9314623,-96.46110745930906,Presencia Migración Irregular,PG629,"POLYGON ((-97 17, -96 17, -96 16, -97 16, -97 17))",S,5,S-PG629-5
+"San Sebastian Tutla, Oaxaca",Oaxaca,Ruta Sur, 3,17.059722,-96.672222,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,5,S-PG630-5
+"Santo Domingo Yanhuitlan, Oaxaca",Oaxaca,Ruta Sur, 44,17.5273478,-97.3421502,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,2,S-PG603-2
+"San Pedro Ixtlahuaca, Oaxaca",Oaxaca,Ruta Sur, 1,17.063056,-96.818056,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,8,S-PG630-8
+"San Andres Huaxpaltepec, Oaxaca",Oaxaca,Ruta Sur, 31,16.3411829,-97.93462519426676,Presencia Migración Irregular,PG602,"POLYGON ((-98 17, -97 17, -97 16, -98 16, -98 17))",S,2,S-PG602-2
+"Santiago Pinotepa Nacional, Oaxaca",Oaxaca,Ruta Sur, 7,16.3406076,-98.0536701,Presencia Migración Irregular,PG575,"POLYGON ((-99 17, -98 17, -98 16, -99 16, -99 17))",S,1,S-PG575-1
+"Santiago Juxtlahuaca, Oaxaca",Oaxaca,Ruta Sur, 1,17.334443,-98.010574,Presencia Migración Irregular,PG576,"POLYGON ((-99 18, -98 18, -98 17, -99 17, -99 18))",S,1,S-PG576-1
+"Santiago Niltepec, Oaxaca",Oaxaca,Ruta Sur, 14,16.5614134,-94.6131085,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,4,S-PG683-4
+"Juchitan de Zaragoza, Oaxaca",Oaxaca,Ruta Sur,2 625,16.413328999999997,-94.9118794582709,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,3,S-PG683-3
+"San Pedro Tapanatepec, Oaxaca",Oaxaca,Ruta Sur, 283,16.3689223,-94.1927528,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,2,S-PG683-2
+"Chahuites, Oaxaca",Oaxaca,Ruta Sur, 54,16.2885299,-94.1942777,Presencia Migración Irregular,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))",S,1,S-PG683-1
+"Matias Romero Avendano, Oaxaca",Oaxaca,Ruta Sur, 157,16.8761133,-95.0405586,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,7,S-PG656-7
+"Ciudad Ixtepec, Oaxaca",Oaxaca,Ruta Sur, 10,16.5564139,-95.0959653,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,6,S-PG656-6
+"El Espinal, Oaxaca",Oaxaca,Ruta Sur, 10,16.4609135,-95.05818330487185,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,5,S-PG656-5
+"Asuncion Nochixtlan, Oaxaca",Oaxaca,Ruta Sur, 13,17.457222,-97.225,Presencia Migración Irregular,PG603,"POLYGON ((-98 18, -97 18, -97 17, -98 17, -98 18))",S,1,S-PG603-1
+"Santa Maria Jalapa del Marques, Oaxaca",Oaxaca,Ruta Sur,1 264,16.4403557,-95.4448148,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,4,S-PG656-4
+"Santa Maria Tonameca, Oaxaca",Oaxaca,Ruta Sur, 1,15.745833,-96.547222,Presencia Migración Irregular,PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",S,2,S-PG628-2
+"Santo Domingo Tehuantepec, Oaxaca",Oaxaca,Ruta Sur, 222,16.3172613,-95.2468005,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,2,S-PG656-2
+"Salina Cruz, Oaxaca",Oaxaca,Ruta Sur, 112,16.1825,-95.195833,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,1,S-PG656-1
+"San Jose Tenango, Oaxaca",Oaxaca,Ruta Sur, 6,18.15,-96.716667,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",S,2,S-PG631-2
+"San Juan Bautista Tuxtepec, Oaxaca",Oaxaca,Ruta Sur, 108,18.0874632,-96.1227767,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",S,1,S-PG631-1
+"San Francisco Telixtlahuaca, Oaxaca",Oaxaca,Ruta Sur, 49,17.296628,-96.9056112,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,15,S-PG630-15
+"San Pablo Huitzo, Oaxaca",Oaxaca,Ruta Sur, 729,17.2777969,-96.8866692,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,14,S-PG630-14
+"Villa de Etla, Oaxaca",Oaxaca,Ruta Sur, 2,17.2057678,-96.7981939,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,13,S-PG630-13
+"San Pablo Etla, Oaxaca",Oaxaca,Ruta Sur, 35,17.1450449,-96.7644253,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,12,S-PG630-12
+"San Lorenzo Cacaotepec, Oaxaca",Oaxaca,Ruta Sur, 2,17.1278714,-96.8017692,Presencia Migración Irregular,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",S,11,S-PG630-11
+"San Pedro Totolapam, Oaxaca",Oaxaca,Ruta Sur, 20,15.8659835,-97.0043148,Presencia Migración Irregular,PG601,"POLYGON ((-98 16, -97 16, -97 15, -98 15, -98 16))",S,1,S-PG601-1
+"Villa de Tututepec, Oaxaca",Oaxaca,Ruta Sur, 37,16.1303062,-97.6080871,Presencia Migración Irregular,PG602,"POLYGON ((-98 17, -97 17, -97 16, -98 16, -98 17))",S,1,S-PG602-1
+"Santa Maria Mixtequilla, Oaxaca",Oaxaca,Ruta Sur, 37,16.374444,-95.259722,Presencia Migración Irregular,PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",S,3,S-PG656-3
+"San Pedro Pochutla, Oaxaca",Oaxaca,Ruta Sur, 36,15.744444,-96.465278,Presencia Migración Irregular,PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",S,1,S-PG628-1
+"Puebla, Puebla",Puebla,Ruta Centro,5 069,19.03840622797689,-98.2069491554557,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,1,C-PG578-1
+"El Marques, Queretaro",Queretaro,Ruta Centro, 16,20.73507785,-100.28357653504231,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,6,C-PG525-6
+"Queretaro, Queretaro",Queretaro,Ruta Centro, 872,20.5927744,-100.3902245,Presencia Migración Irregular,PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",C,4,C-PG525-4
+"San Juan del Rio, Queretaro",Queretaro,Ruta Centro,1 304,20.3867547,-99.9931982,Presencia Migración Irregular,PG552,"POLYGON ((-100 21, -99 21, -99 20, -100 20, -100 21))",C,3,C-PG552-3
+"Isla Mujeres, Quintana Roo",Quintana Roo,Ruta Sur, 24,21.2371906,-86.7350001,Presencia Migración Irregular,PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",S,2,S-PG904-2
+"Othon P. Blanco, Quintana Roo",Quintana Roo,Ruta Sur, 369,18.43704555,-88.82575815803347,Presencia Migración Irregular,PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",S,1,S-PG847-1
+"Bacalar, Quintana Roo",Quintana Roo,Ruta Sur, 9,18.6782559,-88.3922556,Presencia Migración Irregular,PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",S,2,S-PG847-2
+"Benito Juarez, Quintana Roo",Quintana Roo,Ruta Sur,1 897,21.07668085,-86.92633521708406,Presencia Migración Irregular,PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",S,1,S-PG904-1
+"Solidaridad, Quintana Roo",Quintana Roo,Ruta Sur, 178,20.5843747,-87.50345268296755,Presencia Migración Irregular,PG876,"POLYGON ((-88 21, -87 21, -87 20, -88 20, -88 21))",S,2,S-PG876-2
+"Cozumel, Quintana Roo",Quintana Roo,Ruta Sur, 24,20.4320599,-86.92069058377268,Presencia Migración Irregular,PG903,"POLYGON ((-87 21, -86 21, -86 20, -87 20, -87 21))",S,1,S-PG903-1
+"Tulum, Quintana Roo",Quintana Roo,Ruta Sur, 13,20.1692965,-87.44954812616734,Presencia Migración Irregular,PG876,"POLYGON ((-88 21, -87 21, -87 20, -88 20, -88 21))",S,1,S-PG876-1
+"San Luis Potosi, San Luis Potosi",San Luis Potosi,Ruta Centro,4 154,22.5000001,-100.4949145,Presencia Migración Irregular,PG527,"POLYGON ((-101 23, -100 23, -100 22, -101 22, -101 23))",C,1,C-PG527-1
+"Cedral, San Luis Potosi",San Luis Potosi,Ruta Centro, 5,23.8205361,-100.7242892,Presencia Migración Irregular,PG528,"POLYGON ((-101 24, -100 24, -100 23, -101 23, -101 24))",C,2,C-PG528-2
+"Angostura, Sinaloa",Sinaloa,Ruta del Pacifico, 79,25.3657471,-108.16152,Presencia Migración Irregular,PG314,"POLYGON ((-109 26, -108 26, -108 25, -109 25, -109 26))",P,1,P-PG314-1
+"Mazatlan, Sinaloa",Sinaloa,Ruta del Pacifico, 976,23.2035785,-106.4208391,Presencia Migración Irregular,PG366,"POLYGON ((-107 24, -106 24, -106 23, -107 23, -107 24))",P,1,P-PG366-1
+"Ahome, Sinaloa",Sinaloa,Ruta del Pacifico, 4,25.9240491,-109.20583440830308,Presencia Migración Irregular,PG287,"POLYGON ((-110 26, -109 26, -109 25, -110 25, -110 26))",P,1,P-PG287-1
+"Guasave, Sinaloa",Sinaloa,Ruta del Pacifico, 1,25.5738,-108.4674697,Presencia Migración Irregular,PG314,"POLYGON ((-109 26, -108 26, -108 25, -109 25, -109 26))",P,2,P-PG314-2
+"Culiacan, Sinaloa",Sinaloa,Ruta del Pacifico, 11,24.7978965,-107.393395,Presencia Migración Irregular,PG340,"POLYGON ((-108 25, -107 25, -107 24, -108 24, -108 25))",P,1,P-PG340-1
+"Imuris, Sonora",Sonora,Ruta del Pacifico, 7,30.7874899,-110.8463861,Presencia Migración Irregular,PG265,"POLYGON ((-111 31, -110 31, -110 30, -111 30, -111 31))",P,1,P-PG265-1
+"Guaymas, Sonora",Sonora,Ruta del Pacifico, 860,27.9216441,-110.8994059,Presencia Migración Irregular,PG262,"POLYGON ((-111 28, -110 28, -110 27, -111 27, -111 28))",P,1,P-PG262-1
+"Altar, Sonora",Sonora,Ruta del Pacifico, 30,30.7170323,-111.8380038,Presencia Migración Irregular,PG238,"POLYGON ((-112 31, -111 31, -111 30, -112 30, -112 31))",P,2,P-PG238-2
+"Nogales, Sonora",Sonora,Ruta del Pacifico,4 084,31.3285057,-110.9450472,Presencia Migración Irregular,PG266,"POLYGON ((-111 32, -110 32, -110 31, -111 31, -111 32))",P,1,P-PG266-1
+"Santa Ana, Sonora",Sonora,Ruta del Pacifico,12 341,30.5410922,-111.1184881,Presencia Migración Irregular,PG238,"POLYGON ((-112 31, -111 31, -111 30, -112 30, -112 31))",P,1,P-PG238-1
+"San Luis Rio Colorado, Sonora",Sonora,Ruta del Pacifico, 67,32.4517957,-114.7652542,Presencia Migración Irregular,PG159,"POLYGON ((-115 33, -114 33, -114 32, -115 32, -115 33))",P,1,P-PG159-1
+"General Plutarco Elias Calles, Sonora",Sonora,Ruta del Pacifico,1 431,31.6949837,-112.71174894524104,Presencia Migración Irregular,PG212,"POLYGON ((-113 32, -112 32, -112 31, -113 31, -113 32))",P,1,P-PG212-1
+"Agua Prieta, Sonora",Sonora,Ruta del Pacifico, 35,31.3305591,-109.5564331,Presencia Migración Irregular,PG293,"POLYGON ((-110 32, -109 32, -109 31, -110 31, -110 32))",P,1,P-PG293-1
+"Huatabampo, Sonora",Sonora,Ruta del Pacifico,1 045,26.8248431,-109.6420085,Presencia Migración Irregular,PG288,"POLYGON ((-110 27, -109 27, -109 26, -110 26, -110 27))",P,1,P-PG288-1
+"Hermosillo, Sonora",Sonora,Ruta del Pacifico,9 637,29.0948207,-110.9692202,Presencia Migración Irregular,PG264,"POLYGON ((-111 30, -110 30, -110 29, -111 29, -111 30))",P,1,P-PG264-1
+"Cajeme, Sonora",Sonora,Ruta del Pacifico,1 040,27.71198065,-109.9022075359282,Presencia Migración Irregular,PG289,"POLYGON ((-110 28, -109 28, -109 27, -110 27, -110 28))",P,2,P-PG289-2
+"Caborca, Sonora",Sonora,Ruta del Pacifico, 414,30.7166014,-112.1562598,Presencia Migración Irregular,PG211,"POLYGON ((-113 31, -112 31, -112 30, -113 30, -113 31))",P,1,P-PG211-1
+"Puerto Penasco, Sonora",Sonora,Ruta del Pacifico, 1,31.3170867,-113.531819,Presencia Migración Irregular,PG185,"POLYGON ((-114 32, -113 32, -113 31, -114 31, -114 32))",P,1,P-PG185-1
+"Navojoa, Sonora",Sonora,Ruta del Pacifico, 823,27.0721872,-109.4438227,Presencia Migración Irregular,PG289,"POLYGON ((-110 28, -109 28, -109 27, -110 27, -110 28))",P,1,P-PG289-1
+"Comalcalco, Tabasco",Tabasco,Ruta del Golfo, 368,18.2615076,-93.2231523,Presencia Migración Irregular,PG712,"POLYGON ((-94 19, -93 19, -93 18, -94 18, -94 19))",G,2,G-PG712-2
+"Cunduacan, Tabasco",Tabasco,Ruta del Golfo, 2,18.066059,-93.173675,Presencia Migración Irregular,PG712,"POLYGON ((-94 19, -93 19, -93 18, -94 18, -94 19))",G,1,G-PG712-1
+"Cardenas, Tabasco",Tabasco,Ruta del Golfo,13 100,17.990878,-93.3753314,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",G,6,G-PG711-6
+"Paraiso, Tabasco",Tabasco,Ruta del Golfo, 2,18.3987331,-93.2125326,Presencia Migración Irregular,PG712,"POLYGON ((-94 19, -93 19, -93 18, -94 18, -94 19))",G,3,G-PG712-3
+"Huimanguillo, Tabasco",Tabasco,Ruta del Golfo,97 523,17.7620967,-93.66344080511584,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",G,5,G-PG711-5
+"Teapa, Tabasco",Tabasco,Ruta del Golfo,9 947,17.5566526,-92.9480504,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,3,G-PG738-3
+"Macuspana, Tabasco",Tabasco,Ruta del Golfo,34 779,17.760922,-92.596108,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,6,G-PG738-6
+"Centro, Tabasco",Tabasco,Ruta del Golfo,71 661,18.0271588,-92.77479118046158,Presencia Migración Irregular,PG739,"POLYGON ((-93 19, -92 19, -92 18, -93 18, -93 19))",G,1,G-PG739-1
+"Centla, Tabasco",Tabasco,Ruta del Golfo, 45,18.3536762,-92.65219864326907,Presencia Migración Irregular,PG739,"POLYGON ((-93 19, -92 19, -92 18, -93 18, -93 19))",G,3,G-PG739-3
+"Tenosique, Tabasco",Tabasco,Ruta del Golfo,40 069,17.4707129,-91.4220212,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",G,1,G-PG765-1
+"Emiliano Zapata, Tabasco",Tabasco,Ruta del Golfo,6 643,17.693626000000002,-91.63973455765353,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",G,3,G-PG765-3
+"Balancan, Tabasco",Tabasco,Ruta del Golfo,1 472,17.79751665,-91.34585889385215,Presencia Migración Irregular,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))",G,4,G-PG765-4
+"Tacotalpa, Tabasco",Tabasco,Ruta del Golfo,9 367,17.5952197,-92.8253388,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,4,G-PG738-4
+"Jalapa, Tabasco",Tabasco,Ruta del Golfo,7 479,17.721716,-92.812012,Presencia Migración Irregular,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",G,5,G-PG738-5
+"Antiguo Morelos, Tamaulipas",Tamaulipas,Ruta del Golfo, 117,22.56570125,-99.08713716065976,Presencia Migración Irregular,PG554,"POLYGON ((-100 23, -99 23, -99 22, -100 22, -100 23))",G,1,G-PG554-1
+"Jaumave, Tamaulipas",Tamaulipas,Ruta del Golfo, 501,23.40496,-99.3806698,Presencia Migración Irregular,PG555,"POLYGON ((-100 24, -99 24, -99 23, -100 23, -100 24))",G,1,G-PG555-1
+"Victoria, Tamaulipas",Tamaulipas,Ruta del Golfo, 33,23.7389846,-99.1441352,Presencia Migración Irregular,PG555,"POLYGON ((-100 24, -99 24, -99 23, -100 23, -100 24))",G,2,G-PG555-2
+"Hidalgo, Tamaulipas",Tamaulipas,Ruta del Golfo, 45,24.2480354,-99.4382079,Presencia Migración Irregular,PG556,"POLYGON ((-100 25, -99 25, -99 24, -100 24, -100 25))",G,2,G-PG556-2
+"Miguel Aleman, Tamaulipas",Tamaulipas,Ruta del Golfo, 16,26.3995446,-99.0314218,Presencia Migración Irregular,PG558,"POLYGON ((-100 27, -99 27, -99 26, -100 26, -100 27))",G,1,G-PG558-1
+"Nuevo Laredo, Tamaulipas",Tamaulipas,Ruta del Golfo, 143,27.4930466,-99.5074055,Presencia Migración Irregular,PG559,"POLYGON ((-100 28, -99 28, -99 27, -100 27, -100 28))",G,1,G-PG559-1
+"Altamira, Tamaulipas",Tamaulipas,Ruta del Golfo, 833,22.3921625,-97.9362975,Presencia Migración Irregular,PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",G,3,G-PG608-3
+"Matamoros, Tamaulipas",Tamaulipas,Ruta del Golfo, 405,25.8810158,-97.5064866,Presencia Migración Irregular,PG611,"POLYGON ((-98 26, -97 26, -97 25, -98 25, -98 26))",G,1,G-PG611-1
+"Aldama, Tamaulipas",Tamaulipas,Ruta del Golfo, 14,22.9196081,-98.0741727,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,4,G-PG581-4
+"Soto la Marina, Tamaulipas",Tamaulipas,Ruta del Golfo, 53,23.87599915,-98.0502640007194,Presencia Migración Irregular,PG582,"POLYGON ((-99 24, -98 24, -98 23, -99 23, -99 24))",G,1,G-PG582-1
+"Tampico, Tamaulipas",Tamaulipas,Ruta del Golfo, 563,22.2157619,-97.8577713,Presencia Migración Irregular,PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",G,2,G-PG608-2
+"Jimenez, Tamaulipas",Tamaulipas,Ruta del Golfo, 1,24.2169169,-98.483929,Presencia Migración Irregular,PG583,"POLYGON ((-99 25, -98 25, -98 24, -99 24, -99 25))",G,1,G-PG583-1
+"El Mante, Tamaulipas",Tamaulipas,Ruta del Golfo, 6,22.60787365,-98.93534140593027,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,2,G-PG581-2
+"Cruillas, Tamaulipas",Tamaulipas,Ruta del Golfo, 985,24.7554618,-98.5369904,Presencia Migración Irregular,PG583,"POLYGON ((-99 25, -98 25, -98 24, -99 24, -99 25))",G,2,G-PG583-2
+"San Fernando, Tamaulipas",Tamaulipas,Ruta del Golfo, 673,24.8466769,-98.1473493,Presencia Migración Irregular,PG583,"POLYGON ((-99 25, -98 25, -98 24, -99 24, -99 25))",G,3,G-PG583-3
+"Gonzalez, Tamaulipas",Tamaulipas,Ruta del Golfo, 8,22.790387350000003,-98.57631895542931,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,3,G-PG581-3
+"Rio Bravo, Tamaulipas",Tamaulipas,Ruta del Golfo, 58,25.988981,-98.0945766,Presencia Migración Irregular,PG584,"POLYGON ((-99 26, -98 26, -98 25, -99 25, -99 26))",G,2,G-PG584-2
+"Reynosa, Tamaulipas",Tamaulipas,Ruta del Golfo,6 356,26.0907673,-98.2788191,Presencia Migración Irregular,PG585,"POLYGON ((-99 27, -98 27, -98 26, -99 26, -99 27))",G,1,G-PG585-1
+"Tlaxco, Tlaxcala",Tlaxcala,Ruta Centro, 49,19.62058645,-98.17076010112392,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,31,C-PG578-31
+"Xaloztoc, Tlaxcala",Tlaxcala,Ruta Centro,4 231,19.403611,-98.048611,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,19,C-PG578-19
+"Tzompantepec, Tlaxcala",Tlaxcala,Ruta Centro, 33,19.38326045,-98.08616228147103,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,17,C-PG578-17
+"Apetatitlan de Antonio Carvajal, Tlaxcala",Tlaxcala,Ruta Centro, 339,19.3505173,-98.19120205454092,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,16,C-PG578-16
+"Amaxac de Guerrero, Tlaxcala",Tlaxcala,Ruta Centro, 1,19.348889,-98.167778,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,15,C-PG578-15
+"Ixtacuixtla de Mariano Matamoros, Tlaxcala",Tlaxcala,Ruta Centro,2 539,19.34670365,-98.37815810373962,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,14,C-PG578-14
+"Nativitas, Tlaxcala",Tlaxcala,Ruta Centro, 17,19.233333,-98.314722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,9,C-PG578-9
+"San Jeronimo Zacualpan, Tlaxcala",Tlaxcala,Ruta Centro, 4,19.240833,-98.261389,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,10,C-PG578-10
+"Yauhquemehcan, Tlaxcala",Tlaxcala,Ruta Centro, 101,19.4057444,-98.1824244,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,20,C-PG578-20
+"San Juan Huactzinco, Tlaxcala",Tlaxcala,Ruta Centro, 1,19.2329326,-98.2520375,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,8,C-PG578-8
+"Zacatelco, Tlaxcala",Tlaxcala,Ruta Centro, 8,19.215833,-98.239722,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,7,C-PG578-7
+"Santa Cruz Quilehtla, Tlaxcala",Tlaxcala,Ruta Centro, 9,19.212222,-98.221111,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,6,C-PG578-6
+"Papalotla de Xicohtencatl, Tlaxcala",Tlaxcala,Ruta Centro, 2,19.168611,-98.203889,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,5,C-PG578-5
+"San Pablo del Monte, Tlaxcala",Tlaxcala,Ruta Centro, 2,19.12695185,-98.16539571695478,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,4,C-PG578-4
+"Chiautempan, Tlaxcala",Tlaxcala,Ruta Centro, 16,19.313889,-98.1925,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,13,C-PG578-13
+"Apizaco, Tlaxcala",Tlaxcala,Ruta Centro, 134,19.415556,-98.14,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,21,C-PG578-21
+"Tocatlan, Tlaxcala",Tlaxcala,Ruta Centro, 7,19.389167,-98.03,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,18,C-PG578-18
+"Tetla de la Solidaridad, Tlaxcala",Tlaxcala,Ruta Centro, 2,19.440556,-98.103333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,23,C-PG578-23
+"Calpulalpan, Tlaxcala",Tlaxcala,Ruta Centro, 25,19.587778,-98.569167,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,30,C-PG578-30
+"Atlangatepec, Tlaxcala",Tlaxcala,Ruta Centro, 83,19.530833,-98.208333,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,29,C-PG578-29
+"Nanacamilpa de Mariano Arista, Tlaxcala",Tlaxcala,Ruta Centro, 2,19.5080315,-98.54324076456274,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,27,C-PG578-27
+"Sanctorum de Lazaro Cardenas, Tlaxcala",Tlaxcala,Ruta Centro, 13,19.4925,-98.471944,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,26,C-PG578-26
+"Tlaxcala, Tlaxcala",Tlaxcala,Ruta Centro, 33,19.416667,-98.166667,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,22,C-PG578-22
+"Hueyotlipan, Tlaxcala",Tlaxcala,Ruta Centro, 14,19.469444,-98.348056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,24,C-PG578-24
+"Munoz de Domingo Arenas, Tlaxcala",Tlaxcala,Ruta Centro, 2,19.474722,-98.208056,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,25,C-PG578-25
+"Ixtenco, Tlaxcala",Tlaxcala,Ruta Centro, 242,19.2518725,-97.8947561,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",C,1,C-PG605-1
+"Huamantla, Tlaxcala",Tlaxcala,Ruta Centro, 73,19.313427,-97.9230236,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",C,3,C-PG605-3
+"Cuapiaxtla, Tlaxcala",Tlaxcala,Ruta Centro, 47,19.2961777,-97.768912,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",C,2,C-PG605-2
+"Ixtaczoquitlan, Veracruz",Veracruz,Ruta del Golfo, 2,18.85134015,-97.02710712449068,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,5,G-PG604-5
+"Tezonapa, Veracruz",Veracruz,Ruta del Golfo, 6,18.5587309,-96.78234114824798,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,5,G-PG631-5
+"Tierra Blanca, Veracruz",Veracruz,Ruta del Golfo, 13,18.5272475,-96.21520077487332,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,4,G-PG631-4
+"Tres Valles, Veracruz",Veracruz,Ruta del Golfo, 2,18.2921576,-96.16641196824392,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,3,G-PG631-3
+"Cuitlahuac, Veracruz",Veracruz,Ruta del Golfo,1 345,18.814226,-96.7223775,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,6,G-PG631-6
+"Pueblo Viejo, Veracruz",Veracruz,Ruta del Golfo, 3,22.1638426,-97.89855507348236,Presencia Migración Irregular,PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",G,1,G-PG608-1
+"Ozuluama de Mascarenas, Veracruz",Veracruz,Ruta del Golfo, 74,21.661111,-97.850556,Presencia Migración Irregular,PG607,"POLYGON ((-98 22, -97 22, -97 21, -98 21, -98 22))",G,2,G-PG607-2
+"Naranjos Amatlan, Veracruz",Veracruz,Ruta del Golfo, 21,21.3093326,-97.67600130026644,Presencia Migración Irregular,PG607,"POLYGON ((-98 22, -97 22, -97 21, -98 21, -98 22))",G,1,G-PG607-1
+"Alamo Temapache, Veracruz",Veracruz,Ruta del Golfo, 1,20.995193200000003,-97.75578419140824,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,7,G-PG606-7
+"Tuxpan, Veracruz",Veracruz,Ruta del Golfo, 231,20.95647915,-97.40738177120748,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,6,G-PG606-6
+"Tihuatlan, Veracruz",Veracruz,Ruta del Golfo, 8,20.716735,-97.5367859622192,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,5,G-PG606-5
+"Poza Rica de Hidalgo, Veracruz",Veracruz,Ruta del Golfo, 129,20.53765745,-97.44512479987276,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,4,G-PG606-4
+"Perote, Veracruz",Veracruz,Ruta del Golfo, 2,19.51086405,-97.26853448069734,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",G,4,G-PG605-4
+"Villa Aldama, Veracruz",Veracruz,Ruta del Golfo, 3,19.6489805,-97.2228382,Presencia Migración Irregular,PG605,"POLYGON ((-98 20, -97 20, -97 19, -98 19, -98 20))",G,5,G-PG605-5
+"Camerino Z. Mendoza, Veracruz",Veracruz,Ruta del Golfo, 126,18.7896308,-97.15993214034108,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,1,G-PG604-1
+"Nogales, Veracruz",Veracruz,Ruta del Golfo, 6,18.8226013,-97.1627659,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,2,G-PG604-2
+"Rio Blanco, Veracruz",Veracruz,Ruta del Golfo, 73,18.84522475,-97.15229388882732,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,3,G-PG604-3
+"Orizaba, Veracruz",Veracruz,Ruta del Golfo,1 100,18.8497366,-97.1060062,Presencia Migración Irregular,PG604,"POLYGON ((-98 19, -97 19, -97 18, -98 18, -98 19))",G,4,G-PG604-4
+"Gutierrez Zamora, Veracruz",Veracruz,Ruta del Golfo, 9,20.456991,-97.085536109707,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,3,G-PG606-3
+"Papantla, Veracruz",Veracruz,Ruta del Golfo, 48,20.445872100000003,-97.32327774944926,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,2,G-PG606-2
+"Martinez de la Torre, Veracruz",Veracruz,Ruta del Golfo, 15,20.1197165,-97.04616467665728,Presencia Migración Irregular,PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",G,1,G-PG606-1
+"Carrillo Puerto, Veracruz",Veracruz,Ruta del Golfo, 55,18.8215893,-96.58428389542232,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,7,G-PG631-7
+"Coatzacoalcos, Veracruz",Veracruz,Ruta del Golfo, 297,18.1396787,-94.4501731,Presencia Migración Irregular,PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",G,3,G-PG685-3
+"Cotaxtla, Veracruz",Veracruz,Ruta del Golfo, 250,18.857657250000003,-96.35099905704104,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,9,G-PG631-9
+"San Juan Evangelista, Veracruz",Veracruz,Ruta del Golfo, 1,17.76252635,-95.23042939358857,Presencia Migración Irregular,PG657,"POLYGON ((-96 18, -95 18, -95 17, -96 17, -96 18))",G,1,G-PG657-1
+"Juan Rodriguez Clara, Veracruz",Veracruz,Ruta del Golfo, 8,17.97320895,-95.34412799338502,Presencia Migración Irregular,PG657,"POLYGON ((-96 18, -95 18, -95 17, -96 17, -96 18))",G,2,G-PG657-2
+"Isla, Veracruz",Veracruz,Ruta del Golfo, 15,18.0276212,-95.5281332,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,1,G-PG658-1
+"Cosamaloapan de Carpio, Veracruz",Veracruz,Ruta del Golfo,3 096,18.28167395,-95.96435747268424,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,2,G-PG658-2
+"Carlos A. Carrillo, Veracruz",Veracruz,Ruta del Golfo, 1,18.32836115,-95.71540338041564,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,3,G-PG658-3
+"San Andres Tuxtla, Veracruz",Veracruz,Ruta del Golfo, 102,18.4633672,-95.19831533920046,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,4,G-PG658-4
+"Angel R. Cabada, Veracruz",Veracruz,Ruta del Golfo, 17,18.5927238,-95.38616824749718,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,5,G-PG658-5
+"Alvarado, Veracruz",Veracruz,Ruta del Golfo, 59,18.82874235,-95.9238540059007,Presencia Migración Irregular,PG658,"POLYGON ((-96 19, -95 19, -95 18, -96 18, -96 19))",G,6,G-PG658-6
+"Jesus Carranza, Veracruz",Veracruz,Ruta del Golfo,5 396,17.38793115,-94.90949730630518,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,1,G-PG684-1
+"Sayula de Aleman, Veracruz",Veracruz,Ruta del Golfo, 53,17.74768255,-94.95439752101804,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,2,G-PG684-2
+"Texistepec, Veracruz",Veracruz,Ruta del Golfo, 7,17.894167,-94.816389,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,3,G-PG684-3
+"Acayucan, Veracruz",Veracruz,Ruta del Golfo,45 794,17.9487862,-94.9145752,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,4,G-PG684-4
+"Moloacan, Veracruz",Veracruz,Ruta del Golfo, 81,17.9926405,-94.28232907418123,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,5,G-PG684-5
+"Yanga, Veracruz",Veracruz,Ruta del Golfo, 62,18.8313634,-96.7992608,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,8,G-PG631-8
+"Cosoleacaque, Veracruz",Veracruz,Ruta del Golfo, 17,18.0060183,-94.61748300858764,Presencia Migración Irregular,PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",G,1,G-PG685-1
+"Minatitlan, Veracruz",Veracruz,Ruta del Golfo, 10,17.992773,-94.5567103,Presencia Migración Irregular,PG684,"POLYGON ((-95 18, -94 18, -94 17, -95 17, -95 18))",G,6,G-PG684-6
+"Tecolutla, Veracruz",Veracruz,Ruta del Golfo, 2,20.41847865,-96.9936370355502,Presencia Migración Irregular,PG633,"POLYGON ((-97 21, -96 21, -96 20, -97 20, -97 21))",G,1,G-PG633-1
+"Las Choapas, Veracruz",Veracruz,Ruta del Golfo, 303,17.56348585,-93.94000863532293,Presencia Migración Irregular,PG711,"POLYGON ((-94 18, -93 18, -93 17, -94 17, -94 18))",G,4,G-PG711-4
+"Xalapa, Veracruz",Veracruz,Ruta del Golfo, 109,19.5408338,-96.9146374,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,6,G-PG632-6
+"Coatepec, Veracruz",Veracruz,Ruta del Golfo, 1,19.4543134,-96.9596375,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,5,G-PG632-5
+"Veracruz, Veracruz",Veracruz,Ruta del Golfo,2 478,19.333333,-96.666667,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,4,G-PG632-4
+"La Antigua, Veracruz",Veracruz,Ruta del Golfo, 160,19.3176799,-96.31864092519668,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,3,G-PG632-3
+"Soledad de Doblado, Veracruz",Veracruz,Ruta del Golfo, 3,19.0452067,-96.4233756,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,2,G-PG632-2
+"Amatlan de los Reyes, Veracruz",Veracruz,Ruta del Golfo, 17,18.87251165,-96.86857239686655,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,10,G-PG631-10
+"Panuco, Veracruz",Veracruz,Ruta del Golfo, 8,22.08052495,-98.23295792186904,Presencia Migración Irregular,PG581,"POLYGON ((-99 23, -98 23, -98 22, -99 22, -99 23))",G,1,G-PG581-1
+"Agua Dulce, Veracruz",Veracruz,Ruta del Golfo,4 144,18.0899541,-94.16236305223826,Presencia Migración Irregular,PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",G,2,G-PG685-2
+"Cordoba, Veracruz",Veracruz,Ruta del Golfo, 609,18.8944704,-96.9352891,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,11,G-PG631-11
+"Medellin de Bravo, Veracruz",Veracruz,Ruta del Golfo, 27,19.0404677,-96.1442918,Presencia Migración Irregular,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",G,1,G-PG632-1
+"Fortin, Veracruz",Veracruz,Ruta del Golfo, 54,18.8993309,-96.9982014,Presencia Migración Irregular,PG631,"POLYGON ((-97 19, -96 19, -96 18, -97 18, -97 19))",G,12,G-PG631-12
+"Merida, Yucatan",Yucatan,Ruta Sur, 931,20.9670759,-89.6237402,Presencia Migración Irregular,PG822,"POLYGON ((-90 21, -89 21, -89 20, -90 20, -90 21))",S,1,S-PG822-1
+"Progreso, Yucatan",Yucatan,Ruta Sur, 3,21.2822136,-89.6636637,Presencia Migración Irregular,PG823,"POLYGON ((-90 22, -89 22, -89 21, -90 21, -90 22))",S,1,S-PG823-1
+"Valladolid, Yucatan",Yucatan,Ruta Sur, 5,20.6902505,-88.2016999,Presencia Migración Irregular,PG849,"POLYGON ((-89 21, -88 21, -88 20, -89 20, -89 21))",S,1,S-PG849-1
+"Zacatecas, Zacatecas",Zacatecas,Ruta Centro, 986,19.039018782328817,-98.20248616428334,Presencia Migración Irregular,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",C,2,C-PG578-2
+"Calera, Zacatecas",Zacatecas,Ruta Centro, 42,22.97848,-102.85622288611614,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,5,C-PG473-5
+"Jerez, Zacatecas",Zacatecas,Ruta Centro, 1,22.7105933,-103.00147264243049,Presencia Migración Irregular,PG446,"POLYGON ((-104 23, -103 23, -103 22, -104 22, -104 23))",C,1,C-PG446-1
+"Trancoso, Zacatecas",Zacatecas,Ruta Centro, 96,22.7353025,-102.3667969,Presencia Migración Irregular,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",C,4,C-PG473-4

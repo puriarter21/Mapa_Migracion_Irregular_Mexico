@@ -1,54 +1,54 @@
-name,tipo,sub_tipo,latitud,longitud,ID_Poligono,geometry
-Acayucan Estacion Migratoria,INM,Estacion Migratoria INM,18.00185138,-94.9210765,PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))"
-Agua Prieta Estacion Provisional,INM,Estacion Migratoria INM,31.33294658,-109.560374,PG293,"POLYGON ((-110 32, -109 32, -109 31, -110 31, -110 32))"
-Aguascalientes Estacion Migratoria,INM,Estacion Migratoria INM,21.92955053,-102.3202229,PG472,"POLYGON ((-103 22, -102 22, -102 21, -103 21, -103 22))"
-Campeche Estacion Provisional,INM,Estacion Migratoria INM,19.84566009,-90.53974092,PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))"
-"Centro de Atencion Integral al Trafico Fronterizo ""La Trinitaria""",INM,Centro de Atencion Integral,16.14993427,-92.07211098,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))"
-Centro de Atencion Integral al Transito Fronterizo CAITF HUIXTLA,INM,Centro de Atencion Integral,15.16274927,-92.53298711,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))"
-Chetumal Estacion Migratoria,INM,Estacion Migratoria INM,18.5262955,-88.2833324,PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))"
-Chihuahua Estacion Migratoria,INM,Estacion Migratoria INM,28.64225733,-106.0844028,PG371,"POLYGON ((-107 29, -106 29, -106 28, -107 28, -107 29))"
-Ciudad Cuauhtemoc Estacion Provisional,INM,Estacion Migratoria INM,15.66766816,-92.00234413,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))"
-Ciudad del Carmen Estacion Provisional,INM,Estacion Migratoria INM,18.64262612,-91.82360709,PG766,"POLYGON ((-92 19, -91 19, -91 18, -92 18, -92 19))"
-Ciudad Juarez Estacion Migratoria,INM,Estacion Migratoria INM,31.74558597,-106.4839641,PG374,"POLYGON ((-107 32, -106 32, -106 31, -107 31, -107 32))"
-Colima Estancia Provisional,INM,Estacion Migratoria INM,18.5262955,-88.2833324,PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))"
-Comitan Estacion Provisional,INM,Estacion Migratoria INM,16.21432432,-92.11557627,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))"
-Echegaray Estacion Provisional,INM,Estacion Migratoria INM,15.654755,-93.149776,PG709,"POLYGON ((-94 16, -93 16, -93 15, -94 15, -94 16))"
-El Ceibo Estacion Provisional,INM,Estacion Migratoria INM,17.26028726,-90.98837286,PG792,"POLYGON ((-91 18, -90 18, -90 17, -91 17, -91 18))"
-El Hueyate Estacion Provisional,INM,Estacion Migratoria INM,15.1605676,-92.5157851,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))"
-Escarcega Estacion Migratoria,INM,Estacion Migratoria INM,18.60664518,-90.73938847,PG793,"POLYGON ((-91 19, -90 19, -90 18, -91 18, -91 19))"
-Guadalajara Estacion Provisional,INM,Estacion Migratoria INM,20.72696663,-103.3450627,PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))"
-Hermosillo Estacion Migratoria,INM,Estacion Migratoria INM,29.07957121,-110.9552622,PG264,"POLYGON ((-111 30, -110 30, -110 29, -111 29, -111 30))"
-Huatulco Estancia Provisional,INM,Estacion Migratoria INM,15.827777,-96.320882,PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))"
-Huehuetan Estacion Provisional,INM,Estacion Migratoria INM,15.0196034,-92.3931781,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))"
-Iztapalapa Estacion Migratoria (Estacion Migratoria de la Ciudad de Mexico),INM,Estacion Migratoria INM,19.31646912,-99.08320427,PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))"
-Janos Estacion Migratoria,INM,Estacion Migratoria INM,30.88484253,-108.1943893,PG319,"POLYGON ((-109 31, -108 31, -108 30, -109 30, -109 31))"
-La Ventosa Estacion Provisional,INM,Estacion Migratoria INM,16.54834163,-94.94865417,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))"
-Matamoros Estacion Migratoria,INM,Estacion Migratoria INM,25.8908476,-97.50314713,PG611,"POLYGON ((-98 26, -97 26, -97 25, -98 25, -98 26))"
-Mazatlan Estacion Migratoria,INM,Estacion Migratoria INM,23.19281522,-106.4196897,PG366,"POLYGON ((-107 24, -106 24, -106 23, -107 23, -107 24))"
-Merida Estacion Migratoria,INM,Estacion Migratoria INM,20.98721581,-89.62713003,PG822,"POLYGON ((-90 21, -89 21, -89 20, -90 20, -90 21))"
-Mexicali Estacion Migratoria,INM,Estacion Migratoria INM,32.58584718,-115.4389393,PG132,"POLYGON ((-116 33, -115 33, -115 32, -116 32, -116 33))"
-Miguel Aleman Estacion Provisional,INM,Estacion Migratoria INM,26.39794342,-99.03011799,PG558,"POLYGON ((-100 27, -99 27, -99 26, -100 26, -100 27))"
-Monterrey Estacion Provisional,INM,Estacion Migratoria INM,25.64272573,-100.318737,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))"
-Nuevo Laredo Estacion Migratoria,INM,Estacion Migratoria INM,27.49808895,-99.50720787,PG559,"POLYGON ((-100 28, -99 28, -99 27, -100 27, -100 28))"
-Oaxaca Estacion Migratoria,INM,Estacion Migratoria INM,17.06134888,-96.72231317,PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))"
-Pachuca Estacion Migratoria,INM,Estacion Migratoria INM,20.08475233,-98.75936508,PG579,"POLYGON ((-99 21, -98 21, -98 20, -99 20, -99 21))"
-Palenque Estacion Migratoria,INM,Estacion Migratoria INM,17.49472895,-91.98612213,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))"
-Piedras Negras Estacion Provisional,INM,Estacion Migratoria INM,28.68038027,-100.573504,PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))"
-Playas de Catazaja Estacion Provisional,INM,Estacion Migratoria INM,17.7212181,-92.01599121,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))"
-Puebla Estacion Migratoria,INM,Estacion Migratoria INM,19.05984639,-98.2273221,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))"
-Saltillo Estacion Migratoria,INM,Estacion Migratoria INM,25.42244306,-100.9447861,PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))"
-San Cristobal de las Casas Estacion Provisional,INM,Estacion Migratoria INM,16.73446159,-92.6491642,PG737,"POLYGON ((-93 17, -92 17, -92 16, -93 16, -93 17))"
-San Gregorio Chamic Estacion Provisional,INM,Estacion Migratoria INM,15.68022929,-92.00569153,PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))"
-San Luis Potosi Estacion Migratoria,INM,Estacion Migratoria INM,22.14359738,-100.9977651,PG527,"POLYGON ((-101 23, -100 23, -100 22, -101 22, -101 23))"
-San Pedro Tapanatepec Estacion Provisional,INM,Estacion Migratoria INM,16.36976245,-94.19235706,PG683,"POLYGON ((-95 17, -94 17, -94 16, -95 16, -95 17))"
-Tampico Estacion Migratoria,INM,Estacion Migratoria INM,22.26319396,-97.79580295,PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))"
-Tapachula Estacion Migratoria (Siglo XXI),INM,Estacion Migratoria INM,14.92019548,-92.25910664,PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))"
-Tenosique Estacion Migratoria,INM,Estacion Migratoria INM,17.45776516,-91.44521713,PG765,"POLYGON ((-92 18, -91 18, -91 17, -92 17, -92 18))"
-Tijuana Estacion Migratoria,INM,Estacion Migratoria INM,32.4713011,-117.0136857,PG78,"POLYGON ((-118 33, -117 33, -117 32, -118 32, -118 33))"
-Tlaxcala Estacion Migratoria,INM,Estacion Migratoria INM,19.33662649,-98.19339752,PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))"
-Torreon Estacion Provisional,INM,Estacion Migratoria INM,25.5388592,-103.4533536,PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))"
-Tuxtla Gutierrez Estacion Migratoria,INM,Estacion Migratoria INM,16.75392043,-93.10526848,PG710,"POLYGON ((-94 17, -93 17, -93 16, -94 16, -94 17))"
-Veracruz Estacion Migratoria,INM,Estacion Migratoria INM,19.19948516,-96.14011288,PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))"
-Villahermosa Estacion Migratoria,INM,Estacion Migratoria INM,17.9899559,-92.9429324,PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))"
-Zacatecas Estacion Migratoria,INM,Estacion Migratoria INM,22.76581404,-102.5780582,PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))"
-Zihuatanejo Estacion Migratoria,INM,Estacion Migratoria INM,17.64424696,-101.5539694,PG495,"POLYGON ((-102 18, -101 18, -101 17, -102 17, -102 18))"
+name,tipo,sub_tipo,latitud,longitud,ID_Poligono,ciudad,estado
+Acayucan Estacion Migratoria,INM,Estacion Migratoria INM,18.00185138,-94.9210765,PG685,Acayucan,Veracruz
+Agua Prieta Estacion Provisional,INM,Estacion Migratoria INM,31.33294658,-109.560374,PG293,Agua Prieta,Sonora
+Aguascalientes Estacion Migratoria,INM,Estacion Migratoria INM,21.92955053,-102.3202229,PG472,Aguascalientes,Aguascalientes
+Campeche Estacion Provisional,INM,Estacion Migratoria INM,19.84566009,-90.53974092,PG794,Campeche,Campeche
+"Centro de Atencion Integral al Trafico Fronterizo ""La Trinitaria""",INM,Centro de Atencion Integral,16.14993427,-92.07211098,PG737,La Trinitaria,Chiapas
+Centro de Atencion Integral al Transito Fronterizo CAITF HUIXTLA,INM,Centro de Atencion Integral,15.16274927,-92.53298711,PG736,Salto de Agua,Chiapas
+Chetumal Estacion Migratoria,INM,Estacion Migratoria INM,18.5262955,-88.2833324,PG847,Chetumal,Quintana Roo
+Chihuahua Estacion Migratoria,INM,Estacion Migratoria INM,28.64225733,-106.0844028,PG371,Chihuahua,Chihuahua
+Ciudad Cuauhtemoc Estacion Provisional,INM,Estacion Migratoria INM,15.66766816,-92.00234413,PG736,Ciudad Cuauhtemoc,Chiapas
+Ciudad del Carmen Estacion Provisional,INM,Estacion Migratoria INM,18.64262612,-91.82360709,PG766,Ciudad del Carmen,Campeche
+Ciudad Juarez Estacion Migratoria,INM,Estacion Migratoria INM,31.74558597,-106.4839641,PG374,Ciudad Juarez,Chihuahua
+Colima Estancia Provisional,INM,Estacion Migratoria INM,18.5262955,-88.2833324,PG847,Colima,Quintana Roo
+Comitan Estacion Provisional,INM,Estacion Migratoria INM,16.21432432,-92.11557627,PG737,Comitan,Chiapas
+Echegaray Estacion Provisional,INM,Estacion Migratoria INM,15.654755,-93.149776,PG709,Echegaray,Chiapas
+El Ceibo Estacion Provisional,INM,Estacion Migratoria INM,17.26028726,-90.98837286,PG792,El Ceibo,Tabasco
+El Hueyate Estacion Provisional,INM,Estacion Migratoria INM,15.1605676,-92.5157851,PG736,El Hueyate,Chiapas
+Escarcega Estacion Migratoria,INM,Estacion Migratoria INM,18.60664518,-90.73938847,PG793,Escarcega,Campeche
+Guadalajara Estacion Provisional,INM,Estacion Migratoria INM,20.72696663,-103.3450627,PG444,Guadalajara,Jalisco
+Hermosillo Estacion Migratoria,INM,Estacion Migratoria INM,29.07957121,-110.9552622,PG264,Hermosillo,Sonora
+Huatulco Estancia Provisional,INM,Estacion Migratoria INM,15.827777,-96.320882,PG628,Huatulco,Oaxaca
+Huehuetan Estacion Provisional,INM,Estacion Migratoria INM,15.0196034,-92.3931781,PG736,Huehuetan,Chiapas
+Iztapalapa Estacion Migratoria (Estacion Migratoria de la Ciudad de Mexico),INM,Estacion Migratoria INM,19.31646912,-99.08320427,PG551,Iztapalapa,Estado de Mexico
+Janos Estacion Migratoria,INM,Estacion Migratoria INM,30.88484253,-108.1943893,PG319,Janos,Chihuahua
+La Ventosa Estacion Provisional,INM,Estacion Migratoria INM,16.54834163,-94.94865417,PG683,La Ventosa,Oaxaca
+Matamoros Estacion Migratoria,INM,Estacion Migratoria INM,25.8908476,-97.50314713,PG611,Matamoros,Tamaulipas
+Mazatlan Estacion Migratoria,INM,Estacion Migratoria INM,23.19281522,-106.4196897,PG366,Mazatlan,Sinaloa
+Merida Estacion Migratoria,INM,Estacion Migratoria INM,20.98721581,-89.62713003,PG822,Merida,Yucatan
+Mexicali Estacion Migratoria,INM,Estacion Migratoria INM,32.58584718,-115.4389393,PG132,Mexicali,Baja California
+Miguel Aleman Estacion Provisional,INM,Estacion Migratoria INM,26.39794342,-99.03011799,PG558,Miguel Aleman,Tamaulipas
+Monterrey Estacion Provisional,INM,Estacion Migratoria INM,25.64272573,-100.318737,PG530,Monterrey,Coahuila
+Nuevo Laredo Estacion Migratoria,INM,Estacion Migratoria INM,27.49808895,-99.50720787,PG559,Nuevo Laredo,Tamaulipas
+Oaxaca Estacion Migratoria,INM,Estacion Migratoria INM,17.06134888,-96.72231317,PG630,Oaxaca,Oaxaca
+Pachuca Estacion Migratoria,INM,Estacion Migratoria INM,20.08475233,-98.75936508,PG579,Pachuca,Hidalgo
+Palenque Estacion Migratoria,INM,Estacion Migratoria INM,17.49472895,-91.98612213,PG765,Palenque,Tabasco
+Piedras Negras Estacion Provisional,INM,Estacion Migratoria INM,28.68038027,-100.573504,PG533,Piedras Negras,Coahuila
+Playas de Catazaja Estacion Provisional,INM,Estacion Migratoria INM,17.7212181,-92.01599121,PG738,Playas de Catazaja,Chiapas
+Puebla Estacion Migratoria,INM,Estacion Migratoria INM,19.05984639,-98.2273221,PG578,Puebla,Puebla
+Saltillo Estacion Migratoria,INM,Estacion Migratoria INM,25.42244306,-100.9447861,PG530,Saltillo,Coahuila
+San Cristobal de las Casas Estacion Provisional,INM,Estacion Migratoria INM,16.73446159,-92.6491642,PG737,San Cristobal de las Casas,Chiapas
+San Gregorio Chamic Estacion Provisional,INM,Estacion Migratoria INM,15.68022929,-92.00569153,PG736,San Gregorio Chamic,Chiapas
+San Luis Potosi Estacion Migratoria,INM,Estacion Migratoria INM,22.14359738,-100.9977651,PG527,San Luis Potosi,San Luis Potosi
+San Pedro Tapanatepec Estacion Provisional,INM,Estacion Migratoria INM,16.36976245,-94.19235706,PG683,San Pedro Tapanatepec,Oaxaca
+Tampico Estacion Migratoria,INM,Estacion Migratoria INM,22.26319396,-97.79580295,PG608,Tampico,Veracruz
+Tapachula Estacion Migratoria (Siglo XXI),INM,Estacion Migratoria INM,14.92019548,-92.25910664,PG735,Tapachula,Chiapas
+Tenosique Estacion Migratoria,INM,Estacion Migratoria INM,17.45776516,-91.44521713,PG765,Tenosique,Tabasco
+Tijuana Estacion Migratoria,INM,Estacion Migratoria INM,32.4713011,-117.0136857,PG78,Tijuana,Baja California
+Tlaxcala Estacion Migratoria,INM,Estacion Migratoria INM,19.33662649,-98.19339752,PG578,Tlaxcala,Puebla
+Torreon Estacion Provisional,INM,Estacion Migratoria INM,25.5388592,-103.4533536,PG449,Torreon,Coahuila
+Tuxtla Gutierrez Estacion Migratoria,INM,Estacion Migratoria INM,16.75392043,-93.10526848,PG710,Tuxtla Gutierrez,Chiapas
+Veracruz Estacion Migratoria,INM,Estacion Migratoria INM,19.19948516,-96.14011288,PG632,Veracruz,Veracruz
+Villahermosa Estacion Migratoria,INM,Estacion Migratoria INM,17.9899559,-92.9429324,PG738,Villahermosa,Chiapas
+Zacatecas Estacion Migratoria,INM,Estacion Migratoria INM,22.76581404,-102.5780582,PG473,Zacatecas,Aguascalientes
+Zihuatanejo Estacion Migratoria,INM,Estacion Migratoria INM,17.64424696,-101.5539694,PG495,Zihuatanejo,Guerrero
