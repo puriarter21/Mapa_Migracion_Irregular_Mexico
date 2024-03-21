@@ -1,144 +1,144 @@
-ciudad,latitud,longitud,edo,medio
-"Aguascalientes, A. I. ""Jésus Terán""",21.701467443187862,-102.31592719740514,Aguascalientes,Aeropuerto
-Algodones (terrestre),32.714894020334775,-114.73331058811812,Baja California,Terrestre
-"Ensenada, A. I. ""El Cipres""",31.75080080159697,-116.59481998668603,Baja California,Aeropuerto
-Ensenada (marítimo),31.8932996,-116.6912627,Baja California,Marítima
-Isla Cedros (marítimo),28.1544990198747,-115.233073824214,Baja California,Marítima
-"Mexicali, A. I.",32.64053259386955,-115.2495368530918,Baja California,Aeropuerto
-Mexicali I (terrestre),32.67558124644809,-115.49398369917375,Baja California,Terrestre
-Mexicali II (terrestre),32.6773151625109,-115.38549370949664,Baja California,Terrestre
-Rosarito (marítimo),32.365166,-117.0557923,Baja California,Marítima
-"San Felipe, A. I.",30.932106272508054,-114.80862676931196,Baja California,Aeropuerto
-Tecate (terrestre),32.57613508236901,-116.62741363669146,Baja California,Terrestre
-"Tijuana, A. I. ""Gral. Abelardo L. Rodríguez """,32.5465620217463,-116.96326129095864,Baja California,Aeropuerto
-"Tijuana, Chaparral (terrestre) 6",32.541079374432634,-117.03474641976088,Baja California,Terrestre
-Cabo San Lucas (marítimo),22.8938884,-109.92006,Baja California Sur,Marítima
-Isla San Marcos (marítimo),27.18797,-112.0800646,Baja California Sur,Marítima
-La Paz (marítimo),24.1619948,-110.3158532,Baja California Sur,Marítima
-"La Paz, A. I.",24.07628543425525,-110.36685572142788,Baja California Sur,Aeropuerto
-"Loreto, A. I.",25.992842949398728,-111.3527311991202,Baja California Sur,Aeropuerto
-"Los Cabos, Aeródromo",22.959873043803224,-109.92559532568326,Baja California Sur,Aeropuerto
-Pichilingue (marítimo),24.069914,-110.3009748,Baja California Sur,Marítima
-Puerto Escondido (marítimo) 7,25.811704,-111.308949,Baja California Sur,Marítima
-Punta Prieta (marítimo),27.0158141,-114.0426703,Baja California Sur,Marítima
-San Carlos (marítimo),24.789578,-112.107681,Baja California Sur,Marítima
-"San José del Cabo, A. I.",23.1457824105046,-109.71746184206972,Baja California Sur,Aeropuerto
-Santa María (marítimo),22.9336002729533,-109.816132024212,Baja California Sur,Marítima
-Santa Rosalía (marítimo),27.3364279,-112.2680462,Baja California Sur,Marítima
-"Campeche, A. I. ""Ing. Alberto Acuña Ongay""",19.81417549913841,-90.503651170473,Campeche,Aeropuerto
-"Cd. del Carmén, A. I.",18.652648475521712,-91.80216090453976,Campeche,Aeropuerto
-Isla del Carmen (marítimo),18.7033370047266,-91.6670300243354,Campeche,Marítima
-Seybaplaya (marítimo),19.6615536682989,-90.705014471757,Campeche,Marítima
-Carmen Xhan (terrestre),16.044149172156096,-91.74892763802065,Chiapas,Terrestre
-Cd. Cuauhtémoc (terrestre),15.666405692905212,-91.98042052001313,Chiapas,Terrestre
-Cd. Hidalgo-Suchiate I (terrestre),14.68799531358006,-92.1808588142041,Chiapas,Terrestre
-Cd. Hidalgo-Suchiate II (terrestre),14.964129597821664,-92.043529713347,Chiapas,Terrestre
-Frontera Corozal (terrestre),16.81715718603847,-90.88312905371498,Chiapas,Terrestre
-"Palenque, A. I.",17.537463026223353,-92.01566329629594,Chiapas,Aeropuerto
-Puerto Chiapas (marítimo),14.7157931,-92.4184006,Chiapas,Marítima
-Talismán (terrestre),14.965561378581375,-92.14662549919798,Chiapas,Terrestre
-"Tapachula, A. I.",14.79025685293486,-92.36930090497722,Chiapas,Aeropuerto
-"Tuxtla Gutierrez, A. I.",14.792368750969782,-92.36655942450882,Chiapas,Aeropuerto
-Unión Juárez (terrestre),15.071268746922,-92.06011670900683,Chiapas,Terrestre
-"Cd. Juárez, A. I. ""Abraham González""",31.637004781234303,-106.43581922607838,Chihuahua,Aeropuerto
-"Cd. Juárez, Córdova (terrestre)",31.75899892717944,-106.46192972829584,Chihuahua,Terrestre
-"Chihuahua, A. I.",28.70410047956093,-105.96905656410009,Chihuahua,Aeropuerto
-El Berrendo (terrestre),31.332426830940964,-108.5316032312158,Chihuahua,Terrestre
-"Gral. Rodrígo M. Quevedo, Puerto Palomas (terrestre)",31.783335880695912,-107.62951151770936,Chihuahua,Terrestre
-Ojinaga (terrestre),29.53236756891329,-104.39109084872342,Chihuahua,Terrestre
-"Cd. Acuña, A. I.",29.33307578409917,-100.97033789304382,Coahuila,Aeropuerto
-Cd. Acuña (terrestre),29.332926131901367,-100.96617510467406,Coahuila,Terrestre
-"Monclova, A. I.",26.953670691302094,-101.45671951338323,Coahuila,Aeropuerto
-Piedras Negras II (terrestre) 9,28.697381790115017,-100.51247083314838,Coahuila,Terrestre
-"Saltillo, A. I.",25.456279826312368,-100.96600974047595,Coahuila,Aeropuerto
-"Torreón, A. I.",25.563469070397623,-103.398585712627,Coahuila,Aeropuerto
-"Manzanillo, A. I.",19.148393533597485,-104.5596499318661,Colima,Aeropuerto
-Manzanillo (marítimo),19.0506256,-104.3159957,Colima,Marítima
-"Cd. de México, A. I. ""Benito Juárez""",19.436308882696103,-99.07164008397471,Ciudad de México,Aeropuerto
-"Durango, A. I.",24.12622308638842,-104.53399226426316,Durango,Aeropuerto
-"Toluca, A. I.",19.33761668587876,-99.57135892698398,México,Aeropuerto
-"Zumpango, A. I. ""Felipe Ángeles""",19.73541916090052,-99.02622446227528,México,Aeropuerto
-"Silao, A. I. ""El Bajio""",20.993496947322715,-101.48192173816992,Guanajuato,Aeropuerto
-Acapulco (marítimo) 10,16.8680495,-99.8940182,Guerrero,Marítima
-"Acapulco, A. I. ""Plan de los Amates""",16.761797515396246,-99.75594331534404,Guerrero,Aeropuerto
-"Zihuatanejo, A. I.",17.606402787545065,-101.46368974724702,Guerrero,Aeropuerto
-Zihuatanejo (marítimo) 11,17.6467874,-101.551974,Guerrero,Marítima
-"Guadalajara, A. I.",20.525697239677125,-103.30903145634774,Jalisco,Aeropuerto
-Puerto Vallarta (marítimo),20.6575466806308,-105.223625418493,Jalisco,Marítima
-"Puerto Vallarta, A. I.",20.68078939353811,-105.25179684769772,Jalisco,Aeropuerto
-Lazaro Cardenas (marítimo),17.9303820562962,-102.164313852854,Michoacán,Marítima
-"Morelia, A. I.",19.84663603872126,-101.02791189930817,Michoacán,Aeropuerto
-"Uruapan, A. I.",19.39746891637824,-102.0385908968237,Michoacán,Aeropuerto
-"Cuernavaca, A. I. ""Gral. Mariano Matamoros""",18.83319256234764,-99.2612599667938,Morelos,Aeropuerto
-Nuevo Vallarta (marítimo),20.7027575,-105.2885106,Nayarit,Marítima
-"Tepic, A. I. ""Amado Nervo""",20.67842378342501,-105.24821075510602,Nayarit,Aeropuerto
-"Colombia, Puente Solidaridad (terrestre)",27.69947556180477,-99.74579147498191,Nuevo León,Terrestre
-"Monterrey, A. I. ""Gral. Mariano Escobedo""",25.777369975420985,-100.11492445256783,Nuevo León,Aeropuerto
-Bahías de Huatulco (marítimo),15.8342651282376,-96.319938076121,Oaxaca,Marítima
-"Huatulco, A. I.",15.772127409375528,-96.25863902823824,Oaxaca,Aeropuerto
-"Oaxaca, A. I.",17.000936463661475,-96.72186991472046,Oaxaca,Aeropuerto
-"Puerto Escondido, A. I.",15.875103418757725,-97.09233866024846,Oaxaca,Aeropuerto
-Salina Cruz (marítimo),16.204783,-95.206355,Oaxaca,Marítima
-"Puebla, A. I. ""Hermanos Serdán""",19.16402089907814,-98.37599634535768,Puebla,Aeropuerto
-"Querétaro, A. I. ""Ing. Fernando Espinosa""",20.62685196117201,-100.1830794323552,Querétaro,Aeropuerto
-"Cancún, A. I.",21.042093408580968,-86.87419128578394,Quintana Roo,Aeropuerto
-Cancún (marítimo),21.1617854,-86.8510468,Quintana Roo,Marítima
-Chetumal (marítimo),18.51276193723529,-88.28850093373718,Quintana Roo,Marítima
-"Chetumal, A. I.",18.508656507611217,-88.33599767359823,Quintana Roo,Aeropuerto
-"Chetumal, Subteniente López (terrestre)",18.498656350307385,-88.29440046988813,Quintana Roo,Terrestre
-"Chetumal, Subteniente López II, ""Chactemal"" (terrestre)",18.498656350307385,-88.29440046988813,Quintana Roo,Aeropuerto
-"Cozumel, A. I.",20.511447997508093,-86.92973712442246,Quintana Roo,Aeropuerto
-Isla Cozumel (marítimo),20.424284487559028,-86.92302523442432,Quintana Roo,Marítima
-Isla Mujeres (marítimo),21.236991379008483,-86.73303480278628,Quintana Roo,Marítima
-Majahual (marítimo),18.719650167334983,-87.70645572060837,Quintana Roo,Marítima
-Puerto Aventuras (marítimo),20.50558187554634,-87.22967723651287,Quintana Roo,Marítima
-Puerto Juárez (marítimo),21.182852796331428,-86.80841142327992,Quintana Roo,Marítima
-Puerto Morelos (marítimo),20.85815998998016,-86.90113782430916,Quintana Roo,Marítima
-"San Luis Potosí, A. I. ""Ponciano Arriaga """,22.3563762491891,-100.82316583967602,San Luis Potosí,Aeropuerto
-"Culiacán, A. I.",24.767907517172475,-107.46919674204472,Sinaloa,Aeropuerto
-"Los Mochis, A. I. ""Del Valle del Fuerte""",25.68979113419113,-109.08235705680256,Sinaloa,Aeropuerto
-Mazatlán (marítimo) 12,23.2035785,-106.4208391,Sinaloa,Marítima
-"Mazatlán, A. I.",23.167317341536958,-106.26973139073984,Sinaloa,Aeropuerto
-Topolobampo (marítimo),25.60387911314669,-109.05300948725206,Sinaloa,Marítima
-Agua Prieta (terrestre),31.329756729149427,-109.54851121539532,Sonora,Terrestre
-"Cd. Obregón, A. I.",27.50090547950112,-109.91148308929876,Sonora,Aeropuerto
-Guaymas (marítimo),27.91204358490404,-110.90950296274391,Sonora,Marítima
-"Guaymas, A. I. ""Gral. José M. Yáñez """,27.936284582108204,-110.92463295581996,Sonora,Aeropuerto
-"Hermosillo, A. I.",29.090183684648395,-111.05197520456092,Sonora,Aeropuerto
-Naco (terrestre),31.445106759029134,-109.80021547124612,Sonora,Terrestre
-"Nogales, A. I.",31.2251354460074,-110.97570638912968,Sonora,Aeropuerto
-Nogales Uno (terrestre) 13,31.36902805394341,-110.92226029044784,Sonora,Terrestre
-"Puerto Peñasco, A. I.",31.38270330985624,-113.51415011403394,Sonora,Aeropuerto
-San Luis Río Colorado (terrestre),32.47235274611327,-114.74271635360935,Sonora,Terrestre
-Sonoyta (terrestre) 14,31.879224908149183,-112.8184805322132,Sonora,Terrestre
-Dos Bocas (marítimo),18.427157442805235,-93.17918382698396,Tabasco,Marítima
-"Tenosique, El Ceibo (terrestre)",17.26314112503493,-90.994678912203,Tabasco,Terrestre
-"Villahermosa, A. I. ""Cap. P. A. Carlos Rovirosa""",17.99576228255418,-92.81674300543784,Tabasco,Aeropuerto
-Altamira (marítimo),22.40784397513716,-97.9203838216966,Tamaulipas,Marítima
-Camargo (terrestre),26.36283790368216,-98.80581265645236,Tamaulipas,Terrestre
-"Capote, Puente TLC (terrestre)",26.07260786674765,-97.71099570924524,Tamaulipas,Terrestre
-"Cd. Victoria, A. I. ""Gral. Pedro J. Méndez""",23.70945088143849,-98.95826878570432,Tamaulipas,Aeropuerto
-"Guerrero, Presa Falcón (terrestre)",26.56661896210727,-99.22713423772367,Tamaulipas,Terrestre
-"Matamoros, A. I. ""Servando Canales""",25.81638550601157,-97.52262685441848,Tamaulipas,Aeropuerto
-"Matamoros, Zaragoza (Matamoros III) (terrestre)",25.87893945982541,-97.50415658832156,Tamaulipas,Terrestre
-Miguel Alemán (terrestre),26.403212582907017,-99.01998686603775,Tamaulipas,Terrestre
-"Nuevo Laredo, A. I. ""Quetzalcóatl""",27.449476116648157,-99.56852312234746,Tamaulipas,Aeropuerto
-"Nuevo Laredo I ""Miguel Alemán"" (terrestre)",27.48068677138477,-99.51223458584512,Tamaulipas,Aeropuerto
-Nuevo Progreso-Las Flores (terrestre),26.06058061952616,-97.9499974549377,Tamaulipas,Terrestre
-Puerta México (Matamoros II) (terrestre),25.89690191257076,-97.49775599171532,Tamaulipas,Terrestre
-"Reynosa, A. I. ""Gral. Lucio Blanco""",26.011951635690156,-98.22699249629592,Tamaulipas,Aeropuerto
-"Reynosa-Hidalgo, Benito Juárez I y II (terrestre) 16",26.02235932449347,-98.24819911446303,Tamaulipas,Terrestre
-Reynosa III-Pharr (Nuevo amanecer) (terrestre),26.04348552050304,-98.20580782687132,Tamaulipas,Terrestre
-Tampico (marítimo),22.264630760609663,-97.87773026104747,Tamaulipas,Marítima
-"Tampico, A. I.",22.289498789669924,-97.86944806745994,Tamaulipas,Aeropuerto
-Coatzacoalcos (marítimo) 17,18.133222270438043,-94.46741521329328,Veracruz,Marítima
-"Minatitlán, A. I.",18.102559765167307,-94.57749790728738,Veracruz,Aeropuerto
-Tuxpan (marítimo),20.967434142049694,-97.34549485652931,Veracruz,Marítima
-Veracruz (marítimo),19.172839117807104,-96.13446968101292,Veracruz,Marítima
-"Veracruz, A. I.",19.1450343618979,-96.18605648213008,Veracruz,Aeropuerto
-"Chichén Itzá, A. I.",20.63889712943009,-88.44900371463103,Yucatán,Aeropuerto
-Las Coloradas (marítimo),21.608472609767105,-87.98693491692732,Yucatán,Marítima
-"Mérida, A. I.",20.934008690570018,-89.66313737785104,Yucatán,Aeropuerto
-Progreso (marítimo),21.281194984849257,-89.6614200993187,Yucatán,Marítima
-Yucalpetén (marítimo),21.277343620573653,-89.70780286901356,Yucatán,Marítima
-"Zacatecas, A. I. ""Gral. Leobardo C. Ruiz """,22.900349311520312,-102.67976330345344,Zacatecas,Aeropuerto
+nombre,latitud,longitud,edo,tipo,ciudad,ID_Poligono,geometry,codigo_ruta,secuencia,codigo_unico
+"Ensenada, A. I. ""El Cipres""",31.75080080159697,-116.59481998668603,Baja California,Aeropuerto Internacional,"Ensenada, Baja California",PG104,"POLYGON ((-117 32, -116 32, -116 31, -117 31, -117 32))",AI,1,AI-PG104-1
+Ensenada (marítimo),31.8932996,-116.6912627,Baja California,Puerto Internacion Maritimo,"Ensenada , Baja California",PG104,"POLYGON ((-117 32, -116 32, -116 31, -117 31, -117 32))",PM,2,PM-PG104-2
+"Tijuana, A. I. ""Gral. Abelardo L. Rodríguez """,32.5465620217463,-116.96326129095864,Baja California,Aeropuerto Internacional,"Tijuana, Baja California",PG105,"POLYGON ((-117 33, -116 33, -116 32, -117 32, -117 33))",AI,1,AI-PG105-1
+Tecate (terrestre),32.57613508236901,-116.62741363669146,Baja California,Cruce Fronterizo Terrestre,"Tecate , Baja California",PG105,"POLYGON ((-117 33, -116 33, -116 32, -117 32, -117 33))",FN,2,FN-PG105-2
+Isla Cedros (marítimo),28.1544990198747,-115.233073824214,Baja California,Puerto Internacion Maritimo,"Isla Cedros , Baja California",PG128,"POLYGON ((-116 29, -115 29, -115 28, -116 28, -116 29))",PM,1,PM-PG128-1
+"Mexicali, A. I.",32.64053259386955,-115.2495368530918,Baja California,Aeropuerto Internacional,"Mexicali, Baja California",PG132,"POLYGON ((-116 33, -115 33, -115 32, -116 32, -116 33))",AI,1,AI-PG132-1
+Mexicali I (terrestre),32.67558124644809,-115.49398369917375,Baja California,Cruce Fronterizo Terrestre,"Mexicali I , Baja California",PG132,"POLYGON ((-116 33, -115 33, -115 32, -116 32, -116 33))",FN,2,FN-PG132-2
+Mexicali II (terrestre),32.6773151625109,-115.38549370949664,Baja California,Cruce Fronterizo Terrestre,"Mexicali II , Baja California",PG132,"POLYGON ((-116 33, -115 33, -115 32, -116 32, -116 33))",FN,3,FN-PG132-3
+Punta Prieta (marítimo),27.0158141,-114.0426703,Baja California Sur,Puerto Internacion Maritimo,"Punta Prieta , Baja California Sur",PG154,"POLYGON ((-115 28, -114 28, -114 27, -115 27, -115 28))",PM,1,PM-PG154-1
+"San Felipe, A. I.",30.93210627250805,-114.80862676931196,Baja California,Aeropuerto Internacional,"San Felipe, Baja California",PG157,"POLYGON ((-115 31, -114 31, -114 30, -115 30, -115 31))",AI,1,AI-PG157-1
+San Luis Río Colorado (terrestre),32.47235274611327,-114.74271635360935,Sonora,Cruce Fronterizo Terrestre,"San Luis Río Colorado , Sonora",PG159,"POLYGON ((-115 33, -114 33, -114 32, -115 32, -115 33))",FN,1,FN-PG159-1
+Algodones (terrestre),32.714894020334775,-114.73331058811812,Baja California,Cruce Fronterizo Terrestre,"Algodones , Baja California",PG159,"POLYGON ((-115 33, -114 33, -114 32, -115 32, -115 33))",FN,2,FN-PG159-2
+"Puerto Peñasco, A. I.",31.38270330985624,-113.51415011403394,Sonora,Aeropuerto Internacional,"Puerto Peñasco, Sonora",PG185,"POLYGON ((-114 32, -113 32, -113 31, -114 31, -114 32))",AI,1,AI-PG185-1
+San Carlos (marítimo),24.789578,-112.107681,Baja California Sur,Puerto Internacion Maritimo,"San Carlos , Baja California Sur",PG205,"POLYGON ((-113 25, -112 25, -112 24, -113 24, -113 25))",PM,1,PM-PG205-1
+Isla San Marcos (marítimo),27.18797,-112.0800646,Baja California Sur,Puerto Internacion Maritimo,"Isla San Marcos , Baja California Sur",PG208,"POLYGON ((-113 28, -112 28, -112 27, -113 27, -113 28))",PM,1,PM-PG208-1
+Santa Rosalía (marítimo),27.3364279,-112.2680462,Baja California Sur,Puerto Internacion Maritimo,"Santa Rosalía , Baja California Sur",PG208,"POLYGON ((-113 28, -112 28, -112 27, -113 27, -113 28))",PM,2,PM-PG208-2
+Sonoyta (terrestre) 14,31.879224908149183,-112.8184805322132,Sonora,Cruce Fronterizo Terrestre,"Sonoyta , Sonora",PG212,"POLYGON ((-113 32, -112 32, -112 31, -113 31, -113 32))",FN,1,FN-PG212-1
+Puerto Escondido (marítimo) 7,25.811704,-111.308949,Baja California Sur,Puerto Internacion Maritimo,"Puerto Escondido , Baja California Sur",PG233,"POLYGON ((-112 26, -111 26, -111 25, -112 25, -112 26))",PM,1,PM-PG233-1
+"Loreto, A. I.",25.992842949398728,-111.3527311991202,Baja California Sur,Aeropuerto Internacional,"Loreto, Baja California Sur",PG233,"POLYGON ((-112 26, -111 26, -111 25, -112 25, -112 26))",AI,2,AI-PG233-2
+"Hermosillo, A. I.",29.090183684648395,-111.05197520456092,Sonora,Aeropuerto Internacional,"Hermosillo, Sonora",PG237,"POLYGON ((-112 30, -111 30, -111 29, -112 29, -112 30))",AI,1,AI-PG237-1
+Pichilingue (marítimo),24.069914,-110.3009748,Baja California Sur,Puerto Internacion Maritimo,"Pichilingue , Baja California Sur",PG259,"POLYGON ((-111 25, -110 25, -110 24, -111 24, -111 25))",PM,1,PM-PG259-1
+"La Paz, A. I.",24.07628543425525,-110.36685572142788,Baja California Sur,Aeropuerto Internacional,"La Paz, Baja California Sur",PG259,"POLYGON ((-111 25, -110 25, -110 24, -111 24, -111 25))",AI,2,AI-PG259-2
+La Paz (marítimo),24.1619948,-110.3158532,Baja California Sur,Puerto Internacion Maritimo,"La Paz , Baja California Sur",PG259,"POLYGON ((-111 25, -110 25, -110 24, -111 24, -111 25))",PM,3,PM-PG259-3
+Guaymas (marítimo),27.91204358490404,-110.90950296274391,Sonora,Puerto Internacion Maritimo,"Guaymas , Sonora",PG262,"POLYGON ((-111 28, -110 28, -110 27, -111 27, -111 28))",PM,1,PM-PG262-1
+"Guaymas, A. I. ""Gral. José M. Yáñez """,27.936284582108204,-110.92463295581996,Sonora,Aeropuerto Internacional,"Guaymas, Sonora",PG262,"POLYGON ((-111 28, -110 28, -110 27, -111 27, -111 28))",AI,2,AI-PG262-2
+"Nogales, A. I.",31.2251354460074,-110.97570638912968,Sonora,Aeropuerto Internacional,"Nogales, Sonora",PG266,"POLYGON ((-111 32, -110 32, -110 31, -111 31, -111 32))",AI,1,AI-PG266-1
+Nogales Uno (terrestre) 13,31.36902805394341,-110.92226029044784,Sonora,Cruce Fronterizo Terrestre,"Nogales Uno , Sonora",PG266,"POLYGON ((-111 32, -110 32, -110 31, -111 31, -111 32))",FN,2,FN-PG266-2
+Cabo San Lucas (marítimo),22.8938884,-109.92006,Baja California Sur,Puerto Internacion Maritimo,"Cabo San Lucas , Baja California Sur",PG284,"POLYGON ((-110 23, -109 23, -109 22, -110 22, -110 23))",PM,1,PM-PG284-1
+Santa María (marítimo),22.9336002729533,-109.816132024212,Baja California Sur,Puerto Internacion Maritimo,"Santa María , Baja California Sur",PG284,"POLYGON ((-110 23, -109 23, -109 22, -110 22, -110 23))",PM,2,PM-PG284-2
+"Los Cabos, Aeródromo",22.959873043803224,-109.92559532568326,Baja California Sur,Aeropuerto Internacional,"Los Cabos, Baja California Sur",PG284,"POLYGON ((-110 23, -109 23, -109 22, -110 22, -110 23))",AI,3,AI-PG284-3
+"San José del Cabo, A. I.",23.1457824105046,-109.71746184206972,Baja California Sur,Aeropuerto Internacional,"San José del Cabo, Baja California Sur",PG285,"POLYGON ((-110 24, -109 24, -109 23, -110 23, -110 24))",AI,1,AI-PG285-1
+Topolobampo (marítimo),25.60387911314669,-109.05300948725206,Sinaloa,Puerto Internacion Maritimo,"Topolobampo , Sinaloa",PG287,"POLYGON ((-110 26, -109 26, -109 25, -110 25, -110 26))",PM,1,PM-PG287-1
+"Los Mochis, A. I. ""Del Valle del Fuerte""",25.68979113419113,-109.08235705680256,Sinaloa,Aeropuerto Internacional,"Los Mochis, Sinaloa",PG287,"POLYGON ((-110 26, -109 26, -109 25, -110 25, -110 26))",AI,2,AI-PG287-2
+"Ciudad Obregón, A. I.",27.50090547950112,-109.91148308929876,Sonora,Aeropuerto Internacional,"Ciudad Obregón, Sonora",PG289,"POLYGON ((-110 28, -109 28, -109 27, -110 27, -110 28))",AI,1,AI-PG289-1
+Agua Prieta (terrestre),31.329756729149427,-109.54851121539532,Sonora,Cruce Fronterizo Terrestre,"Agua Prieta , Sonora",PG293,"POLYGON ((-110 32, -109 32, -109 31, -110 31, -110 32))",FN,1,FN-PG293-1
+Naco (terrestre),31.445106759029134,-109.80021547124612,Sonora,Cruce Fronterizo Terrestre,"Naco , Sonora",PG293,"POLYGON ((-110 32, -109 32, -109 31, -110 31, -110 32))",FN,2,FN-PG293-2
+El Berrendo (terrestre),31.332426830940964,-108.5316032312158,Chihuahua,Cruce Fronterizo Terrestre,"El Berrendo , Chihuahua",PG320,"POLYGON ((-109 32, -108 32, -108 31, -109 31, -109 32))",FN,1,FN-PG320-1
+"Culiacán, A. I.",24.767907517172475,-107.46919674204472,Sinaloa,Aeropuerto Internacional,"Culiacán, Sinaloa",PG340,"POLYGON ((-108 25, -107 25, -107 24, -108 24, -108 25))",AI,1,AI-PG340-1
+"Gral. Rodrígo M. Quevedo, Puerto Palomas (terrestre)",31.783335880695912,-107.62951151770936,Chihuahua,Cruce Fronterizo Terrestre,"Gral, Chihuahua",PG347,"POLYGON ((-108 32, -107 32, -107 31, -108 31, -108 32))",FN,1,FN-PG347-1
+"Mazatlán, A. I.",23.16731734153696,-106.26973139073984,Sinaloa,Aeropuerto Internacional,"Mazatlán, Sinaloa",PG366,"POLYGON ((-107 24, -106 24, -106 23, -107 23, -107 24))",AI,1,AI-PG366-1
+Mazatlán (marítimo) 12,23.2035785,-106.4208391,Sinaloa,Puerto Internacion Maritimo,"Mazatlán , Sinaloa",PG366,"POLYGON ((-107 24, -106 24, -106 23, -107 23, -107 24))",PM,2,PM-PG366-2
+"Ciudad Juárez, A. I. ""Abraham González""",31.637004781234303,-106.43581922607838,Chihuahua,Aeropuerto Internacional,"Ciudad Juárez, Chihuahua",PG374,"POLYGON ((-107 32, -106 32, -106 31, -107 31, -107 32))",AI,1,AI-PG374-1
+"Ciudad Juárez, Córdova (terrestre)",31.75899892717944,-106.46192972829584,Chihuahua,Cruce Fronterizo Terrestre,"Ciudad Juárez, Chihuahua",PG374,"POLYGON ((-107 32, -106 32, -106 31, -107 31, -107 32))",FN,2,FN-PG374-2
+Puerto Vallarta (marítimo),20.6575466806308,-105.223625418493,Jalisco,Puerto Internacion Maritimo,"Puerto Vallarta , Jalisco",PG390,"POLYGON ((-106 21, -105 21, -105 20, -106 20, -106 21))",PM,1,PM-PG390-1
+"Tepic, A. I. ""Amado Nervo""",20.67842378342501,-105.24821075510602,Nayarit,Aeropuerto Internacional,"Tepic, Nayarit",PG390,"POLYGON ((-106 21, -105 21, -105 20, -106 20, -106 21))",AI,2,AI-PG390-2
+"Puerto Vallarta, A. I.",20.68078939353811,-105.25179684769772,Jalisco,Aeropuerto Internacional,"Puerto Vallarta, Jalisco",PG390,"POLYGON ((-106 21, -105 21, -105 20, -106 20, -106 21))",AI,3,AI-PG390-3
+Nuevo Vallarta (marítimo),20.7027575,-105.2885106,Nayarit,Puerto Internacion Maritimo,"Nuevo Vallarta , Nayarit",PG390,"POLYGON ((-106 21, -105 21, -105 20, -106 20, -106 21))",PM,4,PM-PG390-4
+"Chihuahua, A. I.",28.70410047956093,-105.96905656410009,Chihuahua,Aeropuerto Internacional,"Chihuahua, Chihuahua",PG398,"POLYGON ((-106 29, -105 29, -105 28, -106 28, -106 29))",AI,1,AI-PG398-1
+Manzanillo (marítimo),19.0506256,-104.3159957,Colima,Puerto Internacion Maritimo,"Manzanillo , Colima",PG416,"POLYGON ((-105 20, -104 20, -104 19, -105 19, -105 20))",PM,1,PM-PG416-1
+"Manzanillo, A. I.",19.148393533597485,-104.5596499318661,Colima,Aeropuerto Internacional,"Manzanillo, Colima",PG416,"POLYGON ((-105 20, -104 20, -104 19, -105 19, -105 20))",AI,2,AI-PG416-2
+"Durango, A. I.",24.12622308638842,-104.53399226426316,Durango,Aeropuerto Internacional,"Durango, Durango",PG421,"POLYGON ((-105 25, -104 25, -104 24, -105 24, -105 25))",AI,1,AI-PG421-1
+Ojinaga (terrestre),29.53236756891329,-104.39109084872342,Chihuahua,Cruce Fronterizo Terrestre,"Ojinaga , Chihuahua",PG426,"POLYGON ((-105 30, -104 30, -104 29, -105 29, -105 30))",FN,1,FN-PG426-1
+"Guadalajara, A. I.",20.525697239677125,-103.30903145634774,Jalisco,Aeropuerto Internacional,"Guadalajara, Jalisco",PG444,"POLYGON ((-104 21, -103 21, -103 20, -104 20, -104 21))",AI,1,AI-PG444-1
+"Torreón, A. I.",25.563469070397623,-103.398585712627,Coahuila,Aeropuerto Internacional,"Torreón, Coahuila",PG449,"POLYGON ((-104 26, -103 26, -103 25, -104 25, -104 26))",AI,1,AI-PG449-1
+Lazaro Cardenas (marítimo),17.9303820562962,-102.164313852854,Michoacán,Puerto Internacion Maritimo,"Lazaro Cardenas , Michoacán",PG468,"POLYGON ((-103 18, -102 18, -102 17, -103 17, -103 18))",PM,1,PM-PG468-1
+"Uruapan, A. I.",19.39746891637824,-102.0385908968237,Michoacán,Aeropuerto Internacional,"Uruapan, Michoacán",PG470,"POLYGON ((-103 20, -102 20, -102 19, -103 19, -103 20))",AI,1,AI-PG470-1
+"Aguascalientes, A. I. ""Jésus Terán""",21.701467443187862,-102.31592719740514,Aguascalientes,Aeropuerto Internacional,"Aguascalientes, Aguascalientes",PG472,"POLYGON ((-103 22, -102 22, -102 21, -103 21, -103 22))",AI,1,AI-PG472-1
+"Zacatecas, A. I. ""Gral. Leobardo C. Ruiz """,22.900349311520312,-102.67976330345344,Zacatecas,Aeropuerto Internacional,"Zacatecas, Zacatecas",PG473,"POLYGON ((-103 23, -102 23, -102 22, -103 22, -103 23))",AI,1,AI-PG473-1
+"Zihuatanejo, A. I.",17.606402787545065,-101.46368974724702,Guerrero,Aeropuerto Internacional,"Zihuatanejo, Guerrero",PG495,"POLYGON ((-102 18, -101 18, -101 17, -102 17, -102 18))",AI,1,AI-PG495-1
+Zihuatanejo (marítimo) 11,17.6467874,-101.551974,Guerrero,Puerto Internacion Maritimo,"Zihuatanejo , Guerrero",PG495,"POLYGON ((-102 18, -101 18, -101 17, -102 17, -102 18))",PM,2,PM-PG495-2
+"Morelia, A. I.",19.84663603872126,-101.02791189930817,Michoacán,Aeropuerto Internacional,"Morelia, Michoacán",PG497,"POLYGON ((-102 20, -101 20, -101 19, -102 19, -102 20))",AI,1,AI-PG497-1
+"Silao, A. I. ""El Bajio""",20.993496947322715,-101.48192173816992,Guanajuato,Aeropuerto Internacional,"Silao, Guanajuato",PG498,"POLYGON ((-102 21, -101 21, -101 20, -102 20, -102 21))",AI,1,AI-PG498-1
+"Monclova, A. I.",26.953670691302094,-101.45671951338323,Coahuila,Aeropuerto Internacional,"Monclova, Coahuila",PG504,"POLYGON ((-102 27, -101 27, -101 26, -102 26, -102 27))",AI,1,AI-PG504-1
+"Querétaro, A. I. ""Ing. Fernando Espinosa""",20.62685196117201,-100.1830794323552,Querétaro,Aeropuerto Internacional,"Querétaro, Querétaro",PG525,"POLYGON ((-101 21, -100 21, -100 20, -101 20, -101 21))",AI,1,AI-PG525-1
+"San Luis Potosí, A. I. ""Ponciano Arriaga """,22.3563762491891,-100.82316583967602,San Luis Potosí,Aeropuerto Internacional,"San Luis Potosí, San Luis Potosí",PG527,"POLYGON ((-101 23, -100 23, -100 22, -101 22, -101 23))",AI,1,AI-PG527-1
+"Saltillo, A. I.",25.456279826312368,-100.96600974047595,Coahuila,Aeropuerto Internacional,"Saltillo, Coahuila",PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",AI,1,AI-PG530-1
+"Monterrey, A. I. ""Gral. Mariano Escobedo""",25.777369975420985,-100.11492445256783,Nuevo León,Aeropuerto Internacional,"Monterrey, Nuevo León",PG530,"POLYGON ((-101 26, -100 26, -100 25, -101 25, -101 26))",AI,2,AI-PG530-2
+Piedras Negras II (terrestre) 9,28.697381790115017,-100.51247083314838,Coahuila,Cruce Fronterizo Terrestre,"Piedras Negras II , Coahuila",PG533,"POLYGON ((-101 29, -100 29, -100 28, -101 28, -101 29))",FN,1,FN-PG533-1
+Ciudad Acuña (terrestre),29.332926131901367,-100.96617510467406,Coahuila,Cruce Fronterizo Terrestre,"Ciudad Acuña , Coahuila",PG534,"POLYGON ((-101 30, -100 30, -100 29, -101 29, -101 30))",FN,1,FN-PG534-1
+"Ciudad Acuña, A. I.",29.33307578409917,-100.97033789304382,Coahuila,Aeropuerto Internacional,"Ciudad Acuña, Coahuila",PG534,"POLYGON ((-101 30, -100 30, -100 29, -101 29, -101 30))",AI,2,AI-PG534-2
+"Acapulco, A. I. ""Plan de los Amates""",16.761797515396246,-99.75594331534404,Guerrero,Aeropuerto Internacional,"Acapulco, Guerrero",PG548,"POLYGON ((-100 17, -99 17, -99 16, -100 16, -100 17))",AI,1,AI-PG548-1
+Acapulco (marítimo) 10,16.8680495,-99.8940182,Guerrero,Puerto Internacion Maritimo,"Acapulco , Guerrero",PG548,"POLYGON ((-100 17, -99 17, -99 16, -100 16, -100 17))",PM,2,PM-PG548-2
+"Cuernavaca, A. I. ""Gral. Mariano Matamoros""",18.83319256234764,-99.2612599667938,Morelos,Aeropuerto Internacional,"Cuernavaca, Morelos",PG550,"POLYGON ((-100 19, -99 19, -99 18, -100 18, -100 19))",AI,1,AI-PG550-1
+"Toluca, A. I.",19.33761668587876,-99.57135892698398,México,Aeropuerto Internacional,"Toluca, México",PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",AI,1,AI-PG551-1
+"Ciudad de México, A. I. ""Benito Juárez""",19.436308882696103,-99.07164008397471,Ciudad de México,Aeropuerto Internacional,"Ciudad de México, Ciudad de México",PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",AI,2,AI-PG551-2
+"Zumpango, A. I. ""Felipe Ángeles""",19.73541916090052,-99.02622446227528,México,Aeropuerto Internacional,"Zumpango, México",PG551,"POLYGON ((-100 20, -99 20, -99 19, -100 19, -100 20))",AI,3,AI-PG551-3
+Miguel Alemán (terrestre),26.403212582907017,-99.01998686603775,Tamaulipas,Cruce Fronterizo Terrestre,"Miguel Alemán , Tamaulipas",PG558,"POLYGON ((-100 27, -99 27, -99 26, -100 26, -100 27))",FN,1,FN-PG558-1
+"Guerrero, Presa Falcón (terrestre)",26.56661896210727,-99.22713423772367,Tamaulipas,Cruce Fronterizo Terrestre,"Guerrero, Tamaulipas",PG558,"POLYGON ((-100 27, -99 27, -99 26, -100 26, -100 27))",FN,2,FN-PG558-2
+"Nuevo Laredo, A. I. ""Quetzalcóatl""",27.44947611664816,-99.56852312234746,Tamaulipas,Aeropuerto Internacional,"Nuevo Laredo, Tamaulipas",PG559,"POLYGON ((-100 28, -99 28, -99 27, -100 27, -100 28))",AI,1,AI-PG559-1
+"Nuevo Laredo I ""Miguel Alemán"" (terrestre)",27.48068677138477,-99.51223458584512,Tamaulipas,Aeropuerto Internacional,"Nuevo Laredo I ""Miguel Alemán"" , Tamaulipas",PG559,"POLYGON ((-100 28, -99 28, -99 27, -100 27, -100 28))",AI,2,AI-PG559-2
+"Colombia, Puente Solidaridad (terrestre)",27.69947556180477,-99.74579147498191,Nuevo León,Cruce Fronterizo Terrestre,"Colombia, Nuevo León",PG559,"POLYGON ((-100 28, -99 28, -99 27, -100 27, -100 28))",FN,3,FN-PG559-3
+"Puebla, A. I. ""Hermanos Serdán""",19.16402089907814,-98.37599634535768,Puebla,Aeropuerto Internacional,"Puebla, Puebla",PG578,"POLYGON ((-99 20, -98 20, -98 19, -99 19, -99 20))",AI,1,AI-PG578-1
+"Ciudad Victoria, A. I. ""Gral. Pedro J. Méndez""",23.70945088143849,-98.95826878570432,Tamaulipas,Aeropuerto Internacional,"Ciudad Victoria, Tamaulipas",PG582,"POLYGON ((-99 24, -98 24, -98 23, -99 23, -99 24))",AI,1,AI-PG582-1
+"Reynosa, A. I. ""Gral. Lucio Blanco""",26.01195163569016,-98.22699249629592,Tamaulipas,Aeropuerto Internacional,"Reynosa, Tamaulipas",PG585,"POLYGON ((-99 27, -98 27, -98 26, -99 26, -99 27))",AI,1,AI-PG585-1
+"Reynosa-Hidalgo, Benito Juárez I y II (terrestre) 16",26.02235932449347,-98.24819911446303,Tamaulipas,Cruce Fronterizo Terrestre,"Reynosa-Hidalgo, Tamaulipas",PG585,"POLYGON ((-99 27, -98 27, -98 26, -99 26, -99 27))",FN,2,FN-PG585-2
+Reynosa III-Pharr (Nuevo amanecer) (terrestre),26.04348552050304,-98.20580782687132,Tamaulipas,Cruce Fronterizo Terrestre,"Reynosa III-Pharr , Tamaulipas",PG585,"POLYGON ((-99 27, -98 27, -98 26, -99 26, -99 27))",FN,3,FN-PG585-3
+Camargo (terrestre),26.36283790368216,-98.80581265645236,Tamaulipas,Cruce Fronterizo Terrestre,"Camargo , Tamaulipas",PG585,"POLYGON ((-99 27, -98 27, -98 26, -99 26, -99 27))",FN,4,FN-PG585-4
+"Puerto Escondido, A. I.",15.875103418757725,-97.09233866024846,Oaxaca,Aeropuerto Internacional,"Puerto Escondido, Oaxaca",PG601,"POLYGON ((-98 16, -97 16, -97 15, -98 15, -98 16))",AI,1,AI-PG601-1
+Tuxpan (marítimo),20.967434142049694,-97.34549485652931,Veracruz,Puerto Internacion Maritimo,"Tuxpan , Veracruz",PG606,"POLYGON ((-98 21, -97 21, -97 20, -98 20, -98 21))",PM,1,PM-PG606-1
+Tampico (marítimo),22.264630760609663,-97.87773026104747,Tamaulipas,Puerto Internacion Maritimo,"Tampico , Tamaulipas",PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",PM,1,PM-PG608-1
+"Tampico, A. I.",22.289498789669924,-97.86944806745994,Tamaulipas,Aeropuerto Internacional,"Tampico, Tamaulipas",PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",AI,2,AI-PG608-2
+Altamira (marítimo),22.40784397513716,-97.9203838216966,Tamaulipas,Puerto Internacion Maritimo,"Altamira , Tamaulipas",PG608,"POLYGON ((-98 23, -97 23, -97 22, -98 22, -98 23))",PM,3,PM-PG608-3
+"Matamoros, A. I. ""Servando Canales""",25.81638550601157,-97.52262685441848,Tamaulipas,Aeropuerto Internacional,"Matamoros, Tamaulipas",PG611,"POLYGON ((-98 26, -97 26, -97 25, -98 25, -98 26))",AI,1,AI-PG611-1
+"Matamoros, Zaragoza (Matamoros III) (terrestre)",25.87893945982541,-97.50415658832156,Tamaulipas,Cruce Fronterizo Terrestre,"Matamoros, Tamaulipas",PG611,"POLYGON ((-98 26, -97 26, -97 25, -98 25, -98 26))",FN,2,FN-PG611-2
+Puerta México (Matamoros II) (terrestre),25.89690191257076,-97.49775599171532,Tamaulipas,Cruce Fronterizo Terrestre,"Puerta México , Tamaulipas",PG611,"POLYGON ((-98 26, -97 26, -97 25, -98 25, -98 26))",FN,3,FN-PG611-3
+Nuevo Progreso-Las Flores (terrestre),26.06058061952616,-97.9499974549377,Tamaulipas,Cruce Fronterizo Terrestre,"Nuevo Progreso-Las Flores , Tamaulipas",PG612,"POLYGON ((-98 27, -97 27, -97 26, -98 26, -98 27))",FN,1,FN-PG612-1
+"Capote, Puente TLC (terrestre)",26.07260786674765,-97.71099570924524,Tamaulipas,Cruce Fronterizo Terrestre,"Capote, Tamaulipas",PG612,"POLYGON ((-98 27, -97 27, -97 26, -98 26, -98 27))",FN,2,FN-PG612-2
+"Huatulco, A. I.",15.772127409375528,-96.25863902823824,Oaxaca,Aeropuerto Internacional,"Huatulco, Oaxaca",PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",AI,1,AI-PG628-1
+Bahías de Huatulco (marítimo),15.8342651282376,-96.319938076121,Oaxaca,Puerto Internacion Maritimo,"Bahías de Huatulco , Oaxaca",PG628,"POLYGON ((-97 16, -96 16, -96 15, -97 15, -97 16))",PM,2,PM-PG628-2
+"Oaxaca, A. I.",17.000936463661475,-96.72186991472046,Oaxaca,Aeropuerto Internacional,"Oaxaca, Oaxaca",PG630,"POLYGON ((-97 18, -96 18, -96 17, -97 17, -97 18))",AI,1,AI-PG630-1
+"Veracruz, A. I.",19.1450343618979,-96.18605648213008,Veracruz,Aeropuerto Internacional,"Veracruz, Veracruz",PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",AI,1,AI-PG632-1
+Veracruz (marítimo),19.172839117807104,-96.13446968101292,Veracruz,Puerto Internacion Maritimo,"Veracruz , Veracruz",PG632,"POLYGON ((-97 20, -96 20, -96 19, -97 19, -97 20))",PM,2,PM-PG632-2
+Salina Cruz (marítimo),16.204783,-95.206355,Oaxaca,Puerto Internacion Maritimo,"Salina Cruz , Oaxaca",PG656,"POLYGON ((-96 17, -95 17, -95 16, -96 16, -96 17))",PM,1,PM-PG656-1
+"Minatitlán, A. I.",18.102559765167307,-94.57749790728738,Veracruz,Aeropuerto Internacional,"Minatitlán, Veracruz",PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",AI,1,AI-PG685-1
+Coatzacoalcos (marítimo) 17,18.133222270438043,-94.46741521329328,Veracruz,Puerto Internacion Maritimo,"Coatzacoalcos , Veracruz",PG685,"POLYGON ((-95 19, -94 19, -94 18, -95 18, -95 19))",PM,2,PM-PG685-2
+Dos Bocas (marítimo),18.427157442805235,-93.17918382698396,Tabasco,Puerto Internacion Maritimo,"Dos Bocas , Tabasco",PG712,"POLYGON ((-94 19, -93 19, -93 18, -94 18, -94 19))",PM,1,PM-PG712-1
+Ciudad Hidalgo-Suchiate I (terrestre),14.68799531358006,-92.1808588142041,Chiapas,Cruce Fronterizo Terrestre,"Ciudad Hidalgo-Suchiate I , Chiapas",PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",FS,1,FS-PG735-1
+Puerto Chiapas (marítimo),14.7157931,-92.4184006,Chiapas,Puerto Internacion Maritimo,"Puerto Chiapas , Chiapas",PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",PM,2,PM-PG735-2
+"Tapachula, A. I.",14.79025685293486,-92.36930090497722,Chiapas,Aeropuerto Internacional,"Tapachula, Chiapas",PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",AI,3,AI-PG735-3
+"Tuxtla Gutierrez, A. I.",14.792368750969782,-92.36655942450882,Chiapas,Aeropuerto Internacional,"Tuxtla Gutierrez, Chiapas",PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",AI,4,AI-PG735-4
+Ciudad Hidalgo-Suchiate II (terrestre),14.964129597821664,-92.043529713347,Chiapas,Cruce Fronterizo Terrestre,"Ciudad Hidalgo-Suchiate II , Chiapas",PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",FS,5,FS-PG735-5
+Talismán (terrestre),14.965561378581375,-92.14662549919798,Chiapas,Cruce Fronterizo Terrestre,"Talismán , Chiapas",PG735,"POLYGON ((-93 15, -92 15, -92 14, -93 14, -93 15))",FS,6,FS-PG735-6
+Unión Juárez (terrestre),15.071268746922,-92.06011670900683,Chiapas,Cruce Fronterizo Terrestre,"Unión Juárez , Chiapas",PG736,"POLYGON ((-93 16, -92 16, -92 15, -93 15, -93 16))",FS,1,FS-PG736-1
+"Palenque, A. I.",17.537463026223353,-92.01566329629594,Chiapas,Aeropuerto Internacional,"Palenque, Chiapas",PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",AI,1,AI-PG738-1
+"Villahermosa, A. I. ""Cap. P. A. Carlos Rovirosa""",17.99576228255418,-92.81674300543784,Tabasco,Aeropuerto Internacional,"Villahermosa, Tabasco",PG738,"POLYGON ((-93 18, -92 18, -92 17, -93 17, -93 18))",AI,2,AI-PG738-2
+Ciudad Cuauhtémoc (terrestre),15.666405692905212,-91.98042052001313,Chiapas,Cruce Fronterizo Terrestre,"Ciudad Cuauhtémoc , Chiapas",PG763,"POLYGON ((-92 16, -91 16, -91 15, -92 15, -92 16))",FS,1,FS-PG763-1
+Carmen Xhan (terrestre),16.044149172156096,-91.74892763802065,Chiapas,Cruce Fronterizo Terrestre,"Carmen Xhan , Chiapas",PG764,"POLYGON ((-92 17, -91 17, -91 16, -92 16, -92 17))",FS,1,FS-PG764-1
+"Ciudad del Carmén, A. I.",18.652648475521712,-91.80216090453976,Campeche,Aeropuerto Internacional,"Ciudad del Carmén, Campeche",PG766,"POLYGON ((-92 19, -91 19, -91 18, -92 18, -92 19))",AI,1,AI-PG766-1
+Isla del Carmen (marítimo),18.7033370047266,-91.6670300243354,Campeche,Puerto Internacion Maritimo,"Isla del Carmen , Campeche",PG766,"POLYGON ((-92 19, -91 19, -91 18, -92 18, -92 19))",PM,2,PM-PG766-2
+Rosarito (marítimo),32.365166,-117.0557923,Baja California,Puerto Internacion Maritimo,"Rosarito , Baja California",PG78,"POLYGON ((-118 33, -117 33, -117 32, -118 32, -118 33))",PM,1,PM-PG78-1
+"Tijuana, Chaparral (terrestre) 6",32.541079374432634,-117.03474641976088,Baja California,Cruce Fronterizo Terrestre,"Tijuana, Baja California",PG78,"POLYGON ((-118 33, -117 33, -117 32, -118 32, -118 33))",FN,2,FN-PG78-2
+Frontera Corozal (terrestre),16.81715718603847,-90.88312905371498,Chiapas,Cruce Fronterizo Terrestre,"Frontera Corozal , Chiapas",PG791,"POLYGON ((-91 17, -90 17, -90 16, -91 16, -91 17))",FS,1,FS-PG791-1
+"Tenosique, El Ceibo (terrestre)",17.26314112503493,-90.994678912203,Tabasco,Cruce Fronterizo Terrestre,"Tenosique, Tabasco",PG792,"POLYGON ((-91 18, -90 18, -90 17, -91 17, -91 18))",FS,1,FS-PG792-1
+Seybaplaya (marítimo),19.6615536682989,-90.705014471757,Campeche,Puerto Internacion Maritimo,"Seybaplaya , Campeche",PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",PM,1,PM-PG794-1
+"Campeche, A. I. ""Ing. Alberto Acuña Ongay""",19.81417549913841,-90.503651170473,Campeche,Aeropuerto Internacional,"Campeche, Campeche",PG794,"POLYGON ((-91 20, -90 20, -90 19, -91 19, -91 20))",AI,2,AI-PG794-2
+"Mérida, A. I.",20.934008690570018,-89.66313737785104,Yucatán,Aeropuerto Internacional,"Mérida, Yucatán",PG822,"POLYGON ((-90 21, -89 21, -89 20, -90 20, -90 21))",AI,1,AI-PG822-1
+Yucalpetén (marítimo),21.277343620573653,-89.70780286901356,Yucatán,Puerto Internacion Maritimo,"Yucalpetén , Yucatán",PG823,"POLYGON ((-90 22, -89 22, -89 21, -90 21, -90 22))",PM,1,PM-PG823-1
+Progreso (marítimo),21.281194984849257,-89.6614200993187,Yucatán,Puerto Internacion Maritimo,"Progreso , Yucatán",PG823,"POLYGON ((-90 22, -89 22, -89 21, -90 21, -90 22))",PM,2,PM-PG823-2
+"Chetumal, Subteniente López (terrestre)",18.498656350307385,-88.29440046988813,Quintana Roo,Cruce Fronterizo Terrestre,"Chetumal, Quintana Roo",PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",FS,1,FS-PG847-1
+"Chetumal, Subteniente López II, ""Chactemal"" (terrestre)",18.498656350307385,-88.29440046988813,Quintana Roo,Aeropuerto Internacional,"Chetumal, Quintana Roo",PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",AI,2,AI-PG847-2
+"Chetumal, A. I.",18.508656507611217,-88.33599767359823,Quintana Roo,Aeropuerto Internacional,"Chetumal, Quintana Roo",PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",AI,3,AI-PG847-3
+Chetumal (marítimo),18.51276193723529,-88.28850093373718,Quintana Roo,Puerto Internacion Maritimo,"Chetumal , Quintana Roo",PG847,"POLYGON ((-89 19, -88 19, -88 18, -89 18, -89 19))",PM,4,PM-PG847-4
+"Chichén Itzá, A. I.",20.63889712943009,-88.44900371463103,Yucatán,Aeropuerto Internacional,"Chichén Itzá, Yucatán",PG849,"POLYGON ((-89 21, -88 21, -88 20, -89 20, -89 21))",AI,1,AI-PG849-1
+Majahual (marítimo),18.719650167334983,-87.70645572060837,Quintana Roo,Puerto Internacion Maritimo,"Majahual , Quintana Roo",PG874,"POLYGON ((-88 19, -87 19, -87 18, -88 18, -88 19))",PM,1,PM-PG874-1
+Puerto Aventuras (marítimo),20.50558187554634,-87.22967723651287,Quintana Roo,Puerto Internacion Maritimo,"Puerto Aventuras , Quintana Roo",PG876,"POLYGON ((-88 21, -87 21, -87 20, -88 20, -88 21))",PM,1,PM-PG876-1
+Las Coloradas (marítimo),21.608472609767105,-87.98693491692732,Yucatán,Puerto Internacion Maritimo,"Las Coloradas , Yucatán",PG877,"POLYGON ((-88 22, -87 22, -87 21, -88 21, -88 22))",PM,1,PM-PG877-1
+Isla Cozumel (marítimo),20.424284487559028,-86.92302523442432,Quintana Roo,Puerto Internacion Maritimo,"Isla Cozumel , Quintana Roo",PG903,"POLYGON ((-87 21, -86 21, -86 20, -87 20, -87 21))",PM,1,PM-PG903-1
+"Cozumel, A. I.",20.511447997508093,-86.92973712442246,Quintana Roo,Aeropuerto Internacional,"Cozumel, Quintana Roo",PG903,"POLYGON ((-87 21, -86 21, -86 20, -87 20, -87 21))",AI,2,AI-PG903-2
+Puerto Morelos (marítimo),20.85815998998016,-86.90113782430916,Quintana Roo,Puerto Internacion Maritimo,"Puerto Morelos , Quintana Roo",PG903,"POLYGON ((-87 21, -86 21, -86 20, -87 20, -87 21))",PM,3,PM-PG903-3
+"Cancún, A. I.",21.042093408580968,-86.87419128578394,Quintana Roo,Aeropuerto Internacional,"Cancún, Quintana Roo",PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",AI,1,AI-PG904-1
+Cancún (marítimo),21.1617854,-86.8510468,Quintana Roo,Puerto Internacion Maritimo,"Cancún , Quintana Roo",PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",PM,2,PM-PG904-2
+Puerto Juárez (marítimo),21.182852796331428,-86.80841142327992,Quintana Roo,Puerto Internacion Maritimo,"Puerto Juárez , Quintana Roo",PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",PM,3,PM-PG904-3
+Isla Mujeres (marítimo),21.236991379008483,-86.73303480278628,Quintana Roo,Puerto Internacion Maritimo,"Isla Mujeres , Quintana Roo",PG904,"POLYGON ((-87 22, -86 22, -86 21, -87 21, -87 22))",PM,4,PM-PG904-4
