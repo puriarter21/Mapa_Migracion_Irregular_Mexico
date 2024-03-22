@@ -1,0 +1,54 @@
+name,tipo,sub_tipo,latitud,longitud,ID_Poligono,ciudad,estado
+Acayucan Estacion Migratoria,INM,Estacion Migratoria INM,18.00185138,-94.9210765,PG685,Acayucan,Veracruz
+Agua Prieta Estacion Provisional,INM,Estacion Migratoria INM,31.33294658,-109.560374,PG293,Agua Prieta,Sonora
+Aguascalientes Estacion Migratoria,INM,Estacion Migratoria INM,21.92955053,-102.3202229,PG472,Aguascalientes,Aguascalientes
+Campeche Estacion Provisional,INM,Estacion Migratoria INM,19.84566009,-90.53974092,PG794,Campeche,Campeche
+"Centro de Atencion Integral al Trafico Fronterizo ""La Trinitaria""",INM,Centro de Atencion Integral,16.14993427,-92.07211098,PG737,La Trinitaria,Chiapas
+Centro de Atencion Integral al Transito Fronterizo CAITF HUIXTLA,INM,Centro de Atencion Integral,15.16274927,-92.53298711,PG736,Salto de Agua,Chiapas
+Chetumal Estacion Migratoria,INM,Estacion Migratoria INM,18.5262955,-88.2833324,PG847,Chetumal,Quintana Roo
+Chihuahua Estacion Migratoria,INM,Estacion Migratoria INM,28.64225733,-106.0844028,PG371,Chihuahua,Chihuahua
+Ciudad Cuauhtemoc Estacion Provisional,INM,Estacion Migratoria INM,15.66766816,-92.00234413,PG736,Ciudad Cuauhtemoc,Chiapas
+Ciudad del Carmen Estacion Provisional,INM,Estacion Migratoria INM,18.64262612,-91.82360709,PG766,Ciudad del Carmen,Campeche
+Ciudad Juarez Estacion Migratoria,INM,Estacion Migratoria INM,31.74558597,-106.4839641,PG374,Ciudad Juarez,Chihuahua
+Colima Estancia Provisional,INM,Estacion Migratoria INM,18.5262955,-88.2833324,PG847,Colima,Quintana Roo
+Comitan Estacion Provisional,INM,Estacion Migratoria INM,16.21432432,-92.11557627,PG737,Comitan,Chiapas
+Echegaray Estacion Provisional,INM,Estacion Migratoria INM,15.654755,-93.149776,PG709,Echegaray,Chiapas
+El Ceibo Estacion Provisional,INM,Estacion Migratoria INM,17.26028726,-90.98837286,PG792,El Ceibo,Tabasco
+El Hueyate Estacion Provisional,INM,Estacion Migratoria INM,15.1605676,-92.5157851,PG736,El Hueyate,Chiapas
+Escarcega Estacion Migratoria,INM,Estacion Migratoria INM,18.60664518,-90.73938847,PG793,Escarcega,Campeche
+Guadalajara Estacion Provisional,INM,Estacion Migratoria INM,20.72696663,-103.3450627,PG444,Guadalajara,Jalisco
+Hermosillo Estacion Migratoria,INM,Estacion Migratoria INM,29.07957121,-110.9552622,PG264,Hermosillo,Sonora
+Huatulco Estancia Provisional,INM,Estacion Migratoria INM,15.827777,-96.320882,PG628,Huatulco,Oaxaca
+Huehuetan Estacion Provisional,INM,Estacion Migratoria INM,15.0196034,-92.3931781,PG736,Huehuetan,Chiapas
+Iztapalapa Estacion Migratoria (Estacion Migratoria de la Ciudad de Mexico),INM,Estacion Migratoria INM,19.31646912,-99.08320427,PG551,Iztapalapa,Estado de Mexico
+Janos Estacion Migratoria,INM,Estacion Migratoria INM,30.88484253,-108.1943893,PG319,Janos,Chihuahua
+La Ventosa Estacion Provisional,INM,Estacion Migratoria INM,16.54834163,-94.94865417,PG683,La Ventosa,Oaxaca
+Matamoros Estacion Migratoria,INM,Estacion Migratoria INM,25.8908476,-97.50314713,PG611,Matamoros,Tamaulipas
+Mazatlan Estacion Migratoria,INM,Estacion Migratoria INM,23.19281522,-106.4196897,PG366,Mazatlan,Sinaloa
+Merida Estacion Migratoria,INM,Estacion Migratoria INM,20.98721581,-89.62713003,PG822,Merida,Yucatan
+Mexicali Estacion Migratoria,INM,Estacion Migratoria INM,32.58584718,-115.4389393,PG132,Mexicali,Baja California
+Miguel Aleman Estacion Provisional,INM,Estacion Migratoria INM,26.39794342,-99.03011799,PG558,Miguel Aleman,Tamaulipas
+Monterrey Estacion Provisional,INM,Estacion Migratoria INM,25.64272573,-100.318737,PG530,Monterrey,Coahuila
+Nuevo Laredo Estacion Migratoria,INM,Estacion Migratoria INM,27.49808895,-99.50720787,PG559,Nuevo Laredo,Tamaulipas
+Oaxaca Estacion Migratoria,INM,Estacion Migratoria INM,17.06134888,-96.72231317,PG630,Oaxaca,Oaxaca
+Pachuca Estacion Migratoria,INM,Estacion Migratoria INM,20.08475233,-98.75936508,PG579,Pachuca,Hidalgo
+Palenque Estacion Migratoria,INM,Estacion Migratoria INM,17.49472895,-91.98612213,PG765,Palenque,Tabasco
+Piedras Negras Estacion Provisional,INM,Estacion Migratoria INM,28.68038027,-100.573504,PG533,Piedras Negras,Coahuila
+Playas de Catazaja Estacion Provisional,INM,Estacion Migratoria INM,17.7212181,-92.01599121,PG738,Playas de Catazaja,Chiapas
+Puebla Estacion Migratoria,INM,Estacion Migratoria INM,19.05984639,-98.2273221,PG578,Puebla,Puebla
+Saltillo Estacion Migratoria,INM,Estacion Migratoria INM,25.42244306,-100.9447861,PG530,Saltillo,Coahuila
+San Cristobal de las Casas Estacion Provisional,INM,Estacion Migratoria INM,16.73446159,-92.6491642,PG737,San Cristobal de las Casas,Chiapas
+San Gregorio Chamic Estacion Provisional,INM,Estacion Migratoria INM,15.68022929,-92.00569153,PG736,San Gregorio Chamic,Chiapas
+San Luis Potosi Estacion Migratoria,INM,Estacion Migratoria INM,22.14359738,-100.9977651,PG527,San Luis Potosi,San Luis Potosi
+San Pedro Tapanatepec Estacion Provisional,INM,Estacion Migratoria INM,16.36976245,-94.19235706,PG683,San Pedro Tapanatepec,Oaxaca
+Tampico Estacion Migratoria,INM,Estacion Migratoria INM,22.26319396,-97.79580295,PG608,Tampico,Veracruz
+Tapachula Estacion Migratoria (Siglo XXI),INM,Estacion Migratoria INM,14.92019548,-92.25910664,PG735,Tapachula,Chiapas
+Tenosique Estacion Migratoria,INM,Estacion Migratoria INM,17.45776516,-91.44521713,PG765,Tenosique,Tabasco
+Tijuana Estacion Migratoria,INM,Estacion Migratoria INM,32.4713011,-117.0136857,PG78,Tijuana,Baja California
+Tlaxcala Estacion Migratoria,INM,Estacion Migratoria INM,19.33662649,-98.19339752,PG578,Tlaxcala,Puebla
+Torreon Estacion Provisional,INM,Estacion Migratoria INM,25.5388592,-103.4533536,PG449,Torreon,Coahuila
+Tuxtla Gutierrez Estacion Migratoria,INM,Estacion Migratoria INM,16.75392043,-93.10526848,PG710,Tuxtla Gutierrez,Chiapas
+Veracruz Estacion Migratoria,INM,Estacion Migratoria INM,19.19948516,-96.14011288,PG632,Veracruz,Veracruz
+Villahermosa Estacion Migratoria,INM,Estacion Migratoria INM,17.9899559,-92.9429324,PG738,Villahermosa,Chiapas
+Zacatecas Estacion Migratoria,INM,Estacion Migratoria INM,22.76581404,-102.5780582,PG473,Zacatecas,Aguascalientes
+Zihuatanejo Estacion Migratoria,INM,Estacion Migratoria INM,17.64424696,-101.5539694,PG495,Zihuatanejo,Guerrero
