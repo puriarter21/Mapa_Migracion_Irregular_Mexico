@@ -1,443 +1,390 @@
 nombre,ciudad,estado,latitud,longitud,codigo_ruta,ID_Poligono,codigo_unico,detenciones,detenciones_in_grid,inm_30km,inm_in_grid,inm_in_estado,sc_30km,sc_in_grid,sc_in_estado
-"Zihuatanejo de Azueta, Guerrero","Zihuatanejo de Azueta, Guerrero",Guerrero,17.80789995,-101.496952435006,P,PG1027,P-PG1027-1,14,14,1,0,1,0,0,1
-"Morelia, Michoacan","Morelia, Michoacan",Michoacan,19.7027116,-101.1923818,P,PG1029,P-PG1029-1,137,137,0,0,0,0,0,1
-"Cuitzeo, Michoacan","Cuitzeo, Michoacan",Michoacan,19.9693141,-101.1412203,P,PG1030,P-PG1030-1,1,1,0,0,0,0,1,1
-"Leon, Guanajuato","Leon, Guanajuato",Guanajuato,21.1218598,-101.6825081,C,PG1031,C-PG1031-1,2,52,0,0,0,2,8,23
-"Irapuato, Guanajuato","Irapuato, Guanajuato",Guanajuato,20.6758761,-101.3521052,C,PG1031,C-PG1031-2,44,52,0,0,0,5,8,23
-"Salamanca, Guanajuato","Salamanca, Guanajuato",Guanajuato,20.571358,-101.192444,C,PG1031,C-PG1031-3,6,52,0,0,0,6,8,23
-"Ocampo, Guanajuato","Ocampo, Guanajuato",Guanajuato,21.6042823,-101.476239300191,C,PG1032,C-PG1032-1,6,6,0,0,0,0,0,23
-"Monclova, Coahuila","Monclova, Coahuila",Coahuila,26.8999988,-101.4171173,C,PG1040,C-PG1040-1,0,0,0,0,4,0,0,27
-"Zinapecuaro, Michoacan","Zinapecuaro, Michoacan",Michoacan,19.8563181,-100.770909712988,P,PG1069,P-PG1069-1,176,177,0,0,0,0,1,1
-"Apaseo el Alto, Guanajuato","Apaseo el Alto, Guanajuato",Guanajuato,20.4562767,-100.621263,C,PG1069,C-PG1069-2,1,177,0,0,0,6,1,23
-"Celaya, Guanajuato","Celaya, Guanajuato",Guanajuato,20.521788,-100.8140458,C,PG1070,C-PG1070-1,8,80,0,0,0,4,6,23
-"Comonfort, Guanajuato","Comonfort, Guanajuato",Guanajuato,20.7199475,-100.761188,C,PG1070,C-PG1070-2,29,80,0,0,0,4,6,23
-"San Miguel de Allende, Guanajuato","San Miguel de Allende, Guanajuato",Guanajuato,20.9142238,-100.743784,C,PG1070,C-PG1070-3,15,80,0,0,0,1,6,23
-"Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato","Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato",Guanajuato,21.1043597,-100.7259581,C,PG1070,C-PG1070-4,6,80,0,0,0,2,6,23
-"Apaseo el Grande, Guanajuato","Apaseo el Grande, Guanajuato",Guanajuato,20.59193265,-100.597986786366,C,PG1070,C-PG1070-5,22,80,0,0,0,9,6,23
-"San Luis de la Paz, Guanajuato","San Luis de la Paz, Guanajuato",Guanajuato,21.2970466,-100.516269,C,PG1071,C-PG1071-1,60,60,0,0,0,0,0,23
-"San Luis Potosi, San Luis Potosi","San Luis Potosi, San Luis Potosi",San Luis Potosi,22.5000001,-100.4949145,C,PG1072,C-PG1072-1,0,0,0,1,1,0,4,4
-"Cedral, San Luis Potosi","Cedral, San Luis Potosi",San Luis Potosi,23.8205361,-100.7242892,C,PG1074,C-PG1074-1,5,5,0,0,1,0,0,4
-"Saltillo, Coahuila","Saltillo, Coahuila",Coahuila,25.4230425,-100.9927509,C,PG1077,C-PG1077-1,945,1130,1,1,4,7,9,27
-"Mina, Nuevo Leon","Mina, Nuevo Leon",Nuevo Leon,26.0025145,-100.5300485,G,PG1077,G-PG1077-2,0,1130,0,1,0,0,9,0
-"Santa Catarina, Nuevo Leon","Santa Catarina, Nuevo Leon",Nuevo Leon,25.6745052,-100.4616371,G,PG1077,G-PG1077-3,167,1130,1,1,0,11,9,0
-"San Pedro Garza Garcia, Nuevo Leon","San Pedro Garza Garcia, Nuevo Leon",Nuevo Leon,25.6651753,-100.4018251,G,PG1077,G-PG1077-4,1,1130,1,1,0,11,9,0
-"Garcia, Nuevo Leon","Garcia, Nuevo Leon",Nuevo Leon,25.6651753,-100.4018251,G,PG1077,G-PG1077-5,17,1130,1,1,0,11,9,0
-"Allende, Coahuila","Allende, Coahuila",Coahuila,28.3420816,-100.8517302,C,PG1081,C-PG1081-1,289,292,0,1,4,0,5,27
-"Nava, Coahuila","Nava, Coahuila",Coahuila,28.4217309,-100.7674167,C,PG1081,C-PG1081-2,3,292,0,1,4,0,5,27
-"Piedras Negras, Coahuila","Piedras Negras, Coahuila",Coahuila,28.7041725,-100.5148362,C,PG1081,C-PG1081-3,0,292,1,1,4,5,5,27
-Piedras Negras II (terrestre) 9,"Piedras Negras II , Coahuila",Coahuila,28.697381790115,-100.512470833148,FN,PG1081,FN-PG1081-4,0,292,1,1,4,5,5,27
-Ciudad Acuña (terrestre),"Ciudad Acuña , Coahuila",Coahuila,29.3329261319014,-100.966175104674,FN,PG1082,FN-PG1082-1,0,0,0,0,4,2,2,27
-"Acuna, Coahuila","Acuna, Coahuila",Coahuila,29.3248796,-100.9322287,C,PG1082,C-PG1082-2,0,0,0,0,4,2,2,27
-"Acapulco de Juarez, Guerrero","Acapulco de Juarez, Guerrero",Guerrero,16.8680495,-99.8940182,P,PG1103,P-PG1103-1,32,32,0,0,1,1,1,1
-"San Juan del Rio, Queretaro","San Juan del Rio, Queretaro",Queretaro,20.3867547,-99.9931982,C,PG1108,C-PG1108-1,0,43,0,0,0,1,0,0
-"Atlacomulco, Estado de Mexico","Atlacomulco, Estado de Mexico",Estado de Mexico,19.81591915,-99.8681193246918,C,PG1108,C-PG1108-2,42,43,0,0,1,1,0,10
-"Acambay de Ruiz Castaneda, Estado de Mexico","Acambay de Ruiz Castaneda, Estado de Mexico",Estado de Mexico,19.95904705,-99.8480208629308,C,PG1108,C-PG1108-3,1,43,0,0,1,0,0,10
+"Tapachula, Chiapas","Tapachula, Chiapas",Chiapas,14.9042905,-92.2609265,S,PG1530,S-PG1530-8,98486,142180,2,4,13,17,11,35
+"Huimanguillo, Tabasco","Huimanguillo, Tabasco",Tabasco,17.7620967,-93.6634408051158,G,PG1456,G-PG1456-1,97523,97523,0,0,3,0,0,0
+"Centro, Tabasco","Centro, Tabasco",Tabasco,18.0271588,-92.7747911804616,G,PG1495,G-PG1495-6,71661,92612,1,1,3,0,0,0
+"Acayucan, Veracruz","Acayucan, Veracruz",Veracruz,17.9487862,-94.9145752,G,PG1378,G-PG1378-4,45794,45863,1,1,3,2,2,12
+"Tenosique, Tabasco","Tenosique, Tabasco",Tabasco,17.4707129,-91.4220212,G,PG1572,G-PG1572-3,40069,55739,1,2,3,2,5,0
+"Macuspana, Tabasco","Macuspana, Tabasco",Tabasco,17.760922,-92.596108,G,PG1534,G-PG1534-2,34779,35231,0,1,3,0,0,0
+"Tijuana, Baja California","Tijuana, Baja California",Baja California,32.5317397,-117.019529,P,PG190,P-PG190-2,27568,28162,1,1,2,35,36,59
+"Suchiate, Chiapas","Suchiate, Chiapas",Chiapas,14.6321744,-92.241963360953,S,PG1529,S-PG1529-1,25989,26599,0,0,13,3,7,35
+"Piedras Negras, Coahuila","Piedras Negras, Coahuila",Coahuila,28.7041725,-100.5148362,C,PG1081,C-PG1081-3,21201,21493,1,1,4,5,5,27
+"Huixtla, Chiapas","Huixtla, Chiapas",Chiapas,15.122125,-92.5039970760447,S,PG1530,S-PG1530-4,20836,142180,3,4,13,1,11,35
+"Arriaga, Chiapas","Arriaga, Chiapas",Chiapas,16.2344709,-93.9008414,S,PG1453,S-PG1453-1,19839,20069,0,0,13,3,3,35
+"Huehuetan, Chiapas","Huehuetan, Chiapas",Chiapas,15.0217164,-92.4286697906319,S,PG1530,S-PG1530-5,18319,142180,4,4,13,18,11,35
+"Tuxtla Gutierrez, Chiapas","Tuxtla Gutierrez, Chiapas",Chiapas,16.753801,-93.115959,S,PG1493,S-PG1493-3,15141,15426,1,1,13,3,3,35
+"Cardenas, Tabasco","Cardenas, Tabasco",Tabasco,17.990878,-93.3753314,G,PG1495,G-PG1495-1,13100,92612,0,1,3,0,0,0
+"Santa Ana, Sonora","Santa Ana, Sonora",Sonora,30.5410922,-111.1184881,P,PG499,P-PG499-1,12341,12341,0,0,2,0,0,23
+"Pijijiapan, Chiapas","Pijijiapan, Chiapas",Chiapas,15.6849991,-93.2080195,S,PG1492,S-PG1492-2,11297,11305,1,1,13,1,1,35
+"Teapa, Tabasco","Teapa, Tabasco",Tabasco,17.5566526,-92.9480504,G,PG1494,G-PG1494-3,9947,19322,0,0,3,0,0,0
+"Hermosillo, Sonora","Hermosillo, Sonora",Sonora,29.0948207,-110.9692202,P,PG497,P-PG497-1,9637,9637,1,1,2,6,4,23
+"Tacotalpa, Tabasco","Tacotalpa, Tabasco",Tabasco,17.5952197,-92.8253388,G,PG1494,G-PG1494-4,9367,19322,0,0,3,0,0,0
+"Palenque, Chiapas","Palenque, Chiapas",Chiapas,17.509188,-91.980922,S,PG1572,S-PG1572-1,9027,55739,2,2,13,2,5,35
+"Juarez, Chihuahua","Juarez, Chihuahua",Chihuahua,31.7372575,-106.485655,C,PG774,C-PG774-1,7925,7925,1,1,3,6,4,9
+"Jalapa, Tabasco","Jalapa, Tabasco",Tabasco,17.721716,-92.812012,G,PG1495,G-PG1495-5,7479,92612,0,1,3,0,0,0
+"Emiliano Zapata, Tabasco","Emiliano Zapata, Tabasco",Tabasco,17.693626,-91.6397345576535,G,PG1572,G-PG1572-2,6643,55739,0,2,3,0,5,0
+"Reynosa, Tamaulipas","Reynosa, Tamaulipas",Tamaulipas,26.0907673,-98.2788191,G,PG1233,G-PG1233-1,6356,6414,0,0,3,2,2,16
+"Iztapalapa, Ciudad de Mexico","Iztapalapa, Ciudad de Mexico",Ciudad de Mexico,19.3591195,-99.0929294,C,PG1146,C-PG1146-11,6176,15044,1,1,0,62,64,67
+"Mexicali, Baja California","Mexicali, Baja California",Baja California,32.6405247,-115.474899,P,PG268,P-PG268-2,5706,5706,1,1,2,21,21,59
+"Galeana, Nuevo Leon","Galeana, Nuevo Leon",Nuevo Leon,24.758306,-100.381351310174,G,PG1115,G-PG1115-1,5407,5408,0,0,0,0,0,0
+"Jesus Carranza, Veracruz","Jesus Carranza, Veracruz",Veracruz,17.38793115,-94.9094973063052,G,PG1377,G-PG1377-1,5396,5396,0,0,3,0,0,12
+"Puebla, Puebla","Puebla, Puebla",Puebla,19.0384062279769,-98.2069491554557,C,PG1223,C-PG1223-1,5069,6055,1,1,2,6,6,0
+"Tepotzotlan, Estado de Mexico","Tepotzotlan, Estado de Mexico",Estado de Mexico,19.7173392,-99.2230683,C,PG1146,C-PG1146-5,4945,15044,0,1,1,7,64,10
+"Apodaca, Nuevo Leon","Apodaca, Nuevo Leon",Nuevo Leon,25.7816542,-100.1887501,G,PG1116,G-PG1116-6,4262,6680,1,1,0,9,9,0
+"Xaloztoc, Tlaxcala","Xaloztoc, Tlaxcala",Tlaxcala,19.403611,-98.048611,C,PG1224,C-PG1224-18,4231,5419,1,1,0,3,3,0
+"San Luis Potosi, San Luis Potosi","San Luis Potosi, San Luis Potosi",San Luis Potosi,22.5000001,-100.4949145,C,PG1072,C-PG1072-1,4154,4154,0,1,1,0,4,4
+"Agua Dulce, Veracruz","Agua Dulce, Veracruz",Veracruz,18.0899541,-94.1623630522383,G,PG1417,G-PG1417-5,4144,4549,0,0,3,0,3,12
+"Nogales, Sonora","Nogales, Sonora",Sonora,31.3285057,-110.9450472,P,PG500,P-PG500-1,4084,4084,0,0,2,7,7,23
+"Cosamaloapan de Carpio, Veracruz","Cosamaloapan de Carpio, Veracruz",Veracruz,18.28167395,-95.9643574726842,G,PG1339,G-PG1339-3,3096,3222,0,0,3,0,0,12
+"Union Juarez, Chiapas","Union Juarez, Chiapas",Chiapas,15.07074175,-92.0925428079992,S,PG1530,S-PG1530-10,2674,142180,1,4,13,13,11,35
+"Juchitan de Zaragoza, Oaxaca","Juchitan de Zaragoza, Oaxaca",Oaxaca,16.413329,-94.9118794582709,S,PG1376,S-PG1376-7,2625,4325,1,1,4,1,2,7
+"Ixtacuixtla de Mariano Matamoros, Tlaxcala","Ixtacuixtla de Mariano Matamoros, Tlaxcala",Tlaxcala,19.34670365,-98.3781581037396,C,PG1185,C-PG1185-12,2539,3189,1,0,0,4,2,0
+"Veracruz, Veracruz","Veracruz, Veracruz",Veracruz,19.333333,-96.666667,G,PG1302,G-PG1302-1,2478,2638,0,0,3,0,0,12
+"Apaxco, Estado de Mexico","Apaxco, Estado de Mexico",Estado de Mexico,19.9807399,-99.1518101102043,C,PG1147,C-PG1147-7,2476,3850,0,0,1,3,3,10
+"Mina, Nuevo Leon","Mina, Nuevo Leon",Nuevo Leon,26.0025145,-100.5300485,G,PG1077,G-PG1077-2,2348,3478,0,1,0,0,9,0
+"General Bravo, Nuevo Leon","General Bravo, Nuevo Leon",Nuevo Leon,25.7932962,-99.1811424,G,PG1155,G-PG1155-2,2059,2066,0,0,0,0,0,0
+"Chihuahua, Chihuahua","Chihuahua, Chihuahua",Chihuahua,28.5000001,-106.0000001,C,PG769,C-PG769-1,2035,2035,1,1,3,1,1,9
+"Benito Juarez, Quintana Roo","Benito Juarez, Quintana Roo",Quintana Roo,21.07668085,-86.9263352170841,S,PG1850,S-PG1850-1,1897,1897,0,0,2,0,0,0
+"Venustiano Carranza, Ciudad de Mexico","Venustiano Carranza, Ciudad de Mexico",Ciudad de Mexico,19.4192787,-99.1135639,C,PG1146,C-PG1146-10,1851,15044,1,1,0,62,64,67
+"Villa Comaltitlan, Chiapas","Villa Comaltitlan, Chiapas",Chiapas,15.1709732,-92.6128862908011,S,PG1530,S-PG1530-2,1835,142180,2,4,13,1,11,35
+"Campeche, Campeche","Campeche, Campeche",Campeche,19.830285751988,-90.5355146399854,S,PG1654,S-PG1654-1,1754,1777,1,1,3,0,0,3
+"Acuna, Coahuila","Acuna, Coahuila",Coahuila,29.3248796,-100.9322287,C,PG1082,C-PG1082-2,1672,1672,0,0,4,2,2,27
+"Balancan, Tabasco","Balancan, Tabasco",Tabasco,17.79751665,-91.3458588938522,G,PG1573,G-PG1573-1,1472,1472,0,0,3,0,0,0
+"General Plutarco Elias Calles, Sonora","General Plutarco Elias Calles, Sonora",Sonora,31.6949837,-112.711748945241,P,PG422,P-PG422-1,1431,1431,0,0,2,0,0,23
+"Cuitlahuac, Veracruz","Cuitlahuac, Veracruz",Veracruz,18.814226,-96.7223775,G,PG1301,G-PG1301-4,1345,1751,0,0,3,1,1,12
+"Guadalajara, Jalisco","Guadalajara, Jalisco",Jalisco,20.6720375,-103.338396,P,PG914,P-PG914-1,1332,1332,1,1,1,10,10,11
+"San Juan del Rio, Queretaro","San Juan del Rio, Queretaro",Queretaro,20.3867547,-99.9931982,C,PG1108,C-PG1108-1,1304,1347,0,0,0,1,0,0
+"Oaxaca de Juarez, Oaxaca","Oaxaca de Juarez, Oaxaca",Oaxaca,17.0604663,-96.7253575,S,PG1299,S-PG1299-9,1270,2832,1,1,4,2,2,7
+"Santa Maria Jalapa del Marques, Oaxaca","Santa Maria Jalapa del Marques, Oaxaca",Oaxaca,16.4403557,-95.4448148,S,PG1376,S-PG1376-1,1264,4325,0,1,4,0,2,7
+"Escarcega, Campeche","Escarcega, Campeche",Campeche,18.606934,-90.7385823,S,PG1613,S-PG1613-1,1232,1232,1,1,3,0,0,3
+"Ocozocoautla de Espinosa, Chiapas","Ocozocoautla de Espinosa, Chiapas",Chiapas,16.7931431,-93.4569635533782,S,PG1454,S-PG1454-3,1226,1906,0,0,13,0,0,35
+"Monclova, Coahuila","Monclova, Coahuila",Coahuila,26.8999988,-101.4171173,C,PG1040,C-PG1040-1,1207,1207,0,0,4,0,0,27
+"General Escobedo, Nuevo Leon","General Escobedo, Nuevo Leon",Nuevo Leon,25.808517,-100.3224334,G,PG1116,G-PG1116-2,1204,6680,1,1,0,11,9,0
+"Orizaba, Veracruz","Orizaba, Veracruz",Veracruz,18.8497366,-97.1060062,G,PG1262,G-PG1262-4,1100,1970,0,0,3,1,1,12
+"Gomez Palacio, Durango","Gomez Palacio, Durango",Durango,25.5732473,-103.494779,C,PG921,C-PG921-2,1048,1896,1,1,0,2,2,2
+"Huatabampo, Sonora","Huatabampo, Sonora",Sonora,26.8248431,-109.6420085,P,PG572,P-PG572-1,1045,1045,0,0,2,0,1,23
+"Cajeme, Sonora","Cajeme, Sonora",Sonora,27.71198065,-109.902207535928,P,PG573,P-PG573-1,1040,1040,0,0,2,0,0,23
+"Gustavo A. Madero, Ciudad de Mexico","Gustavo A. Madero, Ciudad de Mexico",Ciudad de Mexico,19.4831686,-99.1137888,C,PG1146,C-PG1146-9,1023,15044,1,1,0,62,64,67
+"Azoyu, Guerrero","Azoyu, Guerrero",Guerrero,16.730833,-98.600833,P,PG1181,P-PG1181-1,1023,1023,0,0,1,0,0,1
+"Zacatecas, Zacatecas","Zacatecas, Zacatecas",Zacatecas,19.0390187823288,-98.2024861642833,C,PG1223,C-PG1223-2,986,6055,1,1,0,6,6,0
+"Cruillas, Tamaulipas","Cruillas, Tamaulipas",Tamaulipas,24.7554618,-98.5369904,G,PG1193,G-PG1193-1,985,985,0,0,3,0,0,16
+"Mazatlan, Sinaloa","Mazatlan, Sinaloa",Sinaloa,23.2035785,-106.4208391,P,PG761,P-PG761-1,976,976,1,1,1,6,6,7
+"Saltillo, Coahuila","Saltillo, Coahuila",Coahuila,25.4230425,-100.9927509,C,PG1077,C-PG1077-1,945,3478,1,1,4,7,9,27
+"Merida, Yucatan","Merida, Yucatan",Yucatan,20.9670759,-89.6237402,S,PG1694,S-PG1694-1,931,931,1,1,1,2,2,2
 "Queretaro, Queretaro","Queretaro, Queretaro",Queretaro,20.5927744,-100.3902245,C,PG1109,C-PG1109-1,872,888,0,0,0,6,5,0
-"El Marques, Queretaro","El Marques, Queretaro",Queretaro,20.73507785,-100.283576535042,C,PG1109,C-PG1109-2,16,888,0,0,0,5,5,0
-"Doctor Arroyo, Nuevo Leon","Doctor Arroyo, Nuevo Leon",Nuevo Leon,23.80420455,-100.225663498075,G,PG1113,G-PG1113-1,11,11,0,0,0,0,0,0
-"Aramberri, Nuevo Leon","Aramberri, Nuevo Leon",Nuevo Leon,24.22172555,-99.9241345206951,G,PG1114,G-PG1114-1,4,4,0,0,0,0,0,0
-"Galeana, Nuevo Leon","Galeana, Nuevo Leon",Nuevo Leon,24.758306,-100.381351310174,G,PG1115,G-PG1115-1,0,1,0,0,0,0,0,0
-"Montemorelos, Nuevo Leon","Montemorelos, Nuevo Leon",Nuevo Leon,25.1886604,-99.8293539,G,PG1115,G-PG1115-2,1,1,0,0,0,0,0,0
-"El Carmen, Nuevo Leon","El Carmen, Nuevo Leon",Nuevo Leon,25.9368419,-100.3613419,G,PG1116,G-PG1116-1,35,1214,0,1,0,6,9,0
-"General Escobedo, Nuevo Leon","General Escobedo, Nuevo Leon",Nuevo Leon,25.808517,-100.3224334,G,PG1116,G-PG1116-2,0,1214,1,1,0,11,9,0
-"Monterrey, Nuevo Leon","Monterrey, Nuevo Leon",Nuevo Leon,25.6802019,-100.315258,G,PG1116,G-PG1116-3,449,1214,1,1,0,11,9,0
-"San Nicolas de los Garza, Nuevo Leon","San Nicolas de los Garza, Nuevo Leon",Nuevo Leon,25.7558021,-100.289648,G,PG1116,G-PG1116-4,50,1214,1,1,0,11,9,0
-"Guadalupe, Nuevo Leon","Guadalupe, Nuevo Leon",Nuevo Leon,25.6751114,-100.2151753,G,PG1116,G-PG1116-5,225,1214,1,1,0,11,9,0
-"Apodaca, Nuevo Leon","Apodaca, Nuevo Leon",Nuevo Leon,25.7816542,-100.1887501,G,PG1116,G-PG1116-6,0,1214,1,1,0,9,9,0
-"Cienega de Flores, Nuevo Leon","Cienega de Flores, Nuevo Leon",Nuevo Leon,25.956169,-100.1662028,G,PG1116,G-PG1116-7,41,1214,0,1,0,1,9,0
-"Santiago, Nuevo Leon","Santiago, Nuevo Leon",Nuevo Leon,25.4243595,-100.1513376,G,PG1116,G-PG1116-8,23,1214,0,1,0,2,9,0
-"General Zuazua, Nuevo Leon","General Zuazua, Nuevo Leon",Nuevo Leon,25.8953873,-100.1078021,G,PG1116,G-PG1116-9,35,1214,0,1,0,3,9,0
-"Juarez, Nuevo Leon","Juarez, Nuevo Leon",Nuevo Leon,25.6467011,-100.0907766,G,PG1116,G-PG1116-10,180,1214,1,1,0,9,9,0
-"Pesqueria, Nuevo Leon","Pesqueria, Nuevo Leon",Nuevo Leon,25.7851361,-100.0520621,G,PG1116,G-PG1116-11,93,1214,0,1,0,6,9,0
-"Cadereyta Jimenez, Nuevo Leon","Cadereyta Jimenez, Nuevo Leon",Nuevo Leon,25.517337,-99.8711735172066,G,PG1116,G-PG1116-12,83,1214,0,1,0,0,9,0
-"Salinas Victoria, Nuevo Leon","Salinas Victoria, Nuevo Leon",Nuevo Leon,26.1216805,-100.327087699587,G,PG1117,G-PG1117-1,18,18,0,0,0,0,0,0
-"Anahuac, Nuevo Leon","Anahuac, Nuevo Leon",Nuevo Leon,27.0285283,-100.0333715,G,PG1118,G-PG1118-1,86,86,0,0,0,0,0,0
-"Colombia, Puente Solidaridad (terrestre)","Colombia, Nuevo León",Nuevo León,27.6994755618048,-99.7457914749819,FN,PG1119,FN-PG1119-1,0,0,0,0,0,1,0,0
-"Guerrero, Coahuila","Guerrero, Coahuila",Coahuila,28.3093253,-100.3805564,C,PG1120,C-PG1120-1,6,6,0,0,4,0,0,27
-"San Marcos, Guerrero","San Marcos, Guerrero",Guerrero,16.85734375,-99.390341851477,P,PG1142,P-PG1142-1,379,379,0,0,1,0,0,1
-"Chilpancingo de los Bravo, Guerrero","Chilpancingo de los Bravo, Guerrero",Guerrero,17.5542149,-99.5048416,P,PG1143,P-PG1143-1,30,30,0,0,1,0,0,1
-"Puente de Ixtla, Morelos","Puente de Ixtla, Morelos",Morelos,18.6171111,-99.3192092,C,PG1145,C-PG1145-1,8,43,0,0,0,2,2,3
-"Cuernavaca, Morelos","Cuernavaca, Morelos",Morelos,18.9218274,-99.2342282,C,PG1145,C-PG1145-2,21,43,0,0,0,2,2,3
-"Xochitepec, Morelos","Xochitepec, Morelos",Morelos,18.7831747,-99.2308448,C,PG1145,C-PG1145-3,2,43,0,0,0,2,2,3
-"Temixco, Morelos","Temixco, Morelos",Morelos,18.8449428,-99.2236369,C,PG1145,C-PG1145-4,7,43,0,0,0,2,2,3
-"Emiliano Zapata, Morelos","Emiliano Zapata, Morelos",Morelos,18.83995,-99.1870274,C,PG1145,C-PG1145-5,4,43,0,0,0,2,2,3
-"Tepoztlan, Morelos","Tepoztlan, Morelos",Morelos,18.9914959,-99.1025453272487,C,PG1145,C-PG1145-6,1,43,0,0,0,2,2,3
-"Toluca, Estado de Mexico","Toluca, Estado de Mexico",Estado de Mexico,19.292545,-99.6569007,C,PG1146,C-PG1146-1,753,5994,0,1,1,4,64,10
-"Ocoyoacac, Estado de Mexico","Ocoyoacac, Estado de Mexico",Estado de Mexico,19.2587373,-99.4177778597143,C,PG1146,C-PG1146-2,2,5994,0,1,1,20,64,10
-"Xalatlaco, Estado de Mexico","Xalatlaco, Estado de Mexico",Estado de Mexico,19.1843821,-99.4145622,C,PG1146,C-PG1146-3,2,5994,0,1,1,8,64,10
-"Naucalpan de Juarez, Estado de Mexico","Naucalpan de Juarez, Estado de Mexico",Estado de Mexico,19.4788356,-99.2327986,C,PG1146,C-PG1146-4,1,5994,1,1,1,62,64,10
-"Tepotzotlan, Estado de Mexico","Tepotzotlan, Estado de Mexico",Estado de Mexico,19.7173392,-99.2230683,C,PG1146,C-PG1146-5,4945,5994,0,1,1,7,64,10
-"Cuautitlan, Estado de Mexico","Cuautitlan, Estado de Mexico",Estado de Mexico,19.6531356,-99.2145002,C,PG1146,C-PG1146-6,2,5994,0,1,1,35,64,10
-"Tlalnepantla de Baz, Estado de Mexico","Tlalnepantla de Baz, Estado de Mexico",Estado de Mexico,19.54649025,-99.1899352247449,C,PG1146,C-PG1146-7,75,5994,1,1,1,60,64,10
-"Coyoacan, Ciudad de Mexico","Coyoacan, Ciudad de Mexico",Ciudad de Mexico,19.349885,-99.1623599,C,PG1146,C-PG1146-8,7,5994,1,1,0,62,64,67
-"Gustavo A. Madero, Ciudad de Mexico","Gustavo A. Madero, Ciudad de Mexico",Ciudad de Mexico,19.4831686,-99.1137888,C,PG1146,C-PG1146-9,0,5994,1,1,0,62,64,67
-"Venustiano Carranza, Ciudad de Mexico","Venustiano Carranza, Ciudad de Mexico",Ciudad de Mexico,19.4192787,-99.1135639,C,PG1146,C-PG1146-10,0,5994,1,1,0,62,64,67
-"Iztapalapa, Ciudad de Mexico","Iztapalapa, Ciudad de Mexico",Ciudad de Mexico,19.3591195,-99.0929294,C,PG1146,C-PG1146-11,0,5994,1,1,0,62,64,67
-"Nezahualcoyotl, Estado de Mexico","Nezahualcoyotl, Estado de Mexico",Estado de Mexico,19.4079028,-99.0181547,C,PG1146,C-PG1146-12,22,5994,1,1,1,61,64,10
-"Ecatepec de Morelos, Estado de Mexico","Ecatepec de Morelos, Estado de Mexico",Estado de Mexico,19.6074415,-99.000754,C,PG1146,C-PG1146-13,185,5994,0,1,1,29,64,10
-"Alfajayucan, Hidalgo","Alfajayucan, Hidalgo",Hidalgo,20.410277,-99.4031534355859,C,PG1147,C-PG1147-1,1,1374,0,0,1,0,3,5
-"Tula de Allende, Hidalgo","Tula de Allende, Hidalgo",Hidalgo,20.0489487,-99.3729561601143,C,PG1147,C-PG1147-2,78,1374,0,0,1,2,3,5
-"Tepeji del Rio de Ocampo, Hidalgo","Tepeji del Rio de Ocampo, Hidalgo",Hidalgo,19.89368265,-99.3487181526625,C,PG1147,C-PG1147-3,789,1374,0,0,1,3,3,5
-"Ixmiquilpan, Hidalgo","Ixmiquilpan, Hidalgo",Hidalgo,20.481944,-99.218056,C,PG1147,C-PG1147-4,1,1374,0,0,1,0,3,5
-"Atitalaquia, Hidalgo","Atitalaquia, Hidalgo",Hidalgo,20.0597395,-99.213288197313,C,PG1147,C-PG1147-5,2,1374,0,0,1,3,3,5
-"Huehuetoca, Estado de Mexico","Huehuetoca, Estado de Mexico",Estado de Mexico,19.833375,-99.2044638,C,PG1147,C-PG1147-6,348,1374,0,0,1,3,3,10
-"Apaxco, Estado de Mexico","Apaxco, Estado de Mexico",Estado de Mexico,19.9807399,-99.1518101102043,C,PG1147,C-PG1147-7,0,1374,0,0,1,3,3,10
-"Zumpango, Estado de Mexico","Zumpango, Estado de Mexico",Estado de Mexico,19.81293675,-99.081809533527,C,PG1147,C-PG1147-8,155,1374,0,0,1,1,3,10
-"Antiguo Morelos, Tamaulipas","Antiguo Morelos, Tamaulipas",Tamaulipas,22.56570125,-99.0871371606598,G,PG1150,G-PG1150-1,117,117,0,0,3,0,1,16
+"Guaymas, Sonora","Guaymas, Sonora",Sonora,27.9216441,-110.8994059,P,PG534,P-PG534-1,860,860,0,0,2,0,0,23
+"Altamira, Tamaulipas","Altamira, Tamaulipas",Tamaulipas,22.3921625,-97.9362975,G,PG1228,G-PG1228-2,833,1407,1,1,3,3,3,16
+"Torreon, Coahuila","Torreon, Coahuila",Coahuila,25.542698,-103.410512,C,PG921,C-PG921-3,825,1896,1,1,4,2,2,27
+"Navojoa, Sonora","Navojoa, Sonora",Sonora,27.0721872,-109.4438227,P,PG611,P-PG611-1,823,823,0,0,2,0,0,23
+"Frontera Comalapa, Chiapas","Frontera Comalapa, Chiapas",Chiapas,15.6590135,-92.1422219,S,PG1531,S-PG1531-3,802,1317,2,4,13,0,2,35
+"Tepeji del Rio de Ocampo, Hidalgo","Tepeji del Rio de Ocampo, Hidalgo",Hidalgo,19.89368265,-99.3487181526625,C,PG1147,C-PG1147-3,789,3850,0,0,1,3,3,5
+"Toluca, Estado de Mexico","Toluca, Estado de Mexico",Estado de Mexico,19.292545,-99.6569007,C,PG1146,C-PG1146-1,753,15044,0,1,1,4,64,10
+"San Cristobal de las Casas, Chiapas","San Cristobal de las Casas, Chiapas",Chiapas,16.6835469,-92.6155184199116,S,PG1532,S-PG1532-1,745,1269,1,1,13,2,3,35
+"Santa Cruz Xoxocotlan, Oaxaca","Santa Cruz Xoxocotlan, Oaxaca",Oaxaca,17.026389,-96.733333,S,PG1299,S-PG1299-8,731,2832,1,1,4,2,2,7
+"San Pablo Huitzo, Oaxaca","San Pablo Huitzo, Oaxaca",Oaxaca,17.2777969,-96.8866692,S,PG1299,S-PG1299-1,729,2832,0,1,4,1,2,7
+"Jiquipilas, Chiapas","Jiquipilas, Chiapas",Chiapas,16.57497565,-93.6056542788837,S,PG1454,S-PG1454-2,677,1906,0,0,13,0,0,35
+"San Fernando, Tamaulipas","San Fernando, Tamaulipas",Tamaulipas,24.8466769,-98.1473493,G,PG1232,G-PG1232-1,673,673,0,0,3,0,0,16
+"Cordoba, Veracruz","Cordoba, Veracruz",Veracruz,18.8944704,-96.9352891,G,PG1262,G-PG1262-7,609,1970,0,0,3,1,1,12
+"Tuxtla Chico, Chiapas","Tuxtla Chico, Chiapas",Chiapas,14.8768619,-92.1967524545976,S,PG1529,S-PG1529-3,595,26599,2,0,13,17,7,35
+"Tecate, Baja California","Tecate, Baja California",Baja California,32.5653831,-116.6298787,P,PG190,P-PG190-3,594,28162,0,1,2,6,36,59
+"Tampico, Tamaulipas","Tampico, Tamaulipas",Tamaulipas,22.2157619,-97.8577713,G,PG1228,G-PG1228-4,563,1407,1,1,3,3,3,16
 "Jaumave, Tamaulipas","Jaumave, Tamaulipas",Tamaulipas,23.40496,-99.3806698,G,PG1152,G-PG1152-1,501,534,0,0,3,0,1,16
-"Victoria, Tamaulipas","Victoria, Tamaulipas",Tamaulipas,23.7389846,-99.1441352,G,PG1152,G-PG1152-2,33,534,0,0,3,1,1,16
-"Hidalgo, Tamaulipas","Hidalgo, Tamaulipas",Tamaulipas,24.2480354,-99.4382079,G,PG1153,G-PG1153-1,45,45,0,0,3,0,0,16
-"Hualahuises, Nuevo Leon","Hualahuises, Nuevo Leon",Nuevo Leon,24.8838044,-99.6739794,G,PG1154,G-PG1154-1,34,53,0,0,0,0,0,0
-"Linares, Nuevo Leon","Linares, Nuevo Leon",Nuevo Leon,24.8596282,-99.5684539,G,PG1154,G-PG1154-2,19,53,0,0,0,0,0,0
-"Los Ramones, Nuevo Leon","Los Ramones, Nuevo Leon",Nuevo Leon,25.6973768,-99.6250811,G,PG1155,G-PG1155-1,7,7,0,0,0,0,0,0
-"General Bravo, Nuevo Leon","General Bravo, Nuevo Leon",Nuevo Leon,25.7932962,-99.1811424,G,PG1155,G-PG1155-2,0,7,0,0,0,0,0,0
-"Paras, Nuevo Leon","Paras, Nuevo Leon",Nuevo Leon,26.4993853,-99.5229954,G,PG1156,G-PG1156-1,13,29,0,1,0,0,0,0
-"Guerrero, Presa Falcón (terrestre)","Guerrero, Tamaulipas",Tamaulipas,26.5666189621073,-99.2271342377237,FN,PG1156,FN-PG1156-2,0,29,1,1,3,0,0,16
-"Miguel Aleman, Tamaulipas","Miguel Aleman, Tamaulipas",Tamaulipas,26.3995446,-99.0314218,G,PG1156,G-PG1156-3,16,29,1,1,3,0,0,16
-Miguel Alemán (terrestre),"Miguel Alemán , Tamaulipas",Tamaulipas,26.403212582907,-99.0199868660378,FN,PG1156,FN-PG1156-4,0,29,1,1,3,0,0,16
+"Monterrey, Nuevo Leon","Monterrey, Nuevo Leon",Nuevo Leon,25.6802019,-100.315258,G,PG1116,G-PG1116-3,449,6680,1,1,0,11,9,0
+"Mezcalapa, Chiapas","Mezcalapa, Chiapas",Chiapas,17.2364959,-93.6349751688609,S,PG1455,S-PG1455-2,440,743,0,0,13,0,0,35
+"Aguascalientes, Aguascalientes","Aguascalientes, Aguascalientes",Aguascalientes,22.0000001,-102.5000001,C,PG955,C-PG955-1,423,423,1,0,2,19,0,29
+"Caborca, Sonora","Caborca, Sonora",Sonora,30.7166014,-112.1562598,P,PG460,P-PG460-1,414,444,0,0,2,1,3,23
+"Chalco, Estado de Mexico","Chalco, Estado de Mexico",Estado de Mexico,19.2612215,-98.8958362,C,PG1185,C-PG1185-2,405,3189,1,0,1,12,2,10
+"Matamoros, Tamaulipas","Matamoros, Tamaulipas",Tamaulipas,25.8810158,-97.5064866,G,PG1272,G-PG1272-1,405,405,1,1,3,4,4,16
+"Catazaja, Chiapas","Catazaja, Chiapas",Chiapas,17.76826375,-92.0379312528531,S,PG1534,S-PG1534-4,392,35231,1,1,13,2,0,35
+"San Marcos, Guerrero","San Marcos, Guerrero",Guerrero,16.85734375,-99.390341851477,P,PG1142,P-PG1142-1,379,379,0,0,1,0,0,1
+"Durango, Durango","Durango, Durango",Durango,24.0350752647048,-104.663661325132,C,PG841,C-PG841-1,375,375,0,0,0,0,0,2
+"Othon P. Blanco, Quintana Roo","Othon P. Blanco, Quintana Roo",Quintana Roo,18.43704555,-88.8257581580335,S,PG1730,S-PG1730-1,369,369,0,0,2,0,0,0
+"Comalcalco, Tabasco","Comalcalco, Tabasco",Tabasco,18.2615076,-93.2231523,G,PG1495,G-PG1495-2,368,92612,0,1,3,0,0,0
+"Tlacolula de Matamoros, Oaxaca","Tlacolula de Matamoros, Oaxaca",Oaxaca,16.9314623,-96.4611074593091,S,PG1298,S-PG1298-6,351,464,0,0,4,0,0,7
+"Huehuetoca, Estado de Mexico","Huehuetoca, Estado de Mexico",Estado de Mexico,19.833375,-99.2044638,C,PG1147,C-PG1147-6,348,3850,0,0,1,3,3,10
+"La Paz, Baja California Sur","La Paz, Baja California Sur",Baja California Sur,24.1619948,-110.3158532,P,PG529,P-PG529-1,342,342,0,0,0,0,0,3
+"Chenalho, Chiapas","Chenalho, Chiapas",Chiapas,16.9717161,-92.5192123769078,S,PG1532,S-PG1532-2,341,1269,0,1,13,0,3,35
+"Apetatitlan de Antonio Carvajal, Tlaxcala","Apetatitlan de Antonio Carvajal, Tlaxcala",Tlaxcala,19.3505173,-98.1912020545409,C,PG1224,C-PG1224-9,339,5419,1,1,0,3,3,0
+"Comitan de Dominguez, Chiapas","Comitan de Dominguez, Chiapas",Chiapas,16.2911698,-92.1753212427065,S,PG1531,S-PG1531-2,337,1317,2,4,13,2,2,35
+"Las Choapas, Veracruz","Las Choapas, Veracruz",Veracruz,17.56348585,-93.9400086353229,G,PG1455,G-PG1455-1,303,743,0,0,3,0,0,12
+"Coatzacoalcos, Veracruz","Coatzacoalcos, Veracruz",Veracruz,18.1396787,-94.4501731,G,PG1417,G-PG1417-3,297,4549,0,0,3,3,3,12
+"Allende, Coahuila","Allende, Coahuila",Coahuila,28.3420816,-100.8517302,C,PG1081,C-PG1081-1,289,21493,0,1,4,0,5,27
+"San Pedro Tapanatepec, Oaxaca","San Pedro Tapanatepec, Oaxaca",Oaxaca,16.3689223,-94.1927528,S,PG1415,S-PG1415-2,283,297,1,1,4,0,0,7
+"Carmen, Campeche","Carmen, Campeche",Campeche,18.651739,-91.81492,S,PG1574,S-PG1574-1,255,255,1,1,3,2,2,3
+"Cotaxtla, Veracruz","Cotaxtla, Veracruz",Veracruz,18.85765725,-96.350999057041,G,PG1301,G-PG1301-7,250,1751,0,0,3,0,1,12
+"Ixtenco, Tlaxcala","Ixtenco, Tlaxcala",Tlaxcala,19.2518725,-97.8947561,C,PG1224,C-PG1224-21,242,5419,0,1,0,0,3,0
+"Tuxpan, Veracruz","Tuxpan, Veracruz",Veracruz,20.95647915,-97.4073817712075,G,PG1265,G-PG1265-3,231,368,0,0,3,1,1,12
+"Tonala, Chiapas","Tonala, Chiapas",Chiapas,16.0894476,-93.7546502,S,PG1453,S-PG1453-2,230,20069,0,0,13,3,3,35
+"Guadalupe, Nuevo Leon","Guadalupe, Nuevo Leon",Nuevo Leon,25.6751114,-100.2151753,G,PG1116,G-PG1116-5,225,6680,1,1,0,11,9,0
+"Santo Domingo Tehuantepec, Oaxaca","Santo Domingo Tehuantepec, Oaxaca",Oaxaca,16.3172613,-95.2468005,S,PG1376,S-PG1376-3,222,4325,0,1,4,0,2,7
+"Tepic, Nayarit","Tepic, Nayarit",Nayarit,21.5119156,-104.8915889,P,PG837,P-PG837-1,219,219,0,0,0,4,4,5
+"Calakmul, Campeche","Calakmul, Campeche",Campeche,18.1073406,-89.8083280398131,S,PG1690,S-PG1690-1,194,194,0,0,3,0,0,3
+"Ecatepec de Morelos, Estado de Mexico","Ecatepec de Morelos, Estado de Mexico",Estado de Mexico,19.6074415,-99.000754,C,PG1146,C-PG1146-13,185,15044,0,1,1,29,64,10
+"Ocosingo, Chiapas","Ocosingo, Chiapas",Chiapas,16.9057,-92.092776,S,PG1532,S-PG1532-4,182,1269,0,1,13,1,3,35
+"Juarez, Nuevo Leon","Juarez, Nuevo Leon",Nuevo Leon,25.6467011,-100.0907766,G,PG1116,G-PG1116-10,180,6680,1,1,0,9,9,0
+"Solidaridad, Quintana Roo","Solidaridad, Quintana Roo",Quintana Roo,20.5843747,-87.5034526829676,S,PG1811,S-PG1811-1,178,178,0,0,2,0,0,0
+"La Trinitaria, Chiapas","La Trinitaria, Chiapas",Chiapas,16.1206164,-92.0542431,S,PG1531,S-PG1531-4,177,1317,2,4,13,2,2,35
+"Zinapecuaro, Michoacan","Zinapecuaro, Michoacan",Michoacan,19.8563181,-100.770909712988,P,PG1069,P-PG1069-1,176,177,0,0,0,0,1,1
+"Santa Maria Huatulco, Oaxaca","Santa Maria Huatulco, Oaxaca",Oaxaca,15.8337711,-96.3214401,S,PG1297,S-PG1297-3,170,210,1,1,4,0,0,7
+"Santa Catarina, Nuevo Leon","Santa Catarina, Nuevo Leon",Nuevo Leon,25.6745052,-100.4616371,G,PG1077,G-PG1077-3,167,3478,1,1,0,11,9,0
+"Berriozabal, Chiapas","Berriozabal, Chiapas",Chiapas,16.87168945,-93.3370761804707,S,PG1493,S-PG1493-2,160,15426,0,1,13,2,3,35
+"La Antigua, Veracruz","La Antigua, Veracruz",Veracruz,19.3176799,-96.3186409251967,G,PG1302,G-PG1302-2,160,2638,1,0,3,1,0,12
+"Matias Romero Avendano, Oaxaca","Matias Romero Avendano, Oaxaca",Oaxaca,16.8761133,-95.0405586,S,PG1376,S-PG1376-6,157,4325,0,1,4,1,2,7
+"Zumpango, Estado de Mexico","Zumpango, Estado de Mexico",Estado de Mexico,19.81293675,-99.081809533527,C,PG1147,C-PG1147-8,155,3850,0,0,1,1,3,10
+"Champoton, Campeche","Champoton, Campeche",Campeche,19.3439655,-90.7242742,S,PG1614,S-PG1614-1,150,158,0,0,3,0,0,3
+"China, Nuevo Leon","China, Nuevo Leon",Nuevo Leon,25.4915799,-98.9811115045569,G,PG1194,G-PG1194-1,146,146,0,0,0,0,0,0
 "Nuevo Laredo, Tamaulipas","Nuevo Laredo, Tamaulipas",Tamaulipas,27.4930466,-99.5074055,G,PG1157,G-PG1157-1,143,143,1,1,3,5,4,16
-"Azoyu, Guerrero","Azoyu, Guerrero",Guerrero,16.730833,-98.600833,P,PG1181,P-PG1181-1,0,0,0,0,1,0,0,1
-"Jantetelco, Morelos","Jantetelco, Morelos",Morelos,18.7167516,-98.7766172,C,PG1184,C-PG1184-1,3,3,0,0,0,0,0,3
-"Tecamac, Estado de Mexico","Tecamac, Estado de Mexico",Estado de Mexico,19.7115011,-98.968354,C,PG1185,C-PG1185-1,2,650,0,0,1,4,2,10
-"Chalco, Estado de Mexico","Chalco, Estado de Mexico",Estado de Mexico,19.2612215,-98.8958362,C,PG1185,C-PG1185-2,405,650,1,0,1,12,2,10
-"Ixtapaluca, Estado de Mexico","Ixtapaluca, Estado de Mexico",Estado de Mexico,19.3129326,-98.8840481,C,PG1185,C-PG1185-3,11,650,1,0,1,14,2,10
-"Texcoco, Estado de Mexico","Texcoco, Estado de Mexico",Estado de Mexico,19.5144327,-98.8821254,C,PG1185,C-PG1185-4,120,650,0,0,1,15,2,10
-"Amecameca, Estado de Mexico","Amecameca, Estado de Mexico",Estado de Mexico,19.1200254,-98.7065318136262,C,PG1185,C-PG1185-5,1,650,0,0,1,0,2,10
-"Calpulalpan, Tlaxcala","Calpulalpan, Tlaxcala",Tlaxcala,19.587778,-98.569167,C,PG1185,C-PG1185-6,25,650,0,0,0,1,2,0
-"Tepeapulco, Hidalgo","Tepeapulco, Hidalgo",Hidalgo,19.7875962,-98.5522855,C,PG1185,C-PG1185-7,35,650,0,0,1,0,2,5
-"Emiliano Zapata, Hidalgo","Emiliano Zapata, Hidalgo",Hidalgo,19.6546865,-98.544552,C,PG1185,C-PG1185-8,1,650,0,0,1,0,2,5
-"Nanacamilpa de Mariano Arista, Tlaxcala","Nanacamilpa de Mariano Arista, Tlaxcala",Tlaxcala,19.5080315,-98.5432407645627,C,PG1185,C-PG1185-9,2,650,0,0,0,1,2,0
-"Sanctorum de Lazaro Cardenas, Tlaxcala","Sanctorum de Lazaro Cardenas, Tlaxcala",Tlaxcala,19.4925,-98.471944,C,PG1185,C-PG1185-10,13,650,0,0,0,1,2,0
-"Apan, Hidalgo","Apan, Hidalgo",Hidalgo,19.7098559,-98.4502318,C,PG1185,C-PG1185-11,4,650,0,0,1,0,2,5
-"Ixtacuixtla de Mariano Matamoros, Tlaxcala","Ixtacuixtla de Mariano Matamoros, Tlaxcala",Tlaxcala,19.34670365,-98.3781581037396,C,PG1185,C-PG1185-12,0,650,1,0,0,4,2,0
-"Hueyotlipan, Tlaxcala","Hueyotlipan, Tlaxcala",Tlaxcala,19.469444,-98.348056,C,PG1185,C-PG1185-13,14,650,1,0,0,4,2,0
-"Nativitas, Tlaxcala","Nativitas, Tlaxcala",Tlaxcala,19.233333,-98.314722,C,PG1185,C-PG1185-14,17,650,2,0,0,9,2,0
-"Tizayuca, Hidalgo","Tizayuca, Hidalgo",Hidalgo,19.841245,-98.9815648,C,PG1186,C-PG1186-1,14,120,0,1,1,1,1,5
-"Actopan, Hidalgo","Actopan, Hidalgo",Hidalgo,20.2687373,-98.9431476,C,PG1186,C-PG1186-2,2,120,1,1,1,1,1,5
-"Tolcayuca, Hidalgo","Tolcayuca, Hidalgo",Hidalgo,19.956667,-98.920278,C,PG1186,C-PG1186-3,3,120,1,1,1,1,1,5
-"Villa de Tezontepec, Hidalgo","Villa de Tezontepec, Hidalgo",Hidalgo,19.9143587,-98.8003276778997,C,PG1186,C-PG1186-4,14,120,1,1,1,1,1,5
+"Morelia, Michoacan","Morelia, Michoacan",Michoacan,19.7027116,-101.1923818,P,PG1029,P-PG1029-1,137,137,0,0,0,0,0,1
+"Apizaco, Tlaxcala","Apizaco, Tlaxcala",Tlaxcala,19.415556,-98.14,C,PG1224,C-PG1224-15,134,5419,1,1,0,3,3,0
+"Poza Rica de Hidalgo, Veracruz","Poza Rica de Hidalgo, Veracruz",Veracruz,20.53765745,-97.4451247998728,G,PG1265,G-PG1265-2,129,368,0,0,3,1,1,12
+"Janos, Chihuahua","Janos, Chihuahua",Chihuahua,30.8893267,-108.1930484,C,PG655,C-PG655-1,129,129,1,1,3,0,0,9
+"Camerino Z. Mendoza, Veracruz","Camerino Z. Mendoza, Veracruz",Veracruz,18.7896308,-97.1599321403411,G,PG1262,G-PG1262-2,126,1970,0,0,3,1,1,12
+"Chiapa de Corzo, Chiapas","Chiapa de Corzo, Chiapas",Chiapas,16.7075202,-93.0115045,S,PG1493,S-PG1493-4,120,15426,1,1,13,3,3,35
+"Texcoco, Estado de Mexico","Texcoco, Estado de Mexico",Estado de Mexico,19.5144327,-98.8821254,C,PG1185,C-PG1185-4,120,3189,0,0,1,15,2,10
+"Antiguo Morelos, Tamaulipas","Antiguo Morelos, Tamaulipas",Tamaulipas,22.56570125,-99.0871371606598,G,PG1150,G-PG1150-1,117,117,0,0,3,0,1,16
+"Salina Cruz, Oaxaca","Salina Cruz, Oaxaca",Oaxaca,16.1825,-95.195833,S,PG1375,S-PG1375-1,112,112,0,0,4,0,0,7
+"Xalapa, Veracruz","Xalapa, Veracruz",Veracruz,19.5408338,-96.9146374,G,PG1263,G-PG1263-4,109,115,0,0,3,4,4,12
+"San Miguel Tequixtepec, Oaxaca","San Miguel Tequixtepec, Oaxaca",Oaxaca,17.801944,-97.340556,S,PG1261,S-PG1261-3,109,138,0,0,4,0,0,7
+"San Juan Bautista Tuxtepec, Oaxaca","San Juan Bautista Tuxtepec, Oaxaca",Oaxaca,18.0874632,-96.1227767,S,PG1339,S-PG1339-2,108,3222,0,0,4,0,0,7
+"Tlajomulco de Zuniga, Jalisco","Tlajomulco de Zuniga, Jalisco",Jalisco,20.48187375,-103.400509663829,P,PG913,P-PG913-1,103,103,1,0,1,10,0,11
+"San Andres Tuxtla, Veracruz","San Andres Tuxtla, Veracruz",Veracruz,18.4633672,-95.1983153392005,G,PG1379,G-PG1379-2,102,119,0,0,3,0,0,12
+"Yauhquemehcan, Tlaxcala","Yauhquemehcan, Tlaxcala",Tlaxcala,19.4057444,-98.1824244,C,PG1224,C-PG1224-10,101,5419,1,1,0,3,3,0
+"Cosio, Aguascalientes","Cosio, Aguascalientes",Aguascalientes,22.3705155,-102.312008510523,C,PG994,C-PG994-2,98,136,0,1,2,1,11,29
+"Trancoso, Zacatecas","Trancoso, Zacatecas",Zacatecas,22.7353025,-102.3667969,C,PG995,C-PG995-1,96,96,1,0,0,2,0,0
+"Ojinaga, Chihuahua","Ojinaga, Chihuahua",Chihuahua,29.5654282,-104.4128523,C,PG887,C-PG887-1,94,94,0,0,3,0,0,9
+"Pesqueria, Nuevo Leon","Pesqueria, Nuevo Leon",Nuevo Leon,25.7851361,-100.0520621,G,PG1116,G-PG1116-11,93,6680,0,1,0,6,9,0
+"Anahuac, Nuevo Leon","Anahuac, Nuevo Leon",Nuevo Leon,27.0285283,-100.0333715,G,PG1118,G-PG1118-1,86,86,0,0,0,0,0,0
+"Atlangatepec, Tlaxcala","Atlangatepec, Tlaxcala",Tlaxcala,19.530833,-98.208333,C,PG1224,C-PG1224-5,83,5419,1,1,0,3,3,0
+"Cadereyta Jimenez, Nuevo Leon","Cadereyta Jimenez, Nuevo Leon",Nuevo Leon,25.517337,-99.8711735172066,G,PG1116,G-PG1116-12,83,6680,0,1,0,0,9,0
+"Moloacan, Veracruz","Moloacan, Veracruz",Veracruz,17.9926405,-94.2823290741812,G,PG1417,G-PG1417-4,81,4549,0,0,3,2,3,12
+"Angostura, Sinaloa","Angostura, Sinaloa",Sinaloa,25.3657471,-108.16152,P,PG647,P-PG647-1,79,79,0,0,1,0,0,7
+"Tula de Allende, Hidalgo","Tula de Allende, Hidalgo",Hidalgo,20.0489487,-99.3729561601143,C,PG1147,C-PG1147-2,78,3850,0,0,1,2,3,5
+"Villa de Zaachila, Oaxaca","Villa de Zaachila, Oaxaca",Oaxaca,16.950833,-96.749167,S,PG1298,S-PG1298-2,77,464,1,0,4,2,0,7
+"Tlalnepantla de Baz, Estado de Mexico","Tlalnepantla de Baz, Estado de Mexico",Estado de Mexico,19.54649025,-99.1899352247449,C,PG1146,C-PG1146-7,75,15044,1,1,1,60,64,10
+"Ozuluama de Mascarenas, Veracruz","Ozuluama de Mascarenas, Veracruz",Veracruz,21.661111,-97.850556,G,PG1227,G-PG1227-1,74,95,0,0,3,0,0,12
+"Rio Blanco, Veracruz","Rio Blanco, Veracruz",Veracruz,18.84522475,-97.1522938888273,G,PG1262,G-PG1262-3,73,1970,0,0,3,1,1,12
+"Huamantla, Tlaxcala","Huamantla, Tlaxcala",Tlaxcala,19.313427,-97.9230236,C,PG1224,C-PG1224-20,73,5419,1,1,0,2,3,0
+"San Luis Rio Colorado, Sonora","San Luis Rio Colorado, Sonora",Sonora,32.4517957,-114.7652542,P,PG307,P-PG307-1,67,67,0,0,2,3,3,23
+"Yanga, Veracruz","Yanga, Veracruz",Veracruz,18.8313634,-96.7992608,G,PG1301,G-PG1301-2,62,1751,0,0,3,1,1,12
+"Los Cabos, Baja California Sur","Los Cabos, Baja California Sur",Baja California Sur,23.27184805,-109.689768413063,P,PG566,P-PG566-1,62,62,0,0,0,0,1,3
+"San Luis de la Paz, Guanajuato","San Luis de la Paz, Guanajuato",Guanajuato,21.2970466,-100.516269,C,PG1071,C-PG1071-1,60,60,0,0,0,0,0,23
+"Alvarado, Veracruz","Alvarado, Veracruz",Veracruz,18.82874235,-95.9238540059007,G,PG1340,G-PG1340-2,59,86,0,0,3,0,0,12
+"Rio Bravo, Tamaulipas","Rio Bravo, Tamaulipas",Tamaulipas,25.988981,-98.0945766,G,PG1233,G-PG1233-4,58,6414,0,0,3,2,2,16
+"Carrillo Puerto, Veracruz","Carrillo Puerto, Veracruz",Veracruz,18.8215893,-96.5842838954223,G,PG1301,G-PG1301-5,55,1751,0,0,3,0,1,12
+"Fortin, Veracruz","Fortin, Veracruz",Veracruz,18.8993309,-96.9982014,G,PG1262,G-PG1262-6,54,1970,0,0,3,1,1,12
+"Chahuites, Oaxaca","Chahuites, Oaxaca",Oaxaca,16.2885299,-94.1942777,S,PG1414,S-PG1414-1,54,54,1,0,4,0,0,7
+"Sayula de Aleman, Veracruz","Sayula de Aleman, Veracruz",Veracruz,17.74768255,-94.954397521018,G,PG1378,G-PG1378-3,53,45863,0,1,3,2,2,12
+"Soto la Marina, Tamaulipas","Soto la Marina, Tamaulipas",Tamaulipas,23.87599915,-98.0502640007194,G,PG1230,G-PG1230-1,53,53,0,0,3,0,0,16
+"San Nicolas de los Garza, Nuevo Leon","San Nicolas de los Garza, Nuevo Leon",Nuevo Leon,25.7558021,-100.289648,G,PG1116,G-PG1116-4,50,6680,1,1,0,11,9,0
+"San Francisco Telixtlahuaca, Oaxaca","San Francisco Telixtlahuaca, Oaxaca",Oaxaca,17.296628,-96.9056112,S,PG1260,S-PG1260-6,49,146,0,0,4,0,0,7
+"Tlaxco, Tlaxcala","Tlaxco, Tlaxcala",Tlaxcala,19.62058645,-98.1707601011239,C,PG1224,C-PG1224-11,49,5419,0,1,0,2,3,0
+"Papantla, Veracruz","Papantla, Veracruz",Veracruz,20.4458721,-97.3232777494493,G,PG1264,G-PG1264-1,48,74,0,0,3,1,1,12
+"Cuapiaxtla, Tlaxcala","Cuapiaxtla, Tlaxcala",Tlaxcala,19.2961777,-97.768912,C,PG1224,C-PG1224-22,47,5419,0,1,0,0,3,0
+"Heroica Ciudad de Huajuapan de Leon, Oaxaca","Heroica Ciudad de Huajuapan de Leon, Oaxaca",Oaxaca,17.808846,-97.7780564,S,PG1222,S-PG1222-1,46,46,0,0,4,0,0,7
+"Centla, Tabasco","Centla, Tabasco",Tabasco,18.3536762,-92.6521986432691,G,PG1534,G-PG1534-1,45,35231,0,1,3,1,0,0
+"Hidalgo, Tamaulipas","Hidalgo, Tamaulipas",Tamaulipas,24.2480354,-99.4382079,G,PG1153,G-PG1153-1,45,45,0,0,3,0,0,16
+"San Jacinto Amilpas, Oaxaca","San Jacinto Amilpas, Oaxaca",Oaxaca,17.1011376,-96.7606784,S,PG1299,S-PG1299-7,45,2832,1,1,4,2,2,7
 "Pachuca de Soto, Hidalgo","Pachuca de Soto, Hidalgo",Hidalgo,20.1165413,-98.7413535,C,PG1186,C-PG1186-5,44,120,1,1,1,1,1,5
+"Santo Domingo Yanhuitlan, Oaxaca","Santo Domingo Yanhuitlan, Oaxaca",Oaxaca,17.5273478,-97.3421502,S,PG1260,S-PG1260-3,44,146,0,0,4,0,0,7
+"Irapuato, Guanajuato","Irapuato, Guanajuato",Guanajuato,20.6758761,-101.3521052,C,PG1031,C-PG1031-2,44,52,0,0,0,5,8,23
+"Atlacomulco, Estado de Mexico","Atlacomulco, Estado de Mexico",Estado de Mexico,19.81591915,-99.8681193246918,C,PG1108,C-PG1108-2,42,1347,0,0,1,1,0,10
+"Calera, Zacatecas","Calera, Zacatecas",Zacatecas,22.97848,-102.856222886116,C,PG956,C-PG956-2,42,43,0,1,0,0,2,0
+"Cienega de Flores, Nuevo Leon","Cienega de Flores, Nuevo Leon",Nuevo Leon,25.956169,-100.1662028,G,PG1116,G-PG1116-7,41,6680,0,1,0,1,9,0
+"Playas de Rosarito, Baja California","Playas de Rosarito, Baja California",Baja California,32.25812915,-116.873307225176,P,PG189,P-PG189-1,38,67,1,0,2,7,2,59
+"Villa de Tututepec, Oaxaca","Villa de Tututepec, Oaxaca",Oaxaca,16.1303062,-97.6080871,S,PG1219,S-PG1219-1,37,37,0,0,4,0,0,7
+"Santa Maria Mixtequilla, Oaxaca","Santa Maria Mixtequilla, Oaxaca",Oaxaca,16.374444,-95.259722,S,PG1376,S-PG1376-2,37,4325,0,1,4,1,2,7
+"San Bartolo Soyaltepec, Oaxaca","San Bartolo Soyaltepec, Oaxaca",Oaxaca,17.57706925,-97.3119436609311,S,PG1260,S-PG1260-4,36,146,0,0,4,0,0,7
+"San Pedro Pochutla, Oaxaca","San Pedro Pochutla, Oaxaca",Oaxaca,15.744444,-96.465278,S,PG1297,S-PG1297-2,36,210,1,1,4,0,0,7
+"Mapastepec, Chiapas","Mapastepec, Chiapas",Chiapas,15.43981,-92.898367,S,PG1491,S-PG1491-1,36,36,0,0,13,0,0,35
+"San Pablo Etla, Oaxaca","San Pablo Etla, Oaxaca",Oaxaca,17.1450449,-96.7644253,S,PG1299,S-PG1299-6,35,2832,1,1,4,2,2,7
+"El Carmen, Nuevo Leon","El Carmen, Nuevo Leon",Nuevo Leon,25.9368419,-100.3613419,G,PG1116,G-PG1116-1,35,6680,0,1,0,6,9,0
+"General Zuazua, Nuevo Leon","General Zuazua, Nuevo Leon",Nuevo Leon,25.8953873,-100.1078021,G,PG1116,G-PG1116-9,35,6680,0,1,0,3,9,0
+"Tepeapulco, Hidalgo","Tepeapulco, Hidalgo",Hidalgo,19.7875962,-98.5522855,C,PG1185,C-PG1185-7,35,3189,0,0,1,0,2,5
+"Agua Prieta, Sonora","Agua Prieta, Sonora",Sonora,31.3305591,-109.5564331,P,PG578,P-PG578-2,35,35,1,1,2,2,3,23
+"Hualahuises, Nuevo Leon","Hualahuises, Nuevo Leon",Nuevo Leon,24.8838044,-99.6739794,G,PG1154,G-PG1154-1,34,53,0,0,0,0,0,0
+"Tlaxcala, Tlaxcala","Tlaxcala, Tlaxcala",Tlaxcala,19.416667,-98.166667,C,PG1224,C-PG1224-13,33,5419,1,1,0,3,3,0
+"Tzompantepec, Tlaxcala","Tzompantepec, Tlaxcala",Tlaxcala,19.38326045,-98.086162281471,C,PG1224,C-PG1224-17,33,5419,1,1,0,3,3,0
+"Victoria, Tamaulipas","Victoria, Tamaulipas",Tamaulipas,23.7389846,-99.1441352,G,PG1152,G-PG1152-2,33,534,0,0,3,1,1,16
+"Acapulco de Juarez, Guerrero","Acapulco de Juarez, Guerrero",Guerrero,16.8680495,-99.8940182,P,PG1103,P-PG1103-1,32,32,0,0,1,1,1,1
+"San Andres Huaxpaltepec, Oaxaca","San Andres Huaxpaltepec, Oaxaca",Oaxaca,16.3411829,-97.9346251942668,S,PG1220,S-PG1220-2,31,38,0,0,4,0,0,7
+"Altar, Sonora","Altar, Sonora",Sonora,30.7170323,-111.8380038,P,PG460,P-PG460-2,30,444,0,0,2,2,3,23
+"Chilpancingo de los Bravo, Guerrero","Chilpancingo de los Bravo, Guerrero",Guerrero,17.5542149,-99.5048416,P,PG1143,P-PG1143-1,30,30,0,0,1,0,0,1
+"Comonfort, Guanajuato","Comonfort, Guanajuato",Guanajuato,20.7199475,-100.761188,C,PG1070,C-PG1070-2,29,80,0,0,0,4,6,23
+"Ensenada, Baja California","Ensenada, Baja California",Baja California,31.8658887,-116.602983,P,PG189,P-PG189-2,29,67,0,0,2,2,2,59
+"Medellin de Bravo, Veracruz","Medellin de Bravo, Veracruz",Veracruz,19.0404677,-96.1442918,G,PG1340,G-PG1340-1,27,86,1,0,3,1,0,12
+"Calpulalpan, Tlaxcala","Calpulalpan, Tlaxcala",Tlaxcala,19.587778,-98.569167,C,PG1185,C-PG1185-6,25,3189,0,0,0,1,2,0
+"Francisco I. Madero, Coahuila","Francisco I. Madero, Coahuila",Coahuila,26.23755265,-103.099655568766,C,PG961,C-PG961-1,25,25,0,0,4,0,0,27
+"Concepcion Buenavista, Oaxaca","Concepcion Buenavista, Oaxaca",Oaxaca,17.8781515,-97.4004708,S,PG1261,S-PG1261-1,25,138,0,0,4,0,0,7
+"Isla Mujeres, Quintana Roo","Isla Mujeres, Quintana Roo",Quintana Roo,21.2371906,-86.7350001,S,PG1851,S-PG1851-1,24,24,0,0,2,0,0,0
+"Cozumel, Quintana Roo","Cozumel, Quintana Roo",Quintana Roo,20.4320599,-86.9206905837727,S,PG1849,S-PG1849-1,24,24,0,0,2,0,0,0
+"Santiago, Nuevo Leon","Santiago, Nuevo Leon",Nuevo Leon,25.4243595,-100.1513376,G,PG1116,G-PG1116-8,23,6680,0,1,0,2,9,0
+"Mapimi, Durango","Mapimi, Durango",Durango,25.8337403,-103.8480216,C,PG921,C-PG921-1,23,1896,0,1,0,0,2,2
 "Mineral de la Reforma, Hidalgo","Mineral de la Reforma, Hidalgo",Hidalgo,20.06063885,-98.7305724236319,C,PG1186,C-PG1186-6,22,120,1,1,1,1,1,5
-"Epazoyucan, Hidalgo","Epazoyucan, Hidalgo",Hidalgo,20.0181268,-98.6364294,C,PG1186,C-PG1186-7,1,120,1,1,1,1,1,5
-"Huasca de Ocampo, Hidalgo","Huasca de Ocampo, Hidalgo",Hidalgo,20.2231549,-98.5552467331717,C,PG1186,C-PG1186-8,1,120,1,1,1,1,1,5
+"Tenabo, Campeche","Tenabo, Campeche",Campeche,20.0406607,-90.2254956,S,PG1654,S-PG1654-2,22,1777,0,1,3,0,0,3
+"Apaseo el Grande, Guanajuato","Apaseo el Grande, Guanajuato",Guanajuato,20.59193265,-100.597986786366,C,PG1070,C-PG1070-5,22,80,0,0,0,9,6,23
+"Nezahualcoyotl, Estado de Mexico","Nezahualcoyotl, Estado de Mexico",Estado de Mexico,19.4079028,-99.0181547,C,PG1146,C-PG1146-12,22,15044,1,1,1,61,64,10
+"Naranjos Amatlan, Veracruz","Naranjos Amatlan, Veracruz",Veracruz,21.3093326,-97.6760013002664,G,PG1227,G-PG1227-2,21,95,0,0,3,0,0,12
+"Cuernavaca, Morelos","Cuernavaca, Morelos",Morelos,18.9218274,-99.2342282,C,PG1145,C-PG1145-2,21,43,0,0,0,2,2,3
+"Jesus Maria, Aguascalientes","Jesus Maria, Aguascalientes",Aguascalientes,21.9345555,-102.468451716512,C,PG994,C-PG994-1,20,136,1,1,2,26,11,29
+"San Pedro Totolapam, Oaxaca","San Pedro Totolapam, Oaxaca",Oaxaca,15.8659835,-97.0043148,S,PG1258,S-PG1258-1,20,20,0,0,4,0,0,7
+"Linares, Nuevo Leon","Linares, Nuevo Leon",Nuevo Leon,24.8596282,-99.5684539,G,PG1154,G-PG1154-2,19,53,0,0,0,0,0,0
+"Escuintla, Chiapas","Escuintla, Chiapas",Chiapas,15.35100255,-92.5557653736153,S,PG1530,S-PG1530-3,19,142180,2,4,13,1,11,35
 "Tulancingo de Bravo, Hidalgo","Tulancingo de Bravo, Hidalgo",Hidalgo,20.0792094,-98.3475328,C,PG1186,C-PG1186-9,19,120,0,1,1,0,1,5
 "Chapulhuacan, Hidalgo","Chapulhuacan, Hidalgo",Hidalgo,21.1263192,-98.9521191559816,C,PG1187,C-PG1187-1,18,18,0,0,1,0,0,5
-"El Mante, Tamaulipas","El Mante, Tamaulipas",Tamaulipas,22.60787365,-98.9353414059303,G,PG1190,G-PG1190-1,6,14,0,0,3,0,0,16
-"Gonzalez, Tamaulipas","Gonzalez, Tamaulipas",Tamaulipas,22.79038735,-98.5763189554293,G,PG1190,G-PG1190-2,8,14,0,0,3,0,0,16
-"Jimenez, Tamaulipas","Jimenez, Tamaulipas",Tamaulipas,24.2169169,-98.483929,G,PG1192,G-PG1192-1,1,1,0,0,3,0,0,16
-"Cruillas, Tamaulipas","Cruillas, Tamaulipas",Tamaulipas,24.7554618,-98.5369904,G,PG1193,G-PG1193-1,985,985,0,0,3,0,0,16
-"China, Nuevo Leon","China, Nuevo Leon",Nuevo Leon,25.4915799,-98.9811115045569,G,PG1194,G-PG1194-1,146,146,0,0,0,0,0,0
-Camargo (terrestre),"Camargo , Tamaulipas",Tamaulipas,26.3628379036822,-98.8058126564524,FN,PG1195,FN-PG1195-1,0,0,1,0,3,0,0,16
-"Villa de Tututepec, Oaxaca","Villa de Tututepec, Oaxaca",Oaxaca,16.1303062,-97.6080871,S,PG1219,S-PG1219-1,37,37,0,0,4,0,0,7
-"Santiago Pinotepa Nacional, Oaxaca","Santiago Pinotepa Nacional, Oaxaca",Oaxaca,16.3406076,-98.0536701,S,PG1220,S-PG1220-1,7,38,0,0,4,0,0,7
-"San Andres Huaxpaltepec, Oaxaca","San Andres Huaxpaltepec, Oaxaca",Oaxaca,16.3411829,-97.9346251942668,S,PG1220,S-PG1220-2,31,38,0,0,4,0,0,7
-"Santiago Juxtlahuaca, Oaxaca","Santiago Juxtlahuaca, Oaxaca",Oaxaca,17.334443,-98.010574,S,PG1221,S-PG1221-1,1,1,0,0,4,0,0,7
-"Heroica Ciudad de Huajuapan de Leon, Oaxaca","Heroica Ciudad de Huajuapan de Leon, Oaxaca",Oaxaca,17.808846,-97.7780564,S,PG1222,S-PG1222-1,46,46,0,0,4,0,0,7
-"Puebla, Puebla","Puebla, Puebla",Puebla,19.0384062279769,-98.2069491554557,C,PG1223,C-PG1223-1,0,986,1,1,2,6,6,0
-"Zacatecas, Zacatecas","Zacatecas, Zacatecas",Zacatecas,19.0390187823288,-98.2024861642833,C,PG1223,C-PG1223-2,986,986,1,1,0,6,6,0
-"San Jeronimo Zacualpan, Tlaxcala","San Jeronimo Zacualpan, Tlaxcala",Tlaxcala,19.240833,-98.261389,C,PG1224,C-PG1224-1,4,1188,2,1,0,8,3,0
-"San Juan Huactzinco, Tlaxcala","San Juan Huactzinco, Tlaxcala",Tlaxcala,19.2329326,-98.2520375,C,PG1224,C-PG1224-2,1,1188,2,1,0,8,3,0
-"Zacatelco, Tlaxcala","Zacatelco, Tlaxcala",Tlaxcala,19.215833,-98.239722,C,PG1224,C-PG1224-3,8,1188,2,1,0,8,3,0
-"Santa Cruz Quilehtla, Tlaxcala","Santa Cruz Quilehtla, Tlaxcala",Tlaxcala,19.212222,-98.221111,C,PG1224,C-PG1224-4,9,1188,2,1,0,8,3,0
-"Atlangatepec, Tlaxcala","Atlangatepec, Tlaxcala",Tlaxcala,19.530833,-98.208333,C,PG1224,C-PG1224-5,83,1188,1,1,0,3,3,0
-"Munoz de Domingo Arenas, Tlaxcala","Munoz de Domingo Arenas, Tlaxcala",Tlaxcala,19.474722,-98.208056,C,PG1224,C-PG1224-6,2,1188,1,1,0,3,3,0
-"Papalotla de Xicohtencatl, Tlaxcala","Papalotla de Xicohtencatl, Tlaxcala",Tlaxcala,19.168611,-98.203889,C,PG1224,C-PG1224-7,2,1188,2,1,0,9,3,0
-"Chiautempan, Tlaxcala","Chiautempan, Tlaxcala",Tlaxcala,19.313889,-98.1925,C,PG1224,C-PG1224-8,16,1188,2,1,0,7,3,0
-"Apetatitlan de Antonio Carvajal, Tlaxcala","Apetatitlan de Antonio Carvajal, Tlaxcala",Tlaxcala,19.3505173,-98.1912020545409,C,PG1224,C-PG1224-9,339,1188,1,1,0,3,3,0
-"Yauhquemehcan, Tlaxcala","Yauhquemehcan, Tlaxcala",Tlaxcala,19.4057444,-98.1824244,C,PG1224,C-PG1224-10,101,1188,1,1,0,3,3,0
-"Tlaxco, Tlaxcala","Tlaxco, Tlaxcala",Tlaxcala,19.62058645,-98.1707601011239,C,PG1224,C-PG1224-11,49,1188,0,1,0,2,3,0
-"Amaxac de Guerrero, Tlaxcala","Amaxac de Guerrero, Tlaxcala",Tlaxcala,19.348889,-98.167778,C,PG1224,C-PG1224-12,1,1188,1,1,0,3,3,0
-"Tlaxcala, Tlaxcala","Tlaxcala, Tlaxcala",Tlaxcala,19.416667,-98.166667,C,PG1224,C-PG1224-13,33,1188,1,1,0,3,3,0
-"San Pablo del Monte, Tlaxcala","San Pablo del Monte, Tlaxcala",Tlaxcala,19.12695185,-98.1653957169548,C,PG1224,C-PG1224-14,2,1188,2,1,0,7,3,0
-"Apizaco, Tlaxcala","Apizaco, Tlaxcala",Tlaxcala,19.415556,-98.14,C,PG1224,C-PG1224-15,134,1188,1,1,0,3,3,0
-"Tetla de la Solidaridad, Tlaxcala","Tetla de la Solidaridad, Tlaxcala",Tlaxcala,19.440556,-98.103333,C,PG1224,C-PG1224-16,2,1188,1,1,0,3,3,0
-"Tzompantepec, Tlaxcala","Tzompantepec, Tlaxcala",Tlaxcala,19.38326045,-98.086162281471,C,PG1224,C-PG1224-17,33,1188,1,1,0,3,3,0
-"Xaloztoc, Tlaxcala","Xaloztoc, Tlaxcala",Tlaxcala,19.403611,-98.048611,C,PG1224,C-PG1224-18,0,1188,1,1,0,3,3,0
-"Tocatlan, Tlaxcala","Tocatlan, Tlaxcala",Tlaxcala,19.389167,-98.03,C,PG1224,C-PG1224-19,7,1188,1,1,0,3,3,0
-"Huamantla, Tlaxcala","Huamantla, Tlaxcala",Tlaxcala,19.313427,-97.9230236,C,PG1224,C-PG1224-20,73,1188,1,1,0,2,3,0
-"Ixtenco, Tlaxcala","Ixtenco, Tlaxcala",Tlaxcala,19.2518725,-97.8947561,C,PG1224,C-PG1224-21,242,1188,0,1,0,0,3,0
-"Cuapiaxtla, Tlaxcala","Cuapiaxtla, Tlaxcala",Tlaxcala,19.2961777,-97.768912,C,PG1224,C-PG1224-22,47,1188,0,1,0,0,3,0
-"Alamo Temapache, Veracruz","Alamo Temapache, Veracruz",Veracruz,20.9951932,-97.7557841914082,G,PG1226,G-PG1226-1,1,1,0,0,3,0,0,12
-"Ozuluama de Mascarenas, Veracruz","Ozuluama de Mascarenas, Veracruz",Veracruz,21.661111,-97.850556,G,PG1227,G-PG1227-1,74,95,0,0,3,0,0,12
-"Naranjos Amatlan, Veracruz","Naranjos Amatlan, Veracruz",Veracruz,21.3093326,-97.6760013002664,G,PG1227,G-PG1227-2,21,95,0,0,3,0,0,12
-"Panuco, Veracruz","Panuco, Veracruz",Veracruz,22.08052495,-98.232957921869,G,PG1228,G-PG1228-1,8,1407,0,1,3,0,3,12
-"Altamira, Tamaulipas","Altamira, Tamaulipas",Tamaulipas,22.3921625,-97.9362975,G,PG1228,G-PG1228-2,833,1407,1,1,3,3,3,16
-"Pueblo Viejo, Veracruz","Pueblo Viejo, Veracruz",Veracruz,22.1638426,-97.8985550734824,G,PG1228,G-PG1228-3,3,1407,1,1,3,3,3,12
-"Tampico, Tamaulipas","Tampico, Tamaulipas",Tamaulipas,22.2157619,-97.8577713,G,PG1228,G-PG1228-4,563,1407,1,1,3,3,3,16
-"Aldama, Tamaulipas","Aldama, Tamaulipas",Tamaulipas,22.9196081,-98.0741727,G,PG1229,G-PG1229-1,14,14,0,0,3,0,0,16
-"Soto la Marina, Tamaulipas","Soto la Marina, Tamaulipas",Tamaulipas,23.87599915,-98.0502640007194,G,PG1230,G-PG1230-1,53,53,0,0,3,0,0,16
-"San Fernando, Tamaulipas","San Fernando, Tamaulipas",Tamaulipas,24.8466769,-98.1473493,G,PG1232,G-PG1232-1,673,673,0,0,3,0,0,16
-"Reynosa, Tamaulipas","Reynosa, Tamaulipas",Tamaulipas,26.0907673,-98.2788191,G,PG1233,G-PG1233-1,0,58,0,0,3,2,2,16
-"Reynosa-Hidalgo, Benito Juárez I y II (terrestre) 16","Reynosa-Hidalgo, Tamaulipas",Tamaulipas,26.0223593244935,-98.248199114463,FN,PG1233,FN-PG1233-2,0,58,0,0,3,2,2,16
-Reynosa III-Pharr (Nuevo amanecer) (terrestre),"Reynosa III-Pharr , Tamaulipas",Tamaulipas,26.043485520503,-98.2058078268713,FN,PG1233,FN-PG1233-3,0,58,0,0,3,2,2,16
-"Rio Bravo, Tamaulipas","Rio Bravo, Tamaulipas",Tamaulipas,25.988981,-98.0945766,G,PG1233,G-PG1233-4,58,58,0,0,3,2,2,16
-Nuevo Progreso-Las Flores (terrestre),"Nuevo Progreso-Las Flores , Tamaulipas",Tamaulipas,26.0605806195262,-97.9499974549377,FN,PG1233,FN-PG1233-5,0,58,0,0,3,0,2,16
-"Capote, Puente TLC (terrestre)","Capote, Tamaulipas",Tamaulipas,26.0726078667477,-97.7109957092452,FN,PG1233,FN-PG1233-6,0,58,0,0,3,0,2,16
-"San Pedro Totolapam, Oaxaca","San Pedro Totolapam, Oaxaca",Oaxaca,15.8659835,-97.0043148,S,PG1258,S-PG1258-1,20,20,0,0,4,0,0,7
-"Villa de Tamazulapam del Progreso, Oaxaca","Villa de Tamazulapam del Progreso, Oaxaca",Oaxaca,17.6748203,-97.5720083,S,PG1260,S-PG1260-1,2,146,0,0,4,0,0,7
-"Villa Tejupam de la Union, Oaxaca","Villa Tejupam de la Union, Oaxaca",Oaxaca,17.6625,-97.470833,S,PG1260,S-PG1260-2,2,146,0,0,4,0,0,7
-"Santo Domingo Yanhuitlan, Oaxaca","Santo Domingo Yanhuitlan, Oaxaca",Oaxaca,17.5273478,-97.3421502,S,PG1260,S-PG1260-3,44,146,0,0,4,0,0,7
-"San Bartolo Soyaltepec, Oaxaca","San Bartolo Soyaltepec, Oaxaca",Oaxaca,17.57706925,-97.3119436609311,S,PG1260,S-PG1260-4,36,146,0,0,4,0,0,7
-"Asuncion Nochixtlan, Oaxaca","Asuncion Nochixtlan, Oaxaca",Oaxaca,17.457222,-97.225,S,PG1260,S-PG1260-5,13,146,0,0,4,0,0,7
-"San Francisco Telixtlahuaca, Oaxaca","San Francisco Telixtlahuaca, Oaxaca",Oaxaca,17.296628,-96.9056112,S,PG1260,S-PG1260-6,49,146,0,0,4,0,0,7
-"Concepcion Buenavista, Oaxaca","Concepcion Buenavista, Oaxaca",Oaxaca,17.8781515,-97.4004708,S,PG1261,S-PG1261-1,25,138,0,0,4,0,0,7
-"San Cristobal Suchixtlahuaca, Oaxaca","San Cristobal Suchixtlahuaca, Oaxaca",Oaxaca,17.7265261,-97.3666425,S,PG1261,S-PG1261-2,4,138,0,0,4,0,0,7
-"San Miguel Tequixtepec, Oaxaca","San Miguel Tequixtepec, Oaxaca",Oaxaca,17.801944,-97.340556,S,PG1261,S-PG1261-3,109,138,0,0,4,0,0,7
-"Nogales, Veracruz","Nogales, Veracruz",Veracruz,18.8226013,-97.1627659,G,PG1262,G-PG1262-1,6,870,0,0,3,1,1,12
-"Camerino Z. Mendoza, Veracruz","Camerino Z. Mendoza, Veracruz",Veracruz,18.7896308,-97.1599321403411,G,PG1262,G-PG1262-2,126,870,0,0,3,1,1,12
-"Rio Blanco, Veracruz","Rio Blanco, Veracruz",Veracruz,18.84522475,-97.1522938888273,G,PG1262,G-PG1262-3,73,870,0,0,3,1,1,12
-"Orizaba, Veracruz","Orizaba, Veracruz",Veracruz,18.8497366,-97.1060062,G,PG1262,G-PG1262-4,0,870,0,0,3,1,1,12
-"Ixtaczoquitlan, Veracruz","Ixtaczoquitlan, Veracruz",Veracruz,18.85134015,-97.0271071244907,G,PG1262,G-PG1262-5,2,870,0,0,3,1,1,12
-"Fortin, Veracruz","Fortin, Veracruz",Veracruz,18.8993309,-96.9982014,G,PG1262,G-PG1262-6,54,870,0,0,3,1,1,12
-"Cordoba, Veracruz","Cordoba, Veracruz",Veracruz,18.8944704,-96.9352891,G,PG1262,G-PG1262-7,609,870,0,0,3,1,1,12
-"Perote, Veracruz","Perote, Veracruz",Veracruz,19.51086405,-97.2685344806973,G,PG1263,G-PG1263-1,2,115,0,0,3,0,4,12
-"Villa Aldama, Veracruz","Villa Aldama, Veracruz",Veracruz,19.6489805,-97.2228382,G,PG1263,G-PG1263-2,3,115,0,0,3,0,4,12
-"Coatepec, Veracruz","Coatepec, Veracruz",Veracruz,19.4543134,-96.9596375,G,PG1263,G-PG1263-3,1,115,0,0,3,4,4,12
-"Xalapa, Veracruz","Xalapa, Veracruz",Veracruz,19.5408338,-96.9146374,G,PG1263,G-PG1263-4,109,115,0,0,3,4,4,12
-"Papantla, Veracruz","Papantla, Veracruz",Veracruz,20.4458721,-97.3232777494493,G,PG1264,G-PG1264-1,48,74,0,0,3,1,1,12
-"Gutierrez Zamora, Veracruz","Gutierrez Zamora, Veracruz",Veracruz,20.456991,-97.085536109707,G,PG1264,G-PG1264-2,9,74,0,0,3,1,1,12
-"Martinez de la Torre, Veracruz","Martinez de la Torre, Veracruz",Veracruz,20.1197165,-97.0461646766573,G,PG1264,G-PG1264-3,15,74,0,0,3,0,1,12
-"Tecolutla, Veracruz","Tecolutla, Veracruz",Veracruz,20.41847865,-96.9936370355502,G,PG1264,G-PG1264-4,2,74,0,0,3,0,1,12
-"Tihuatlan, Veracruz","Tihuatlan, Veracruz",Veracruz,20.716735,-97.5367859622192,G,PG1265,G-PG1265-1,8,368,0,0,3,0,1,12
-"Poza Rica de Hidalgo, Veracruz","Poza Rica de Hidalgo, Veracruz",Veracruz,20.53765745,-97.4451247998728,G,PG1265,G-PG1265-2,129,368,0,0,3,1,1,12
-"Tuxpan, Veracruz","Tuxpan, Veracruz",Veracruz,20.95647915,-97.4073817712075,G,PG1265,G-PG1265-3,231,368,0,0,3,1,1,12
-"Matamoros, Tamaulipas","Matamoros, Tamaulipas",Tamaulipas,25.8810158,-97.5064866,G,PG1272,G-PG1272-1,405,1620,1,1,3,4,4,16
-"Matamoros, Tamaulipas","Matamoros, Tamaulipas",Tamaulipas,25.8810158,-97.5064866,G,PG1272,G-PG1272-1,405,1620,1,1,3,4,4,16
-"Matamoros, Tamaulipas","Matamoros, Tamaulipas",Tamaulipas,25.8810158,-97.5064866,G,PG1272,G-PG1272-1,405,1620,1,1,3,4,4,16
-"Matamoros, Tamaulipas","Matamoros, Tamaulipas",Tamaulipas,25.8810158,-97.5064866,G,PG1272,G-PG1272-1,405,1620,1,1,3,4,4,16
-"Matamoros, Zaragoza (Matamoros III) (terrestre)","Matamoros, Tamaulipas",Tamaulipas,25.8789394598254,-97.5041565883216,FN,PG1272,FN-PG1272-2,0,1620,1,1,3,4,4,16
-"Matamoros, Zaragoza (Matamoros III) (terrestre)","Matamoros, Tamaulipas",Tamaulipas,25.8789394598254,-97.5041565883216,FN,PG1272,FN-PG1272-2,0,1620,1,1,3,4,4,16
-"Matamoros, Zaragoza (Matamoros III) (terrestre)","Matamoros, Tamaulipas",Tamaulipas,25.8789394598254,-97.5041565883216,FN,PG1272,FN-PG1272-2,0,1620,1,1,3,4,4,16
-"Matamoros, Zaragoza (Matamoros III) (terrestre)","Matamoros, Tamaulipas",Tamaulipas,25.8789394598254,-97.5041565883216,FN,PG1272,FN-PG1272-2,0,1620,1,1,3,4,4,16
-Puerta México (Matamoros II) (terrestre),"Puerta México , Tamaulipas",Tamaulipas,25.8969019125708,-97.4977559917153,FN,PG1272,FN-PG1272-3,0,1620,1,1,3,4,4,16
-"Santa Maria Tonameca, Oaxaca","Santa Maria Tonameca, Oaxaca",Oaxaca,15.745833,-96.547222,S,PG1297,S-PG1297-1,1,210,1,1,4,0,0,7
-"San Pedro Pochutla, Oaxaca","San Pedro Pochutla, Oaxaca",Oaxaca,15.744444,-96.465278,S,PG1297,S-PG1297-2,36,210,1,1,4,0,0,7
-"Santa Maria Huatulco, Oaxaca","Santa Maria Huatulco, Oaxaca",Oaxaca,15.8337711,-96.3214401,S,PG1297,S-PG1297-3,170,210,1,1,4,0,0,7
-"San Pedro Mixtepec -Dto. 22 -, Oaxaca","San Pedro Mixtepec -Dto. 22 -, Oaxaca",Oaxaca,16.271111,-96.2825,S,PG1297,S-PG1297-4,3,210,0,1,4,0,0,7
-"Trinidad Zaachila, Oaxaca","Trinidad Zaachila, Oaxaca",Oaxaca,16.921389,-96.765,S,PG1298,S-PG1298-1,1,464,1,0,4,2,0,7
-"Villa de Zaachila, Oaxaca","Villa de Zaachila, Oaxaca",Oaxaca,16.950833,-96.749167,S,PG1298,S-PG1298-2,77,464,1,0,4,2,0,7
-"Santa Maria Coyotepec, Oaxaca","Santa Maria Coyotepec, Oaxaca",Oaxaca,16.9716988,-96.7108042440475,S,PG1298,S-PG1298-3,10,464,1,0,4,2,0,7
-"San Bartolo Coyotepec, Oaxaca","San Bartolo Coyotepec, Oaxaca",Oaxaca,16.9575983,-96.7066199,S,PG1298,S-PG1298-4,5,464,1,0,4,2,0,7
-"Miahuatlan de Porfirio Diaz, Oaxaca","Miahuatlan de Porfirio Diaz, Oaxaca",Oaxaca,16.3610815,-96.5850578538718,S,PG1298,S-PG1298-5,13,464,0,0,4,0,0,7
-"Tlacolula de Matamoros, Oaxaca","Tlacolula de Matamoros, Oaxaca",Oaxaca,16.9314623,-96.4611074593091,S,PG1298,S-PG1298-6,351,464,0,0,4,0,0,7
-"San Dionisio Ocotepec, Oaxaca","San Dionisio Ocotepec, Oaxaca",Oaxaca,16.7975187,-96.3960971,S,PG1298,S-PG1298-7,7,464,0,0,4,0,0,7
-"San Pablo Huitzo, Oaxaca","San Pablo Huitzo, Oaxaca",Oaxaca,17.2777969,-96.8866692,S,PG1299,S-PG1299-1,729,1562,0,1,4,1,2,7
-"San Pedro Ixtlahuaca, Oaxaca","San Pedro Ixtlahuaca, Oaxaca",Oaxaca,17.063056,-96.818056,S,PG1299,S-PG1299-2,1,1562,1,1,4,2,2,7
-"San Lorenzo Cacaotepec, Oaxaca","San Lorenzo Cacaotepec, Oaxaca",Oaxaca,17.1278714,-96.8017692,S,PG1299,S-PG1299-3,2,1562,1,1,4,2,2,7
-"Villa de Etla, Oaxaca","Villa de Etla, Oaxaca",Oaxaca,17.2057678,-96.7981939,S,PG1299,S-PG1299-4,2,1562,1,1,4,2,2,7
-"Santa Maria Atzompa, Oaxaca","Santa Maria Atzompa, Oaxaca",Oaxaca,17.1011053,-96.7777739,S,PG1299,S-PG1299-5,4,1562,1,1,4,2,2,7
-"San Pablo Etla, Oaxaca","San Pablo Etla, Oaxaca",Oaxaca,17.1450449,-96.7644253,S,PG1299,S-PG1299-6,35,1562,1,1,4,2,2,7
-"San Jacinto Amilpas, Oaxaca","San Jacinto Amilpas, Oaxaca",Oaxaca,17.1011376,-96.7606784,S,PG1299,S-PG1299-7,45,1562,1,1,4,2,2,7
-"Santa Cruz Xoxocotlan, Oaxaca","Santa Cruz Xoxocotlan, Oaxaca",Oaxaca,17.026389,-96.733333,S,PG1299,S-PG1299-8,731,1562,1,1,4,2,2,7
-"Oaxaca de Juarez, Oaxaca","Oaxaca de Juarez, Oaxaca",Oaxaca,17.0604663,-96.7253575,S,PG1299,S-PG1299-9,0,1562,1,1,4,2,2,7
-"San Agustin de las Juntas, Oaxaca","San Agustin de las Juntas, Oaxaca",Oaxaca,17.005436,-96.7092291,S,PG1299,S-PG1299-10,2,1562,1,1,4,2,2,7
-"San Antonio de la Cal, Oaxaca","San Antonio de la Cal, Oaxaca",Oaxaca,17.028333,-96.700556,S,PG1299,S-PG1299-11,1,1562,1,1,4,2,2,7
-"Santa Lucia del Camino, Oaxaca","Santa Lucia del Camino, Oaxaca",Oaxaca,17.0625,-96.693333,S,PG1299,S-PG1299-12,6,1562,1,1,4,2,2,7
-"San Sebastian Tutla, Oaxaca","San Sebastian Tutla, Oaxaca",Oaxaca,17.059722,-96.672222,S,PG1299,S-PG1299-13,3,1562,1,1,4,2,2,7
-"Santa Maria del Tule, Oaxaca","Santa Maria del Tule, Oaxaca",Oaxaca,17.0476822,-96.6334574,S,PG1299,S-PG1299-14,1,1562,1,1,4,2,2,7
-"San Jose Tenango, Oaxaca","San Jose Tenango, Oaxaca",Oaxaca,18.15,-96.716667,S,PG1300,S-PG1300-1,6,6,0,0,4,0,0,7
-"Amatlan de los Reyes, Veracruz","Amatlan de los Reyes, Veracruz",Veracruz,18.87251165,-96.8685723968666,G,PG1301,G-PG1301-1,17,406,0,0,3,1,1,12
-"Yanga, Veracruz","Yanga, Veracruz",Veracruz,18.8313634,-96.7992608,G,PG1301,G-PG1301-2,62,406,0,0,3,1,1,12
-"Tezonapa, Veracruz","Tezonapa, Veracruz",Veracruz,18.5587309,-96.782341148248,G,PG1301,G-PG1301-3,6,406,0,0,3,0,1,12
-"Cuitlahuac, Veracruz","Cuitlahuac, Veracruz",Veracruz,18.814226,-96.7223775,G,PG1301,G-PG1301-4,0,406,0,0,3,1,1,12
-"Carrillo Puerto, Veracruz","Carrillo Puerto, Veracruz",Veracruz,18.8215893,-96.5842838954223,G,PG1301,G-PG1301-5,55,406,0,0,3,0,1,12
-"Soledad de Doblado, Veracruz","Soledad de Doblado, Veracruz",Veracruz,19.0452067,-96.4233756,G,PG1301,G-PG1301-6,3,406,0,0,3,0,1,12
-"Cotaxtla, Veracruz","Cotaxtla, Veracruz",Veracruz,18.85765725,-96.350999057041,G,PG1301,G-PG1301-7,250,406,0,0,3,0,1,12
-"Tierra Blanca, Veracruz","Tierra Blanca, Veracruz",Veracruz,18.5272475,-96.2152007748733,G,PG1301,G-PG1301-8,13,406,0,0,3,1,1,12
-"Veracruz, Veracruz","Veracruz, Veracruz",Veracruz,19.333333,-96.666667,G,PG1302,G-PG1302-1,0,160,0,0,3,0,0,12
-"La Antigua, Veracruz","La Antigua, Veracruz",Veracruz,19.3176799,-96.3186409251967,G,PG1302,G-PG1302-2,160,160,1,0,3,1,0,12
-"Tres Valles, Veracruz","Tres Valles, Veracruz",Veracruz,18.2921576,-96.1664119682439,G,PG1339,G-PG1339-1,2,126,0,0,3,1,0,12
-"San Juan Bautista Tuxtepec, Oaxaca","San Juan Bautista Tuxtepec, Oaxaca",Oaxaca,18.0874632,-96.1227767,S,PG1339,S-PG1339-2,108,126,0,0,4,0,0,7
-"Cosamaloapan de Carpio, Veracruz","Cosamaloapan de Carpio, Veracruz",Veracruz,18.28167395,-95.9643574726842,G,PG1339,G-PG1339-3,0,126,0,0,3,0,0,12
-"Carlos A. Carrillo, Veracruz","Carlos A. Carrillo, Veracruz",Veracruz,18.32836115,-95.7154033804156,G,PG1339,G-PG1339-4,1,126,0,0,3,0,0,12
-"Isla, Veracruz","Isla, Veracruz",Veracruz,18.0276212,-95.5281332,G,PG1339,G-PG1339-5,15,126,0,0,3,0,0,12
-"Medellin de Bravo, Veracruz","Medellin de Bravo, Veracruz",Veracruz,19.0404677,-96.1442918,G,PG1340,G-PG1340-1,27,86,1,0,3,1,0,12
-"Alvarado, Veracruz","Alvarado, Veracruz",Veracruz,18.82874235,-95.9238540059007,G,PG1340,G-PG1340-2,59,86,0,0,3,0,0,12
-"Salina Cruz, Oaxaca","Salina Cruz, Oaxaca",Oaxaca,16.1825,-95.195833,S,PG1375,S-PG1375-1,112,112,0,0,4,0,0,7
-"Santa Maria Jalapa del Marques, Oaxaca","Santa Maria Jalapa del Marques, Oaxaca",Oaxaca,16.4403557,-95.4448148,S,PG1376,S-PG1376-1,0,436,0,1,4,0,2,7
-"Santa Maria Mixtequilla, Oaxaca","Santa Maria Mixtequilla, Oaxaca",Oaxaca,16.374444,-95.259722,S,PG1376,S-PG1376-2,37,436,0,1,4,1,2,7
-"Santo Domingo Tehuantepec, Oaxaca","Santo Domingo Tehuantepec, Oaxaca",Oaxaca,16.3172613,-95.2468005,S,PG1376,S-PG1376-3,222,436,0,1,4,0,2,7
-"Ciudad Ixtepec, Oaxaca","Ciudad Ixtepec, Oaxaca",Oaxaca,16.5564139,-95.0959653,S,PG1376,S-PG1376-4,10,436,1,1,4,1,2,7
-"El Espinal, Oaxaca","El Espinal, Oaxaca",Oaxaca,16.4609135,-95.0581833048719,S,PG1376,S-PG1376-5,10,436,1,1,4,1,2,7
-"Matias Romero Avendano, Oaxaca","Matias Romero Avendano, Oaxaca",Oaxaca,16.8761133,-95.0405586,S,PG1376,S-PG1376-6,157,436,0,1,4,1,2,7
-"Juchitan de Zaragoza, Oaxaca","Juchitan de Zaragoza, Oaxaca",Oaxaca,16.413329,-94.9118794582709,S,PG1376,S-PG1376-7,0,436,1,1,4,1,2,7
-"Jesus Carranza, Veracruz","Jesus Carranza, Veracruz",Veracruz,17.38793115,-94.9094973063052,G,PG1377,G-PG1377-1,0,0,0,0,3,0,0,12
-"Juan Rodriguez Clara, Veracruz","Juan Rodriguez Clara, Veracruz",Veracruz,17.97320895,-95.344127993385,G,PG1378,G-PG1378-1,8,69,0,1,3,0,2,12
-"San Juan Evangelista, Veracruz","San Juan Evangelista, Veracruz",Veracruz,17.76252635,-95.2304293935886,G,PG1378,G-PG1378-2,1,69,0,1,3,0,2,12
-"Sayula de Aleman, Veracruz","Sayula de Aleman, Veracruz",Veracruz,17.74768255,-94.954397521018,G,PG1378,G-PG1378-3,53,69,0,1,3,2,2,12
-"Acayucan, Veracruz","Acayucan, Veracruz",Veracruz,17.9487862,-94.9145752,G,PG1378,G-PG1378-4,0,69,1,1,3,2,2,12
-"Texistepec, Veracruz","Texistepec, Veracruz",Veracruz,17.894167,-94.816389,G,PG1378,G-PG1378-5,7,69,1,1,3,2,2,12
-"Angel R. Cabada, Veracruz","Angel R. Cabada, Veracruz",Veracruz,18.5927238,-95.3861682474972,G,PG1379,G-PG1379-1,17,119,0,0,3,0,0,12
-"San Andres Tuxtla, Veracruz","San Andres Tuxtla, Veracruz",Veracruz,18.4633672,-95.1983153392005,G,PG1379,G-PG1379-2,102,119,0,0,3,0,0,12
-"Chahuites, Oaxaca","Chahuites, Oaxaca",Oaxaca,16.2885299,-94.1942777,S,PG1414,S-PG1414-1,54,54,1,0,4,0,0,7
-"Santiago Niltepec, Oaxaca","Santiago Niltepec, Oaxaca",Oaxaca,16.5614134,-94.6131085,S,PG1415,S-PG1415-1,14,297,0,1,4,0,0,7
-"San Pedro Tapanatepec, Oaxaca","San Pedro Tapanatepec, Oaxaca",Oaxaca,16.3689223,-94.1927528,S,PG1415,S-PG1415-2,283,297,1,1,4,0,0,7
-"Cosoleacaque, Veracruz","Cosoleacaque, Veracruz",Veracruz,18.0060183,-94.6174830085876,G,PG1417,G-PG1417-1,17,405,0,0,3,3,3,12
-"Minatitlan, Veracruz","Minatitlan, Veracruz",Veracruz,17.992773,-94.5567103,G,PG1417,G-PG1417-2,10,405,0,0,3,3,3,12
-"Coatzacoalcos, Veracruz","Coatzacoalcos, Veracruz",Veracruz,18.1396787,-94.4501731,G,PG1417,G-PG1417-3,297,405,0,0,3,3,3,12
-"Moloacan, Veracruz","Moloacan, Veracruz",Veracruz,17.9926405,-94.2823290741812,G,PG1417,G-PG1417-4,81,405,0,0,3,2,3,12
-"Agua Dulce, Veracruz","Agua Dulce, Veracruz",Veracruz,18.0899541,-94.1623630522383,G,PG1417,G-PG1417-5,0,405,0,0,3,0,3,12
-"Arriaga, Chiapas","Arriaga, Chiapas",Chiapas,16.2344709,-93.9008414,S,PG1453,S-PG1453-1,0,230,0,0,13,3,3,35
-"Tonala, Chiapas","Tonala, Chiapas",Chiapas,16.0894476,-93.7546502,S,PG1453,S-PG1453-2,230,230,0,0,13,3,3,35
-"Cintalapa de Figueroa, Chiapas","Cintalapa de Figueroa, Chiapas",Chiapas,16.6905402,-93.7257625,S,PG1454,S-PG1454-1,3,680,0,0,13,0,0,35
-"Jiquipilas, Chiapas","Jiquipilas, Chiapas",Chiapas,16.57497565,-93.6056542788837,S,PG1454,S-PG1454-2,677,680,0,0,13,0,0,35
-"Ocozocoautla de Espinosa, Chiapas","Ocozocoautla de Espinosa, Chiapas",Chiapas,16.7931431,-93.4569635533782,S,PG1454,S-PG1454-3,0,680,0,0,13,0,0,35
-"Las Choapas, Veracruz","Las Choapas, Veracruz",Veracruz,17.56348585,-93.9400086353229,G,PG1455,G-PG1455-1,303,743,0,0,3,0,0,12
-"Mezcalapa, Chiapas","Mezcalapa, Chiapas",Chiapas,17.2364959,-93.6349751688609,S,PG1455,S-PG1455-2,440,743,0,0,13,0,0,35
-"Huimanguillo, Tabasco","Huimanguillo, Tabasco",Tabasco,17.7620967,-93.6634408051158,G,PG1456,G-PG1456-1,0,0,0,0,3,0,0,0
-"Mapastepec, Chiapas","Mapastepec, Chiapas",Chiapas,15.43981,-92.898367,S,PG1491,S-PG1491-1,36,36,0,0,13,0,0,35
-"Villa Corzo, Chiapas","Villa Corzo, Chiapas",Chiapas,16.0631888,-93.2650025252038,S,PG1492,S-PG1492-1,8,8,0,1,13,0,1,35
-"Pijijiapan, Chiapas","Pijijiapan, Chiapas",Chiapas,15.6849991,-93.2080195,S,PG1492,S-PG1492-2,0,8,1,1,13,1,1,35
-"Villaflores, Chiapas","Villaflores, Chiapas",Chiapas,16.37550225,-93.3589334041931,S,PG1493,S-PG1493-1,5,285,0,1,13,0,3,35
-"Berriozabal, Chiapas","Berriozabal, Chiapas",Chiapas,16.87168945,-93.3370761804707,S,PG1493,S-PG1493-2,160,285,0,1,13,2,3,35
-"Tuxtla Gutierrez, Chiapas","Tuxtla Gutierrez, Chiapas",Chiapas,16.753801,-93.115959,S,PG1493,S-PG1493-3,0,285,1,1,13,3,3,35
-"Chiapa de Corzo, Chiapas","Chiapa de Corzo, Chiapas",Chiapas,16.7075202,-93.0115045,S,PG1493,S-PG1493-4,120,285,1,1,13,3,3,35
-"Copainala, Chiapas","Copainala, Chiapas",Chiapas,17.0930214,-93.2102105,S,PG1494,S-PG1494-1,7,8,0,0,13,0,0,35
-"Pantepec, Chiapas","Pantepec, Chiapas",Chiapas,17.1944142,-93.0524660849375,S,PG1494,S-PG1494-2,1,8,0,0,13,0,0,35
-"Teapa, Tabasco","Teapa, Tabasco",Tabasco,17.5566526,-92.9480504,G,PG1494,G-PG1494-3,0,8,0,0,3,0,0,0
-"Tacotalpa, Tabasco","Tacotalpa, Tabasco",Tabasco,17.5952197,-92.8253388,G,PG1494,G-PG1494-4,0,8,0,0,3,0,0,0
-"Cardenas, Tabasco","Cardenas, Tabasco",Tabasco,17.990878,-93.3753314,G,PG1495,G-PG1495-1,0,372,0,1,3,0,0,0
-"Comalcalco, Tabasco","Comalcalco, Tabasco",Tabasco,18.2615076,-93.2231523,G,PG1495,G-PG1495-2,368,372,0,1,3,0,0,0
-"Paraiso, Tabasco","Paraiso, Tabasco",Tabasco,18.3987331,-93.2125326,G,PG1495,G-PG1495-3,2,372,0,1,3,0,0,0
-"Cunduacan, Tabasco","Cunduacan, Tabasco",Tabasco,18.066059,-93.173675,G,PG1495,G-PG1495-4,2,372,1,1,3,0,0,0
-"Jalapa, Tabasco","Jalapa, Tabasco",Tabasco,17.721716,-92.812012,G,PG1495,G-PG1495-5,0,372,0,1,3,0,0,0
-"Centro, Tabasco","Centro, Tabasco",Tabasco,18.0271588,-92.7747911804616,G,PG1495,G-PG1495-6,0,372,1,1,3,0,0,0
-"Suchiate, Chiapas","Suchiate, Chiapas",Chiapas,14.6321744,-92.241963360953,S,PG1529,S-PG1529-1,0,610,0,0,13,3,7,35
-"Frontera Hidalgo, Chiapas","Frontera Hidalgo, Chiapas",Chiapas,14.7531678,-92.2161368344744,S,PG1529,S-PG1529-2,15,610,1,0,13,17,7,35
-"Tuxtla Chico, Chiapas","Tuxtla Chico, Chiapas",Chiapas,14.8768619,-92.1967524545976,S,PG1529,S-PG1529-3,595,610,2,0,13,17,7,35
-Ciudad Hidalgo-Suchiate I (terrestre),"Ciudad Hidalgo-Suchiate I , Chiapas",Chiapas,14.6879953135801,-92.1808588142041,FS,PG1529,FS-PG1529-4,0,610,1,0,13,16,7,35
-"Acacoyagua, Chiapas","Acacoyagua, Chiapas",Chiapas,15.4060577,-92.6972939305788,S,PG1530,S-PG1530-1,2,30,0,4,13,0,11,35
-"Villa Comaltitlan, Chiapas","Villa Comaltitlan, Chiapas",Chiapas,15.1709732,-92.6128862908011,S,PG1530,S-PG1530-2,0,30,2,4,13,1,11,35
-"Escuintla, Chiapas","Escuintla, Chiapas",Chiapas,15.35100255,-92.5557653736153,S,PG1530,S-PG1530-3,19,30,2,4,13,1,11,35
-"Huixtla, Chiapas","Huixtla, Chiapas",Chiapas,15.122125,-92.5039970760447,S,PG1530,S-PG1530-4,0,30,3,4,13,1,11,35
-"Huehuetan, Chiapas","Huehuetan, Chiapas",Chiapas,15.0217164,-92.4286697906319,S,PG1530,S-PG1530-5,0,30,4,4,13,18,11,35
-"Motozintla, Chiapas","Motozintla, Chiapas",Chiapas,15.3050827,-92.3488036187158,S,PG1530,S-PG1530-6,8,30,2,4,13,1,11,35
-"Siltepec, Chiapas","Siltepec, Chiapas",Chiapas,15.5561492,-92.3226035,S,PG1530,S-PG1530-7,1,30,0,4,13,0,11,35
-"Tapachula, Chiapas","Tapachula, Chiapas",Chiapas,14.9042905,-92.2609265,S,PG1530,S-PG1530-8,0,30,2,4,13,17,11,35
-Talismán (terrestre),"Talismán , Chiapas",Chiapas,14.9655613785814,-92.146625499198,FS,PG1530,FS-PG1530-9,0,30,2,4,13,17,11,35
-"Union Juarez, Chiapas","Union Juarez, Chiapas",Chiapas,15.07074175,-92.0925428079992,S,PG1530,S-PG1530-10,0,30,1,4,13,13,11,35
-Unión Juárez (terrestre),"Unión Juárez , Chiapas",Chiapas,15.071268746922,-92.0601167090068,FS,PG1530,FS-PG1530-11,0,30,1,4,13,2,11,35
-Ciudad Hidalgo-Suchiate II (terrestre),"Ciudad Hidalgo-Suchiate II , Chiapas",Chiapas,14.9641295978217,-92.043529713347,FS,PG1530,FS-PG1530-12,0,30,1,4,13,13,11,35
-"Chicomuselo, Chiapas","Chicomuselo, Chiapas",Chiapas,15.7935524,-92.4192662013789,S,PG1531,S-PG1531-1,1,1317,0,4,13,0,2,35
-"Comitan de Dominguez, Chiapas","Comitan de Dominguez, Chiapas",Chiapas,16.2911698,-92.1753212427065,S,PG1531,S-PG1531-2,337,1317,2,4,13,2,2,35
-"Frontera Comalapa, Chiapas","Frontera Comalapa, Chiapas",Chiapas,15.6590135,-92.1422219,S,PG1531,S-PG1531-3,802,1317,2,4,13,0,2,35
-"La Trinitaria, Chiapas","La Trinitaria, Chiapas",Chiapas,16.1206164,-92.0542431,S,PG1531,S-PG1531-4,177,1317,2,4,13,2,2,35
-"San Cristobal de las Casas, Chiapas","San Cristobal de las Casas, Chiapas",Chiapas,16.6835469,-92.6155184199116,S,PG1532,S-PG1532-1,745,1269,1,1,13,2,3,35
-"Chenalho, Chiapas","Chenalho, Chiapas",Chiapas,16.9717161,-92.5192123769078,S,PG1532,S-PG1532-2,341,1269,0,1,13,0,3,35
-"Teopisca, Chiapas","Teopisca, Chiapas",Chiapas,16.5420839,-92.4736561,S,PG1532,S-PG1532-3,1,1269,0,1,13,2,3,35
-"Ocosingo, Chiapas","Ocosingo, Chiapas",Chiapas,16.9057,-92.092776,S,PG1532,S-PG1532-4,182,1269,0,1,13,1,3,35
-"Yajalon, Chiapas","Yajalon, Chiapas",Chiapas,17.1768885,-92.3519609858044,S,PG1533,S-PG1533-1,3,12,0,0,13,0,0,35
-"Salto de Agua, Chiapas","Salto de Agua, Chiapas",Chiapas,17.4348976,-92.2248024988609,S,PG1533,S-PG1533-2,9,12,1,0,13,0,0,35
-"Centla, Tabasco","Centla, Tabasco",Tabasco,18.3536762,-92.6521986432691,G,PG1534,G-PG1534-1,45,452,0,1,3,1,0,0
-"Macuspana, Tabasco","Macuspana, Tabasco",Tabasco,17.760922,-92.596108,G,PG1534,G-PG1534-2,0,452,0,1,3,0,0,0
-"Palizada, Campeche","Palizada, Campeche",Campeche,18.2549484,-92.0907089,S,PG1534,S-PG1534-3,15,452,0,1,3,0,0,3
-"Catazaja, Chiapas","Catazaja, Chiapas",Chiapas,17.76826375,-92.0379312528531,S,PG1534,S-PG1534-4,392,452,1,1,13,2,0,35
-Ciudad Cuauhtémoc (terrestre),"Ciudad Cuauhtémoc , Chiapas",Chiapas,15.6664056929052,-91.9804205200131,FS,PG1570,FS-PG1570-1,0,0,2,0,13,0,0,35
-Carmen Xhan (terrestre),"Carmen Xhan , Chiapas",Chiapas,16.0441491721561,-91.7489276380207,FS,PG1570,FS-PG1570-2,0,0,0,0,13,0,0,35
-"Palenque, Chiapas","Palenque, Chiapas",Chiapas,17.509188,-91.980922,S,PG1572,S-PG1572-1,0,0,2,2,13,2,5,35
-"Emiliano Zapata, Tabasco","Emiliano Zapata, Tabasco",Tabasco,17.693626,-91.6397345576535,G,PG1572,G-PG1572-2,0,0,0,2,3,0,5,0
-"Tenosique, Tabasco","Tenosique, Tabasco",Tabasco,17.4707129,-91.4220212,G,PG1572,G-PG1572-3,0,0,1,2,3,2,5,0
-"Tenosique, Tabasco","Tenosique, Tabasco",Tabasco,17.4707129,-91.4220212,G,PG1572,G-PG1572-3,0,0,1,2,3,0,5,0
-"Tenosique, Tabasco","Tenosique, Tabasco",Tabasco,17.4707129,-91.4220212,G,PG1572,G-PG1572-3,0,0,1,2,3,2,5,0
-"Tenosique, Tabasco","Tenosique, Tabasco",Tabasco,17.4707129,-91.4220212,G,PG1572,G-PG1572-3,0,0,1,2,3,0,5,0
-"Balancan, Tabasco","Balancan, Tabasco",Tabasco,17.79751665,-91.3458588938522,G,PG1573,G-PG1573-1,0,0,0,0,3,0,0,0
-"Carmen, Campeche","Carmen, Campeche",Campeche,18.651739,-91.81492,S,PG1574,S-PG1574-1,255,255,1,1,3,2,2,3
-Frontera Corozal (terrestre),"Frontera Corozal , Chiapas",Chiapas,16.8171571860385,-90.883129053715,FS,PG1610,FS-PG1610-1,0,0,0,0,13,0,0,35
-"Tenosique, El Ceibo (terrestre)","Tenosique, Tabasco",Tabasco,17.2631411250349,-90.994678912203,FS,PG1611,FS-PG1611-1,0,0,1,1,3,2,0,0
-"Tenosique, El Ceibo (terrestre)","Tenosique, Tabasco",Tabasco,17.2631411250349,-90.994678912203,FS,PG1611,FS-PG1611-1,0,0,1,1,3,0,0,0
-"Tenosique, El Ceibo (terrestre)","Tenosique, Tabasco",Tabasco,17.2631411250349,-90.994678912203,FS,PG1611,FS-PG1611-1,0,0,1,1,3,2,0,0
-"Tenosique, El Ceibo (terrestre)","Tenosique, Tabasco",Tabasco,17.2631411250349,-90.994678912203,FS,PG1611,FS-PG1611-1,0,0,1,1,3,0,0,0
-"Escarcega, Campeche","Escarcega, Campeche",Campeche,18.606934,-90.7385823,S,PG1613,S-PG1613-1,0,0,1,1,3,0,0,3
-"Champoton, Campeche","Champoton, Campeche",Campeche,19.3439655,-90.7242742,S,PG1614,S-PG1614-1,150,158,0,0,3,0,0,3
-"Seybaplaya, Campeche","Seybaplaya, Campeche",Campeche,19.60337225,-90.6253669555515,S,PG1614,S-PG1614-2,8,158,0,0,3,0,0,3
-"Campeche, Campeche","Campeche, Campeche",Campeche,19.830285751988,-90.5355146399854,S,PG1654,S-PG1654-1,0,23,1,1,3,0,0,3
-"Tenabo, Campeche","Tenabo, Campeche",Campeche,20.0406607,-90.2254956,S,PG1654,S-PG1654-2,22,23,0,1,3,0,0,3
-"Calkini, Campeche","Calkini, Campeche",Campeche,20.3695121,-90.0510784,S,PG1654,S-PG1654-3,1,23,0,1,3,0,0,3
-"Calakmul, Campeche","Calakmul, Campeche",Campeche,18.1073406,-89.8083280398131,S,PG1690,S-PG1690-1,194,194,0,0,3,0,0,3
-"Merida, Yucatan","Merida, Yucatan",Yucatan,20.9670759,-89.6237402,S,PG1694,S-PG1694-1,931,931,1,1,1,2,2,2
-"Progreso, Yucatan","Progreso, Yucatan",Yucatan,21.2822136,-89.6636637,S,PG1695,S-PG1695-1,3,3,0,0,1,0,0,2
-"Othon P. Blanco, Quintana Roo","Othon P. Blanco, Quintana Roo",Quintana Roo,18.43704555,-88.8257581580335,S,PG1730,S-PG1730-1,369,369,0,0,2,0,0,0
-"Bacalar, Quintana Roo","Bacalar, Quintana Roo",Quintana Roo,18.6782559,-88.3922556,S,PG1769,S-PG1769-1,9,9,2,2,2,0,0,0
-"Chetumal, Subteniente López (terrestre)","Chetumal, Quintana Roo",Quintana Roo,18.4986563503074,-88.2944004698881,FS,PG1769,FS-PG1769-2,0,9,2,2,2,0,0,0
-"Valladolid, Yucatan","Valladolid, Yucatan",Yucatan,20.6902505,-88.2016999,S,PG1772,S-PG1772-1,5,5,0,0,1,0,0,2
-"Tulum, Quintana Roo","Tulum, Quintana Roo",Quintana Roo,20.1692965,-87.4495481261673,S,PG1810,S-PG1810-1,13,13,0,0,2,0,0,0
-"Solidaridad, Quintana Roo","Solidaridad, Quintana Roo",Quintana Roo,20.5843747,-87.5034526829676,S,PG1811,S-PG1811-1,178,178,0,0,2,0,0,0
-"Cozumel, Quintana Roo","Cozumel, Quintana Roo",Quintana Roo,20.4320599,-86.9206905837727,S,PG1849,S-PG1849-1,24,24,0,0,2,0,0,0
-"Benito Juarez, Quintana Roo","Benito Juarez, Quintana Roo",Quintana Roo,21.07668085,-86.9263352170841,S,PG1850,S-PG1850-1,0,0,0,0,2,0,0,0
-"Isla Mujeres, Quintana Roo","Isla Mujeres, Quintana Roo",Quintana Roo,21.2371906,-86.7350001,S,PG1851,S-PG1851-1,24,24,0,0,2,0,0,0
-"Playas de Rosarito, Baja California","Playas de Rosarito, Baja California",Baja California,32.25812915,-116.873307225176,P,PG189,P-PG189-1,38,67,1,0,2,7,2,59
-"Ensenada, Baja California","Ensenada, Baja California",Baja California,31.8658887,-116.602983,P,PG189,P-PG189-2,29,67,0,0,2,2,2,59
-"Tijuana, Chaparral (terrestre) 6","Tijuana, Baja California",Baja California,32.5410793744326,-117.034746419761,FN,PG190,FN-PG190-1,0,594,1,1,2,35,36,59
-"Tijuana, Chaparral (terrestre) 6","Tijuana, Baja California",Baja California,32.5410793744326,-117.034746419761,FN,PG190,FN-PG190-1,0,594,1,1,2,35,36,59
-"Tijuana, Chaparral (terrestre) 6","Tijuana, Baja California",Baja California,32.5410793744326,-117.034746419761,FN,PG190,FN-PG190-1,0,594,1,1,2,35,36,59
-"Tijuana, Chaparral (terrestre) 6","Tijuana, Baja California",Baja California,32.5410793744326,-117.034746419761,FN,PG190,FN-PG190-1,0,594,1,1,2,35,36,59
-"Tijuana, Baja California","Tijuana, Baja California",Baja California,32.5317397,-117.019529,P,PG190,P-PG190-2,0,594,1,1,2,35,36,59
-"Tijuana, Baja California","Tijuana, Baja California",Baja California,32.5317397,-117.019529,P,PG190,P-PG190-2,0,594,1,1,2,35,36,59
-"Tijuana, Baja California","Tijuana, Baja California",Baja California,32.5317397,-117.019529,P,PG190,P-PG190-2,0,594,1,1,2,35,36,59
-"Tijuana, Baja California","Tijuana, Baja California",Baja California,32.5317397,-117.019529,P,PG190,P-PG190-2,0,594,1,1,2,35,36,59
-"Tecate, Baja California","Tecate, Baja California",Baja California,32.5653831,-116.6298787,P,PG190,P-PG190-3,594,594,0,1,2,6,36,59
-Tecate (terrestre),"Tecate , Baja California",Baja California,32.576135082369,-116.627413636691,FN,PG190,FN-PG190-4,0,594,0,1,2,6,36,59
-Mexicali I (terrestre),"Mexicali I , Baja California",Baja California,32.6755812464481,-115.493983699174,FN,PG268,FN-PG268-1,0,0,1,1,2,21,21,59
-"Mexicali, Baja California","Mexicali, Baja California",Baja California,32.6405247,-115.474899,P,PG268,P-PG268-2,0,0,1,1,2,21,21,59
-Mexicali II (terrestre),"Mexicali II , Baja California",Baja California,32.6773151625109,-115.385493709497,FN,PG268,FN-PG268-3,0,0,1,1,2,21,21,59
-"San Felipe, Baja California","San Felipe, Baja California",Baja California,31.0269529,-114.839607,P,PG305,P-PG305-1,4,4,0,0,2,0,0,59
-"San Luis Rio Colorado, Sonora","San Luis Rio Colorado, Sonora",Sonora,32.4517957,-114.7652542,P,PG307,P-PG307-1,67,67,0,0,2,3,3,23
-San Luis Río Colorado (terrestre),"San Luis Río Colorado , Sonora",Sonora,32.4723527461133,-114.742716353609,FN,PG307,FN-PG307-2,0,67,0,0,2,3,3,23
-Algodones (terrestre),"Algodones , Baja California",Baja California,32.7148940203348,-114.733310588118,FN,PG307,FN-PG307-3,0,67,0,0,2,3,3,59
-"Puerto Penasco, Sonora","Puerto Penasco, Sonora",Sonora,31.3170867,-113.531819,P,PG383,P-PG383-1,1,1,0,0,2,0,0,23
-"General Plutarco Elias Calles, Sonora","General Plutarco Elias Calles, Sonora",Sonora,31.6949837,-112.711748945241,P,PG422,P-PG422-1,0,0,0,0,2,0,0,23
-Sonoyta (terrestre) 14,"Sonoyta , Sonora",Sonora,31.8792249081492,-112.818480532213,FN,PG423,FN-PG423-1,0,0,0,0,2,0,0,23
-"Caborca, Sonora","Caborca, Sonora",Sonora,30.7166014,-112.1562598,P,PG460,P-PG460-1,414,444,0,0,2,1,3,23
-"Altar, Sonora","Altar, Sonora",Sonora,30.7170323,-111.8380038,P,PG460,P-PG460-2,30,444,0,0,2,2,3,23
-"Hermosillo, Sonora","Hermosillo, Sonora",Sonora,29.0948207,-110.9692202,P,PG497,P-PG497-1,0,0,1,1,2,6,4,23
-"Santa Ana, Sonora","Santa Ana, Sonora",Sonora,30.5410922,-111.1184881,P,PG499,P-PG499-1,0,0,0,0,2,0,0,23
-"Nogales, Sonora","Nogales, Sonora",Sonora,31.3285057,-110.9450472,P,PG500,P-PG500-1,0,0,0,0,2,7,7,23
-Nogales Uno (terrestre) 13,"Nogales Uno , Sonora",Sonora,31.3690280539434,-110.922260290448,FN,PG500,FN-PG500-2,0,0,0,0,2,7,7,23
-"La Paz, Baja California Sur","La Paz, Baja California Sur",Baja California Sur,24.1619948,-110.3158532,P,PG529,P-PG529-1,342,342,0,0,0,0,0,3
-"Guaymas, Sonora","Guaymas, Sonora",Sonora,27.9216441,-110.8994059,P,PG534,P-PG534-1,860,860,0,0,2,0,0,23
-"Imuris, Sonora","Imuris, Sonora",Sonora,30.7874899,-110.8463861,P,PG538,P-PG538-1,7,7,0,0,2,0,0,23
-"Los Cabos, Baja California Sur","Los Cabos, Baja California Sur",Baja California Sur,23.27184805,-109.689768413063,P,PG566,P-PG566-1,62,62,0,0,0,0,1,3
-"Huatabampo, Sonora","Huatabampo, Sonora",Sonora,26.8248431,-109.6420085,P,PG572,P-PG572-1,0,0,0,0,2,0,1,23
-"Cajeme, Sonora","Cajeme, Sonora",Sonora,27.71198065,-109.902207535928,P,PG573,P-PG573-1,0,0,0,0,2,0,0,23
-Naco (terrestre),"Naco , Sonora",Sonora,31.4451067590291,-109.800215471246,FN,PG578,FN-PG578-1,0,35,1,1,2,3,3,23
-"Agua Prieta, Sonora","Agua Prieta, Sonora",Sonora,31.3305591,-109.5564331,P,PG578,P-PG578-2,35,35,1,1,2,2,3,23
-Agua Prieta (terrestre),"Agua Prieta , Sonora",Sonora,31.3297567291494,-109.548511215395,FN,PG578,FN-PG578-3,0,35,1,1,2,2,3,23
-"Ahome, Sinaloa","Ahome, Sinaloa",Sinaloa,25.9240491,-109.205834408303,P,PG609,P-PG609-1,4,4,0,0,1,0,0,7
-"Navojoa, Sonora","Navojoa, Sonora",Sonora,27.0721872,-109.4438227,P,PG611,P-PG611-1,823,823,0,0,2,0,0,23
-"Angostura, Sinaloa","Angostura, Sinaloa",Sinaloa,25.3657471,-108.16152,P,PG647,P-PG647-1,79,79,0,0,1,0,0,7
-"Guasave, Sinaloa","Guasave, Sinaloa",Sinaloa,25.5738,-108.4674697,P,PG648,P-PG648-1,1,1,0,0,1,1,1,7
-"Janos, Chihuahua","Janos, Chihuahua",Chihuahua,30.8893267,-108.1930484,C,PG655,C-PG655-1,129,129,1,1,3,0,0,9
-El Berrendo (terrestre),"El Berrendo , Chihuahua",Chihuahua,31.332426830941,-108.531603231216,FN,PG656,FN-PG656-1,0,0,0,0,3,0,0,9
-"Gral. Rodrígo M. Quevedo, Puerto Palomas (terrestre)","Gral, Chihuahua",Chihuahua,31.7833358806959,-107.629511517709,FN,PG696,FN-PG696-1,0,0,0,0,3,0,0,9
-"Culiacan, Sinaloa","Culiacan, Sinaloa",Sinaloa,24.7978965,-107.393395,P,PG725,P-PG725-1,11,11,0,0,1,0,0,7
-"Mazatlan, Sinaloa","Mazatlan, Sinaloa",Sinaloa,23.2035785,-106.4208391,P,PG761,P-PG761-1,976,976,1,1,1,6,6,7
-"Chihuahua, Chihuahua","Chihuahua, Chihuahua",Chihuahua,28.5000001,-106.0000001,C,PG769,C-PG769-1,0,0,1,1,3,1,1,9
-"Juarez, Chihuahua","Juarez, Chihuahua",Chihuahua,31.7372575,-106.485655,C,PG774,C-PG774-1,0,0,1,1,3,6,4,9
-"Ciudad Juárez, Córdova (terrestre)","Ciudad Juárez, Chihuahua",Chihuahua,31.7589989271794,-106.461929728296,FN,PG774,FN-PG774-2,0,0,1,1,3,6,4,9
-"Bahia de Banderas, Nayarit","Bahia de Banderas, Nayarit",Nayarit,20.8290434,-105.317508736965,P,PG797,P-PG797-1,2,2,0,0,0,0,0,5
-"Tepic, Nayarit","Tepic, Nayarit",Nayarit,21.5119156,-104.8915889,P,PG837,P-PG837-1,219,219,0,0,0,4,4,5
-"Durango, Durango","Durango, Durango",Durango,24.0350752647048,-104.663661325132,C,PG841,C-PG841-1,375,375,0,0,0,0,0,2
-"Manzanillo, Colima","Manzanillo, Colima",Colima,19.0506256,-104.3159957,P,PG872,P-PG872-1,9,9,0,0,0,0,0,0
-"Ojinaga, Chihuahua","Ojinaga, Chihuahua",Chihuahua,29.5654282,-104.4128523,C,PG887,C-PG887-1,94,94,0,0,3,0,0,9
-Ojinaga (terrestre),"Ojinaga , Chihuahua",Chihuahua,29.5323675689133,-104.391090848723,FN,PG887,FN-PG887-2,0,94,0,0,3,0,0,9
-"Villa de Alvarez, Colima","Villa de Alvarez, Colima",Colima,19.2651417,-103.736013,P,PG912,P-PG912-1,2,9,0,0,0,0,0,0
-"Colima, Colima","Colima, Colima",Colima,19.2448781553705,-103.725030676615,P,PG912,P-PG912-2,6,9,0,0,0,0,0,0
-"Zapotlan el Grande, Jalisco","Zapotlan el Grande, Jalisco",Jalisco,19.6973465,-103.510648021864,P,PG912,P-PG912-3,1,9,0,0,1,0,0,11
-"Tlajomulco de Zuniga, Jalisco","Tlajomulco de Zuniga, Jalisco",Jalisco,20.48187375,-103.400509663829,P,PG913,P-PG913-1,103,103,1,0,1,10,0,11
-"Guadalajara, Jalisco","Guadalajara, Jalisco",Jalisco,20.6720375,-103.338396,P,PG914,P-PG914-1,0,0,1,1,1,10,10,11
-"Mapimi, Durango","Mapimi, Durango",Durango,25.8337403,-103.8480216,C,PG921,C-PG921-1,23,848,0,1,0,0,2,2
-"Gomez Palacio, Durango","Gomez Palacio, Durango",Durango,25.5732473,-103.494779,C,PG921,C-PG921-2,0,848,1,1,0,2,2,2
-"Torreon, Coahuila","Torreon, Coahuila",Coahuila,25.542698,-103.410512,C,PG921,C-PG921-3,825,848,1,1,4,2,2,27
-"Buenavista, Michoacan","Buenavista, Michoacan",Michoacan,19.21451245,-102.555157985076,P,PG951,P-PG951-1,1,1,0,0,0,0,0,1
-"El Salto, Jalisco","El Salto, Jalisco",Jalisco,20.5196964,-103.1813141,P,PG953,P-PG953-1,1,1,1,0,1,9,0,11
-"Aguascalientes, Aguascalientes","Aguascalientes, Aguascalientes",Aguascalientes,22.0000001,-102.5000001,C,PG955,C-PG955-1,423,423,1,0,2,19,0,29
-"Jerez, Zacatecas","Jerez, Zacatecas",Zacatecas,22.7105933,-103.00147264243,C,PG956,C-PG956-1,1,43,0,1,0,0,2,0
-"Calera, Zacatecas","Calera, Zacatecas",Zacatecas,22.97848,-102.856222886116,C,PG956,C-PG956-2,42,43,0,1,0,0,2,0
-"Francisco I. Madero, Coahuila","Francisco I. Madero, Coahuila",Coahuila,26.23755265,-103.099655568766,C,PG961,C-PG961-1,25,25,0,0,4,0,0,27
-"Lazaro Cardenas, Michoacan","Lazaro Cardenas, Michoacan",Michoacan,17.9594769,-102.198659,P,PG988,P-PG988-1,1,1,0,0,0,0,0,1
-"Apatzingan, Michoacan","Apatzingan, Michoacan",Michoacan,19.0913792,-102.3537356,P,PG989,P-PG989-1,1,1,0,0,0,0,0,1
-"Uruapan, Michoacan","Uruapan, Michoacan",Michoacan,19.4147269,-102.0522647,P,PG990,P-PG990-1,1,1,0,0,0,0,0,1
-"Jesus Maria, Aguascalientes","Jesus Maria, Aguascalientes",Aguascalientes,21.9345555,-102.468451716512,C,PG994,C-PG994-1,20,136,1,1,2,26,11,29
-"Cosio, Aguascalientes","Cosio, Aguascalientes",Aguascalientes,22.3705155,-102.312008510523,C,PG994,C-PG994-2,98,136,0,1,2,1,11,29
 "San Francisco de los Romo, Aguascalientes","San Francisco de los Romo, Aguascalientes",Aguascalientes,22.0746282,-102.2707133,C,PG994,C-PG994-3,18,136,1,1,2,25,11,29
-"Trancoso, Zacatecas","Trancoso, Zacatecas",Zacatecas,22.7353025,-102.3667969,C,PG995,C-PG995-1,96,96,1,0,0,2,0,0
+"Salinas Victoria, Nuevo Leon","Salinas Victoria, Nuevo Leon",Nuevo Leon,26.1216805,-100.327087699587,G,PG1117,G-PG1117-1,18,18,0,0,0,0,0,0
+"Angel R. Cabada, Veracruz","Angel R. Cabada, Veracruz",Veracruz,18.5927238,-95.3861682474972,G,PG1379,G-PG1379-1,17,119,0,0,3,0,0,12
+"Cosoleacaque, Veracruz","Cosoleacaque, Veracruz",Veracruz,18.0060183,-94.6174830085876,G,PG1417,G-PG1417-1,17,4549,0,0,3,3,3,12
+"Garcia, Nuevo Leon","Garcia, Nuevo Leon",Nuevo Leon,25.6651753,-100.4018251,G,PG1077,G-PG1077-5,17,3478,1,1,0,11,9,0
+"Amatlan de los Reyes, Veracruz","Amatlan de los Reyes, Veracruz",Veracruz,18.87251165,-96.8685723968666,G,PG1301,G-PG1301-1,17,1751,0,0,3,1,1,12
+"Nativitas, Tlaxcala","Nativitas, Tlaxcala",Tlaxcala,19.233333,-98.314722,C,PG1185,C-PG1185-14,17,3189,2,0,0,9,2,0
+"Chiautempan, Tlaxcala","Chiautempan, Tlaxcala",Tlaxcala,19.313889,-98.1925,C,PG1224,C-PG1224-8,16,5419,2,1,0,7,3,0
+"Miguel Aleman, Tamaulipas","Miguel Aleman, Tamaulipas",Tamaulipas,26.3995446,-99.0314218,G,PG1156,G-PG1156-3,16,29,1,1,3,0,0,16
+"El Marques, Queretaro","El Marques, Queretaro",Queretaro,20.73507785,-100.283576535042,C,PG1109,C-PG1109-2,16,888,0,0,0,5,5,0
+"Martinez de la Torre, Veracruz","Martinez de la Torre, Veracruz",Veracruz,20.1197165,-97.0461646766573,G,PG1264,G-PG1264-3,15,74,0,0,3,0,1,12
+"Frontera Hidalgo, Chiapas","Frontera Hidalgo, Chiapas",Chiapas,14.7531678,-92.2161368344744,S,PG1529,S-PG1529-2,15,26599,1,0,13,17,7,35
+"Palizada, Campeche","Palizada, Campeche",Campeche,18.2549484,-92.0907089,S,PG1534,S-PG1534-3,15,35231,0,1,3,0,0,3
+"San Miguel de Allende, Guanajuato","San Miguel de Allende, Guanajuato",Guanajuato,20.9142238,-100.743784,C,PG1070,C-PG1070-3,15,80,0,0,0,1,6,23
+"Isla, Veracruz","Isla, Veracruz",Veracruz,18.0276212,-95.5281332,G,PG1339,G-PG1339-5,15,3222,0,0,3,0,0,12
+"Aldama, Tamaulipas","Aldama, Tamaulipas",Tamaulipas,22.9196081,-98.0741727,G,PG1229,G-PG1229-1,14,14,0,0,3,0,0,16
+"Zihuatanejo de Azueta, Guerrero","Zihuatanejo de Azueta, Guerrero",Guerrero,17.80789995,-101.496952435006,P,PG1027,P-PG1027-1,14,14,1,0,1,0,0,1
+"Santiago Niltepec, Oaxaca","Santiago Niltepec, Oaxaca",Oaxaca,16.5614134,-94.6131085,S,PG1415,S-PG1415-1,14,297,0,1,4,0,0,7
+"Villa de Tezontepec, Hidalgo","Villa de Tezontepec, Hidalgo",Hidalgo,19.9143587,-98.8003276778997,C,PG1186,C-PG1186-4,14,120,1,1,1,1,1,5
+"Hueyotlipan, Tlaxcala","Hueyotlipan, Tlaxcala",Tlaxcala,19.469444,-98.348056,C,PG1185,C-PG1185-13,14,3189,1,0,0,4,2,0
+"Tizayuca, Hidalgo","Tizayuca, Hidalgo",Hidalgo,19.841245,-98.9815648,C,PG1186,C-PG1186-1,14,120,0,1,1,1,1,5
+"Tierra Blanca, Veracruz","Tierra Blanca, Veracruz",Veracruz,18.5272475,-96.2152007748733,G,PG1301,G-PG1301-8,13,1751,0,0,3,1,1,12
+"Miahuatlan de Porfirio Diaz, Oaxaca","Miahuatlan de Porfirio Diaz, Oaxaca",Oaxaca,16.3610815,-96.5850578538718,S,PG1298,S-PG1298-5,13,464,0,0,4,0,0,7
+"Asuncion Nochixtlan, Oaxaca","Asuncion Nochixtlan, Oaxaca",Oaxaca,17.457222,-97.225,S,PG1260,S-PG1260-5,13,146,0,0,4,0,0,7
+"Sanctorum de Lazaro Cardenas, Tlaxcala","Sanctorum de Lazaro Cardenas, Tlaxcala",Tlaxcala,19.4925,-98.471944,C,PG1185,C-PG1185-10,13,3189,0,0,0,1,2,0
+"Tulum, Quintana Roo","Tulum, Quintana Roo",Quintana Roo,20.1692965,-87.4495481261673,S,PG1810,S-PG1810-1,13,13,0,0,2,0,0,0
+"Paras, Nuevo Leon","Paras, Nuevo Leon",Nuevo Leon,26.4993853,-99.5229954,G,PG1156,G-PG1156-1,13,29,0,1,0,0,0,0
+"Ixtapaluca, Estado de Mexico","Ixtapaluca, Estado de Mexico",Estado de Mexico,19.3129326,-98.8840481,C,PG1185,C-PG1185-3,11,3189,1,0,1,14,2,10
+"Doctor Arroyo, Nuevo Leon","Doctor Arroyo, Nuevo Leon",Nuevo Leon,23.80420455,-100.225663498075,G,PG1113,G-PG1113-1,11,11,0,0,0,0,0,0
+"Culiacan, Sinaloa","Culiacan, Sinaloa",Sinaloa,24.7978965,-107.393395,P,PG725,P-PG725-1,11,11,0,0,1,0,0,7
+"El Espinal, Oaxaca","El Espinal, Oaxaca",Oaxaca,16.4609135,-95.0581833048719,S,PG1376,S-PG1376-5,10,4325,1,1,4,1,2,7
+"Santa Maria Coyotepec, Oaxaca","Santa Maria Coyotepec, Oaxaca",Oaxaca,16.9716988,-96.7108042440475,S,PG1298,S-PG1298-3,10,464,1,0,4,2,0,7
+"Minatitlan, Veracruz","Minatitlan, Veracruz",Veracruz,17.992773,-94.5567103,G,PG1417,G-PG1417-2,10,4549,0,0,3,3,3,12
+"Ciudad Ixtepec, Oaxaca","Ciudad Ixtepec, Oaxaca",Oaxaca,16.5564139,-95.0959653,S,PG1376,S-PG1376-4,10,4325,1,1,4,1,2,7
+"Santa Cruz Quilehtla, Tlaxcala","Santa Cruz Quilehtla, Tlaxcala",Tlaxcala,19.212222,-98.221111,C,PG1224,C-PG1224-4,9,5419,2,1,0,8,3,0
+"Salto de Agua, Chiapas","Salto de Agua, Chiapas",Chiapas,17.4348976,-92.2248024988609,S,PG1533,S-PG1533-2,9,12,1,0,13,0,0,35
+"Bacalar, Quintana Roo","Bacalar, Quintana Roo",Quintana Roo,18.6782559,-88.3922556,S,PG1769,S-PG1769-1,9,9,2,2,2,0,0,0
+"Gutierrez Zamora, Veracruz","Gutierrez Zamora, Veracruz",Veracruz,20.456991,-97.085536109707,G,PG1264,G-PG1264-2,9,74,0,0,3,1,1,12
+"Manzanillo, Colima","Manzanillo, Colima",Colima,19.0506256,-104.3159957,P,PG872,P-PG872-1,9,9,0,0,0,0,0,0
+"Gonzalez, Tamaulipas","Gonzalez, Tamaulipas",Tamaulipas,22.79038735,-98.5763189554293,G,PG1190,G-PG1190-2,8,14,0,0,3,0,0,16
+"Motozintla, Chiapas","Motozintla, Chiapas",Chiapas,15.3050827,-92.3488036187158,S,PG1530,S-PG1530-6,8,142180,2,4,13,1,11,35
+"Seybaplaya, Campeche","Seybaplaya, Campeche",Campeche,19.60337225,-90.6253669555515,S,PG1614,S-PG1614-2,8,158,0,0,3,0,0,3
+"Celaya, Guanajuato","Celaya, Guanajuato",Guanajuato,20.521788,-100.8140458,C,PG1070,C-PG1070-1,8,80,0,0,0,4,6,23
+"Zacatelco, Tlaxcala","Zacatelco, Tlaxcala",Tlaxcala,19.215833,-98.239722,C,PG1224,C-PG1224-3,8,5419,2,1,0,8,3,0
+"Puente de Ixtla, Morelos","Puente de Ixtla, Morelos",Morelos,18.6171111,-99.3192092,C,PG1145,C-PG1145-1,8,43,0,0,0,2,2,3
+"Panuco, Veracruz","Panuco, Veracruz",Veracruz,22.08052495,-98.232957921869,G,PG1228,G-PG1228-1,8,1407,0,1,3,0,3,12
+"Juan Rodriguez Clara, Veracruz","Juan Rodriguez Clara, Veracruz",Veracruz,17.97320895,-95.344127993385,G,PG1378,G-PG1378-1,8,45863,0,1,3,0,2,12
+"Villa Corzo, Chiapas","Villa Corzo, Chiapas",Chiapas,16.0631888,-93.2650025252038,S,PG1492,S-PG1492-1,8,11305,0,1,13,0,1,35
+"Tihuatlan, Veracruz","Tihuatlan, Veracruz",Veracruz,20.716735,-97.5367859622192,G,PG1265,G-PG1265-1,8,368,0,0,3,0,1,12
+"Imuris, Sonora","Imuris, Sonora",Sonora,30.7874899,-110.8463861,P,PG538,P-PG538-1,7,7,0,0,2,0,0,23
+"Copainala, Chiapas","Copainala, Chiapas",Chiapas,17.0930214,-93.2102105,S,PG1494,S-PG1494-1,7,19322,0,0,13,0,0,35
+"Los Ramones, Nuevo Leon","Los Ramones, Nuevo Leon",Nuevo Leon,25.6973768,-99.6250811,G,PG1155,G-PG1155-1,7,2066,0,0,0,0,0,0
+"Coyoacan, Ciudad de Mexico","Coyoacan, Ciudad de Mexico",Ciudad de Mexico,19.349885,-99.1623599,C,PG1146,C-PG1146-8,7,15044,1,1,0,62,64,67
+"Temixco, Morelos","Temixco, Morelos",Morelos,18.8449428,-99.2236369,C,PG1145,C-PG1145-4,7,43,0,0,0,2,2,3
+"Tocatlan, Tlaxcala","Tocatlan, Tlaxcala",Tlaxcala,19.389167,-98.03,C,PG1224,C-PG1224-19,7,5419,1,1,0,3,3,0
+"Texistepec, Veracruz","Texistepec, Veracruz",Veracruz,17.894167,-94.816389,G,PG1378,G-PG1378-5,7,45863,1,1,3,2,2,12
+"San Dionisio Ocotepec, Oaxaca","San Dionisio Ocotepec, Oaxaca",Oaxaca,16.7975187,-96.3960971,S,PG1298,S-PG1298-7,7,464,0,0,4,0,0,7
+"Santiago Pinotepa Nacional, Oaxaca","Santiago Pinotepa Nacional, Oaxaca",Oaxaca,16.3406076,-98.0536701,S,PG1220,S-PG1220-1,7,38,0,0,4,0,0,7
+"Santa Lucia del Camino, Oaxaca","Santa Lucia del Camino, Oaxaca",Oaxaca,17.0625,-96.693333,S,PG1299,S-PG1299-12,6,2832,1,1,4,2,2,7
+"Ocampo, Guanajuato","Ocampo, Guanajuato",Guanajuato,21.6042823,-101.476239300191,C,PG1032,C-PG1032-1,6,6,0,0,0,0,0,23
+"Nogales, Veracruz","Nogales, Veracruz",Veracruz,18.8226013,-97.1627659,G,PG1262,G-PG1262-1,6,1970,0,0,3,1,1,12
+"El Mante, Tamaulipas","El Mante, Tamaulipas",Tamaulipas,22.60787365,-98.9353414059303,G,PG1190,G-PG1190-1,6,14,0,0,3,0,0,16
+"San Jose Tenango, Oaxaca","San Jose Tenango, Oaxaca",Oaxaca,18.15,-96.716667,S,PG1300,S-PG1300-1,6,6,0,0,4,0,0,7
+"Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato","Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato",Guanajuato,21.1043597,-100.7259581,C,PG1070,C-PG1070-4,6,80,0,0,0,2,6,23
+"Tezonapa, Veracruz","Tezonapa, Veracruz",Veracruz,18.5587309,-96.782341148248,G,PG1301,G-PG1301-3,6,1751,0,0,3,0,1,12
+"Guerrero, Coahuila","Guerrero, Coahuila",Coahuila,28.3093253,-100.3805564,C,PG1120,C-PG1120-1,6,6,0,0,4,0,0,27
+"Colima, Colima","Colima, Colima",Colima,19.2448781553705,-103.725030676615,P,PG912,P-PG912-2,6,9,0,0,0,0,0,0
+"Salamanca, Guanajuato","Salamanca, Guanajuato",Guanajuato,20.571358,-101.192444,C,PG1031,C-PG1031-3,6,52,0,0,0,6,8,23
+"Valladolid, Yucatan","Valladolid, Yucatan",Yucatan,20.6902505,-88.2016999,S,PG1772,S-PG1772-1,5,5,0,0,1,0,0,2
+"Villaflores, Chiapas","Villaflores, Chiapas",Chiapas,16.37550225,-93.3589334041931,S,PG1493,S-PG1493-1,5,15426,0,1,13,0,3,35
+"San Bartolo Coyotepec, Oaxaca","San Bartolo Coyotepec, Oaxaca",Oaxaca,16.9575983,-96.7066199,S,PG1298,S-PG1298-4,5,464,1,0,4,2,0,7
+"Cedral, San Luis Potosi","Cedral, San Luis Potosi",San Luis Potosi,23.8205361,-100.7242892,C,PG1074,C-PG1074-1,5,5,0,0,1,0,0,4
+"San Jeronimo Zacualpan, Tlaxcala","San Jeronimo Zacualpan, Tlaxcala",Tlaxcala,19.240833,-98.261389,C,PG1224,C-PG1224-1,4,5419,2,1,0,8,3,0
+"Apan, Hidalgo","Apan, Hidalgo",Hidalgo,19.7098559,-98.4502318,C,PG1185,C-PG1185-11,4,3189,0,0,1,0,2,5
+"Ahome, Sinaloa","Ahome, Sinaloa",Sinaloa,25.9240491,-109.205834408303,P,PG609,P-PG609-1,4,4,0,0,1,0,0,7
+"Aramberri, Nuevo Leon","Aramberri, Nuevo Leon",Nuevo Leon,24.22172555,-99.9241345206951,G,PG1114,G-PG1114-1,4,4,0,0,0,0,0,0
+"Emiliano Zapata, Morelos","Emiliano Zapata, Morelos",Morelos,18.83995,-99.1870274,C,PG1145,C-PG1145-5,4,43,0,0,0,2,2,3
+"Santa Maria Atzompa, Oaxaca","Santa Maria Atzompa, Oaxaca",Oaxaca,17.1011053,-96.7777739,S,PG1299,S-PG1299-5,4,2832,1,1,4,2,2,7
+"San Felipe, Baja California","San Felipe, Baja California",Baja California,31.0269529,-114.839607,P,PG305,P-PG305-1,4,4,0,0,2,0,0,59
+"San Cristobal Suchixtlahuaca, Oaxaca","San Cristobal Suchixtlahuaca, Oaxaca",Oaxaca,17.7265261,-97.3666425,S,PG1261,S-PG1261-2,4,138,0,0,4,0,0,7
+"Tolcayuca, Hidalgo","Tolcayuca, Hidalgo",Hidalgo,19.956667,-98.920278,C,PG1186,C-PG1186-3,3,120,1,1,1,1,1,5
+"Nava, Coahuila","Nava, Coahuila",Coahuila,28.4217309,-100.7674167,C,PG1081,C-PG1081-2,3,21493,0,1,4,0,5,27
+"Progreso, Yucatan","Progreso, Yucatan",Yucatan,21.2822136,-89.6636637,S,PG1695,S-PG1695-1,3,3,0,0,1,0,0,2
+"Villa Aldama, Veracruz","Villa Aldama, Veracruz",Veracruz,19.6489805,-97.2228382,G,PG1263,G-PG1263-2,3,115,0,0,3,0,4,12
+"Yajalon, Chiapas","Yajalon, Chiapas",Chiapas,17.1768885,-92.3519609858044,S,PG1533,S-PG1533-1,3,12,0,0,13,0,0,35
+"San Sebastian Tutla, Oaxaca","San Sebastian Tutla, Oaxaca",Oaxaca,17.059722,-96.672222,S,PG1299,S-PG1299-13,3,2832,1,1,4,2,2,7
+"Jantetelco, Morelos","Jantetelco, Morelos",Morelos,18.7167516,-98.7766172,C,PG1184,C-PG1184-1,3,3,0,0,0,0,0,3
+"Soledad de Doblado, Veracruz","Soledad de Doblado, Veracruz",Veracruz,19.0452067,-96.4233756,G,PG1301,G-PG1301-6,3,1751,0,0,3,0,1,12
+"Cintalapa de Figueroa, Chiapas","Cintalapa de Figueroa, Chiapas",Chiapas,16.6905402,-93.7257625,S,PG1454,S-PG1454-1,3,1906,0,0,13,0,0,35
+"Pueblo Viejo, Veracruz","Pueblo Viejo, Veracruz",Veracruz,22.1638426,-97.8985550734824,G,PG1228,G-PG1228-3,3,1407,1,1,3,3,3,12
+"San Pedro Mixtepec -Dto. 22 -, Oaxaca","San Pedro Mixtepec -Dto. 22 -, Oaxaca",Oaxaca,16.271111,-96.2825,S,PG1297,S-PG1297-4,3,210,0,1,4,0,0,7
+"Nanacamilpa de Mariano Arista, Tlaxcala","Nanacamilpa de Mariano Arista, Tlaxcala",Tlaxcala,19.5080315,-98.5432407645627,C,PG1185,C-PG1185-9,2,3189,0,0,0,1,2,0
+"Tecamac, Estado de Mexico","Tecamac, Estado de Mexico",Estado de Mexico,19.7115011,-98.968354,C,PG1185,C-PG1185-1,2,3189,0,0,1,4,2,10
+"Xalatlaco, Estado de Mexico","Xalatlaco, Estado de Mexico",Estado de Mexico,19.1843821,-99.4145622,C,PG1146,C-PG1146-3,2,15044,0,1,1,8,64,10
+"Ocoyoacac, Estado de Mexico","Ocoyoacac, Estado de Mexico",Estado de Mexico,19.2587373,-99.4177778597143,C,PG1146,C-PG1146-2,2,15044,0,1,1,20,64,10
+"Cuautitlan, Estado de Mexico","Cuautitlan, Estado de Mexico",Estado de Mexico,19.6531356,-99.2145002,C,PG1146,C-PG1146-6,2,15044,0,1,1,35,64,10
+"Tres Valles, Veracruz","Tres Valles, Veracruz",Veracruz,18.2921576,-96.1664119682439,G,PG1339,G-PG1339-1,2,3222,0,0,3,1,0,12
+"San Agustin de las Juntas, Oaxaca","San Agustin de las Juntas, Oaxaca",Oaxaca,17.005436,-96.7092291,S,PG1299,S-PG1299-10,2,2832,1,1,4,2,2,7
+"Villa de Tamazulapam del Progreso, Oaxaca","Villa de Tamazulapam del Progreso, Oaxaca",Oaxaca,17.6748203,-97.5720083,S,PG1260,S-PG1260-1,2,146,0,0,4,0,0,7
+"Cunduacan, Tabasco","Cunduacan, Tabasco",Tabasco,18.066059,-93.173675,G,PG1495,G-PG1495-4,2,92612,1,1,3,0,0,0
+"Actopan, Hidalgo","Actopan, Hidalgo",Hidalgo,20.2687373,-98.9431476,C,PG1186,C-PG1186-2,2,120,1,1,1,1,1,5
+"Paraiso, Tabasco","Paraiso, Tabasco",Tabasco,18.3987331,-93.2125326,G,PG1495,G-PG1495-3,2,92612,0,1,3,0,0,0
+"Tetla de la Solidaridad, Tlaxcala","Tetla de la Solidaridad, Tlaxcala",Tlaxcala,19.440556,-98.103333,C,PG1224,C-PG1224-16,2,5419,1,1,0,3,3,0
+"Xochitepec, Morelos","Xochitepec, Morelos",Morelos,18.7831747,-99.2308448,C,PG1145,C-PG1145-3,2,43,0,0,0,2,2,3
+"Munoz de Domingo Arenas, Tlaxcala","Munoz de Domingo Arenas, Tlaxcala",Tlaxcala,19.474722,-98.208056,C,PG1224,C-PG1224-6,2,5419,1,1,0,3,3,0
+"Tecolutla, Veracruz","Tecolutla, Veracruz",Veracruz,20.41847865,-96.9936370355502,G,PG1264,G-PG1264-4,2,74,0,0,3,0,1,12
+"Atitalaquia, Hidalgo","Atitalaquia, Hidalgo",Hidalgo,20.0597395,-99.213288197313,C,PG1147,C-PG1147-5,2,3850,0,0,1,3,3,5
+"Papalotla de Xicohtencatl, Tlaxcala","Papalotla de Xicohtencatl, Tlaxcala",Tlaxcala,19.168611,-98.203889,C,PG1224,C-PG1224-7,2,5419,2,1,0,9,3,0
+"Leon, Guanajuato","Leon, Guanajuato",Guanajuato,21.1218598,-101.6825081,C,PG1031,C-PG1031-1,2,52,0,0,0,2,8,23
+"San Lorenzo Cacaotepec, Oaxaca","San Lorenzo Cacaotepec, Oaxaca",Oaxaca,17.1278714,-96.8017692,S,PG1299,S-PG1299-3,2,2832,1,1,4,2,2,7
+"Bahia de Banderas, Nayarit","Bahia de Banderas, Nayarit",Nayarit,20.8290434,-105.317508736965,P,PG797,P-PG797-1,2,2,0,0,0,0,0,5
+"Perote, Veracruz","Perote, Veracruz",Veracruz,19.51086405,-97.2685344806973,G,PG1263,G-PG1263-1,2,115,0,0,3,0,4,12
+"San Pablo del Monte, Tlaxcala","San Pablo del Monte, Tlaxcala",Tlaxcala,19.12695185,-98.1653957169548,C,PG1224,C-PG1224-14,2,5419,2,1,0,7,3,0
+"Acacoyagua, Chiapas","Acacoyagua, Chiapas",Chiapas,15.4060577,-92.6972939305788,S,PG1530,S-PG1530-1,2,142180,0,4,13,0,11,35
+"Ixtaczoquitlan, Veracruz","Ixtaczoquitlan, Veracruz",Veracruz,18.85134015,-97.0271071244907,G,PG1262,G-PG1262-5,2,1970,0,0,3,1,1,12
+"Villa Tejupam de la Union, Oaxaca","Villa Tejupam de la Union, Oaxaca",Oaxaca,17.6625,-97.470833,S,PG1260,S-PG1260-2,2,146,0,0,4,0,0,7
+"Villa de Etla, Oaxaca","Villa de Etla, Oaxaca",Oaxaca,17.2057678,-96.7981939,S,PG1299,S-PG1299-4,2,2832,1,1,4,2,2,7
+"Villa de Alvarez, Colima","Villa de Alvarez, Colima",Colima,19.2651417,-103.736013,P,PG912,P-PG912-1,2,9,0,0,0,0,0,0
+"Ixmiquilpan, Hidalgo","Ixmiquilpan, Hidalgo",Hidalgo,20.481944,-99.218056,C,PG1147,C-PG1147-4,1,3850,0,0,1,0,3,5
+"Santa Maria Tonameca, Oaxaca","Santa Maria Tonameca, Oaxaca",Oaxaca,15.745833,-96.547222,S,PG1297,S-PG1297-1,1,210,1,1,4,0,0,7
+"Tepoztlan, Morelos","Tepoztlan, Morelos",Morelos,18.9914959,-99.1025453272487,C,PG1145,C-PG1145-6,1,43,0,0,0,2,2,3
+"Siltepec, Chiapas","Siltepec, Chiapas",Chiapas,15.5561492,-92.3226035,S,PG1530,S-PG1530-7,1,142180,0,4,13,0,11,35
+"Calkini, Campeche","Calkini, Campeche",Campeche,20.3695121,-90.0510784,S,PG1654,S-PG1654-3,1,1777,0,1,3,0,0,3
+"Acambay de Ruiz Castaneda, Estado de Mexico","Acambay de Ruiz Castaneda, Estado de Mexico",Estado de Mexico,19.95904705,-99.8480208629308,C,PG1108,C-PG1108-3,1,1347,0,0,1,0,0,10
+"Alfajayucan, Hidalgo","Alfajayucan, Hidalgo",Hidalgo,20.410277,-99.4031534355859,C,PG1147,C-PG1147-1,1,3850,0,0,1,0,3,5
+"Teopisca, Chiapas","Teopisca, Chiapas",Chiapas,16.5420839,-92.4736561,S,PG1532,S-PG1532-3,1,1269,0,1,13,2,3,35
+"San Pedro Ixtlahuaca, Oaxaca","San Pedro Ixtlahuaca, Oaxaca",Oaxaca,17.063056,-96.818056,S,PG1299,S-PG1299-2,1,2832,1,1,4,2,2,7
+"Naucalpan de Juarez, Estado de Mexico","Naucalpan de Juarez, Estado de Mexico",Estado de Mexico,19.4788356,-99.2327986,C,PG1146,C-PG1146-4,1,15044,1,1,1,62,64,10
+"Amecameca, Estado de Mexico","Amecameca, Estado de Mexico",Estado de Mexico,19.1200254,-98.7065318136262,C,PG1185,C-PG1185-5,1,3189,0,0,1,0,2,10
+"Trinidad Zaachila, Oaxaca","Trinidad Zaachila, Oaxaca",Oaxaca,16.921389,-96.765,S,PG1298,S-PG1298-1,1,464,1,0,4,2,0,7
+"Santa Maria del Tule, Oaxaca","Santa Maria del Tule, Oaxaca",Oaxaca,17.0476822,-96.6334574,S,PG1299,S-PG1299-14,1,2832,1,1,4,2,2,7
+"San Antonio de la Cal, Oaxaca","San Antonio de la Cal, Oaxaca",Oaxaca,17.028333,-96.700556,S,PG1299,S-PG1299-11,1,2832,1,1,4,2,2,7
+"Guasave, Sinaloa","Guasave, Sinaloa",Sinaloa,25.5738,-108.4674697,P,PG648,P-PG648-1,1,1,0,0,1,1,1,7
+"Montemorelos, Nuevo Leon","Montemorelos, Nuevo Leon",Nuevo Leon,25.1886604,-99.8293539,G,PG1115,G-PG1115-2,1,5408,0,0,0,0,0,0
+"Zapotlan el Grande, Jalisco","Zapotlan el Grande, Jalisco",Jalisco,19.6973465,-103.510648021864,P,PG912,P-PG912-3,1,9,0,0,1,0,0,11
+"Buenavista, Michoacan","Buenavista, Michoacan",Michoacan,19.21451245,-102.555157985076,P,PG951,P-PG951-1,1,1,0,0,0,0,0,1
+"Apatzingan, Michoacan","Apatzingan, Michoacan",Michoacan,19.0913792,-102.3537356,P,PG989,P-PG989-1,1,1,0,0,0,0,0,1
+"Lazaro Cardenas, Michoacan","Lazaro Cardenas, Michoacan",Michoacan,17.9594769,-102.198659,P,PG988,P-PG988-1,1,1,0,0,0,0,0,1
+"Apaseo el Alto, Guanajuato","Apaseo el Alto, Guanajuato",Guanajuato,20.4562767,-100.621263,C,PG1069,C-PG1069-2,1,177,0,0,0,6,1,23
+"El Salto, Jalisco","El Salto, Jalisco",Jalisco,20.5196964,-103.1813141,P,PG953,P-PG953-1,1,1,1,0,1,9,0,11
+"San Pedro Garza Garcia, Nuevo Leon","San Pedro Garza Garcia, Nuevo Leon",Nuevo Leon,25.6651753,-100.4018251,G,PG1077,G-PG1077-4,1,3478,1,1,0,11,9,0
+"Jerez, Zacatecas","Jerez, Zacatecas",Zacatecas,22.7105933,-103.00147264243,C,PG956,C-PG956-1,1,43,0,1,0,0,2,0
+"Cuitzeo, Michoacan","Cuitzeo, Michoacan",Michoacan,19.9693141,-101.1412203,P,PG1030,P-PG1030-1,1,1,0,0,0,0,1,1
+"Uruapan, Michoacan","Uruapan, Michoacan",Michoacan,19.4147269,-102.0522647,P,PG990,P-PG990-1,1,1,0,0,0,0,0,1
+"Coatepec, Veracruz","Coatepec, Veracruz",Veracruz,19.4543134,-96.9596375,G,PG1263,G-PG1263-3,1,115,0,0,3,4,4,12
+"Alamo Temapache, Veracruz","Alamo Temapache, Veracruz",Veracruz,20.9951932,-97.7557841914082,G,PG1226,G-PG1226-1,1,1,0,0,3,0,0,12
+"San Juan Evangelista, Veracruz","San Juan Evangelista, Veracruz",Veracruz,17.76252635,-95.2304293935886,G,PG1378,G-PG1378-2,1,45863,0,1,3,0,2,12
+"Emiliano Zapata, Hidalgo","Emiliano Zapata, Hidalgo",Hidalgo,19.6546865,-98.544552,C,PG1185,C-PG1185-8,1,3189,0,0,1,0,2,5
+"Pantepec, Chiapas","Pantepec, Chiapas",Chiapas,17.1944142,-93.0524660849375,S,PG1494,S-PG1494-2,1,19322,0,0,13,0,0,35
+"Epazoyucan, Hidalgo","Epazoyucan, Hidalgo",Hidalgo,20.0181268,-98.6364294,C,PG1186,C-PG1186-7,1,120,1,1,1,1,1,5
+"Huasca de Ocampo, Hidalgo","Huasca de Ocampo, Hidalgo",Hidalgo,20.2231549,-98.5552467331717,C,PG1186,C-PG1186-8,1,120,1,1,1,1,1,5
+"Jimenez, Tamaulipas","Jimenez, Tamaulipas",Tamaulipas,24.2169169,-98.483929,G,PG1192,G-PG1192-1,1,1,0,0,3,0,0,16
+"Santiago Juxtlahuaca, Oaxaca","Santiago Juxtlahuaca, Oaxaca",Oaxaca,17.334443,-98.010574,S,PG1221,S-PG1221-1,1,1,0,0,4,0,0,7
+"San Juan Huactzinco, Tlaxcala","San Juan Huactzinco, Tlaxcala",Tlaxcala,19.2329326,-98.2520375,C,PG1224,C-PG1224-2,1,5419,2,1,0,8,3,0
+"Amaxac de Guerrero, Tlaxcala","Amaxac de Guerrero, Tlaxcala",Tlaxcala,19.348889,-98.167778,C,PG1224,C-PG1224-12,1,5419,1,1,0,3,3,0
+"Chicomuselo, Chiapas","Chicomuselo, Chiapas",Chiapas,15.7935524,-92.4192662013789,S,PG1531,S-PG1531-1,1,1317,0,4,13,0,2,35
+"Carlos A. Carrillo, Veracruz","Carlos A. Carrillo, Veracruz",Veracruz,18.32836115,-95.7154033804156,G,PG1339,G-PG1339-4,1,3222,0,0,3,0,0,12
+"Puerto Penasco, Sonora","Puerto Penasco, Sonora",Sonora,31.3170867,-113.531819,P,PG383,P-PG383-1,1,1,0,0,2,0,0,23
