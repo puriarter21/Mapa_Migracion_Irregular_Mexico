@@ -1,0 +1,23 @@
+nombre,ciudad,estado,latitud,longitud,codigo_ruta,ID_Poligono,codigo_unico,eventos,eventos_in_grid,inm_30km,inm_in_grid,inm_in_estado,sc_30km,sc_in_grid,sc_in_estado,promedio_eventos,Order
+"Frontera Comalapa, Chiapas","Frontera Comalapa, Chiapas",Chiapas,15.6590135,-92.1422219,S,PG1531,S-PG1531-3,802,1317,2,4,13,0,2,35,329.0,0
+"San Cristobal de las Casas, Chiapas","San Cristobal de las Casas, Chiapas",Chiapas,16.6835469,-92.6155184199116,S,PG1532,S-PG1532-1,745,1269,1,1,13,2,3,35,317.0,1
+"Tuxtla Gutierrez, Chiapas","Tuxtla Gutierrez, Chiapas",Chiapas,16.753801,-93.115959,S,PG1493,S-PG1493-3,15141,15426,1,1,13,3,3,35,3856.0,2
+"Ocozocoautla de Espinosa, Chiapas","Ocozocoautla de Espinosa, Chiapas",Chiapas,16.7931431,-93.4569635533782,S,PG1454,S-PG1454-3,1226,1906,0,0,13,0,0,35,635.0,3
+"San Pedro Tapanatepec, Oaxaca","San Pedro Tapanatepec, Oaxaca",Oaxaca,16.3689223,-94.1927528,S,PG1415,S-PG1415-2,283,297,1,1,4,0,0,7,148.0,4
+"Juchitan de Zaragoza, Oaxaca","Juchitan de Zaragoza, Oaxaca",Oaxaca,16.413329,-94.9118794582709,S,PG1376,S-PG1376-7,2625,4325,1,1,4,1,2,7,618.0,5
+"Tlacolula de Matamoros, Oaxaca","Tlacolula de Matamoros, Oaxaca",Oaxaca,16.9314623,-96.4611074593091,S,PG1298,S-PG1298-6,351,464,0,0,4,0,0,7,66.0,7
+"Oaxaca de Juarez, Oaxaca","Oaxaca de Juarez, Oaxaca",Oaxaca,17.0604663,-96.7253575,S,PG1299,S-PG1299-9,1270,2832,1,1,4,2,2,7,202.0,8
+"San Jose Tenango, Oaxaca","San Jose Tenango, Oaxaca",Oaxaca,18.15,-96.716667,S,PG1300,S-PG1300-1,6,6,0,0,4,0,0,7,6.0,9
+"Alvarado, Veracruz","Alvarado, Veracruz",Veracruz,18.82874235,-95.9238540059007,G,PG1340,G-PG1340-2,59,86,0,0,3,0,0,12,43.0,10
+"Veracruz, Veracruz","Veracruz, Veracruz",Veracruz,19.333333,-96.666667,G,PG1302,G-PG1302-1,2478,2638,0,0,3,0,0,12,1319.0,12
+"Xalapa, Veracruz","Xalapa, Veracruz",Veracruz,19.5408338,-96.9146374,G,PG1263,G-PG1263-4,109,115,0,0,3,4,4,12,29.0,13
+"Papantla, Veracruz","Papantla, Veracruz",Veracruz,20.4458721,-97.3232777494493,G,PG1264,G-PG1264-1,48,74,0,0,3,1,1,12,18.0,14
+"Tuxpan, Veracruz","Tuxpan, Veracruz",Veracruz,20.95647915,-97.4073817712075,G,PG1265,G-PG1265-3,231,368,0,0,3,1,1,12,123.0,15
+"Alamo Temapache, Veracruz","Alamo Temapache, Veracruz",Veracruz,20.9951932,-97.7557841914082,G,PG1226,G-PG1226-1,1,1,0,0,3,0,0,12,1.0,16
+"Ozuluama de Mascarenas, Veracruz","Ozuluama de Mascarenas, Veracruz",Veracruz,21.661111,-97.850556,G,PG1227,G-PG1227-1,74,95,0,0,3,0,0,12,48.0,17
+"Altamira, Tamaulipas","Altamira, Tamaulipas",Tamaulipas,22.3921625,-97.9362975,G,PG1228,G-PG1228-2,833,1407,1,1,3,3,3,16,352.0,18
+"Gonzalez, Tamaulipas","Gonzalez, Tamaulipas",Tamaulipas,22.79038735,-98.5763189554293,G,PG1190,G-PG1190-2,8,14,0,0,3,0,0,16,7.0,19
+"Aldama, Tamaulipas","Aldama, Tamaulipas",Tamaulipas,22.9196081,-98.0741727,G,PG1229,G-PG1229-1,14,14,0,0,3,0,0,16,14.0,20
+"Jimenez, Tamaulipas","Jimenez, Tamaulipas",Tamaulipas,24.2169169,-98.483929,G,PG1192,G-PG1192-1,1,1,0,0,3,0,0,16,1.0,22
+"San Fernando, Tamaulipas","San Fernando, Tamaulipas",Tamaulipas,24.8466769,-98.1473493,G,PG1232,G-PG1232-1,673,673,0,0,3,0,0,16,673.0,23
+"Reynosa, Tamaulipas","Reynosa, Tamaulipas",Tamaulipas,26.0907673,-98.2788191,G,PG1233,G-PG1233-1,6356,6414,0,0,3,2,2,16,3207.0,24

@@ -1,0 +1,30 @@
+nombre,ciudad,estado,latitud,longitud,codigo_ruta,ID_Poligono,codigo_unico,eventos,eventos_in_grid,inm_30km,inm_in_grid,inm_in_estado,sc_30km,sc_in_grid,sc_in_estado,promedio_eventos,Order
+"Frontera Comalapa, Chiapas","Frontera Comalapa, Chiapas",Chiapas,15.6590135,-92.1422219,S,PG1531,S-PG1531-3,802,1317,2,4,13,0,2,35,329.0,0
+"San Cristobal de las Casas, Chiapas","San Cristobal de las Casas, Chiapas",Chiapas,16.6835469,-92.6155184199116,S,PG1532,S-PG1532-1,745,1269,1,1,13,2,3,35,317.0,1
+"Tuxtla Gutierrez, Chiapas","Tuxtla Gutierrez, Chiapas",Chiapas,16.753801,-93.115959,S,PG1493,S-PG1493-3,15141,15426,1,1,13,3,3,35,3856.0,2
+"Ocozocoautla de Espinosa, Chiapas","Ocozocoautla de Espinosa, Chiapas",Chiapas,16.7931431,-93.4569635533782,S,PG1454,S-PG1454-3,1226,1906,0,0,13,0,0,35,635.0,3
+"San Pedro Tapanatepec, Oaxaca","San Pedro Tapanatepec, Oaxaca",Oaxaca,16.3689223,-94.1927528,S,PG1415,S-PG1415-2,283,297,1,1,4,0,0,7,148.0,4
+"Juchitan de Zaragoza, Oaxaca","Juchitan de Zaragoza, Oaxaca",Oaxaca,16.413329,-94.9118794582709,S,PG1376,S-PG1376-7,2625,4325,1,1,4,1,2,7,618.0,5
+"Tlacolula de Matamoros, Oaxaca","Tlacolula de Matamoros, Oaxaca",Oaxaca,16.9314623,-96.4611074593091,S,PG1298,S-PG1298-6,351,464,0,0,4,0,0,7,66.0,7
+"Oaxaca de Juarez, Oaxaca","Oaxaca de Juarez, Oaxaca",Oaxaca,17.0604663,-96.7253575,S,PG1299,S-PG1299-9,1270,2832,1,1,4,2,2,7,202.0,8
+"San Francisco Telixtlahuaca, Oaxaca","San Francisco Telixtlahuaca, Oaxaca",Oaxaca,17.296628,-96.9056112,S,PG1260,S-PG1260-6,49,146,0,0,4,0,0,7,24.0,9
+"Chilpancingo de los Bravo, Guerrero","Chilpancingo de los Bravo, Guerrero",Guerrero,17.5542149,-99.5048416,P,PG1143,P-PG1143-1,30,30,0,0,1,0,0,1,30.0,12
+"Acapulco de Juarez, Guerrero","Acapulco de Juarez, Guerrero",Guerrero,16.8680495,-99.8940182,P,PG1103,P-PG1103-1,32,32,0,0,1,1,1,1,32.0,13
+"Zihuatanejo de Azueta, Guerrero","Zihuatanejo de Azueta, Guerrero",Guerrero,17.80789995,-101.496952435006,P,PG1027,P-PG1027-1,14,14,1,0,1,0,0,1,14.0,17
+"Lazaro Cardenas, Michoacan","Lazaro Cardenas, Michoacan",Michoacan,17.9594769,-102.198659,P,PG988,P-PG988-1,1,1,0,0,0,0,0,1,1.0,18
+"Manzanillo, Colima","Manzanillo, Colima",Colima,19.0506256,-104.3159957,P,PG872,P-PG872-1,9,9,0,0,0,0,0,0,9.0,22
+"Bahia de Banderas, Nayarit","Bahia de Banderas, Nayarit",Nayarit,20.8290434,-105.317508736965,P,PG797,P-PG797-1,2,2,0,0,0,0,0,5,2.0,27
+"Tepic, Nayarit","Tepic, Nayarit",Nayarit,21.5119156,-104.8915889,P,PG837,P-PG837-1,219,219,0,0,0,4,4,5,219.0,29
+"Mazatlan, Sinaloa","Mazatlan, Sinaloa",Sinaloa,23.2035785,-106.4208391,P,PG761,P-PG761-1,976,976,1,1,1,6,6,7,976.0,33
+"Culiacan, Sinaloa","Culiacan, Sinaloa",Sinaloa,24.7978965,-107.393395,P,PG725,P-PG725-1,11,11,0,0,1,0,0,7,11.0,37
+"Angostura, Sinaloa","Angostura, Sinaloa",Sinaloa,25.3657471,-108.16152,P,PG647,P-PG647-1,79,79,0,0,1,0,0,7,79.0,39
+"Guasave, Sinaloa","Guasave, Sinaloa",Sinaloa,25.5738,-108.4674697,P,PG648,P-PG648-1,1,1,0,0,1,1,1,7,1.0,40
+"Ahome, Sinaloa","Ahome, Sinaloa",Sinaloa,25.9240491,-109.205834408303,P,PG609,P-PG609-1,4,4,0,0,1,0,0,7,4.0,41
+"Navojoa, Sonora","Navojoa, Sonora",Sonora,27.0721872,-109.4438227,P,PG611,P-PG611-1,823,823,0,0,2,0,0,23,823.0,43
+"Huatabampo, Sonora","Huatabampo, Sonora",Sonora,26.8248431,-109.6420085,P,PG572,P-PG572-1,1045,1045,0,0,2,0,1,23,1045.0,44
+"Cajeme, Sonora","Cajeme, Sonora",Sonora,27.71198065,-109.902207535928,P,PG573,P-PG573-1,1040,1040,0,0,2,0,0,23,1040.0,45
+"Guaymas, Sonora","Guaymas, Sonora",Sonora,27.9216441,-110.8994059,P,PG534,P-PG534-1,860,860,0,0,2,0,0,23,860.0,46
+"Hermosillo, Sonora","Hermosillo, Sonora",Sonora,29.0948207,-110.9692202,P,PG497,P-PG497-1,9637,9637,1,1,2,6,4,23,9637.0,49
+"Santa Ana, Sonora","Santa Ana, Sonora",Sonora,30.5410922,-111.1184881,P,PG499,P-PG499-1,12341,12341,0,0,2,0,0,23,12341.0,51
+"Imuris, Sonora","Imuris, Sonora",Sonora,30.7874899,-110.8463861,P,PG538,P-PG538-1,7,7,0,0,2,0,0,23,7.0,52
+"Agua Prieta, Sonora","Agua Prieta, Sonora",Sonora,31.3305591,-109.5564331,P,PG578,P-PG578-2,35,35,1,1,2,2,3,23,35.0,54
