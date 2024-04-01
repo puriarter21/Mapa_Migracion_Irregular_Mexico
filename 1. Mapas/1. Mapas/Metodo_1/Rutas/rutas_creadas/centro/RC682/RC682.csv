@@ -1,0 +1,29 @@
+nombre,ciudad,estado,latitud,longitud,codigo_ruta,ID_Poligono,codigo_unico,eventos,eventos_in_grid,inm_30km,inm_in_grid,inm_in_estado,sc_30km,sc_in_grid,sc_in_estado,promedio_eventos,Order
+"Tapachula, Chiapas","Tapachula, Chiapas",Chiapas,14.9042905,-92.2609265,S,PG1530,S-PG1530-8,98486,142180,2,4,13,17,11,35,15798.0,0
+"Frontera Comalapa, Chiapas","Frontera Comalapa, Chiapas",Chiapas,15.6590135,-92.1422219,S,PG1531,S-PG1531-3,802,1317,2,4,13,0,2,35,329.0,1
+"San Cristobal de las Casas, Chiapas","San Cristobal de las Casas, Chiapas",Chiapas,16.6835469,-92.6155184199116,S,PG1532,S-PG1532-1,745,1269,1,1,13,2,3,35,317.0,2
+"Tuxtla Gutierrez, Chiapas","Tuxtla Gutierrez, Chiapas",Chiapas,16.753801,-93.115959,S,PG1493,S-PG1493-3,15141,15426,1,1,13,3,3,35,3856.0,3
+"Ocozocoautla de Espinosa, Chiapas","Ocozocoautla de Espinosa, Chiapas",Chiapas,16.7931431,-93.4569635533782,S,PG1454,S-PG1454-3,1226,1906,0,0,13,0,0,35,635.0,4
+"San Pedro Tapanatepec, Oaxaca","San Pedro Tapanatepec, Oaxaca",Oaxaca,16.3689223,-94.1927528,S,PG1415,S-PG1415-2,283,297,1,1,4,0,0,7,148.0,5
+"Juchitan de Zaragoza, Oaxaca","Juchitan de Zaragoza, Oaxaca",Oaxaca,16.413329,-94.9118794582709,S,PG1376,S-PG1376-7,2625,4325,1,1,4,1,2,7,618.0,6
+"Tlacolula de Matamoros, Oaxaca","Tlacolula de Matamoros, Oaxaca",Oaxaca,16.9314623,-96.4611074593091,S,PG1298,S-PG1298-6,351,464,0,0,4,0,0,7,66.0,8
+"Oaxaca de Juarez, Oaxaca","Oaxaca de Juarez, Oaxaca",Oaxaca,17.0604663,-96.7253575,S,PG1299,S-PG1299-9,1270,2832,1,1,4,2,2,7,202.0,9
+"San Francisco Telixtlahuaca, Oaxaca","San Francisco Telixtlahuaca, Oaxaca",Oaxaca,17.296628,-96.9056112,S,PG1260,S-PG1260-6,49,146,0,0,4,0,0,7,24.0,10
+"San Miguel Tequixtepec, Oaxaca","San Miguel Tequixtepec, Oaxaca",Oaxaca,17.801944,-97.340556,S,PG1261,S-PG1261-3,109,138,0,0,4,0,0,7,46.0,11
+"Puebla, Puebla","Puebla, Puebla",Puebla,19.0384062279769,-98.2069491554557,C,PG1223,C-PG1223-1,5069,6055,1,1,2,6,6,0,3028.0,13
+"Xaloztoc, Tlaxcala","Xaloztoc, Tlaxcala",Tlaxcala,19.403611,-98.048611,C,PG1224,C-PG1224-18,4231,5419,1,1,0,3,3,0,246.0,14
+"Ixtacuixtla de Mariano Matamoros, Tlaxcala","Ixtacuixtla de Mariano Matamoros, Tlaxcala",Tlaxcala,19.34670365,-98.3781581037396,C,PG1185,C-PG1185-12,2539,3189,1,0,0,4,2,0,228.0,15
+"Iztapalapa, Ciudad de Mexico","Iztapalapa, Ciudad de Mexico",Ciudad de Mexico,19.3591195,-99.0929294,C,PG1146,C-PG1146-11,6176,15044,1,1,0,62,64,67,1157.0,16
+"Apaxco, Estado de Mexico","Apaxco, Estado de Mexico",Estado de Mexico,19.9807399,-99.1518101102043,C,PG1147,C-PG1147-7,2476,3850,0,0,1,3,3,10,481.0,17
+"San Juan del Rio, Queretaro","San Juan del Rio, Queretaro",Queretaro,20.3867547,-99.9931982,C,PG1108,C-PG1108-1,1304,1347,0,0,0,1,0,0,449.0,18
+"Queretaro, Queretaro","Queretaro, Queretaro",Queretaro,20.5927744,-100.3902245,C,PG1109,C-PG1109-1,872,888,0,0,0,6,5,0,444.0,19
+"Comonfort, Guanajuato","Comonfort, Guanajuato",Guanajuato,20.7199475,-100.761188,C,PG1070,C-PG1070-2,29,80,0,0,0,4,6,23,16.0,20
+"Irapuato, Guanajuato","Irapuato, Guanajuato",Guanajuato,20.6758761,-101.3521052,C,PG1031,C-PG1031-2,44,52,0,0,0,5,8,23,17.0,21
+"Cosio, Aguascalientes","Cosio, Aguascalientes",Aguascalientes,22.3705155,-102.312008510523,C,PG994,C-PG994-2,98,136,0,1,2,1,11,29,45.0,24
+"Trancoso, Zacatecas","Trancoso, Zacatecas",Zacatecas,22.7353025,-102.3667969,C,PG995,C-PG995-1,96,96,1,0,0,2,0,0,96.0,25
+"Calera, Zacatecas","Calera, Zacatecas",Zacatecas,22.97848,-102.856222886116,C,PG956,C-PG956-2,42,43,0,1,0,0,2,0,22.0,26
+"Durango, Durango","Durango, Durango",Durango,24.0350752647048,-104.663661325132,C,PG841,C-PG841-1,375,375,0,0,0,0,0,2,375.0,30
+"Gomez Palacio, Durango","Gomez Palacio, Durango",Durango,25.5732473,-103.494779,C,PG921,C-PG921-2,1048,1896,1,1,0,2,2,2,632.0,33
+"Chihuahua, Chihuahua","Chihuahua, Chihuahua",Chihuahua,28.5000001,-106.0000001,C,PG769,C-PG769-1,2035,2035,1,1,3,1,1,9,2035.0,41
+"Janos, Chihuahua","Janos, Chihuahua",Chihuahua,30.8893267,-108.1930484,C,PG655,C-PG655-1,129,129,1,1,3,0,0,9,129.0,47
+"Agua Prieta, Sonora","Agua Prieta, Sonora",Sonora,31.3305591,-109.5564331,P,PG578,P-PG578-2,35,35,1,1,2,2,3,23,35.0,50
