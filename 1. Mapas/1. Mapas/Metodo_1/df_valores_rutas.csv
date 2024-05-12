@@ -25,7 +25,7 @@ nombre,ciudad,estado,latitud,longitud,codigo_ruta,ID_Poligono,codigo_unico,event
 "Reynosa, Tamaulipas","Reynosa, Tamaulipas",Tamaulipas,26.0907673,-98.2788191,G,PG1233,G-PG1233-1,6356,6414,0,0,3,2,2,16
 "Iztapalapa, Ciudad de Mexico","Iztapalapa, Ciudad de Mexico",Ciudad de Mexico,19.3591195,-99.0929294,C,PG1146,C-PG1146-11,6176,15044,1,1,0,62,64,67
 "Mexicali, Baja California","Mexicali, Baja California",Baja California,32.6405247,-115.474899,P,PG268,P-PG268-2,5706,5706,1,1,2,21,21,59
-"Galeana, Nuevo Leon","Galeana, Nuevo Leon",Nuevo Leon,24.758306,-100.381351310174,G,PG1115,G-PG1115-1,5407,5408,0,0,0,0,0,0
+"Galeana, Nuevo Leon","Galeana, Nuevo Leon",Nuevo Leon,24.8455905995639,-100.089346003726,G,PG1115,G-PG1115-1,5407,5408,0,0,0,0,0,0
 "Jesus Carranza, Veracruz","Jesus Carranza, Veracruz",Veracruz,17.38793115,-94.9094973063052,G,PG1377,G-PG1377-1,5396,5396,0,0,3,0,0,12
 "Puebla, Puebla","Puebla, Puebla",Puebla,19.0384062279769,-98.2069491554557,C,PG1223,C-PG1223-1,5069,6055,1,1,2,6,6,0
 "Tepotzotlan, Estado de Mexico","Tepotzotlan, Estado de Mexico",Estado de Mexico,19.7173392,-99.2230683,C,PG1146,C-PG1146-5,4945,15044,0,1,1,7,64,10
