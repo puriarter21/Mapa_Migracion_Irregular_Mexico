@@ -1,0 +1,63 @@
+codigo final para hacer las rutas feature class polyline directamente desde arcgis pro, python window
+notas:
+al momento de crear el shape las coordenadas se invierten, es necesario incluir cacho para ordenarlas.
+
+import arcpy
+import pandas as pd
+from shapely.wkt import loads, dumps
+from shapely.geometry import LineString
+
+# Define la función invert_coordinates antes de su uso
+def invert_coordinates(wkt):
+    geometry = loads(wkt)
+    if geometry.geom_type == 'LineString':
+        # Invertir las coordenadas para cada punto en la LineString
+        inverted_line = [(pt[1], pt[0]) for pt in geometry.coords]
+        return dumps(LineString(inverted_line))
+    return wkt
+
+# Establecer el directorio de trabajo y el archivo de salida
+workspace = r"C:/Users/puria/OneDrive/Documentos/MyProject/arcos"
+arcpy.env.workspace = workspace
+arcpy.env.overwriteOutput = True
+
+# Cargar los datos desde el CSV
+csv_file = r"C:/Users/puria/OneDrive/Documentos/MyProject/arcos/arcos_rutas.csv"
+df = pd.read_csv(csv_file)
+
+# Ajustar el DataFrame si las coordenadas están invertidas
+df['geometry'] = df['geometry'].apply(invert_coordinates)
+
+# Crear una lista para almacenar las geometrías
+geometries = [arcpy.FromWKT(row, arcpy.SpatialReference(4326)) for row in df['geometry']]
+
+# Definir el nombre y la ruta del feature class de salida
+out_fc = "Arcos_Rutas_Feature_Class"
+
+# Crear un nuevo feature class
+arcpy.CreateFeatureclass_management(workspace, out_fc, "POLYLINE", spatial_reference=arcpy.SpatialReference(4326))
+
+# Agregar campos adicionales con nombres acortados para cumplir con la restricción de longitud
+arcpy.AddField_management(out_fc, "Arc", "TEXT")
+arcpy.AddField_management(out_fc, "CiudOrig", "TEXT")  # Antes "ciudad_origen"
+arcpy.AddField_management(out_fc, "CiudDest", "TEXT")  # Antes "ciudad_destino"
+arcpy.AddField_management(out_fc, "EvtsArco", "LONG")  # Antes "eventos_arco"
+arcpy.AddField_management(out_fc, "Distance", "TEXT")
+arcpy.AddField_management(out_fc, "Duration", "TEXT")
+arcpy.AddField_management(out_fc, "DistKM", "FLOAT")   # Antes "distancia_km"
+arcpy.AddField_management(out_fc, "DurHR", "FLOAT")    # Antes "duracion_hr"
+
+# Insertar datos en el feature class
+with arcpy.da.InsertCursor(out_fc, ["SHAPE@", "Arc", "CiudOrig", "CiudDest", "EvtsArco", "Distance", "Duration", "DistKM", "DurHR"]) as cursor:
+    for idx, row in df.iterrows():
+        cursor.insertRow((
+            geometries[idx],
+            row['Arc'],
+            row['ciudad_origen'],
+            row['ciudad_destino'],
+            row['eventos_arco'],
+            row['distance'],
+            row['duration'],
+            row['distancia_km'],
+            row['duracion_hr']
+        ))
