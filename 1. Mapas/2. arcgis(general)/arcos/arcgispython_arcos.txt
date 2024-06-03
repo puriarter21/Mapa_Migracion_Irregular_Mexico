@@ -22,8 +22,12 @@ arcpy.env.workspace = workspace
 arcpy.env.overwriteOutput = True
 
 # Cargar los datos desde el CSV
-csv_file = r"C:/Users/puria/OneDrive/Documentos/MyProject/arcos/arcos_rutas.csv"
+csv_file = r"C:/Users/puria/OneDrive/Documentos/MyProject/arcos/arcos_rutas_a_pie.csv"
 df = pd.read_csv(csv_file)
+
+# Verificar y limpiar la columna 'geometry'
+df['geometry'] = df['geometry'].astype(str)
+df = df[df['geometry'].str.startswith('LINESTRING')]
 
 # Ajustar el DataFrame si las coordenadas están invertidas
 df['geometry'] = df['geometry'].apply(invert_coordinates)
@@ -58,6 +62,6 @@ with arcpy.da.InsertCursor(out_fc, ["SHAPE@", "Arc", "CiudOrig", "CiudDest", "Ev
             row['eventos_arco'],
             row['distance'],
             row['duration'],
-            row['distancia_km'],
-            row['duracion_hr']
+            row['distance_km'],
+            row['duration_min']
         ))
