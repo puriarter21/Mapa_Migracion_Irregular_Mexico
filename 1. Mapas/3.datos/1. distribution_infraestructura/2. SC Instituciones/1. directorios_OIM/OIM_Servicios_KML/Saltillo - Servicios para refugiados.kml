@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Saltillo - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Saltillo, Coahuila?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1617-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1617-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1617-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1617-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1617-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Organismos Internacionales / Consulados</name>
+      <Placemark>
+        <name>ACNUR -  Agencia de la ONU para los Refugiados</name>
+        <description><![CDATA[Ofrece orientación y apoyo a personas refugiadas y solicitantes de la condición de refugiado. <br><br>844 688 05 34<br><br>Lunes a viernes, 8:30 am - 4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9825107,25.4565725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencia Consular de la República de Honduras</name>
+        <description><![CDATA[T. 844 410 44 45<br><br>Lunes a viernes, 9:00 a.m. - 3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0014976,25.4213533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Albergue y Alimentación</name>
+      <Placemark>
+        <name>Casa del Migrante Saltillo</name>
+        <description><![CDATA[Brinda atención integral a personas migrantes y<br>refugiadas, además de promover y defender sus<br>derechos.<br><br>T. 844 111 32 73<br><br>24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0237096,25.4033181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banco de Alimentos</name>
+        <description><![CDATA[Reparte alimento a personas en situación vulnerable.<br><br> T. 844 415 76 56<br><br> Lunes a viernes, 8:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9922903,25.4758533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Educación</name>
+      <Placemark>
+        <name>SEDU Secretaría de Educación</name>
+        <description><![CDATA[T. 844 410 3620<br><br> Lunes a viernes, 8:00 a.m. – 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9793289,25.42787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IEEA Instituto Estatal de Educación para Adultos</name>
+        <description><![CDATA[Si tienes 15 años o más y necesitas terminar o validar estudios de primaria y secundaria acude para conocer sus programas. <br><br>T. 844 438 69 00 Ext. 2010<br>Lunes a viernes, 8:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9944866,25.4334186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Estatal de Educación para Adultos (IEEA)</name>
+        <description><![CDATA[T. 844 893 32 62<br>Lunes a viernes, 8:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0072964,25.4256709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos / Justicia</name>
+      <Placemark>
+        <name>Comisión de los Derechos Humanos del Estado</name>
+        <description><![CDATA[Cuida y protege tus derechos, al ser la institución encargada de la defensa, promoción estudio y difusión de los Derechos Humanos. <br><br>T. 844 416 21 10<br>Sin costo: 01 800 84 123 00<br>Lunes a viernes, 8:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.999747,25.4231857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Estatal de Defensoría Pública de Coahuila (IFDP)</name>
+        <description><![CDATA[El IFDP ofrece orientación y asistencia legal gratuita. Asesora el procedimiento de asilo.<br><br>Blvd. Isidro López Zertuche No. 2791, Col. Los Maestros<br><br>T. 844 430 84 05 | 844 430 16 20 53<br>Sin costo: 01 800 83 27 880<br><br>Lunes a viernes, 8:00 a.m. - 4:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9983899,25.4491721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección General de Delitos de Alto Impacto y Cometidos en Agravio de Migrantes</name>
+        <description><![CDATA[Dirección encargada de recibir denuncias en caso de delitos contra migrantes o refugiados que se encuentren en Coahuila.<br><br>T. 844 4 38 76 83<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m. (oficina) guardia hasta las 6:00 p.m. y en caso de emergencia 24hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0223257,25.4560592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>Subsecretaría de Protección Civil</name>
+        <description><![CDATA[Si necesitas ayuda en caso de un desastre natural, como inundaciones o heladas, llámalos.<br><br>Sin costo: 01 800 000 33 72<br><br>Lunes a viernes, 9:00 a.m. - 4:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.8979227,25.4566779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección de Policia Preventiva Municipal</name>
+        <description><![CDATA[Otorga las cartas de no antecedentes penales. Si un familiar o conocido se encuentra detenido puedes acudir a esta dirección.<br><br>T. 844 414 16 16 / 24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.976748,25.415586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección para Promover la Igualdad y Prevenir la Discriminación</name>
+        <description><![CDATA[Acude en caso de querer presentar una queja o denuncia por presuntos actos de discriminación.<br><br>T. 844 430 81 46<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0107521,25.4229977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INFONAVIT</name>
+        <description><![CDATA[Ofrece créditos hipotecarios y no hipotecarios en caso de querer comprar o remodelar tu casa, así como otros servicios relacionados con vivienda.<br><br>T. 844 438 04 00<br>Lunes a viernes, 8:30 a.m. - 2:30 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9807132,25.4680929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Migración</name>
+        <description><![CDATA[Oficina del INM para tramitar el cambio de domicilio, cambio de estado civil, pedir la renovación o reposición de su tarjeta de residente, entre otros.<br><br>T. 844 416 41 77 | 844 416 16 76<br>Lunes a viernes, 9:00 a.m. - 1:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.993167,25.4355944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Registro Civil</name>
+        <description><![CDATA[Institución pública que brinda múltiples servicios a la población, entre ellos el registro de hijas/os nacidos en México y matrimonio civil.<br><br>T. 844 410 30 10<br>Lunes a viernes, 9:00 a.m. - 1:00 p.m. y 3:00 p.m. -7:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0021999,25.4290661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Servicio de Administración Tributaria (SAT)</name>
+        <description><![CDATA[En las oficinas del SAT podrás obtener tu RFC y dar seguimiento a todo lo relacionado con el pago de impuestos.<br><br>Sin costo: 01 800 46 36 728<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.98953,25.4477519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seguro Popular</name>
+        <description><![CDATA[Modulo de afiliación al seguro popular, el cual ofrece servicios de salud y protección social.<br><br>Piso 6 Secretaría de Salud<br><br>Sin costo: 01 800 46 36 728<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.004362,25.4237219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Subdelegación IMSS</name>
+        <description><![CDATA[Si tu empleo proporciona seguro IMSS deberás acudir a afiliarte y dar de alta a tus familiares.<br><br>T. 844 438 83 30<br>Lunes a viernes, 8:00 a.m. - 3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9886749,25.4545648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Subsecretaría de Comunicaciones y Transportes</name>
+        <description><![CDATA[Obtén tu licencia para conducir en México.<br><br>Libramiento Óscar Flores Tapia Km. 12. Arteaga<br><br>T. 844 434 23 93<br>Lunes a viernes, 9:00 a.m. - 3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.8969277,25.4572288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad de Integración Familiar UNIF</name>
+        <description><![CDATA[Ofrece a las familias orientación psicológica, asesoría jurídica y trabajo social.<br><br>T. 844 410 40 03 / 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9769772,25.4155819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Estatal del Empleo</name>
+        <description><![CDATA[Ayuda y/o asesoría para conseguir un trabajo.<br><br>Planta Baja, Zona Centro<br><br>T. 844 410 34 22<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0057915,25.4241131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto Municipal de la Mujer</name>
+        <description><![CDATA[Brinda atención psicológica y legal, así como talleres de manualidades y oficios a las mujeres.<br><br>T. 844 415 2815<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0020306,25.4213483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Justicia y Empoderamiento para la Mujer</name>
+        <description><![CDATA[Orientación y apoyo jurídico, psicológico, financiero, bolsa de trabajo y ministerio público para la mujer.<br><br>T. 844 150 13 39<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0205461,25.4564291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez</name>
+      <Placemark>
+        <name>Hospital del Niño Dr. Federico Gómez Santos</name>
+        <description><![CDATA[Atención especializada a niñas y niños (pediátrico).<br><br>T. 844 415 61 50 / 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9793482,25.4609669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría para Niños, Niñas y la Familia</name>
+        <description><![CDATA[Brinda atención y protección a niñas, niños y<br>adolescentes en México.<br><br>Carretera Saltillo – Torreón, km. 2.3 S/N, Edificio “B” de la Procuraduría para Niños, Niñas y la Familia, Col. Satélite Norte<br><br>T. 844 417 25 55<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0222893,25.4562444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Coahuila</name>
+        <description><![CDATA[Programas para adultos mayores, personas con<br>discapacidad, jóvenes, niñas, niños y de integración familiar.<br><br>T. 844 417 25 55<br>Lunes a viernes, 9:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9971113,25.4031949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Recreativo</name>
+      <Placemark>
+        <name>Biblioparque Norte Saltillo</name>
+        <description>Diario, 8:00 a.m. - 9:00 p.m.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9844169,25.4836089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioparque Nogales Saltillo</name>
+        <description>Diario, 8:00 a.m. - 9:00 p.m.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.971007,25.3986476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioparque Saltillo Sur</name>
+        <description>Diario, 8:00 a.m. - 9:00 p.m.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0131475,25.3892892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>“La Madriguera” Casa del Adolescente</name>
+        <description><![CDATA[Si eres joven podrás acceder a actividades deportivas, apoyo psicológico, aprender oficios y desarrollar habilidades.<br><br>Calle 2 de abril, Col. Nuevo Centro Metropolitano<br>de Saltillo<br><br>Lunes a viernes, 9:00 a.m. - 8:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9666641,25.4168469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo del Desierto</name>
+        <description>Lunes a viernes, 9:00 a.m. - 8:00 p.m.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.963865,25.413601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo de Las Aves de México</name>
+        <description>Martes a domingo, 10:00 a.m. - 6:00 p.m.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0023345,25.4169221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo del Sarape</name>
+        <description>Lunes a domingo, 10:00 a.m. - 6:00 p.m.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0017382,25.4209264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teatro de la Ciudad Fernando Soler</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0000038,25.4336936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Centro de Salud Nueva Jerusalen</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -101.029856,25.3933797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Los Gonzales</name>
+        <description><![CDATA[T. 844 412 99 30<br> Diario, 7:00 a.m. - 8:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9836536,25.4078479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Madero</name>
+        <description><![CDATA[Atención a la salud y módulo del Seguro Popular.<br><br> T. 844 412 88 45/ 24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0147551,25.427939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Estatal De Salud Mental</name>
+        <description><![CDATA[T. 844 412 1434<br><br> Lunes a viernes, 8:00 a.m. - 3:00 p.m. | Urgencias 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.991853,25.468662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Satélite</name>
+        <description><![CDATA[Atención a la salud y módulo del Seguro Popular.<br> <br>Juan García Ponce N/A, Col. Satélite Sur.<br><br> T. 844 434 60 80<br> Lunes a viernes, 8:00 a.m. - 3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0247113,25.4534405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uneme Capasits Saltillo</name>
+        <description><![CDATA[Centro para la prevención y atención del VIH/SIDA e infecciones de transmisión sexual.<br><br> T. 844 434 60 80<br><br> Lunes a viernes, 8:00 a.m. - 3:00 p.m.<br> Juan García Ponce N/A, Col. Satélite Sur]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0222577,25.4539848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMSS Unidad de Medicina Familiar 73</name>
+        <description><![CDATA[T. 844 414 10 00<br> Lunes a viernes, 7:00 a.m. - 8:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0083464,25.4170127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMSS Hospital General de Zona 1 Saltillo</name>
+        <description>T. 844 412 67 77 / 24 hrs</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0079306,25.4174284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMSS Hospital General de Zona 2 Saltillo</name>
+        <description>T. 844 415 00 19 / 24 hrs.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9868398,25.4540296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad de Medicina Familiar CLÍNICA IMSS 70</name>
+        <description><![CDATA[Presidente Cárdenas y Calle Murguía, Col. Centro<br> T. 844 412 54 22<br> Lunes a viernes, 7:00 a.m. - 8:00 p.m.<br> Sábado y domingo 24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0058979,25.4356479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital General Saltillo</name>
+        <description>T. 844 420 54 20 / 24 hrs</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9586504,25.412095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMSS Unidad de Medicina Familiar 82</name>
+        <description><![CDATA[T. 844 410 35 05<br> Lunes a viernes, 7:00 a.m. - 8:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9847628,25.4170534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad de Medicina Familiar con Unidad Médica de Atención Ambulatoria CLÍNICA IMSS 89</name>
+        <description><![CDATA[T. 844 481 75 52<br> Diario, 7:00 a.m. - 9:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9667211,25.4200442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Mexicana</name>
+        <description>T. 844 412 1206 | 844 412 43 30 / 24 hrs.</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9733945,25.4146498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Oftalmológico</name>
+        <description><![CDATA[Atención especializada en la salud de los ojos.<br><br> T. 844 430 28 37]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.9568491,25.4244722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Servicios</name>
+      <Placemark>
+        <name>Casa del Migrante (Asesoría Jurídica)</name>
+        <description><![CDATA[Asesoría jurídica<br><br>Teléfonos de atención <br>844 286 5955<br>844 133 0243<br>844 182 3138<br>844 133 0236<br><br>Lunes a Viernes de 10 am a 6 pm ]]></description>
+        <styleUrl>#icon-1617-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.023749,25.4033707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Federal de Electricidad</name>
+        <description><![CDATA[Contratación y pago de luz y electricidad. El pago también puede realizarse en tiendas OXXO y autoservicios.<br><br> T. 844 412 12 12]]></description>
+        <styleUrl>#icon-1617-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -101.0105913,25.4260223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

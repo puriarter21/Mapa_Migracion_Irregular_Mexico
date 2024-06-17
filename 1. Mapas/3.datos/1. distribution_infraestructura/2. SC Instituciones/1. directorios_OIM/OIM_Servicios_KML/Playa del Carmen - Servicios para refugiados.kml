@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Playa del Carmen - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Playa del Carmen, Quintana Roo?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1531-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1531-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1531-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1531-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1531-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue</name>
+      <Placemark>
+        <name>Adulam</name>
+        <description><![CDATA[Ofrece servicios de alimentación, ropa, atención<br>médica, trámites migratorios, asistencia psicológica y apoyo espiritual y escolar<br><br>314 118 6493<br>984 129 8000<br><br> 24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0601269,20.6674031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>DIF Municipal Playa del Carmen</name>
+        <description><![CDATA[Atención a población vulnerable, primordialmente niñas, niños, adolescentes, mujeres, personas adultas mayores y personas con discapacidad<br><br>984 879 3083<br><br>Lunes a viernes, 8:00 am a 5:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0778789,20.6297323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordinación de Atención al Migrante</name>
+        <description><![CDATA[Brinda apoyo en las solicitud de protección como refugiado, regularización, albergue, identificación, vinculación con instituciones de salud y defensa de los derechos humanos de las personas migrantes.<br><br>984 145 5610<br><br>Lunes a viernes, 9:00 am a 5:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0611094,20.653606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Migracion</name>
+        <description><![CDATA[Espacio para realizar trámites migratorios incluyendo presentar la solicitud de condición de refugiado y solicitar las tarjetas de residencia o visitante.<br><br>984 873 1885<br><br>Lunes a viernes, 9:00 am a 1:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0778399,20.6207545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Registro Civil Playa Del Carmen</name>
+        <description><![CDATA[Registro de nacimiento, matrimonio, divorcio o<br>defunción y otros actos civiles.<br><br>984 309 2245<br><br>Lunes a viernes, 8:30 am a 4:00 pm y<br>9:00 am a 1:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0850017,20.6514625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia / Derechos Humanos</name>
+      <Placemark>
+        <name>Comisión Estatal de Derechos Humanos </name>
+        <description><![CDATA[Protección, defensa, observancia, promoción,<br>estudio y divulgación de los derechos humanos.<br>Recepción de quejas.<br><br>984 803 0002<br><br>Lunes a viernes, 8:00 am a 4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0686406,20.6603581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría Auxiliar de la Defensa del Trabajo</name>
+        <description><![CDATA[Brinda asesoría jurídica en casos de problemas<br>laborales<br><br>983 833 4176<br><br> Lunes a viernes, 8:00 am a 4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0713272,20.6375541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto Quintanarooense de La Mujer</name>
+        <description><![CDATA[Oficinas de atención a la mujer de violencia de<br>género.<br><br>984 147 2209<br><br>Lunes a viernes, 9:00 am a 5:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0751269,20.628561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo y Educación</name>
+      <Placemark>
+        <name>IEEA Instituto Estatal para la Educación de Jóvenes y Adultos</name>
+        <description><![CDATA[Servicios educativos para mayores de 18 años que deseen continuar con sus estudios<br><br>984 859 0400<br><br>Lunes a viernes, 9:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0680963,20.6380034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Servicio Estatal de Empleo y Capacitación para el Trabajo</name>
+        <description><![CDATA[Bolsa de trabajo, apoyos para autoempleo,<br>capacitación en competencias laborales, vinculación laboral.<br><br>984 873 2138<br>984 803 0060<br><br>Lunes a viernes, 8:00 am a 2:00 pm. ]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0713093,20.6377292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto de capacitación para el trabajo del estado de Quintana Roo (ICAT)</name>
+        <description><![CDATA[Cursos de capacitación con validez oficial.<br><br>984 859 2100<br><br>Lunes a viernes, 9:00 am a 10:00 pm.  ]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0894196,20.635339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Hospital General de Playa del Carmen</name>
+        <description><![CDATA[Atención médica básica, de urgencias y afiliación al sistema de salud.<br><br>984 206 1690<br>Ext. 36579<br><br>Lunes a viernes, 7:00 am a 2:00 pm y<br>sábados 8:00 am a 7:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0953548,20.6445382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Central de autobuses </name>
+        <description><![CDATA[Servicio de transporte local.<br><br>984 873 0109<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0752223,20.6227966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terminal de autobuses alterna</name>
+        <description><![CDATA[Servicio de transporte local.<br><br>984 803 0950<br><br>24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0743765,20.6294407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Compras</name>
+      <Placemark>
+        <name>Mercado Municipal Colosio</name>
+        <description><![CDATA[Artículos artesanales y de uso cotidiano.<br><br>984 125 3325]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0641457,20.6473971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cultura</name>
+      <Placemark>
+        <name>Centro Cultural</name>
+        <description><![CDATA[Se realizan talleres y cursos de literatura, pintura, música, danza y teatro, lengua y cultura maya.<br><br>984 873 2654<br><br>Lunes a jueves, 9:00 am a 6:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0828043,20.6527096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez y Juventud</name>
+      <Placemark>
+        <name>Procuraduría de la Defensa de las Niñas, Niños,Adolescentes y la Familia DIF, Playa del Carmen</name>
+        <description><![CDATA[Brinda atención y protección a niñas, niños y<br>adolescentes. Asesorías jurídicas en materia familiar y resguardo de menores en caso de ser víctimas de algún delito.<br><br>984 231 0775<br><br>Lunes a viernes, 9:00 am a 8:00 pm y<br>9:00 am a 1:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0608233,20.6668418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

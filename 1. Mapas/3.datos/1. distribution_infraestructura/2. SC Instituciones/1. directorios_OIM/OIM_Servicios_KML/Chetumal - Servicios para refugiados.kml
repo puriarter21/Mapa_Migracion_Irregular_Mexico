@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Chetumal - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Chetumal, Quintana Roo?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Justicia y Derechos Humanos</name>
+      <Placemark>
+        <name>Procuraduría de la Defensa del Trabajo</name>
+        <description><![CDATA[Asesoría a los trabajadores.<br><br>983 832 0843<br><br>Lunes a viernes, 8:00 am a 4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2948119,18.5048083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía especializada en delitos
+cometidos en contra de los migrantes</name>
+        <description><![CDATA[Investiga delitos cometidos por o en contra<br>de personas migrantes.<br><br>983 835 0050 / 983 103 3730<br>983 167 8836 (TITULAR)<br><br>Lunes a viernes, 8:30 am a 8:30 pm y<br>guardia de 24hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.395465,18.4934448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Estatal de los Derechos Humanos</name>
+        <description><![CDATA[Protección, defensa, observancia, promoción,<br>estudio y divulgación de los derechos humanos.<br>Recepción de quejas.<br><br>983 832 7090<br><br>Lunes a viernes, 8:00 am 8:00 pm.<br>Guardia telefónica 24h al 075.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3098807,18.5056957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institución Pública</name>
+      <Placemark>
+        <name>Grupos Especializados de Atención a
+la Violencia de Género (GEAVIG)</name>
+        <description><![CDATA[Atención jurídica y psicológica a grupos vulnerables en materia de violencia en el hogar. <br><br>911<br><br>Lunes a viernes, 8:00 am a 4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3055254,18.5412705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional De Migración</name>
+        <description><![CDATA[Espacio para realizar trámites migratorios, incluyendo presentar la solicitud de la condición de refugiado y solicitar la tarjeta de visitante.<br><br>983 835 0012.<br>Ext 233/211/259<br><br>Lunes a viernes, 9:00 am a 1:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3314752,18.5039935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Hospital General de Chetumal</name>
+        <description><![CDATA[Atención médica básica, de urgencias y<br>afiliación al sistema de salud.<br><br>983 129 2735<br><br>Lunes a viernes, 7:00 am a 9:00 pm.<br>Sábados, domingos y días festivos de<br>8:00 am a 8:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3040718,18.5170703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital Materno Infantil Morelos</name>
+        <description><![CDATA[Atención médica básica, de urgencias y<br>afiliación al sistema de salud.<br><br>938 833 9942<br>983 832 1588<br><br>Lunes a viernes, 7:00 am a 9:00 pm.<br>Sábados, domingos y días festivos de<br>7:00 am a 7:00 pm Urgencias 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.298131,18.5020859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujer, niñez y juventud</name>
+      <Placemark>
+        <name>Instituto Quintanarroense de la Mujer</name>
+        <description><![CDATA[Oficinas de atención a la mujer en materia de<br>emprendimiento, capacitación, compañamiento<br>en casos de violencia de género.<br><br>983 833 1323. Ext. 116<br><br>Lunes a viernes, 9:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3071064,18.4968688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad de Especialidad Médica para
+la Detección y Diagnóstico del Cáncer
+de Mama (UNEME)</name>
+        <description><![CDATA[Servicios para la detención y tratamiento del<br>cáncer de mama y afiliación al sistema de salud.<br><br>983 835 1945<br>983 833 5438. <br><br>Lunes a viernes, 7:00 am a 9:30 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3468928,18.5078414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Municipal </name>
+        <description>Desarrollo Integral de la Familia</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3049895,18.4971866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adultos Mayores</name>
+      <Placemark>
+        <name>Club de la Tercera Edad Antonia
+Madrid Viuda de Villanueva</name>
+        <description><![CDATA[Atención y cuidado diurno para personas adultas mayores y discapacitadas.<br><br>983 832 9148<br><br>Lunes a viernes, 8:00 am a 12:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2892481,18.5077304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional del Adulto Mayor (INAPAM)</name>
+        <description><![CDATA[Trámite de la Tarjeta INAPAM y orientación sobre servicios disponibles para personas adultas mayores.<br><br>983 833 4176<br><br>Lunes a viernes, 8:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3093464,18.5081598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo</name>
+      <Placemark>
+        <name>Servicio Estatal del Empleo y Capacitación para el Trabajo</name>
+        <description><![CDATA[Bolsa de trabajo, apoyos para autoempleo,<br>capacitación en competencias laborales,<br>vinculación laboral.<br><br>983 832 4567, 832 8796,<br>833 0662.<br><br>Lunes a viernes, 8:00 am a 4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2947944,18.5045097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cultura</name>
+      <Placemark>
+        <name>Museo de la Ciudad de Chetumal</name>
+        <description><![CDATA[Visitas guiadas Conciertos Conferencias Presentaciones editoriales Concurso de arte así como cursos de pintura y escultura Servicios educativos.<br><br>983 832 3002 ext. 139,<br> 983 832 1350 ext. 139<br><br>Martes a sábado, 09:00 am a 7:00 pm y<br>domingo, 09:00 am a 2:00 pm. Adultos y<br>descuento a niños, domingos entrada<br>libre con credenciales de Quintana Roo.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2966366,18.5014723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo de la Cultura Maya</name>
+        <description><![CDATA[El museo plasma la forma de vida, cotidianidad y grandeza arquitectónica de la cultura Maya, así como su sistema calendárico y cosmovisión.<br><br>983 832 6838<br><br>Martes a domingo, 09:00 am a 7:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2954615,18.5039678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Compras</name>
+      <Placemark>
+        <name>Mercado Lazaro Cardenas</name>
+        <description><![CDATA[Gran variedad de productos alimenticios frescos y comida corrida de calidad. Venta de frutas,<br>verduras, plantas medicinales, ropa, flores y<br>comida. <br><br>Lunes a domingo, 5:00 am a 6:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2891517,18.514348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado Municipal Chetumal</name>
+        <description><![CDATA[Variedad de productos alimenticios frescos y comida corrida de calidad. Venta de frutas, verduras, plantas medicinales, ropa, flores y comida. <br><br>Lunes a domingo, 6:30 am a 6:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2961093,18.5035249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Orientación y Apoyo</name>
+      <Placemark>
+        <name>Ventanilla Única de Atención a
+Migrantes</name>
+        <description><![CDATA[Asesoría sobre trámites migratorios.<br><br>983 835 1500 ext. 7652<br><br>Lunes a jueves, 9:00 am a 3:00 pm y<br>viernes de 9:00 am a 1:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3043312,18.4976244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Terminal de Autobuses de Chetumal</name>
+        <description><![CDATA[Servicio de transporte local.<br><br>983 834 5013<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3135849,18.5188127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional de Chetumal</name>
+        <description><![CDATA[Servicio de transporte aéreo nacional e<br>internacional<br><br>983 834 5013<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.3242963,18.5063952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Coatzacoalcos - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Coatzacoalcos, Veracruz?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue y Alimentación</name>
+      <Placemark>
+        <name>Casa del Migrante Movilidad Humana de la Diócesis de Coatzacoalcos. </name>
+        <description><![CDATA[T. 	922 115 9441 <br>Lunes a domingo, 9:00 a.m. -7:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4269147,18.1206146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albergue Santa Faustina Kowalska</name>
+        <description><![CDATA[T. 921 238 2762 <br>Lunes a domingo, 9:00 a.m. -7:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.457643,18.1389263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia</name>
+      <Placemark>
+        <name>Instituto Federal de la Defensoría Pública (IFDP)</name>
+        <description><![CDATA[AI interior dei Poder Judicial de la Federación <br><br>T.	 921 211 4300 Ext. 1279 <br><br>Lunes a viernes, 10:00 a.m. -3:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.5171166,18.1394799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez</name>
+      <Placemark>
+        <name>Procuraduría Municipal de Protección a Ninas, Ninos y Adolescentes </name>
+        <description><![CDATA[T. 921 236 4083 <br>Lunes a viernes, 9:00 a.m. -3:00 p.m ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4532977,18.1297595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto Municipal de la Mujer</name>
+        <description><![CDATA[T. 921 121 00 Ext. 2438 <br><br> Lunes a viernes, 8:30a.m. -4:00p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.417606,18.1469732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Movimiento de Asistencia a la Mujer Veracruzana A.C.</name>
+        <description><![CDATA[T. 924 244 0941<br><br>Lunes a viernes, 9:00 a.m. -5:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4427517,18.1462659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>Sub-Delegación dei Instituto Nacional de Migración, Oficina de Regulación Migratoria. </name>
+        <description><![CDATA[T. 921 212 7211 <br><br>Lunes a viernes, 9:00 a.m. - 3:00 p.m. y 4:00 - 6:00 p.m. <br><br>Se recomienda e/ uso de zopato cerrado o industrial. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4201366,18.1390408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Hospital Regional de Coatzacoalcos Dr. Valentin Gomez Farias</name>
+        <description><![CDATA[T. 921 212 4212 <br>24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4243161,18.145159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Mexicana Delegación Coatzacoalcos</name>
+        <description><![CDATA[T.	 921 214 0405 <br>24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4358342,18.1376467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Ambulatorio para la Prevención y Atención en SIDA e Infecciones de Transmisión Sexual (CAPASITS)</name>
+        <description><![CDATA[T. 921 212 3263 <br><br>Lunes a viernes, 7:00 a.m. -9:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4240998,18.1454887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Central de autobuses de Coatzacoalcos </name>
+        <description>T. 	921 212 9889 1 24 hrs. </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.4447862,18.1208153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos</name>
+      <Placemark>
+        <name>Comisión Estatal de los Derechos Humanos</name>
+        <description><![CDATA[T.921 212 9125 y 921 212 5258 <br><br>Lunes a viernes, 9:00 a.m. - 6:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.419073,18.1462695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

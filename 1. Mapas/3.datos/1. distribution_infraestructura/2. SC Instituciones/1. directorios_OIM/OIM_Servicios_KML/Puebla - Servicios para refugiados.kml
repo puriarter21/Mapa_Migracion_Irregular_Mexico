@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Puebla - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Puebla, Puebla?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Justicia y Derechos Humanos</name>
+      <Placemark>
+        <name>Dirección General de Defensoría Pública</name>
+        <description><![CDATA[Asistencia jurídica.<br><br>222 246 3139 <br><br>Lunes a viernes, 9:00 am a 3:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1898797,19.041314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría de Protección de los Derechos de Nifias, Nifios y Adolescentes, Dirección de Asistencia Jurídica (DIF) </name>
+        <description><![CDATA[Nifios y ninas adolescentes migrantes no <br>acompafiados. <br><br>222 600 6001 ext. 5265 <br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2578132,19.0349434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Ejecutiva de Atención a Víctimas </name>
+        <description><![CDATA[Brindan asesoría jurídica federal, trabajo social, psicológica, medico.<br><br>551 000 2000 ext. 58380 y 222 940 7897 y 222 940 7898 ext. 58380 <br><br>Lunes a viernes, 9:00 am a 3:00 pm y de 4:00 pm a 6:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1993123,19.0427556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de Defensoria Pública (IFDP) </name>
+        <description><![CDATA[Asesoría y representación jurídica en materia administrativa, fiscal, civil y de causas penales; orientación a la población menos favorecida dei país con los principias de gratuidad, probidad, honradez y profesionalismo.  <br><br>55 5521 3546 <br><br>Lunes a viernes, 9:00 am a 6:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2221039,19.0451311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión de Derechos Humanos Estatal </name>
+        <description><![CDATA[Orientación jurídica, recepción de quejas de migrantes en EUU, canalización a albergues, hospitales, visitas en estación migratoria. Acompafiamiento a migrantes en caravanas o albergues. <br><br>222 309 4700 lada sin costo 800 201 0105 <br><br>Lunes a viernes de manera presencial 8:00 am a 8:00 pm.Fines de semana y días inhábiles por teléfono. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2025454,19.0441545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institución Pública</name>
+      <Placemark>
+        <name>Instituto Nacional de Migración (INM) </name>
+        <description><![CDATA[Servido de naturalización, inmigración e inicio de tu procedimiento de la condición de Refugiado. <br><br>222 235 9043 <br><br>Lunes a viernes, 9:00 am a 1:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2133101,19.0516716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de Relaciones Exteriores </name>
+        <description><![CDATA[Trámites de naturalización, emisión y renovación de pasaportes mexicanos. <br><br>222 467 1251 <br><br>Lunes a viernes, 8:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2270228,19.0336178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Poblano de Asistencia ai Migrante</name>
+        <description><![CDATA[Facilitar la reintegración plena de los migrantes y sus familiares en el Estado de Puebla. <br><br>222 303 4600 ext. 3312/3319<br><br>Lunes a viernes, 9:00 am a 06:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2270017,19.033257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Cruz Roja Mexicana </name>
+        <description><![CDATA[Atención médica, urgencias, hospitalización, terapia intensiva (neonatal y adultos) laboratorio clínico, imagenología (RX, US, tomografia) ambulancias, consulta general y especialidades.<br><br>222 213 7700 <br><br>24 horas.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1879398,19.0481215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujer</name>
+      <Placemark>
+        <name>Instituto Poblano de las Mujeres </name>
+        <description><![CDATA[Fomentar y promover la igualdad entre mujeres y hombres, el respeto a la igualdad de las mujeres, orientación psicológica, asesoría jurídica. <br><br>222 309 0900 <br><br>Lunes a viernes, 9:00 am a 6:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1987656,19.0404283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Nacional Contra la Trata Humana en la Sociedad, A.C. (ANTHUS) </name>
+        <description><![CDATA[Atención a mujeres nacionales o extranjeras de todas las edades que sean víctimas directas dei delito de Trata de Personas, que no cuenten con un lugar seguro a donde recurrir y que acepten la normatividad de Casa ANTHUS.<br><br>222 232 5507 <br><br>24 horas.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2086691,19.0473114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Albergue</name>
+      <Placemark>
+        <name>Casa dei Migrante de la Parroquia de Nuestra Seriara de los Desamparados </name>
+        <description><![CDATA[Brinda servidos de hospedaje, alimentación y atención médica.<br><br>222 249 1542 Curato, <br>222 231 2732 <br><br>Lunes a viernes, 10:00 am a 1:00 pm y en la tarde, 5:00 pm a 7:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2100444,19.0719031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parroquia de la Asunción. Ayuda Humanitaria a Migrantes en Tránsito </name>
+        <description><![CDATA[Brinda servicios de hospedaje, alimentación, rapa, orientación de su situación. <br><br>222 249 1542 / <br>222 231 2732 <br><br>Lunes a viernes, 10:00 am a 1:00 pm y en la tarde, 5:00 pm a 7:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.227902,19.0629519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo y Educación</name>
+      <Placemark>
+        <name>Instituto de Capacitación para el Trabajo </name>
+        <description><![CDATA[Proporcionan cursos de capacitación a personas mayores de 15 afias que sepan leer y escribir. <br><br>222 231 8090 ext. 123 <br><br>Lunes a domingo, 9:00 am a 6:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2310177,19.0567343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaria de Educación Pública</name>
+        <description><![CDATA[Revalidación y equivalendas nivel superior, educadón básica y media superior. <br><br>222 229 6937<br><br>Lunes a viernes, 8:00 am a 3:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.222596,19.0627819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cultura</name>
+      <Placemark>
+        <name>Palacio Municipal de Puebla</name>
+        <description><![CDATA[Cuenta con una Biblioteca, Atención Ciudadana.<br><br>222 301 9430 ext. 185<br><br>Lunes a viernes, 9:00 am a 5:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1974074,19.0441433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo Regional de Puebla</name>
+        <description><![CDATA[Paleontología, arqueología, historia, etnografía, sala de exposiciones temporales audiovisuales.<br><br>222 235 9702<br><br>Martes a domingo, 9:00 am a 5:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1828034,19.0562659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo de la Talavera</name>
+        <description><![CDATA[Exhibición de más de 1200 piezas elaboradas en Talavera, piezas ornamentales, utilitarias, esculturas.<br><br>222 888 6259<br><br>Lunes a viernes, 9:00 am a 5:00 pm y sábado de 9:00 am a 2:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1769569,19.0560987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa de la Música de Viena </name>
+        <description><![CDATA[Espada lúdico e interactivo dedicado ai sonido; así como lugar de encuentro con grandes compositores de la historia de la música de conderto. <br><br>Martes a domingo, 10:00 am a 6:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2355087,19.0937378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barrio del Artista</name>
+        <description><![CDATA[Galerias de pintores.<br><br>222 242 4029<br><br>Cel. 222 442 1744<br><br>Martes a sábado, 11:00 am a 7:00 am y domingos de 11:00 am a 4:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1922388,19.0439306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Compras</name>
+      <Placemark>
+        <name>El Parian</name>
+        <description><![CDATA[Mercado de artesanías.<br><br>Lunes a domingo, 9:00 am a 9:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1945514,19.0452636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado El Parral</name>
+        <description><![CDATA[Mercado de frutas, verduras, flores y venta de alimentos.<br> <br>222 232 6962<br><br>Lunes a viernes, 7:00 am a 7:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2067566,19.0449047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado 5 de mayo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1975305,19.0525041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado Municipal La Acocota</name>
+        <description><![CDATA[Venta de productos de la canasta básica, frutas y verduras, flores, Rapa, Juguetes, Herbolaria, alimentos.<br><br>221 174 5592<br><br>Lunes a domingo, 9:00 am a 6:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1870369,19.0411612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado Melchor Ocampo EI Carmen</name>
+        <description><![CDATA[Venta de productos de la canasta básica, frutas y verduras, alimentos. <br><br>Lunes a domingo, 7:00 am a 7:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2009251,19.035319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Orientación y Apoyo</name>
+      <Placemark>
+        <name>Parroquia María Auxiliadora</name>
+        <description><![CDATA[Ofrece alimentación, rapa, y servido de regaderas ai público en general. <br><br>222 220 1827<br><br>Lunes a viernes, 10:00 am a 1:00 pm y en la tarde, 5:00 pm a 7:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.1883438,19.0767583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ventanilla de lnformación para personas en Contexto de Migración</name>
+        <description><![CDATA[Asesoria para acceder ai empleo formal y trámites de reguladón, retorno voluntario a repatriados, canalizadón a albergues, consultas médicas, atención psicológica. <br><br>222 303 4600<br><br>Lunes a jueves, 9:00 am a 3:00 pm yviernes de 9:00 am a 1:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2080447,19.0490829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Central de Autobuses - CAPU</name>
+        <description><![CDATA[Servicio de transporte. <br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.2047069,19.0738714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto de Puebla</name>
+        <description><![CDATA[Servido de transporte aéreo nacional e internacional.<br><br>227 102 5080<br><br>24 horas. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -98.3761404,19.1639189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

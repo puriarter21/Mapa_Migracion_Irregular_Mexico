@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ciudad Juárez - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Ciudad Juárez, Chihuahua?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue</name>
+      <Placemark>
+        <name><![CDATA[Albergue para migrantes
+"El Buen Samaritano"]]></name>
+        <description><![CDATA[descripción: Alojamiento, alimentos, lugares de aseo y consejería<br>espiritual. Calle Islas Esmeraldas # 2012 Col. Luis Echeverría.<br>Teléfono: 656 794 5330<br>Horario: Lunes a domingo, 8:30 am a 8:30 pm.]]></description>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Alojamiento, alimentos, lugares de aseo y consejería
+espiritual. Calle Islas Esmeraldas # 2012 Col. Luis Echeverría.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>656 794 5330</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a domingo, 8:30 am a 8:30 pm.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Programa Compañeros, A.C.</name>
+        <description><![CDATA[Consultas médicas, consulta dental y consejerías psicológicas, para personas en condición de riesgo y vulnerabilidad, VIH-SIDA y adicción a drogas, violencia y temas asociados.<br><br>656 611 3792<br><br>Martes y jueves de 10:00 am a 5:00 pm.<br>Lunes, miércoles y viernes de 10:00 am a 8:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4600405,31.7340454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Mexicana</name>
+        <description><![CDATA[Atención médica, urgencias, hospitalización, terapia intensiva (neonatal y adultos) laboratorio clínico, imagenología (RX, US, tomografía) ambulancias, consulta general y especialidades.<br><br>656 616 5089<br><br> 24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4474724,31.74107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(CAPASITS) Centro Ambulatorio para la Prevención y Atención del Sida e
+Infecciones de Transmisión Sexual </name>
+        <description><![CDATA[Servicio de atención integral a pacientes con VIH-sida.<br><br>656 613 5510 ext. 150<br><br>Lunes a viernes, 8:00 am a 2:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4528323,31.7370169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital General</name>
+        <description><![CDATA[Atención médica para hospitalización (emergencias).<br><br>656 173 0700<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4562579,31.7380543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital de la Mujer</name>
+        <description><![CDATA[Consulta externa, urgencias, servicios de ginecología, obstetricia, y oncología para mujeres.<br><br>656 432 3293<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4527362,31.7368422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos / Justicia</name>
+      <Placemark>
+        <name>Fiscalía Especializada en Atención a
+Mujeres Víctimas del Delito por
+Razones de Género.</name>
+        <description><![CDATA[Investigación de casos donde la víctima sea mujer, delitos sexuales, violencia familiar, incumplimiento de pensión alimenticia, homicidio a mujeres por razón de género y reportes de ausencia.<br><br>656 629 3300 ext. 56800 /<br>56810 / 56801<br><br>Lunes a domingo, 8:00 am a 8:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.474066,31.7169675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalia General del Estado de Chihuahua Zona Norte</name>
+        <description><![CDATA[Acceso a la justicia mediante el seguimiento de denuncias relacionadas con delitos contra la paz y seguridad de las personas, delitos sexuales, personas desaparecidas, robos, riesgos o daños a la integridad física y extorsiones. <br><br>656 629 3300 ext. 56499<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.461768,31.711959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(IFDP) Instituto Federal de Defensoría
+Pública</name>
+        <description><![CDATA[El IFDP ofrece orientación y asistencia legal gratuita, así como asesoría en el procedimiento ante COMAR.<br><br>656 227 2600 ext. 1219 y 1220<br><br>Lunes a viernes, 9:00 am a 6:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4267678,31.6671011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección Municipal de Derechos
+Humanos</name>
+        <description><![CDATA[Asesoría y canalización a otras dependencias de gobierno para poder generar el CURP, seguro social, RFC y Carta de Antecedentes No Penales<br><br>656 737 0000 ext. 70460 <br><br>Lunes a viernes, 8:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.485,31.74652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Estatal de los Derechos Humanos</name>
+        <description><![CDATA[Protección, defensa, observancia y promoción de derechos humanos. Recepción de quejas relacionadas con actuaciones incorrectas de funcionarios municipales y estatales. <br><br>656 251 9750<br><br>Lunes a viernes, 9:00 am a 7:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4469876,31.7318124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comision Nacional De Los Derechos Humanos</name>
+        <description><![CDATA[Promoción, difusión y divulgación en materia de derechos humanos, en especial ante la perpetración de abusos por parte de funcionarios federales.<br><br>656 227 7150<br><br>Lunes a viernes, 9:00 am a 2:30 pm y de<br>5:00 pm a 6:30 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.434451,31.7267717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas y Consular</name>
+      <Placemark>
+        <name>Instituto Nacional de Migración</name>
+        <description><![CDATA[Espacio para realizar trámites migratorios incluyendo presentar la solicitud de condición de refugiado y solicitar las tarjetas de residencia o visitante.<br><br>656 611 7520 ext. 8 290 206<br><br>Lunes a viernes, 9:00 am a 1:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.453061,31.7620471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(COESPO/CAIM) Consejo Estatal de
+Población/ Centro de Atención a
+Migrantes</name>
+        <description><![CDATA[Gestión de servicios integrales: afiliación al sistema salud, atención médica de primer nivel, bolsa de empleo y expedición carta de no antecedentes penales, gestión de espacios humanitarios, contacto con familiares y cobro de remesas.<br><br>656 629 3300 ext. 55179<br><br>Lunes a viernes 9:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4862424,31.7463729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centros de Servicios Comunitarios
+Integrados del Estado</name>
+        <description><![CDATA[Brindan talleres de autoempleo,artes, deportes y espacios de reuniones comunitarias. Acude a la oficina para ubicar el más cercano a tu domicilio.<br><br>656 616 5360<br><br>Lunes a viernes , 9:00am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4262384,31.68701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de la República de
+El Salvador </name>
+        <description><![CDATA[Servicios para nacionales de El Salvador; expedición de pasaporte, constancias de identidad, partidas de nacimiento, ficha de DUI, autorizaciones, poderes, asesoría migratoria y jurídica.<br><br>656 477 3088<br><br>Lunes a viernes, 9:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4530285,31.7466729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto Chihuahuense de la Mujer | (CAVIM) Centro de Atención a la Violencia Contra Las Mujeres</name>
+        <description><![CDATA[Brinda atención psicológica, jurídica, trabajo social a mujeres e hijos e hijas en situación vulnerable.<br><br>656 629 3300 ext. 55240 y 55242<br><br>Lunes a viernes, 9:00 am a 7:30 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4729463,31.7384015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Municipal de las Mujeres</name>
+        <description><![CDATA[Ofrece atención psicológica, asesoría jurídica y trabajo social a mujeres en situación vulnerable.<br><br>656 611 4078<br><br>Lunes a viernes, 8:00 am a 5:00 pm. Sábados,<br>9:00 am a 2:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4833167,31.7385499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sin Violencia A.C.</name>
+        <description><![CDATA[Atención psicológica, legal y trabajo social a mujeres niños, niñas y adolescentes en situación vulnerable.<br><br>656 407 7947 / 656 407 7952<br><br>Martes a sábado, 9:00 am a 5:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4382024,31.6748665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Justicia para las Mujeres</name>
+        <description><![CDATA[Ofrece asistencia e información a las usuarias, así como orientación en las diversas necesidades legales, asesoría jurídica penal y familiar, canalización a otras instituciones<br>de asistencia social.<br><br>656 629 3300 ext. 56800 y 56829<br><br>Lunes a viernes, 8:30 am a 3:00 pm. Sábado,<br>domingo y días festivos, 8:30 am a 7:30 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4740338,31.7166914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez</name>
+      <Placemark>
+        <name>DIF Municipal Ciudad Juárez</name>
+        <description><![CDATA[Promueve el desarrollo integral de la familia a través de programas para jóvenes, niñas y niños. Asistencia social, psicológica y albergue.<br><br>656 616 6966<br><br>Lunes a viernes, 8:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4545877,31.7514626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Educación</name>
+      <Placemark>
+        <name>Subsecretaría de Educación y Deporte 
+</name>
+        <description><![CDATA[Revalidación, certificación de títulos educativos y buscar espacios a nivel de educación básica para niños y niñas que así lo requieran.<br><br>656 629 3300 Ext. 55436 <br><br>Lunes a viernes, 8:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4523911,31.7501227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo</name>
+      <Placemark>
+        <name>Servicio Nacional de Empleo</name>
+        <description><![CDATA[Facilitar la vinculación de empleo entre oferentes y demandantes de empleo, orientar a los buscadores de empleo y apoyar su calificación. <br><br>656 629 3300 ext. 55409<br><br>Lunes a viernes, de 9:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4598942,31.7105772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organizaciones de la Sociedad Civil</name>
+      <Placemark>
+        <name>Red Binacional de Apoyo Humanitario / (CLINIC) Catholic Legal Immigration
+Network, Inc. </name>
+        <description><![CDATA[Asesoría legal y trámites migratorios, orientación sobre alojamiento y albergues en la ciudad, canalización y gestión médica, vinculación laboral y programas de asistencia. <br><br>656 321 3351 / 656 300 8007 /<br>656 961 822<br><br>Martes y viernes, 10:00 am a 4:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4865396,31.7393088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(DHIA) Derechos Humanos Integrales
+ en Acción A.C</name>
+        <description><![CDATA[Asesoría y representación legal para procesos de regularización migratoria en México y refugio. Gestoría social para acceso a derechos. Terapia psicológica.<br><br>656 614 7150<br><br>Lunes a viernes, 9:00 am a 5.00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4845033,31.7443272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(HIAS) Hebrew Immigrant Aid Society</name>
+        <description><![CDATA[Asistencia legal para solicitantes de asilo en EEUU y solicitantes de refugio en México.<br><br>656 685 1946<br><br>Lunes a viernes, 9:00 am a 5:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4457926,31.7415452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Aeropuerto Internacional de Ciudad Juárez</name>
+        <description><![CDATA[Servicio de transporte vía aérea a nivel nacional.<br><br>656 478 7000<br><br> Lunes a domingo, 24hrs]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.435702,31.635723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central de Autobuses Ciudad Juarez</name>
+        <description><![CDATA[Servicio de transporte estatales y nacionales vía terrestre.<br><br>656 610 7083<br><br> Lunes a domingo, 24hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.4373521,31.6922602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

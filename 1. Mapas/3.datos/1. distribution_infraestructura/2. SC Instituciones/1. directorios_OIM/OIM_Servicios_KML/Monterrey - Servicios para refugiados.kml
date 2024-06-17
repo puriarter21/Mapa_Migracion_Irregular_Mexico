@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Monterrey - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Monterrey, Nuevo León?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1531-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1531-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1531-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1531-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1531-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1825-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1825-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1825-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1825-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1825-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergues y Alimentación</name>
+      <Placemark>
+        <name>Casa INDI</name>
+        <description><![CDATA[Albergue de la sociedad civil de larga estancia para personas migrantes y refugiadas. Ofrece alimentos, atención médica, cobijo y estancia temporal para aquellos que lo necesiten. <br><br>81 8374 7221]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3255777,25.6986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Nicolás</name>
+        <description><![CDATA[Albergue de la sociedad civil de corta estancia para personas migrantes y refugiadas. Ofrece alimentos, cobijo y estancia temporal para aquellos que lo necesiten. <br><br>81 2169 8232<br><br>Entrada después de las 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2144739,25.6642132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comedor Padre Roberto Infante
+</name>
+        <description><![CDATA[Comedor comunitario que tiene por objetivo de disminuir el hambre a partir de una alimentación y nutrición adecuada de las personas en pobreza extrema y carencia de acceso a la alimentación.<br><br>Lunes a Sabado de 9:00am a 2:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.6060747,25.808163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comedor Padre Roberto Infante
+</name>
+        <description><![CDATA[Comedor comunitario que tiene por objetivo de disminuir el hambre a partir de una alimentación y nutrición adecuada de las personas en pobreza extrema y carencia de acceso a la alimentación<br><br>81 1365 5146	<br><br>Lunes a Sabado de 9:00am a 2:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3639459,25.809442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comedor Padre Roberto Infante
+</name>
+        <description><![CDATA[Comedor comunitario que tiene por objetivo de disminuir el hambre a partir de una alimentación y nutrición adecuada de las personas en pobreza extrema y carencia de acceso a la alimentación<br><br>81 1971 6606	<br><br>Lunes a Sabado de 9:00am a 2:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1875071,25.6993081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Monarca</name>
+        <description><![CDATA[Ofrece servicios como comedor comunitario para quien lo necesite.<br>Tel: 81 8390 6305<br>Lunes a domingo de 9:00 a.m. a 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4608412,25.6740353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Consulados</name>
+      <Placemark>
+        <name>Consulado de Colombia </name>
+        <description><![CDATA[Representación consular en el Estado de Nuevo León, para mayor información consultar http://www.nl.gob.mx/sites/default/files/cuerpo_consular_compressed_32.pdf<br><br>81 8399 2923]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4406962,25.6739047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de El Salvador</name>
+        <description><![CDATA[Representación consular en el Estado de Nuevo León, para mayor información consultar http://www.nl.gob.mx/sites/default/files/cuerpo_consular_compressed_32.pdf<br><br>81 8363 6967, 81 8363-6988, Lada sin costo 800 823 4860.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3409003,25.6551671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Ecuador </name>
+        <description><![CDATA[Representación consular en el Estado de Nuevo León, para mayor información consultar http://www.nl.gob.mx/sites/default/files/cuerpo_consular_compressed_32.pdf<br><br>81 8340 6362]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3115411,25.6644942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Guatemala</name>
+        <description><![CDATA[Representación consular en el Estado de Nuevo León, para mayor información consultar http://www.nl.gob.mx/sites/default/files/cuerpo_consular_compressed_32.pdf<br><br>81 8340 6947 y 81 8344 6947]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3119986,25.6643765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Nicaragua
+</name>
+        <description><![CDATA[Representación consular en el Estado de Nuevo León, para mayor información consultar http://www.nl.gob.mx/sites/default/files/cuerpo_consular_compressed_32.pdf<br><br>81 8130 9705 Ext. 2051 y 2028]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3125011,25.6690134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Educación</name>
+      <Placemark>
+        <name>ICET Oficinas Centrales</name>
+        <description><![CDATA[Instituto del Gobierno de Nuevo León dedicado a la capacitación y certificación de nuestros ciudadanos, para así brindarles mejores oportunidades de empleo y autoempleo.<br><br>81 2020 2828 (Conmutador), 81 2020-2850 y 81 2020 2851 (Incubadora de Negocios)	<br><br>Lunes a viernes de 8:00 a 17:30 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2976622,25.6798843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional para la Educación de los Adultos (INEA) Delegación Nuevo León</name>
+        <description><![CDATA[Institución pública que promueve y desarrolla servicios de alfabetización, educación primaria y secundaria para que jóvenes y adultos. Examen de Primaria y Secundaria. <br><br>81 8343 9045	<br><br>Lunes a viernes de 9:00 a 17:30 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3024673,25.6759825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de Educación de Nuevo León (Revalidaciones de estudios)</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar o revalidaciones de Preescolar, Primaria o Secundaria, Educación Media Superior o Superior. <br><br>81 2020 5254	<br><br>Lunes a viernes de 9:00 a 17:30 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3570125,25.7164826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Departamento de Educación Migrante SENL
+</name>
+        <description><![CDATA[Departamento de la Secretaría de Educación Estatal donde las personas migrantes o refugiadas pueden recibir orientación sobre inclusión escolar en Nuevo León<br><br>81 2020 5370	<br><br>Lunes a viernes de 9:00 a 17:30 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3574864,25.7038702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 1 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde el Municipio de Monterrey.<br><br>81 2020 5543, 81 2020 5544 y 81 2020 5545	<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3330376,25.6802976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 2 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde el Municipio de San Nicolas de los Garza <br><br>81 2020 5350<br>81 2020 5351<br>81 2020 5352<br>81 2020 5353<br>81 2020 5354 <br>81 2020 5355<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2669151,25.743587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 3 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde el Municipio de Guadalupe	<br><br>	81 2020 5359<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2403371,25.6879085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 4 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde el Municipio de San Pedro, García, Santa Catarina. <br><br>		81 2020-5474   <br> 81 2020-5475    <br>81 2020-5476	<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3825333,25.6543134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 6 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde el Municipio de Apodaca, Cerralvo, Dr. Gonzalez, General Treviño, Higueras, Marín, Melchor Ocampo, Pesquería.	<br><br>	81 8386-1228 <br>81 2020-5357 <br>81 2020-5358 <br>81 2020-5375 <br><br>Lunes a Viernes de 8:00 a 18:00 hrs.<br> "]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1827222,25.7789741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 8 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde el Municipio de Cadereyta, China, Dr. Coss, General Bravo, Los Aldamas, Los Herrera, Los Ramones, Juárez. <br><br>828 284 4601<br>828 284 4603<br>828 284 4605<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.0003231,25.5852643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 11 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde la zona norte de Monterrey<br><br>81 2020 5528<br>81 2020 5590<br>81 2020 5591<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3399647,25.7235337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 12 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde la zona sur de Monterrey<br><br>81 2020 5477<br>81 2020 5478 <br>81 2020 5479<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3078481,25.6544376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Regional 13 SEP</name>
+        <description><![CDATA[Oficinas de la Secretaría de Educación Estatal donde puedes acudir a solicitar información o realizar algún trámite escolar de Preescolar, Primaria o Secundaria. A esta oficina le corresponde los municipios de Abasolo, Ciénega de Flores, El Carmen, Escobedo, Hidalgo, General Zuazua, Mina, Salinas Victoria.<br><br>81 2020 5737<br>81 2020 5738<br>81 2020 5739<br>81 2020 5748<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2876486,25.7801954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos y Justicia</name>
+      <Placemark>
+        <name>Comision Estatal De Derechos Humanos Nuevo León</name>
+        <description><![CDATA[Organismo descentralizado de Derechos Humanos que ofrece orientación jurídica, atención a victimas de delitos y recepción de quejas sobre discriminación o abuso de autoridad. <br><br>81 8345 8645	24 hrs/ 7 días de la semana]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3176599,25.6787772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Justicia Familiar COPAVIDE</name>
+        <description><![CDATA[Oficina de contacto de la Fiscalia de Justicia en donde las victimas de un delito colocan una denuncia, iniciándose así el proceso de investigación. En caso de que el problema planteado por el ciudadano no sea de carácter penal, se le canalizará a la instancia que pueda brindarle el servicio. CODE especializado en Justicia Familiar<br><br>81 2033 3008	<br><br>24 hrs/ 7 días de la semana]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3638374,25.8090152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Orientación y Denuncia (CODE)
+</name>
+        <description><![CDATA[Oficina de contacto de la Fiscalia de Justicia en donde las victimas de un delito colocan una denuncia, iniciándose así el proceso de investigación. En caso de que el problema planteado por el ciudadano no sea de carácter penal, se le canalizará a la instancia que pueda brindarle el servicio. CODE especializado en Justicia Familiar<br><br>81 2033 5723	<br><br>L-V 9:00 AM a 6:00 PM]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2235926,25.6952061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo</name>
+      <Placemark>
+        <name>Servicio Nacional de Empleo en Guadalupe</name>
+        <description><![CDATA[En este espacio puedes encontrar distintas vacantes de empleo a través de ferias laborales y bolsa de trabajo, que ofrece a los solicitantes opciones de trabajo acordes a sus intereses, conocimientos y habilidades. <br><br>81 2020 2906 y 81 2020 2907<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.232341,25.6740684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolsa de Empleo Municipal en Monterrey
+</name>
+        <description><![CDATA[En este espacio puedes encontrar distintas vacantes de empleo a través de ferias laborales y bolsa de trabajo, que ofrece a los solicitantes opciones de trabajo acordes a sus intereses, conocimientos y habilidades. <br><br>81 2033 2405-01 y 81 2033 2405	<br><br>Lunes a viernes de 8:30 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3221423,25.66889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolsa de Trabajo en Apodaca</name>
+        <description><![CDATA[En este espacio puedes encontrar distintas vacantes de empleo a través de ferias laborales y bolsa de trabajo, que ofrece a los solicitantes opciones de trabajo acordes a sus intereses, conocimientos y habilidades. <br><br>81 2020 2911 y 81 2020 2912<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1891052,25.7811241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Servicio Nacional de Empleo Estatal
+</name>
+        <description><![CDATA[En este espacio puedes encontrar distintas vacantes de empleo a través de ferias laborales y bolsa de trabajo, que ofrece a los solicitantes opciones de trabajo acordes a sus intereses, conocimientos y habilidades. <br><br>81 2033 0020	<br><br>Lunes a viernes de 8:00 a 16:30 hrs.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2917848,25.6759309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolsa de Empleo de Escobedo</name>
+        <description><![CDATA[En este espacio puedes encontrar distintas vacantes de empleo a través de ferias laborales y bolsa de trabajo, que ofrece a los solicitantes opciones de trabajo acordes a sus intereses, conocimientos y habilidades. <br><br>81 8220 6100 Ext. 1405	<br><br>Lunes a Viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3226338,25.8079244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolsa de Empleo de Juárez</name>
+        <description><![CDATA[En este espacio puedes encontrar distintas vacantes de empleo a través de ferias laborales y bolsa de trabajo, que ofrece a los solicitantes opciones de trabajo acordes a sus intereses, conocimientos y habilidades. <br><br>81 1878 8000	<br><br>Lunes a Viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.0909289,25.6462183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolsa de Empleo de García</name>
+        <description><![CDATA[En este espacio puedes encontrar distintas vacantes de empleo a través de ferias laborales y bolsa de trabajo, que ofrece a los solicitantes opciones de trabajo acordes a sus intereses, conocimientos y habilidades. <br><br>81 5515 1810 y 81 5515 1812<br><br>Lunes a viernes de 8:00 a 17:00 hrs.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.5786116,25.7859549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>COMAR - Comisión Mexicana de Ayuda a Refugiados</name>
+        <description><![CDATA[Comisión Mexicana de Ayuda a Refugiados, entidad federal encargada de atención a población solicitante y refugiada en Nuevo León<br><br>81 8486 1477 Ext. 218	<br><br>Lunes a viernes de 9:00 a 13:00 hrs]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3081255,25.6359717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Migración</name>
+        <description><![CDATA[Trámites migratorios, regularización migratoria.<br><br> 81 8486 1574	<br><br>Lunes a viernes de 14:00 a 18:00 hrs]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3080792,25.6360119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Estatal de la Juventud Nuevo León
+</name>
+        <description><![CDATA[Ofrece oportunidades educativas, culturales y de recreación a las personas jóvenes.<br><br>8:00am a 6:00pm Lunes a viernes]]></description>
+        <styleUrl>#icon-1825-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3038912,25.6786643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto de la Juventud y el Deporte de Juarez Nuevo León
+</name>
+        <description><![CDATA[Espacio de esparcimiento con alberca y canchas deportivas. Da oportunidades educativas, culturales y de recreación a las personas jóvenes.<br><br>81 2425 0575	<br><br>8:00am a 5:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.154479,25.6163717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres y Niñez</name>
+      <Placemark>
+        <name>SIPINNA (Sistema Nacional de Protección de Niñas, Niños y Adolescentes)
+</name>
+        <description><![CDATA[El SIPINNA tiene el objetivo de velar, proteger y garantizar el cumplimiento de los derechos fundamentales de la niñez. <br><br>81 8344 8932	<br><br>Lunes a viernes de 9:00 a 17:00 hrs]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3395478,25.6654179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado
+</name>
+        <description><![CDATA[Institución que protege a niñas, niños y adolescentes menores de 18 años victimas de maltrato que sean reportados o que se tenga conocimiento. Para reportar el maltrato comunicarse los telefonos indicados o puedes reportar a los correos: emergencias1@difnl.gob.mx, emergencias2@difnl.gob.mx, emergencias3@difnl.gob.mx, www.facebook/difnuevoleon<br><br>075, 800 000 0075, 81 2020 8515 y 8516	<br><br>Lunes a viernes de 9:00 a 17:00 hrs]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2522502,25.6695949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Violeta Guadalupe</name>
+        <description><![CDATA[Refugio al que mujeres de todas las edades, junto con sus hijas e hijos y que hayan pasado o estén viviendo situación de violencia pueden acudir.<br><br>Se brinda apooy psicosocial, el cual incluye: abogados, trabajadoras sociales y psicólogas, además de la impartición de talleres de autoempleo.<br><br>Sierra de La Iguana S/N, Col. Cerro de La Silla. 67190 Guadalupe, N.L.<br><br> 81 2709 6271<br><br>	24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1914857,25.6657311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Violeta Apodaca</name>
+        <description><![CDATA["Refugio al que mujeres de todas las edades, junto con sus hijas e hijos y que hayan pasado o estén viviendo situación de violencia pueden acudir.<br><br>Se brinda apooy psicosocial, el cual incluye: abogados, trabajadoras sociales y psicólogas, además de la impartición de talleres de autoempleo."	<br><br>Gasoducto S/N, Col. Renaceres 3er Sector. Apodaca, Nuevo León. <br><br>81 1129 7673	<br><br>8:00 am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2389916,25.8177721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Municipal de las Mujeres Regias</name>
+        <description><![CDATA[Programas, Talleres, Actividades y Servicio para el Desarrollo Integral de las Mujeres en Monterrey<br><br>81 2090 2828	<br><br>8:00 am a 6:00pm ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3052975,25.6971746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Violeta Monterrey</name>
+        <description><![CDATA["Refugio al que mujeres de todas las edades, junto con sus hijas e hijos y que hayan pasado o estén viviendo situación de violencia pueden acudir.<br><br>Se brinda apooy psicosocial, el cual incluye: abogados, trabajadoras sociales y psicólogas, además de la impartición de talleres de autoempleo."<br><br> 81 8372 9066	<br><br>8:00 am a 6:00pm ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3087913,25.6798662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Violeta</name>
+        <description><![CDATA["Refugio al que mujeres de todas las edades, junto con sus hijas e hijos y que hayan pasado o estén viviendo situación de violencia pueden acudir.<br>Se brinda apooy psicosocial, el cual incluye: abogados, trabajadoras sociales y psicólogas, además de la impartición de talleres de autoempleo."<br><br>81 1129 7598	<br><br>8:00 am a 6:00pm ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3699391,25.7650323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Violeta Escobedo</name>
+        <description><![CDATA["Refugio al que mujeres de todas las edades, junto con sus hijas e hijos y que hayan pasado o estén viviendo situación de violencia pueden acudir.<br><br>Se brinda apooy psicosocial, el cual incluye: abogados, trabajadoras sociales y psicólogas, además de la impartición de talleres de autoempleo."<br><br>81 1357 1371 <br><br>	8:00 am a 6:00pm ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3172381,25.7989161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alternativas Pacíficas</name>
+        <description><![CDATA["Refugio al que mujeres de todas las edades, junto con sus hijas e hijos y que hayan pasado o estén viviendo situación de violencia pueden acudir.<br><br>Se brinda apooy psicosocial, el cual incluye: abogados, trabajadoras sociales y psicólogas, además de la impartición de talleres de autoempleo."<br><br>81 1360 2711 y 800 509 2527<br><br>Lunes a Viernes]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.308939,25.6797767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerta Violeta San Pedro Garza García</name>
+        <description><![CDATA["Refugio al que mujeres de todas las edades, junto con sus hijas e hijos y que hayan pasado o estén viviendo situación de violencia pueden acudir.<br><br>Se brinda apooy psicosocial, el cual incluye: abogados, trabajadoras sociales y psicólogas, además de la impartición de talleres de autoempleo."<br><br>81 1360 2711 y 800 509 2527	<br><br>24 hrs/ 7 días de la semana]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4179382,25.665369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Estatal de las Mujeres</name>
+        <description><![CDATA[Asesoría legal y psicológica las 24 horas para personas victimas de violencia de genero todos los días de la semana y en caso de ser necesario, acompañamiento en situaciones urgentes.<br><br>81 1300 5391, 81 1300 4875, 81 1300 5006, 81 1783 8350 y 81 1784 5253	<br><br>24 hrs/ 7 días de la semana vía telefonica]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3105169,25.6731669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos Internacionales y Sociedad Civil</name>
+      <Placemark>
+        <name>Casa Monarca</name>
+        <description><![CDATA["Orientación y asesoría legal en materia de asilo y migratoria en México. Servicios de Trabajo Social<br><br>81 8669 7038 (asistencia legal) y 81 8669 7650 (área psicosocial) <br><br>Lunes a viernes de 9:00 a 17:00 hrs]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3616622,25.6792034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ACNUR - Agencia de la ONU para los Refugiados</name>
+        <description><![CDATA[Información, orientación y apoyo a personas<br>que huyen de sus países y que no pueden<br>volver porque su vida o seguridad corren<br>peligro. Así como programas para su<br>integración al país.<br><br>Edificio Latino, Piso 8. Juan Ignacio Ramón 506, Col. Centro. Monterrey, Nuevo León. C.P. 64000.	Monterrey	<br><br>55 4791 7041, 55 7005 5950 y 800 226 8769 o al correo mexmefomon@unhcr.org	<br><br>L-J de 9:00 a.m. a 4:30 p.m.<br>Viernes de 9:00 a.m. a 2:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3110976,25.670937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Centro Estatal de Rehabilitacion y Educacion Especial</name>
+        <description><![CDATA[Consulta médica especializada, terapia física y de lenguaje como tramites especiales previa cita a personas con discapacidad transitoria o permanente, desde recién nacidos hasta adulto mayor. Las especialidades son las siguientes: Medicina Física y Rehabilitación, Pediatría, Ortopedia y Traumatología, Neurología, Otorrinolaringología, Urología, Genética, Medicina del Trabajo y Oftalmología.<br><br>81 2020 8000 Ext 8048 y 8037	<br><br>L-V 7:00 AM a 3:00 PM]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2883825,25.6237777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Atención Primaria de Adicciones y Salud Mental</name>
+        <description><![CDATA[Centro de salud comunitario donde se ofrece atención clínica y servicios básicos de salud a los habitantes de Nuevo León, como: promoción de la salud, diagnóstico temprano de enfermedades, y detección y control de riesgos. <br><br>81 2459 1415<br><br>Lunes a viernes de 8:00 a 15:30 hrs.<br> ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2320852,25.6750302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Especialidades Dentales</name>
+        <description><![CDATA[Centro de salud comunitario donde se ofrece atención clínica y servicios básicos de salud a los habitantes de Nuevo León, como: promoción de la salud, diagnóstico temprano de enfermedades, y detección y control de riesgos. <br><br>81 8190 6979 y 81 8190 6983	<br><br>Lunes a Viernes de 8:00 a 16:00 hrs<br> ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3083612,25.6610255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital Metropolitano</name>
+        <description><![CDATA[Hospital de General Público donde se ofrecen servicios medicos como Planificación Familiar, Estomatología, Cardiología, Cirugía General<br><br>81 8305 5900	<br><br>24 horas / 7 días a la semana]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.274372,25.7140788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital Regional de Alta Especialidad Materno Infantil</name>
+        <description><![CDATA[Hospital de Especialidad Familiar e Infantil Público donde se ofrecen servicios medicos como planificación Familiar, Estomatología, Cardiología, Alergología, Cirugía General, Dermatología, Endocrinólogo, Epidemiologia<br><br>81 8131 3232	<br><br>24 horas / 7 días a la semana]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2233881,25.694406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Recreativo y cultural</name>
+      <Placemark>
+        <name>Centro Comunitario Tierra Propia</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos.<br><br>81 832 65271	<br><br>9:00am a 6:00pm<br> ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1897837,25.6415598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Unidad Piloto</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 8900 8654<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2153987,25.6441056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Las Sabinas</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 8323 5585<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1935054,25.6895023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Valle Soleado</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 8453 0618<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1696035,25.7041128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Prados de Santa Rosa</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 81487576	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2258708,25.7998199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Santa Fe</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 8240 5925	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1736235,25.7262723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario La Alianza</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 2020 9261	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4151684,25.7757693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario La Alianza Sector Q</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 8391 9818<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4059793,25.7767341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario René Álvarez</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 1087 0851<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3584783,25.765365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Adelaila Lafón</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3775592,25.790745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Revolución Proletaria</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2888554,25.6335501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Sierra Ventana</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 2127 9898<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.2882067,25.6280602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Bicentenario de la Independencia</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 2020 7899	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3144455,25.6514787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario San Bernabé</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos.<br><br>81 2020 7875<br>81 2020 7873<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3699391,25.7650323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Alianza Real</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3849892,25.8448524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Eulalio Villarreal</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>	81 8452 2978	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3704713,25.805286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Fernando Amilpa</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>81 8286 9405<br>81 8237 3509<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.270301,25.8060127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Los Encinos</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>	81 8861 6713<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.117581,25.6437424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>centro comunitario Hector Caballero</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>	81 8861 6983<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1295307,25.6348761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Arboledas De Los Naranjos</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos.<br><br>81 8282 8999<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1677079,25.6285945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Monte Kristal</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos.<br><br>81 2033 8716<br>81 2033 8718<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.14598,25.6189072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Ampliación Nogales</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>	81 8192 6821	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.6047516,25.7989446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Las Palmas</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>	81 5515 1803	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4258034,25.7929356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Pesquería</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>	81 5244 0917	<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.0465786,25.7901541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario Valle de la Esperanza</name>
+        <description><![CDATA[Centros Comunitarios de Desarrollo Social en Nuevo León, en los que se ofrecen gratuitamente más de 150 talleres educativos (primaria, secundaria, preparatoria y licenciatura en línea), como talleres formativos, artísticos, culturales y deportivos. <br><br>	81 5244 0917<br><br>9:00am a 6:00pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4015695,25.7834605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LABNL Lab Cultural Ciudadano</name>
+        <description><![CDATA[Lugar para proponer y/o participar en proyectos y actividades colaborativas para descubrir nuevas formas de habitar nuestro entorno.<br><br>81 2722 7050<br><br>L-V 14:00 - 21:00 S: 11:00 - 19:00]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Esfera Cultural García</name>
+        <description><![CDATA[Lugar para proponer y/o participar en proyectos y actividades colaborativas para descubrir nuevas formas de habitar nuestro entorno. Biblioteca, Teatro, Instrumentos musicales.<br><br>L-S 09:00 - 19:00]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Esfera Cultural Buena Vista</name>
+        <description><![CDATA[Lugar para proponer y/o participar en proyectos y actividades colaborativas para descubrir nuevas formas de habitar nuestro entorno. Biblioteca, Teatro, Instrumentos musicales.<br><br>L-S 09:00 - 19:00]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Esfera Cultural Galeana</name>
+        <description><![CDATA[Lugar para proponer y/o participar en proyectos y actividades colaborativas para descubrir nuevas formas de habitar nuestro entorno. Biblioteca, Teatro, Instrumentos musicales. <br><br>L-S 09:00 - 19:00]]></description>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

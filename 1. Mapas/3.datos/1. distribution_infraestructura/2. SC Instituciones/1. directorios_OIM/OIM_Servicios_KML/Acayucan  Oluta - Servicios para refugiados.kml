@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Acayucan | Oluta - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Acayucan u Oluta, Veracruz?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue y Alimentación</name>
+      <Placemark>
+        <name>Comedor de Caritas A.C. </name>
+        <description><![CDATA[Miguel Hidalgo, esquina calle 2, Oluta. <br><br>Lunes a domingo, 9:00 a.m. -5:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.8870046,17.9258019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa del Migrante Monseñor Guillermo Ranzahuer</name>
+        <description>T. 924 247 7394</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9017573,17.9326714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos Internacionales y de la Sociedad Civil</name>
+      <Placemark>
+        <name>ACNUR Agencia de la ONU para los Regufiados</name>
+        <description><![CDATA[Prolongación Lerdo de Tejada S/N esquina con Vázquez Gómez, Cal. Villalta, Acayucan. <br><br>T. 	924 106 4616 1 <br><br>Lunes a viernes, 8:30 a.m. -4:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9162539,17.9535286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asylum Access </name>
+        <description><![CDATA[Juan de la Luz Enríquez No. 701-E, Cal. Barrio La Palma, Acayucan. <br><br>T. 	924 245 9100 y 924 249 0773 <br><br>Lunes y miércoles, 9:00 a.m. -2:00 p.m. y 3:00 -5:00 p.m. Martes, jueves y viernes atención con cita. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9187904,17.9551804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RET</name>
+        <description><![CDATA[Juan de la Luz Enríquez No. -701 E, Cal. Barrio La Palma, Acayucan. <br><br>T. 	934 348 3374 <br><br>Lunes y miércoles, 9:00 a.m. -2:00 p.m. y 3:00 -5:00 p.m. Martes, jueves y viernes atención con cita. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9189622,17.9553111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez</name>
+      <Placemark>
+        <name>Procuraduría Municipal de Protección a Niilas, Niilos y Adolescentes</name>
+        <description><![CDATA[amón Carona y Benito Juárez, Cal. La Palma, Acayucan. <br><br>Dentro dei DIF Municipal. <br><br>T. 	924 244 8809 <br><br>Lunes a viernes, 9:00 a.m. -3:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.921806,17.9526937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría Municipal de Protección a Ninas, Niíios y Adolescentes</name>
+        <description><![CDATA[Juárez 5/N, Cal. Centro, Oluta. AI interior del Dispensaria Médico. <br><br>T. 	924 245 8962 <br><br>Lunes a viernes, 9:00 a.m. -3:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.8979305,17.9279498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto Municipal de la Mujer</name>
+        <description><![CDATA[Palacio Municipal de Acayucan, Cal. Centro, Acayucan. <br><br>Lunes a viernes, 9:00 a.m. -3:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9140116,17.9489541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>Estación Migratoria de Acayucan - INM - Instituto Nacional de Migración</name>
+        <description><![CDATA[T. 924 247 9170 <br><br>Lunes a viernes, 9:00 a.m. -3:00 p.m. y 4:00 -6:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9217003,18.0017518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMAR - Comisión Mexicana de Ayuda a Refugiados</name>
+        <description><![CDATA[T. (55) 5209 8800 Ext. 37062 <br><br>Lunes a viernes, 9:00 a.m. -3:00 p.m. y 4:00 -6:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9222498,18.0016465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección Municipal de Atención a Migrantes</name>
+        <description><![CDATA[Palacio Municipal de Acayucan, Cal. Centro, Acayucan. <br><br>T. 924 106 4499 <br><br> Lunes a viernes, 9:00 a.m. -3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9136816,17.9489039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía Especializada en Atención a Migrantes</name>
+        <description><![CDATA[T. 924 106 4499 <br><br>Lunes a viernes, 9:00 a.m. -5:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9137246,17.948613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Consulados</name>
+      <Placemark>
+        <name>Consulado de Honduras en Acayucan</name>
+        <description><![CDATA[Palacio Municipal de Acayucan, Planta baja, Cal. Centro, Acayucan.<br><br>T. 924 245 3524<br><br>Lunes a viernes, 9:00 a.m. - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9140625,17.9486538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de EI Salvador</name>
+        <description><![CDATA[Melchor Ocampo Norte No. 1212, Cal. Villalta, Acayucan. <br><br>T. 924 244 9243 1 924 245 5287 y 01 800 747 6117 <br><br>Lunes a domingo antes de las 9:00 p.m., pueden comunicarse con su familia. Linea 724: (045) 229 904 1881 <br><br>Lunes a viernes, 8:30 a.m. -4:30 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9103659,17.9565032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Guatemala </name>
+        <description><![CDATA[lndependencia No. 609, esquina Altamirano, Barrio Zapotal, Acayucan. <br><br>T. 	924 244 9156 <br><br>Lunes a viernes, 9:00 a.m. -5:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9085382,17.950305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Hospital Oluta Acayucan</name>
+        <description>Carretera Acayucan-Oluta Km 1.13, Cal. Olmeca, Oluta. 24 hrs. </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9057116,17.9325805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Delegación Acayucan</name>
+        <description>T. 924 245 0028 1 24 hrs. </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9119019,17.9478892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Central Camionera de Acayucan</name>
+        <description><![CDATA[T. 	924 245 0046 <br><br>24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9047638,17.9479436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Deporte y Cultura</name>
+      <Placemark>
+        <name>Cancha la Malinche </name>
+        <description><![CDATA[Carretera Acayucan-Oluta Km 1.13, Cal. Olmeca, Oluta. <br><br>T. 924 245 0013, 924 245 0085 y 924 245 1814 Ext. 132 <br><br>Lunes a domingo, 6:00 a.m. -10:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9065636,17.9320265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Unidad Deportiva "El Greco"]]></name>
+        <description><![CDATA[T.	 924 245 0013, 924 245 0085 y 924 245 1814 Ext. 132 <br><br>Lunes a domingo, 6:00 a.m. - 10:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9209507,17.9366139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa De La Cultura</name>
+        <description><![CDATA[Melchor Ocampo No. 52, Cal. Nuevo, Acayucan.<br><br>T. 	924 245 0013 <br><br>Lunes a domingo, 8:30 a.m. -4:00 p.m. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9109158,17.9434801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos</name>
+      <Placemark>
+        <name>Comisión Estatal de Derechos Humanos - Delegación Étnica Acayucan</name>
+        <description>9242459055</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9109558,17.950808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

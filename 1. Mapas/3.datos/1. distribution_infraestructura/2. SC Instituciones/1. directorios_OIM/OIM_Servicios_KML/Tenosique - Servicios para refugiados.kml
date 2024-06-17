@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tenosique - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Tenosique, Tabasco?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1532-AFB42B-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-AFB42B-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-AFB42B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-AFB42B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-AFB42B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1732-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1732-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1732-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1732-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1732-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1734-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1734-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1734-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1734-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1734-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergues </name>
+      <Placemark>
+        <name>Albergue La 72, Hogar-Refugio para Migrantes</name>
+        <description><![CDATA[descripción: Asistencia humanitaria y de alojamiento a personas migrantes y que buscan protección como refugiadas en México.<br><br><br><br>Teléfono: 934 117 1725<br>934 110 7129<br>Horario: Lunes a sábado<br>9:00 a.m. - 1:00 p.m.<br>4:00 p.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asistencia humanitaria y de alojamiento a personas migrantes y que buscan protección como refugiadas en México.
+
+
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 117 1725
+934 110 7129</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a sábado
+9:00 a.m. - 1:00 p.m.
+4:00 p.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4309629,17.461921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Consulados</name>
+      <Placemark>
+        <name>Consulado de Guatemala</name>
+        <description><![CDATA[descripción: Atención a ciudadanos guatemaltecos.<br>Teléfono: 934 342 4249<br>934 342 4251<br>Horario: Lunes a viernes<br>de 9:00 a.m. - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a ciudadanos guatemaltecos.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 4249
+934 342 4251</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes
+de 9:00 a.m. - 5:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4256567,17.4769556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Honduras</name>
+        <description><![CDATA[descripción: Atención a ciudadanos hondureños.<br>Teléfono: 934 342 6174<br>934 342 6599<br>Horario: Lunes a viernes<br>de 9:00 a.m. - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a ciudadanos hondureños.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 6174
+934 342 6599</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes
+de 9:00 a.m. - 5:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4261734,17.4769606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>Instituto Nacional de Migración (INM)</name>
+        <description><![CDATA[descripción: Espacio para realizar trámites migratorios, como la Tarjeta de visitante por razones humanitarias.<br><br>Teléfono: 934 342 02 50<br>Horario: Lunes a viernes<br>de 9:00 a.m. - 3:00 p.m.<br>(ingreso de trámites solo en línea)]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Espacio para realizar trámites migratorios, como la Tarjeta de visitante por razones humanitarias.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 02 50</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes
+de 9:00 a.m. - 3:00 p.m.
+(ingreso de trámites solo en línea)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4383441,17.459278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Mexicana de Ayuda a Refugiados COMAR </name>
+        <description><![CDATA[descripción: Oficina encargada de recibir, analizar y decidir sobre las solicitudes de la condición de refugiado.<br><br><br><br>Teléfono: 558 055 9355<br>934 688 0404<br>Horario: Lunes a viernes, 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Oficina encargada de recibir, analizar y decidir sobre las solicitudes de la condición de refugiado.
+
+
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>558 055 9355
+934 688 0404</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes, 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4303754,17.4696751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Tenosique</name>
+        <description><![CDATA[descripción: Oficina del Desarrollo Integral para la Familia, encargada del bienestar y protección de las familias mexicanas y extranjeras.<br><br><br>Teléfono: 934 342 08 32<br>Horario: Lunes a viernes, 8:00 a.m. - 3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Oficina del Desarrollo Integral para la Familia, encargada del bienestar y protección de las familias mexicanas y extranjeras.
+
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 08 32</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes, 8:00 a.m. - 3:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4188445,17.4686029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palacio Municipal de Tenosique Oficina del Presidente Municipal</name>
+        <description><![CDATA[descripción: Atención ciudadana, asesoría y canalización a servicios públicos<br>del municipio de Tenosique.<br>Teléfono: <br>Horario: Lunes a viernes, 9:00 a.m. - 3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención ciudadana, asesoría y canalización a servicios públicos
+del municipio de Tenosique.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes, 9:00 a.m. - 3:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4257752,17.4771016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Educación</name>
+      <Placemark>
+        <name>Instituto de Educación para Adultos</name>
+        <description><![CDATA[descripción: Servicios de educación básica para adultos<br>Teléfono: 934 342 2595<br>Whatsapp:<br>+52 55 3130 8715<br>Horario: Lunes a viernes<br>de 8:00 a.m. - 3:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Servicios de educación básica para adultos</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 2595
+Whatsapp:
++52 55 3130 8715</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes
+de 8:00 a.m. - 3:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4227222,17.4689259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto de Formación Para El Trabajador del Estado de Tabasco</name>
+        <description><![CDATA[descripción: Cursos de capacitación y certificación para el trabajo de poca duración que permiten a las personas solicitantes de asilo y refugiadas la actualización o especialización en distintas áreas <br>Teléfono: Lunes a viernes<br>de 8:00 a.m. - 4:00 p.m.<br>(cada taller tiene horarios<br>específicos) <br>Horario: 934 342 4739]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Cursos de capacitación y certificación para el trabajo de poca duración que permiten a las personas solicitantes de asilo y refugiadas la actualización o especialización en distintas áreas </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Lunes a viernes
+de 8:00 a.m. - 4:00 p.m.
+(cada taller tiene horarios
+específicos) </value>
+          </Data>
+          <Data name="Horario">
+            <value>934 342 4739</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4098502,17.4738699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos Internacionales</name>
+      <Placemark>
+        <name>ACNUR - Agencia de ONU para los Refugiados</name>
+        <description><![CDATA[descripción: Asistencia humanitaria, orientación, programas de integración para personas que huyen de sus países y que no pueden volver porque su vida o seguridad corren peligro.<br><br>Teléfono: 800 226 8769<br>WhatsApp +52 55 7005 5950<br>Horario: Lunes a jueves<br>de 9:00 a.m. - 5:00 p.m.<br>y viernes de 9:00 am - 2:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asistencia humanitaria, orientación, programas de integración para personas que huyen de sus países y que no pueden volver porque su vida o seguridad corren peligro.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 226 8769
+WhatsApp +52 55 7005 5950</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a jueves
+de 9:00 a.m. - 5:00 p.m.
+y viernes de 9:00 am - 2:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4263962,17.4765035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OIM - Organización Internacional para las Migraciones</name>
+        <description><![CDATA[descripción: Orientación a población migrante para acceso a derechos en<br>México y remoto voluntario asistido (RVA) a país de origen.<br>Oficina compartida con ACNUR<br>Teléfono: 55 7926 1022<br>55 2667 6997<br>56 2564 2650<br>Horario: Lunes a jueves de<br>9:00 a.m. - 5:00 p.m.<br>y viernes de 9:00 am - 2:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Orientación a población migrante para acceso a derechos en
+México y remoto voluntario asistido (RVA) a país de origen.
+Oficina compartida con ACNUR</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 7926 1022
+55 2667 6997
+56 2564 2650</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a jueves de
+9:00 a.m. - 5:00 p.m.
+y viernes de 9:00 am - 2:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4264192,17.4765366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Jurisdicción Sanitaria Tenosique</name>
+        <description><![CDATA[descripción: Oficinas administrativas del sector salud,<br>en ellas se realiza la inscripción al Seguro popular.<br><br>Teléfono: <br>Horario: Lunes a viernes de<br>9:00 a.m. - 3:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Oficinas administrativas del sector salud,
+en ellas se realiza la inscripción al Seguro popular.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de
+9:00 a.m. - 3:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4248967,17.4698877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMSS Hospital General de Sub Zona 4</name>
+        <description><![CDATA[descripción: Atención médica general, cirugía, pediatría, gineco-obstetricia a población afiliada.<br>Teléfono: <br>Horario: Lunes a viernes de 7 a.m. - 8 p.m.<br>Urgencias las 24 horas. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención médica general, cirugía, pediatría, gineco-obstetricia a población afiliada.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 7 a.m. - 8 p.m.
+Urgencias las 24 horas. </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4276524,17.4646726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital Comunitario de Tenosique</name>
+        <description><![CDATA[descripción: Atención médica general, cirugía, pediatría, gineco-obstetricia<br>Teléfono: <br>Horario: Lunes a viernes 7 a.m. - 8 p.m.<br>Entrega de fichas turno matutino 7 a.m<br>Entrega de fichas turno vespertino 1 p.m.<br>Urgencias las 24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención médica general, cirugía, pediatría, gineco-obstetricia</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes 7 a.m. - 8 p.m.
+Entrega de fichas turno matutino 7 a.m
+Entrega de fichas turno vespertino 1 p.m.
+Urgencias las 24 horas.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4117654,17.4691885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Ambulatorio para la Prevención y Atención en SIDA e Infecciones de Transmisión Sexual (CAPASITS)</name>
+        <description><![CDATA[descripción: Proporciona servicios para la prevención y atención<br>especializada de pacientes con VIH e infecciones de<br>transmisión sexual, de forma ambulatoria.<br>Teléfono: 934 342 00 07<br>Horario: Lunes a viernes<br>7:00 a.m. - 2:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Proporciona servicios para la prevención y atención
+especializada de pacientes con VIH e infecciones de
+transmisión sexual, de forma ambulatoria.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 00 07</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes
+7:00 a.m. - 2:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4128734,17.4689988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Mexicana </name>
+        <description><![CDATA[descripción: Atención médica básica.<br>Teléfono: 911<br>Horario: 24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención médica básica.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>911</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4226528,17.465256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos y Justicia</name>
+      <Placemark>
+        <name>Fiscalía Especializada para Atención a Migrantes</name>
+        <description><![CDATA[descripción: Seguimiento a delitos cometidos por o  en contra de personas migrantes.<br><br>Teléfono: 934 342 25 00<br>Horario: Lunes a viernes<br>de 9:00 a.m. - 5:00 p.m.<br>y sábado de 9:00 a.m. - 2:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Seguimiento a delitos cometidos por o  en contra de personas migrantes.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 25 00</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes
+de 9:00 a.m. - 5:00 p.m.
+y sábado de 9:00 a.m. - 2:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4200161,17.4773321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Visitaduría Regional de Población Migrante
+y Grupos Vulnerables de la Frontera Sur
+pertenecientes a la Comisión Estatal de los
+Derechos Humanos</name>
+        <description><![CDATA[descripción: Protección, defensa, observancia, promoción, estudio, divulgación de los derechos humanos y recepción de quejas.<br>Teléfono: 934 342 24 18<br>Horario: Lunes a viernes, 8:00 a.m. - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Protección, defensa, observancia, promoción, estudio, divulgación de los derechos humanos y recepción de quejas.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 24 18</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes, 8:00 a.m. - 4:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4240857,17.4678876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayuda en Acción</name>
+        <description><![CDATA[descripción: Protección humanitaria a mujeres en movilidad por México<br>que han sobrevivido a violencia sexual y de género, incluidas<br>mujeres LBT (Lesbianas, Bisexuales y Transexuales).<br>Teléfono: 556 845 0607<br>Horario: Lunes a viernes<br>de 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1732-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Protección humanitaria a mujeres en movilidad por México
+que han sobrevivido a violencia sexual y de género, incluidas
+mujeres LBT (Lesbianas, Bisexuales y Transexuales).</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>556 845 0607</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes
+de 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4308742,17.4618715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujer, Niñez y Juventud</name>
+      <Placemark>
+        <name>Dirección de atención a la mujer (DAM) - Palacio Municipal</name>
+        <description><![CDATA[descripción: Asesoría y orientación legal gratuita a mujeres, acompañamiento psicológico, fortalecimiento emocional, atención y canalización a Mujeres Víctimas de Violencia.                                                              <br>Teléfono: <br>Horario: Lunes a viernes de 9:00 a.m. - 3:00 p.m]]></description>
+        <styleUrl>#icon-1734-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría y orientación legal gratuita a mujeres, acompañamiento psicológico, fortalecimiento emocional, atención y canalización a Mujeres Víctimas de Violencia.                                                              </value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9:00 a.m. - 3:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4258376,17.4770862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría Municipal de Protección a Niñas, Niños y Adolescentes</name>
+        <description><![CDATA[descripción: Atención y protección a niñas, niños y adolescentes acompañados y no acompañados mexicanos o extranjeros.<br>Teléfono: 934 342 08 32<br>Horario: Lunes a viernes, 8:00 a.m. - 2:30 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención y protección a niñas, niños y adolescentes acompañados y no acompañados mexicanos o extranjeros.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 08 32</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes, 8:00 a.m. - 2:30 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4188461,17.4683971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organizaciones de la Sociedad Civil</name>
+      <Placemark>
+        <name>Asylum Access México</name>
+        <description><![CDATA[descripción: Asesoría y orientación legal gratuita a personas que huyen de sus países y que buscan protección internacional como refugiadas.<br><br>Teléfono: 934 342 6311 (número fijo)<br>934 116 5604<br>934 116 7674<br>Horario: Lunes a jueves, 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría y orientación legal gratuita a personas que huyen de sus países y que buscan protección internacional como refugiadas.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 342 6311 (número fijo)
+934 116 5604
+934 116 7674</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a jueves, 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4259904,17.4768706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Médicos Sin Fronteras (MSF)</name>
+        <description><![CDATA[descripción: Atención médica, salud mental y trabajo social.<br><br>Teléfono: 800 999 33 21<br>Horario: Línea de atención psicológica: Lunes a Viernes 8:00 am - 5:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención médica, salud mental y trabajo social.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 999 33 21</value>
+          </Data>
+          <Data name="Horario">
+            <value>Línea de atención psicológica: Lunes a Viernes 8:00 am - 5:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4309404,17.461847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Save the Children México A.C.</name>
+        <description><![CDATA[descripción: Orientación y acompañamiento en protección de niñas,<br>niños y adolescentes (NNA) en situación de movilidad. Integración local a través de actividades deportivas y recreativas. Procesos de inserción al la escuela.                                                      <br>Teléfono: Protección:<br>934 111 2157<br>Deportes:<br>934 110 7427<br>Educación:<br>934 116 3150    <br>Horario: Lunes a jueves<br>de 9:00 a.m. - 6:00 p.m.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Orientación y acompañamiento en protección de niñas,
+niños y adolescentes (NNA) en situación de movilidad. Integración local a través de actividades deportivas y recreativas. Procesos de inserción al la escuela.                                                      </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Protección:
+934 111 2157
+Deportes:
+934 110 7427
+Educación:
+934 116 3150    </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a jueves
+de 9:00 a.m. - 6:00 p.m.  </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4263858,17.4768835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comité Internacional de Rescate (IRC)</name>
+        <description><![CDATA[descripción: Atención, asesoría y acompañamiento en programas de orientación cultural, laborales, social y protección para personas<br>solicitantes de asilo y reconocidas como refugiadas.                        <br>Teléfono: 934 134 1154   <br>Horario: Lunes a jueves 9:00 a.m. - 6:00 p.m.<br>]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención, asesoría y acompañamiento en programas de orientación cultural, laborales, social y protección para personas
+solicitantes de asilo y reconocidas como refugiadas.                        </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 134 1154   </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a jueves 9:00 a.m. - 6:00 p.m.
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4215388,17.4761635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Club Gay Amazonas</name>
+        <description><![CDATA[descripción: Apoyo a las personas de la comunidad LGBT (tanto a personas<br>mexicanas y extranjeras) brinda alojamiento y atención.                  <br>Teléfono: 934 102 5702<br>934 118 3095  <br>Horario: 24 horas, los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Apoyo a las personas de la comunidad LGBT (tanto a personas
+mexicanas y extranjeras) brinda alojamiento y atención.                  </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>934 102 5702
+934 118 3095  </value>
+          </Data>
+          <Data name="Horario">
+            <value>24 horas, los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.4271326,17.4785904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cultura, Recreación y Transporte</name>
+      <Placemark>
+        <name>Casa de la Cultura Celia Gonzalez de Rovirosa</name>
+        <description><![CDATA[Espacio cultural donde se ofrecen clases<br>y talleres de danza, música, artesanías, entre otras.<br><br>934 342 19 89]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.4234019,17.4710637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioteca Publica Muncipal</name>
+        <description><![CDATA[Biblioteca pública con espacios de lectura, computación y consulta de libros especializados.<br><br>934 342 16 97<br><br>Lunes a viernes, 8:00 a.m. - 8:00 p.m. Sábados de 9:00 a.m. - 7:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.4225261,17.4712146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gimnasio Comunitario</name>
+        <description><![CDATA[Espacio de ejercitación física con cuotas preferenciales para migrantes, solicitantes de asilo y personas refugiadas.<br><br>Lunes a viernes,  6:00 a.m. - 8:00 p.m. Sábados de 7:00 a.m. - 12:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.4144442,17.4676152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terminal de autobuses</name>
+        <description><![CDATA[Servicio de transporte<br>Lunes a domingo, 6:00 a.m. - 6:00 p.m. ]]></description>
+        <styleUrl>#icon-1532-AFB42B</styleUrl>
+        <Point>
+          <coordinates>
+            -91.4331522,17.4604703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taxis seguros</name>
+        <description>Transporte local de servicios de taxi Telf. 934 342 0508</description>
+        <styleUrl>#icon-1532-AFB42B</styleUrl>
+        <Point>
+          <coordinates>
+            -91.4259203,17.4769473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

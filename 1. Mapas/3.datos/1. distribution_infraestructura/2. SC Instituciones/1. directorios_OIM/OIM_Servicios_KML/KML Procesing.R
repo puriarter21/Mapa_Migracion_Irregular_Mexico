@@ -1,0 +1,84 @@
+library(tidyverse)
+library(sf)
+library(mapview)
+library(rvest)
+library(httr)
+library(xml2)
+
+
+# how to list all files with pattern in folder
+# pattern ".kml"
+# haz una lista en la cual tengas todos los filenames kml_file
+# Lista con los nombres de los archivos KML
+file_list <- c(
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Aguascalientes - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Acayucan  Oluta - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Cancún - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Chetumal - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Ciudad de México - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Ciudad Juárez - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Coatzacoalcos - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Guadalajara - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Monterrey - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Palenque - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Playa del Carmen - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Puebla - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Querétaro - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Saltillo - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Tamaulipas - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Tapachula - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Tenosique - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Tijuana - Servicios para refugiados.kml",
+  "~/Documents/1. Expediente Tec de Monterrey/1.Tesis/otros/KML Servicios/Tulum - Servicios para refugiados.kml"
+)
+
+# Crear un dataframe vacío llamado lugares
+lugares <- tibble(
+  ciudad = character(),
+  tipo = character(),
+  name = character(),
+  description = character(),
+  geometry_str = character()
+)
+
+# Loop para procesar cada archivo KML en la lista
+for (filename in file_list) {
+  # Obtener las capas del archivo KML
+  layers <- st_layers(filename)
+  
+  # Data frame vacío para ir llenando con los datos de cada capa
+  lugares_cd_temp <- tibble(
+    Tipo = character(),
+    Name = character(),
+    Description = character(),
+    geometry_str = character()
+  )
+  
+  # Loop para procesar cada capa en el archivo KML
+  for (layer_name in layers$name){
+    lugares_layer_temp <- read_sf(filename, layer = layer_name)
+    
+    lugares_layer_temp["geometry_str"] <- as.character(lugares_layer_temp["geometry"])
+    lugares_layer_temp["geometry"] <- NULL
+    
+    lugares_layer_temp <- as.data.frame(lugares_layer_temp) %>% 
+      mutate(Tipo = layer_name)
+    
+    lugares_cd_temp <- lugares_cd_temp %>% 
+      bind_rows(lugares_layer_temp)
+  }
+  
+  # Agregar los datos procesados del archivo al dataframe lugares
+  lugares <- lugares %>% 
+    bind_rows(lugares_cd_temp)
+}
+
+# Definir la lista de ciudades en el mismo orden que los archivos KML, no es necesario
+# por que no voy a necesitar las ciudades, y el resto de las columnas con NA 
+#las voy a procesar en pandas.
+View(lugares)
+
+# Replace the path with your preferred path
+#setwd("/Users/pablouriarte/Documents")
+
+#write.csv(lugares, file = "lugares.csv", row.names = FALSE)

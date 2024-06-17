@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cancún - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Cancún, Quintana Roo?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1531-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1531-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1531-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1531-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1531-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Alimentación</name>
+      <Placemark>
+        <name>Centro de capacitación y comedor
+comunitario</name>
+        <description><![CDATA[Centro de capacitación, educación básica,<br>formación para el trabajo y comedor<br>público. Servicios para mayores de edad.<br><br>998 255 1515<br><br>Lunes a viernes, 11:00 am a 2:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.828961,21.164304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>Instituto Nacional de Migración</name>
+        <description><![CDATA[Espacio para realizar trámites migratorios<br>incluyendo presentar la solicitud de<br>condición de refugiado y solicitar las tarjetas<br>de residencia o visitante.<br><br>998 881 3560<br><br>Lunes a viernes, 09:00 am a 1:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8242232,21.1633073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección de la Coordinación de Registro Civil en Cancún</name>
+        <description><![CDATA[Registro de nacimiento, matrimonio,<br>divorcio o defunción y otros actos civiles. <br><br>998 881 2800 Ext. 7502<br><br>Lunes a viernes, 08:30 am a 6:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8280649,21.161914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sistema para el Desarrollo Integral de la Familia (DIF)</name>
+        <description><![CDATA[Atención a población vulnerable, primordialmente<br>niñas, niños, adolescentes, mujeres, personas<br>adultas mayores y personas con discapacidad.<br>Albergue infantil para niñez migrante.<br><br>988 888 8921 o 22 Ext. 331.<br><br>Lunes a viernes, 07:00 am a 8:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8676262,21.1627212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Delegación de la Secretaria de Relaciones Exteriores</name>
+        <description><![CDATA[Emisión de pasaportes, trámites de<br>naturalización.<br><br>998 262 2639 / 998 262 2642<br><br>Lunes a viernes, 08:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8242135,21.1587674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaria de Bienestar</name>
+        <description><![CDATA[Apoyos sociales adultos mayores, personas<br>con discapacidad, becas para estudiantes de<br> educación media superior y universidad.<br><br>998 843 6340<br><br>Lunes a viernes, 08:00 am a 5:00 pm<br>y sábados 09:00 am a 1:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.829181,21.1648091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia / Derechos Humanos</name>
+      <Placemark>
+        <name>Centro Especializado para la
+Atención a la Violencia (CEAV)</name>
+        <description><![CDATA[Servicios de asesoría jurídica, psicológica,<br>trabajo social a personas víctimas de violencia.<br><br>998 211 0988<br><br>Lunes a viernes, 08:00 am a 4:00 pm ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8382039,21.194886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Ejecutiva de Atención a Víctimas (CEAVE)</name>
+        <description><![CDATA[Asesoría Jurídica y representación legal en<br>área penal y Derechos Humanos.<br><br>998 217 5679<br><br>Lunes a viernes, 08:00 am a 5:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8563519,21.1467667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de Defensoría Pública</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8537741,21.1481061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Estatal de Derechos Humanos</name>
+        <description><![CDATA[Protección, defensa, observancia, promoción,<br>estudio y divulgación de los derechos humanos.<br>Recepción de quejas.<br><br>998 898 2290 / 998 898 2291<br><br>Lunes a viernes, 08:00 am a 6:00 pm<br>con guardia permanente.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8265334,21.1535593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto Quintanarroense de la Mujer
+(IQM)</name>
+        <description><![CDATA[Oficinas de atención a la mujer en materia<br>de emprendimiento, capacitación, acompañamiento en casos de violencia de género.<br><br>998 892 0033<br><br>Lunes a viernes, 09:00 am a 5:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8241068,21.1677611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Justicia para las Mujeres de Cancún </name>
+        <description><![CDATA[Oficinas de atención a la mujer y Niños Niñas y<br>Adolescentes en materia de delitos.<br><br>998 256 1383<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.862792,21.1628257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía Especializada para la Atención de Delitos contra la Mujer y por razones de Género </name>
+        <description><![CDATA[Asesoría Jurídica y representación legal en<br>área penal y Derechos Humanos en delitos<br>cometidos en contra de mujeres.<br><br>998 840 2236<br><br>24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8632886,21.1629238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo y Educación</name>
+      <Placemark>
+        <name>Servicio Estatal de Empleo y Capacitación para el Trabajo</name>
+        <description><![CDATA[Centro Comercial las Palmas, Local A34-B,<br>2 ° piso.<br><br>Bolsa de trabajo, apoyos para autoempleo,<br>capacitación en competencias laborales,<br>vinculación laboral.<br><br>988 892 2094<br><br>Lunes a viernes, 8:00 am a 2:00 pm]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8377789,21.1541099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Capacitación para el Trabajo Industrial (CECATI) 119</name>
+        <description><![CDATA[Servicios de capacitación para el trabajo industrial (cursos de electricidad, cosmetología, hostelería, inglés, francés e informática ).<br><br>998 840 3300<br><br>Lunes a viernes, 07:00 am a 7:00 pm.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8545789,21.1640206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Estatal para la Educación de
+Jóvenes y Adultos (IEEA)</name>
+        <description><![CDATA[Servicios educativos para mayores de 18 años<br>que deseen continuar con sus estudios.<br><br>998 254 5680<br><br>Lunes a viernes, 08:00 am a 4:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.892417,21.148613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaria de Educación y Cultura</name>
+        <description><![CDATA[Administración de servicios y programas de<br>educación básica, media y superior estatales.<br>Revalidación de títulos, quejas, inscripciones.<br><br>998 898 3285 / 3286 <br><br>Lunes a viernes, 08:00 am a 4:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8210082,21.1696842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hospitales</name>
+      <Placemark>
+        <name><![CDATA[Hospital General De Cancún "Jesús Kumate Rodriguez"]]></name>
+        <description><![CDATA[Atención médica básica, de urgencias y afiliación al sistema de salud.<br><br>988 234 0000 Ext. 3<br><br>Lunes a viernes, 07:00 am a 8:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8763503,21.1961633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Central de Autobuses</name>
+        <description><![CDATA[Servicio de transporte local.<br><br>228 842 2500<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8266457,21.164339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Internacional de Cancún</name>
+        <description><![CDATA[Servicio de transporte aéreo nacional e<br>internacional.<br><br>55 5284 0400<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8740062,21.0417033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Compras</name>
+      <Placemark>
+        <name>Mercado 28</name>
+        <description><![CDATA[Variedad de productos, servicios y comercialización de ropa y calzado, alimentos frescos y comida a la venta.<br><br>Lunes a domingo, 8:00 am a 7:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8344996,21.1612911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cultura</name>
+      <Placemark>
+        <name>Instituto de la Cultura y las Artes</name>
+        <description><![CDATA[Preservación, fomento de la cultura e impartición de cursos sobre disciplinas relacionadas con el arte<br><br>998 898 4510 <br><br>Lunes a viernes, 10:00 am a 3:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8272461,21.1694938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa de Cultura Cancún</name>
+        <description><![CDATA[Preservación y fomento de la cultura.<br><br>998 884 8229<br><br>Lunes a viernes, 08:00 am a 9:00 pm y<br>sábado 09:00 am a 2:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8334732,21.1524524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

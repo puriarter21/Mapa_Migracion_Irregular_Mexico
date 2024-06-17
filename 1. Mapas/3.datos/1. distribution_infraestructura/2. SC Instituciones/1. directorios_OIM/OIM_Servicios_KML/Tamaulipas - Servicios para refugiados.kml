@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tamaulipas - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Tamaulipas?<br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1602-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1624-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1624-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1624-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue</name>
+      <Placemark>
+        <name>Casa San Juan Diego y 
+San Francisco de Asís</name>
+        <description><![CDATA[Descripción: San Francisco de Asís<br>Brinda hospedaje por un tiempo máximo de 3 días. <br>Prroporcionan alimentos, ropa, medicamentos <br>(sujeto a disponibilidad) y espacios de aseo<br>Teléfono: 868 822 4689 y 868 822 2213<br>Horario atención: Diario, de 7:00 am a 8:00 pm]]></description>
+        <styleUrl>#icon-1602-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>San Francisco de Asís
+Brinda hospedaje por un tiempo máximo de 3 días. 
+Prroporcionan alimentos, ropa, medicamentos 
+(sujeto a disponibilidad) y espacios de aseo</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>868 822 4689 y 868 822 2213</value>
+          </Data>
+          <Data name="Horario atención">
+            <value>Diario, de 7:00 am a 8:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.4861673,25.8370026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de atención al menor 
+fronterizo CAMEF, DIF</name>
+        <description><![CDATA[Descripción: Brinda atención a niñas y niños migrantes y refugiados <br>no acompañados, son canalizados por migración <br>de los EE.UU<br>Teléfono: 868 812 5730<br>Horario atención: Diario, de 8:00 am a 6:30 pm]]></description>
+        <styleUrl>#icon-1602-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Brinda atención a niñas y niños migrantes y refugiados 
+no acompañados, son canalizados por migración 
+de los EE.UU</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>868 812 5730</value>
+          </Data>
+          <Data name="Horario atención">
+            <value>Diario, de 8:00 am a 6:30 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.5002386,25.8819796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amar</name>
+        <description><![CDATA[Descripción: Brindan hospedaje, alimentos y dan servicios como: <br>luz, agua, internet<br>Teléfono: 867 188 9072<br>Horario atención: Diario, de 8:00am - 6:00pm]]></description>
+        <styleUrl>#icon-1602-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Brindan hospedaje, alimentos y dan servicios como: 
+luz, agua, internet</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>867 188 9072</value>
+          </Data>
+          <Data name="Horario atención">
+            <value>Diario, de 8:00am - 6:00pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.5020482,27.4920795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos</name>
+      <Placemark>
+        <name>Comisión de Derechos Humanos 
+del Estado de Tamaulipas</name>
+        <description><![CDATA[Descripción: Brindan atención y asesoría legal a personas migrantes <br>y refugiadas quienes han sido víctimas de algún delito <br>o violación de los derechos humanos.<br>Teléfono: 834 312 4565 y 834 312 4612<br>Horario: Lunes a viernes de 9:00 am a 3:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Brindan atención y asesoría legal a personas migrantes 
+y refugiadas quienes han sido víctimas de algún delito 
+o violación de los derechos humanos.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>834 312 4565 y 834 312 4612</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9:00 am a 3:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1623725,23.7201899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C. Zaragoza 265</name>
+        <description><![CDATA[Descripción: Comisión Estatal de Derechos <br>Humanos | Delegación Reynosa<br>Teléfono: 899 922 4263, 899 922 4264, 899 922 4266, 899 <br>188 0040, Lada sin costo: 800 508 2999<br>Horario: Lunes a viernes 9:00 am a 5:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Comisión Estatal de Derechos 
+Humanos | Delegación Reynosa</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>899 922 4263, 899 922 4264, 899 922 4266, 899 
+188 0040, Lada sin costo: 800 508 2999</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes 9:00 am a 5:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.2816639,26.0938952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo</name>
+      <Placemark>
+        <name>Secretaría del Trabajo Unidad
+regional Matamoros</name>
+        <description><![CDATA[description: Secretaría del Trabajo Unidad regional Matamoros.<br>Programa: "Bolsa de Trabajo". Se requiere una<br>identificación y que cuenten con CURP.<br>Los servicios no tienen costo<br>Teléfono: 868 812 0201, 868 812 2440, 868 813 6367, 868 <br>813 6388 y en el sitio www.empleo.gob.mx<br>Horario: Lunes a viernes de 9:00 am a 6:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[Secretaría del Trabajo Unidad regional Matamoros.
+Programa: "Bolsa de Trabajo". Se requiere una
+identificación y que cuenten con CURP.
+Los servicios no tienen costo]]></value>
+          </Data>
+          <Data name="Teléfono">
+            <value>868 812 0201, 868 812 2440, 868 813 6367, 868 
+813 6388 y en el sitio www.empleo.gob.mx</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9:00 am a 6:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.4820505,25.8660563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institución Pública</name>
+      <Placemark>
+        <name>Grupo Beta Matamoros</name>
+        <description><![CDATA[description: Realizan labores de búsqueda y auxilio de personas <br>migrantes y refugiadas extraviadas o en situaciones de <br>riesgo. Brindan primeros auxilios e información.<br>Teléfono: 868 812 3468<br>Horario: Lunes a viernes de 9:00 am a 3:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Realizan labores de búsqueda y auxilio de personas 
+migrantes y refugiadas extraviadas o en situaciones de 
+riesgo. Brindan primeros auxilios e información.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>868 812 3468</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9:00 am a 3:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.4988589,25.8945137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Tamaulipeco 
+para los migrantes</name>
+        <description><![CDATA[description: Asistencia social: Traslados locales, alimentación, <br>atención médica, llamadas telefónicas, uso de <br>computadora con internet, atención psicológica, <br>orientación geográfica, ropa y zapatos, gestiones ante <br>consulados, gestión de documentos de identidad, <br>doble nacionalidad, cita y llenado de formatos para <br>trámite de pasaporte americanos, canalización laboral, <br>impresión de documentos, localización de personas, <br>canalización a albergues, asesoría jurídica, ventanilla <br>única de atención a migrante extranjeros OIM. Todos <br>los servicios son gratuitos.<br>Teléfono: 867 712 48 36 y 867 712 38 80<br>Horario: Lunes a viernes de 9:00 am a 5:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Asistencia social: Traslados locales, alimentación, 
+atención médica, llamadas telefónicas, uso de 
+computadora con internet, atención psicológica, 
+orientación geográfica, ropa y zapatos, gestiones ante 
+consulados, gestión de documentos de identidad, 
+doble nacionalidad, cita y llenado de formatos para 
+trámite de pasaporte americanos, canalización laboral, 
+impresión de documentos, localización de personas, 
+canalización a albergues, asesoría jurídica, ventanilla 
+única de atención a migrante extranjeros OIM. Todos 
+los servicios son gratuitos.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>867 712 48 36 y 867 712 38 80</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9:00 am a 5:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.5021586,27.4971533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INM Delegación Tamaulipas</name>
+        <description><![CDATA[description: Tramites de regularización migratoria, renovación <br>FMM.<br>Teléfono: . 867 712 2171, 867 712 1177, 867 712 5600, <br>867 712 5326<br>Horario: Lunes a viernes de 9:00 am a 3:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Tramites de regularización migratoria, renovación 
+FMM.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>. 867 712 2171, 867 712 1177, 867 712 5600, 
+867 712 5326</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9:00 am a 3:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.5079887,27.4982311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia</name>
+      <Placemark>
+        <name>Procuraduría General de la 
+República, agencia orientadora 
+Matamoros</name>
+        <description><![CDATA[Descrición: <br>Teléfono: 868 813 4417<br>Horario: 24 Horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value/>
+          </Data>
+          <Data name="Teléfono">
+            <value>868 813 4417</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 Horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.5050314,25.8855774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de la 
+Defensoría Pública (IFDP)</name>
+        <description><![CDATA[Descrición: Brindan asistencia legal a las personas sujetas de un <br>proceso penal en territorio mexicano.<br>Teléfono: 68 811 04 40 Ext. 1363<br>Horario: 24 Horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Brindan asistencia legal a las personas sujetas de un 
+proceso penal en territorio mexicano.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>68 811 04 40 Ext. 1363</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 Horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.5068808,25.8495022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía General de la 
+República, Agencia orientadora 
+Nuevo Laredo</name>
+        <description><![CDATA[Descrición: Asesoría legal para personas migrantes y refugiadas<br>Teléfono: 867 713 2721<br>Horario: 24 Horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Asesoría legal para personas migrantes y refugiadas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>867 713 2721</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 Horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.5116817,27.4549197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de 
+Defensoría Pública (IFDP)</name>
+        <description><![CDATA[Descrición: Brindan asistencia legal a las personas sujetas de un <br>proceso penal en territorio mexicano<br>Teléfono: 867 714 02 53 y Cel. 444 191 8280<br>Horario: 24 Horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Brindan asistencia legal a las personas sujetas de un 
+proceso penal en territorio mexicano</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>867 714 02 53 y Cel. 444 191 8280</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 Horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.5065425,27.4847012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría Federal de 
+protección de niñas, niños y 
+adolescentes</name>
+        <description><![CDATA[Descrición: Brindan atención a la niñez migrante y refugiada que <br>son víctimas de algún delito, resguardan la seguridad <br>de dichos menores y brindan asistencia para <br>repatriación voluntaria, si es el caso<br>Teléfono: 834 172 4605 y 834 318 3451<br>Horario: 24 Horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Brindan atención a la niñez migrante y refugiada que 
+son víctimas de algún delito, resguardan la seguridad 
+de dichos menores y brindan asistencia para 
+repatriación voluntaria, si es el caso</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>834 172 4605 y 834 318 3451</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 Horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1740392,23.7125289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de la 
+Defensoría Pública (IFDP)</name>
+        <description><![CDATA[Descrición: Brindan asistencia legal a las personas sujetas de un <br>proceso penal en territorio mexicano<br>Teléfono: 834 107 8193<br>Horario: Horario de oficina 9am -3pm <br> (o a disposición del fiscal, no hay horarios)<br>ver la pag del edo de tamaulipas para tener los tels de <br>las coord regionales]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Brindan asistencia legal a las personas sujetas de un 
+proceso penal en territorio mexicano</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>834 107 8193</value>
+          </Data>
+          <Data name="Horario">
+            <value>Horario de oficina 9am -3pm 
+ (o a disposición del fiscal, no hay horarios)
+ver la pag del edo de tamaulipas para tener los tels de 
+las coord regionales</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1357221,23.7284281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía General de la 
+República, Subdelegación Cd. 
+Victoria</name>
+        <description><![CDATA[Descrición: Asistencia legal para personas refugiadas y migrantes.<br>Teléfono: 834 313 1823<br>Horario: 24 Horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Asistencia legal para personas refugiadas y migrantes.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>834 313 1823</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 Horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1640067,23.7724239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía General del Estado 
+de Tamaulipas</name>
+        <description><![CDATA[Descrición: Atención a cualquier persona víctima de algún delito<br>Teléfono: 834 318 5118 y por internet. <br>https://www.gob.mx/fgr<br>Horario: Realizar denuncia. 24hrs del día Asistencia teléfonica. <br>9:00am-6pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Atención a cualquier persona víctima de algún delito</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>834 318 5118 y por internet. 
+https://www.gob.mx/fgr</value>
+          </Data>
+          <Data name="Horario">
+            <value>Realizar denuncia. 24hrs del día Asistencia teléfonica. 
+9:00am-6pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1141987,23.7636866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de 
+Defensoría Pública (IFDP)</name>
+        <description><![CDATA[Descrición: Brindan asistencia legal a las personas sujetas de un <br>proceso penal en territorio mexicano<br>Teléfono: 868 811 04 40 Ext. 1363 Cel. 867 129 1603<br>Horario: 24 Horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value>Brindan asistencia legal a las personas sujetas de un 
+proceso penal en territorio mexicano</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>868 811 04 40 Ext. 1363 Cel. 867 129 1603</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 Horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.8482993,22.2684581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalia General de la Republica-Reynosa</name>
+        <description><![CDATA[Descrición: <br>Teléfono: <br>Horario: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descrición">
+            <value/>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.3540947,26.0616214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto de la Mujer Tamaulipeca</name>
+        <description><![CDATA[Descripción: Brindan atención psicológica<br>Teléfono: 834 110 1621<br>Horario: Lunes a viernes de 9:00 am a 6:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Brindan atención psicológica</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>834 110 1621</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9:00 am a 6:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1462292,23.7431721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez y juventud</name>
+      <Placemark>
+        <name>CAMEF- Centro de Atención
+Infantil </name>
+        <description><![CDATA[Descripción: Servicios de albergue, atención médica, psicológica,<br>jurídica y traslado a su lugar de origen a niños, niñas y<br>adolescentes migrantes y refugiados repatriados no<br>acompañados en 3 municipios (Nuevo Laredo,<br>Matamoros y Reynosa).<br>Edad 13 - 17 años<br>Teléfono: 867 712 6976 <br>https://www.facebook.com/camefn.difnuevolaredo/<br>Correo: camefdifnld@outlook.com<br>Horario: Lunes a viernes de 10:00 am - 6:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Servicios de albergue, atención médica, psicológica,
+jurídica y traslado a su lugar de origen a niños, niñas y
+adolescentes migrantes y refugiados repatriados no
+acompañados en 3 municipios (Nuevo Laredo,
+Matamoros y Reynosa).
+Edad 13 - 17 años</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>867 712 6976 
+https://www.facebook.com/camefn.difnuevolaredo/
+Correo: camefdifnld@outlook.com</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 10:00 am - 6:00 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.5015561,27.4856801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name><![CDATA[Hospital General Cd. Victoria "Dr. Norberto Treviño Zapata"]]></name>
+        <description><![CDATA[Descripción: Atención presencial<br>Teléfono: 834 318 5300<br>Horario: 24 horas]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Atención presencial</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>834 318 5300</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1374866,23.7483604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital General Reynosa</name>
+        <description><![CDATA[Descripción: Atención presencial en caso de urgencias<br>Teléfono: 899 926 3102 y 899 926 3104<br>Horario: 24 horas]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Atención presencial en caso de urgencias</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>899 926 3102 y 899 926 3104</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.2969543,26.0553867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Reynosa (Casa del
+Migrante Nuestra Señora de
+Guadalupe)</name>
+        <description><![CDATA[Descripción: Brindan atención médica gratuita y medicamentos a la<br>población migrante y refugiada que lo necesite.<br>Además, cuentan con el programa de restablecimiento<br>familiar que consiste en brindar servicios telefónicos<br>gratuitos para que las personas migrantes y refugiadas<br>se pongan en contacto con sus familiares que se<br>encuentran en otro país o en otras ciudades de México.<br>Teléfono: 899 922 6250<br>Horario: Lunes y viernes 4:00 a 6:00pm]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Brindan atención médica gratuita y medicamentos a la
+población migrante y refugiada que lo necesite.
+Además, cuentan con el programa de restablecimiento
+familiar que consiste en brindar servicios telefónicos
+gratuitos para que las personas migrantes y refugiadas
+se pongan en contacto con sus familiares que se
+encuentran en otro país o en otras ciudades de México.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>899 922 6250</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes y viernes 4:00 a 6:00pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.2882951,26.0973078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Reynosa
+(Albergue Senda de Vida)</name>
+        <description><![CDATA[Descripción: Brindan atención médica gratuita y medicamentos a la<br>población migrante y refugiada que lo necesite.<br>Además, cuentan con el programa de restablecimiento<br>familiar que consiste en brindar servicios telefónicos<br>gratuitos para que las personas migrantes y refugiadas<br>se pongan en contacto con sus familiares que se<br>encuentran en otro país o en otras ciudades de México<br>Teléfono: 899 922 6250 <br>Horario: Martes y jueves de 4:00pm a 6:00pm]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Brindan atención médica gratuita y medicamentos a la
+población migrante y refugiada que lo necesite.
+Además, cuentan con el programa de restablecimiento
+familiar que consiste en brindar servicios telefónicos
+gratuitos para que las personas migrantes y refugiadas
+se pongan en contacto con sus familiares que se
+encuentran en otro país o en otras ciudades de México</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>899 922 6250 </value>
+          </Data>
+          <Data name="Horario">
+            <value>Martes y jueves de 4:00pm a 6:00pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.2845747,26.0999829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Reynosa
+(Plaza de las Américas)</name>
+        <description><![CDATA[Descripción: Brindan atención médica gratuita y medicamentos a la<br>población migrante y refugiada que lo necesite.<br>Además, cuentan con el programa de restablecimiento<br>familiar que consiste en brindar servicios telefónicos<br>gratuitos para que las personas migrantes y refugiadas<br>se pongan en contacto con sus familiares que se<br>encuentran en otro país o en otras ciudades de México<br>Teléfono: 899 922 6250<br>Horario: Miércoles 4:00pm a 6:00pm ]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Brindan atención médica gratuita y medicamentos a la
+población migrante y refugiada que lo necesite.
+Además, cuentan con el programa de restablecimiento
+familiar que consiste en brindar servicios telefónicos
+gratuitos para que las personas migrantes y refugiadas
+se pongan en contacto con sus familiares que se
+encuentran en otro país o en otras ciudades de México</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>899 922 6250</value>
+          </Data>
+          <Data name="Horario">
+            <value>Miércoles 4:00pm a 6:00pm </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.2727084,26.0926183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

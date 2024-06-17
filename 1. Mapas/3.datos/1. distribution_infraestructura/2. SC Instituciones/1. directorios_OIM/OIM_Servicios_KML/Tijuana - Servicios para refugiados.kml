@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tijuana - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Tijuana, Baja California?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1639-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1639-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1639-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1639-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1639-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergues y Alimentación</name>
+      <Placemark>
+        <name>Casa del Migrante en Tijuana A.C.</name>
+        <description><![CDATA[descripción: Albergue y servicios gratuitos a personas en contexto de movilidad. Servicios de alojamiento, vestido y calzado, artículos de higiene personal y atención médica. apoyo a trámite de RFC, CURP y Número de Seguro Social (NSS).<br>Teléfono: 664 682 51 80<br>Horario: Lunes a domingo 9 a.m. a 9 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Albergue y servicios gratuitos a personas en contexto de movilidad. Servicios de alojamiento, vestido y calzado, artículos de higiene personal y atención médica. apoyo a trámite de RFC, CURP y Número de Seguro Social (NSS).</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 682 51 80</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a domingo 9 a.m. a 9 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0017001,32.5228819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madre Asunta</name>
+        <description><![CDATA[descripción: Albergue gratuito para mujeres solas y con niños/as (varones solo menores de 10 años). Requisito de prueba COVID negativa.<br>Teléfono: 664 378 17 48<br>Horario: Lunes a domingo de 8 a.m. a 6 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Albergue gratuito para mujeres solas y con niños/as (varones solo menores de 10 años). Requisito de prueba COVID negativa.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 378 17 48</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a domingo de 8 a.m. a 6 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0013542,32.523395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa YMCA</name>
+        <description><![CDATA[descripción: Albergue y servicios gratuitos a niños, niñas y adolescentes no acompañados, con hospedaje, alimentación, vestimenta, servicio médico, atención psicológica, legal, servicios educativos, deportivos, llamadas telefónicas, reunificación familiar. Los NNA son canalizados por el DIF o por organizaciones civiles.<br>Teléfono: 664 686 13 59<br>Horario: Lunes a sábado 9 a.m a 5 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Albergue y servicios gratuitos a niños, niñas y adolescentes no acompañados, con hospedaje, alimentación, vestimenta, servicio médico, atención psicológica, legal, servicios educativos, deportivos, llamadas telefónicas, reunificación familiar. Los NNA son canalizados por el DIF o por organizaciones civiles.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 686 13 59</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a sábado 9 a.m a 5 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0226056,32.5119193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Espacio Migrante</name>
+        <description><![CDATA[descripción: Albergue gratuito para familias, niñas, niños y adolescentes no acompañados. Canalizados por OIM, ACNUR, DIF y otras instancias de gobierno.<br><br>Teléfono: 66 4607 34 58 y Facebook: @EspacioMigranteOrg<br>Horario: Lunes a Sábado 7 a.m. a 8 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Albergue gratuito para familias, niñas, niños y adolescentes no acompañados. Canalizados por OIM, ACNUR, DIF y otras instancias de gobierno.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>66 4607 34 58 y Facebook: @EspacioMigranteOrg</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Sábado 7 a.m. a 8 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0343361,32.538251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Desayunador Salesiano Padre Chava</name>
+        <description><![CDATA[descripción: Entrega de alimentos, atención médica básica, servicio de llamadas y servicio de peluquería. Albergue gratuito para hombres.<br>Teléfono: 664 688 27 90<br>Horario: Lunes a sábado de 8 a.m. a 5 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Entrega de alimentos, atención médica básica, servicio de llamadas y servicio de peluquería. Albergue gratuito para hombres.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 688 27 90</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a sábado de 8 a.m. a 5 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.032126,32.5367559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Consulados</name>
+      <Placemark>
+        <name>Consulado de El Salvador en Tijuana</name>
+        <description><![CDATA[descripción: Atención a personas del Salvador, tramites de pasaporte, certificados de nacionalidad, registro de nacimientos, matrimonio y defunciones. Poderes judiciales que surtan efecto en El Salvador, actas notariales, declaraciones juradas, certificaciones, cartas de nacionalidad, salvoconductos, etc. Costos de acuerdo al tramite.<br>Teléfono: 664 906 30 56 / 664 374 77 07 / 664 341 49 47 y 664 135 15 12 Facebook: @ConsulTijuanaSV<br>Horario: Lunes a Viernes 9 a.m. a 5 p.m. Previa cita cita en portalcitas.rree.gob.sv para la mayoria de trámites, excepto para salvoconductos y cartas de nacionalidad.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a personas del Salvador, tramites de pasaporte, certificados de nacionalidad, registro de nacimientos, matrimonio y defunciones. Poderes judiciales que surtan efecto en El Salvador, actas notariales, declaraciones juradas, certificaciones, cartas de nacionalidad, salvoconductos, etc. Costos de acuerdo al tramite.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 906 30 56 / 664 374 77 07 / 664 341 49 47 y 664 135 15 12 Facebook: @ConsulTijuanaSV</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9 a.m. a 5 p.m. Previa cita cita en portalcitas.rree.gob.sv para la mayoria de trámites, excepto para salvoconductos y cartas de nacionalidad.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0133631,32.5213825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado General de Honduras en Tijuana, Baja California</name>
+        <description><![CDATA[descripción: Atención a personas de Honduras, tramites de certificados de nacionalidad, cartas poder, pasaportes, etc. Costos varian dependiendo del servicio<br>Teléfono: 664 900 68 83 y 664 900 68 84<br>Horario: Lunes a Viernes 9 a.m. a 5 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a personas de Honduras, tramites de certificados de nacionalidad, cartas poder, pasaportes, etc. Costos varian dependiendo del servicio</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 900 68 83 y 664 900 68 84</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9 a.m. a 5 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0133631,32.5213825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado General de Guatemala en Tijuana</name>
+        <description><![CDATA[descripción: Atención a personas de Guatemala, trámites de certificados de nacionalidad, cartas poder, pasaportes, etc.<br>Teléfono: Facebook: @ConsGtTijuana<br>Horario: Lunes a Viernes 9 a.m. a 5 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a personas de Guatemala, trámites de certificados de nacionalidad, cartas poder, pasaportes, etc.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Facebook: @ConsGtTijuana</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9 a.m. a 5 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0141678,32.524819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oficina de representación consular de Haití</name>
+        <description><![CDATA[descripción: Atención a personas de Haití.<br>Teléfono: <br>Horario: Lunes, martes y jueves de 9 a.m. a 4 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a personas de Haití.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes, martes y jueves de 9 a.m. a 4 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.9745087,32.5039151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>Instituto Nacional de Migración (INM)</name>
+        <description><![CDATA[descripción: Oficina para realizar trámites migratorios.<br>Si vas a iniciar un trámite, obtén tu cita:<br>https://citas.inm.gob.mx/<br>Teléfono: 664 682 98 62 <br>Horario: Lunes a viernes, 9 a.m. a 1 p.m.<br>]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Oficina para realizar trámites migratorios.
+Si vas a iniciar un trámite, obtén tu cita:
+https://citas.inm.gob.mx/</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 682 98 62 </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes, 9 a.m. a 1 p.m.
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.9522701,32.5049938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMAR</name>
+        <description><![CDATA[descripción: Atención general para procedimiento de la condición de refugiado en México. (Instalaciones de Proyecto Salesiano)<br>Teléfono: citascomartijuana@gmail.com<br>Horario: Consultas generales: lunes, martes y viernes, 9 a.m. a 1 p.m.<br>Miércoles: Inicio de procedimiento<br>Jueves: Únicamente personas citadas por COMAR.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención general para procedimiento de la condición de refugiado en México. (Instalaciones de Proyecto Salesiano)</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>citascomartijuana@gmail.com</value>
+          </Data>
+          <Data name="Horario">
+            <value>Consultas generales: lunes, martes y viernes, 9 a.m. a 1 p.m.
+Miércoles: Inicio de procedimiento
+Jueves: Únicamente personas citadas por COMAR.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0598244,32.5390947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección Municipal de Atención al Migrante del H. Ayuntamiento de Tijuana</name>
+        <description><![CDATA[descripción: Constancias de identidad, credencial temporal para personas repatriadas. Orientación sobre servicios gratuitos para personas migrantes en Tijuana.<br>Teléfono: 664 973 97 00 Ext. 7022<br>Horario: Lunes a viernes de 8 a.m. a 3 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Constancias de identidad, credencial temporal para personas repatriadas. Orientación sobre servicios gratuitos para personas migrantes en Tijuana.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 973 97 00 Ext. 7022</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 8 a.m. a 3 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0190721,32.5322299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Educación</name>
+      <Placemark>
+        <name>Centro 32, FBT México</name>
+        <description><![CDATA[descripción: Talleres productivos, educativos y culturales. Apoyo en trabajo social. Servicios gratuitos.<br>Teléfono: 664 686 59 25 Facebook: @Centro32FBT <br>Horario: Lunes a viernes 10 a.m. a 4 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Talleres productivos, educativos y culturales. Apoyo en trabajo social. Servicios gratuitos.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 686 59 25 Facebook: @Centro32FBT </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes 10 a.m. a 4 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0158289,32.519687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Asylum Access México "Oficina Tijuana"]]></name>
+        <description><![CDATA[descripción: Asesoría gratuita sobre servicios de salud, educación y empleo para personas solicitantes y refugiadas en México<br>Teléfono: 663 200 59 48 / 663 215 06 04<br>Horario: Lunes a viernes de 9 a.m. a 6 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría gratuita sobre servicios de salud, educación y empleo para personas solicitantes y refugiadas en México</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>663 200 59 48 / 663 215 06 04</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9 a.m. a 6 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0381983,32.5306673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Scalabrini de Formación para Migrantes - CESFOM</name>
+        <description><![CDATA[descripción: Cursos educativos gratuitos en oficios y habilidades para personas en situación de movilidad humana<br>Teléfono: WhatsApp: 664 599 76 96<br>Horario: Lunes a viernes de 10 a.m. a 7 p.m. Sábado de 12 p.m. a 7 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Cursos educativos gratuitos en oficios y habilidades para personas en situación de movilidad humana</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>WhatsApp: 664 599 76 96</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 10 a.m. a 7 p.m. Sábado de 12 p.m. a 7 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0051415,32.5271684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Programa Binacional de Educación Migrante (PROBEM)</name>
+        <description><![CDATA[descripción: Apoyo en la inscripción escolar básica para niños, niñas y adolescentes<br>Teléfono: 664 973 44 37<br>Horario: Lunes a viernes de 9 a.m. a 2 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Apoyo en la inscripción escolar básica para niños, niñas y adolescentes</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 973 44 37</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9 a.m. a 2 pm</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0169887,32.53238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos Internacionales </name>
+      <Placemark>
+        <name>ACNUR</name>
+        <description><![CDATA[descripción: Asistencia humanitaria, orientación para personas refugiadas y<br>solicitantes de asilo en México.<br>Teléfono: 800 226 8769<br>Whatsapp: +52 55 7005 5950<br>Horario: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asistencia humanitaria, orientación para personas refugiadas y
+solicitantes de asilo en México.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 226 8769
+Whatsapp: +52 55 7005 5950</value>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0149413,32.5245142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Clínica Resistencia En Salud - RHA</name>
+        <description><![CDATA[descripción: Consulta médica general y psicosocial. Filtro de agua potable para beber gratis.<br>Teléfono: 664 115 77 09<br>Horario: Lunes a jueves de 9 a.m. a 4 p.m. Alimentos: lunes a viernes 1:00 p.m.Lavandería, regaderas y baños gratuitos lunes y jueves de 9 a.m. a 3 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Consulta médica general y psicosocial. Filtro de agua potable para beber gratis.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 115 77 09</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a jueves de 9 a.m. a 4 p.m. Alimentos: lunes a viernes 1:00 p.m.Lavandería, regaderas y baños gratuitos lunes y jueves de 9 a.m. a 3 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0340369,32.5383146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RHA - Justicia en Salud (Parteras)</name>
+        <description><![CDATA[descripción: Salud sexual reproductiva, cuidado prenatal, parto, posparto, lactancia, cuidado del recién nacidos y planificación familiar. Servicios gratuitos.<br>Teléfono: 664 345 83 58<br>Horario: Lunes a jueves de 9 a.m a 4 p.m.<br>Atención presencial]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Salud sexual reproductiva, cuidado prenatal, parto, posparto, lactancia, cuidado del recién nacidos y planificación familiar. Servicios gratuitos.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 345 83 58</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a jueves de 9 a.m a 4 p.m.
+Atención presencial</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0342396,32.5383092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PREVENCASA A.C</name>
+        <description><![CDATA[descripción: Consulta médica general y nutricional gratuita. Programa de reducción de daño, detección de VIH y otras ITS.<br>Teléfono: Facebook: prevenías a.c.-oficial.<br>Horario: Lunes a viernes 9 a.m. a 2 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Consulta médica general y nutricional gratuita. Programa de reducción de daño, detección de VIH y otras ITS.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Facebook: prevenías a.c.-oficial.</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes 9 a.m. a 2 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.044898,32.538914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAPASITS</name>
+        <description><![CDATA[descripción: Atención a pacientes con VIH e infecciones de transmisión sexual.<br>Teléfono: <br>Horario: Lunes a viernes, 7:00 a.m. a 2:30 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a pacientes con VIH e infecciones de transmisión sexual.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes, 7:00 a.m. a 2:30 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.8492185,32.4718945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital General Tijuana</name>
+        <description><![CDATA[descripción: Hospital público, atención de urgencias médicas<br>Teléfono: <br>Horario: 24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Hospital público, atención de urgencias médicas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>24 horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0095238,32.525088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital Materno Infantil de Tijuana</name>
+        <description><![CDATA[descripción: Hospital Público, atención materna y perinatal.<br>Teléfono: <br>Horario: 24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Hospital Público, atención materna y perinatal.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>24 horas</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.929334,32.4902353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos y Asesoría legal</name>
+      <Placemark>
+        <name>Comisión Nacional de los Derechos Humanos (CNDH)</name>
+        <description><![CDATA[descripción: Proteger, observar, promover, estudiar, divulgar los derechos humanos; prevención e investigación de las violaciones a los derechos humanos, cuando se atribuyen a autoridades federales.<br><br>Teléfono: Tel. 664 633 34 00 Ext. 3801<br>Horario: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Proteger, observar, promover, estudiar, divulgar los derechos humanos; prevención e investigación de las violaciones a los derechos humanos, cuando se atribuyen a autoridades federales.
+</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Tel. 664 633 34 00 Ext. 3801</value>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0085994,32.5216834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Estatal de los Derechos Humanos de Baja California </name>
+        <description><![CDATA[descripción: Atención gratuita sobre quejas por violaciones a Derechos Humanos.<br>Teléfono: 664 973 23 74 / 664 973 23 75 / 664 973 23 76 / 664 973 23 77 Línea de atención 24 horas: 664 450 35 34<br>Horario: Lunes a viernes de 8 a.m. a 4 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención gratuita sobre quejas por violaciones a Derechos Humanos.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 973 23 74 / 664 973 23 75 / 664 973 23 76 / 664 973 23 77 Línea de atención 24 horas: 664 450 35 34</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 8 a.m. a 4 pm.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.9510415,32.504085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PROFEDET Procuraduría Federal de la Defensa Trabajo </name>
+        <description><![CDATA[descripción: Orientación gratuita a personas que han sufrido abusos laborales o despidos injustificados<br>Teléfono: 664 684 28 68<br>Horario: Lunes a viernes 9 a.m. a 3 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Orientación gratuita a personas que han sufrido abusos laborales o despidos injustificados</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 684 28 68</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes 9 a.m. a 3 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0248157,32.528507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Asylum Access México "Oficina Tijuana"]]></name>
+        <description><![CDATA[descripción: Información y representación legal gratuita para personas refugiadas y solicitantes de asilo en México.<br>Teléfono: 664 821 80 08 / 664 360 43 25 / 664 339 37 22 / 664 373 22 71<br>Horario: Lunes a viernes de 9 a.m. a 6 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Información y representación legal gratuita para personas refugiadas y solicitantes de asilo en México.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 821 80 08 / 664 360 43 25 / 664 339 37 22 / 664 373 22 71</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9 a.m. a 6 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0381983,32.5306673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fundación Scalabrini de México A.C.</name>
+        <description><![CDATA[descripción: Asesoría, orientación, acompañamiento y representación legal gratuita para trámites y procedimientos ante INM y COMAR.<br>Teléfono: 664 115 01 62<br>Horario: Lunes a viernes de 8 a.m. a 5 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría, orientación, acompañamiento y representación legal gratuita para trámites y procedimientos ante INM y COMAR.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 115 01 62</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 8 a.m. a 5 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0051415,32.5271684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa del Migrante en Tijuana, AC</name>
+        <description><![CDATA[descripción: Asesoría y acompañiento gratuito en trámites ante COMAR e Instituto Nacional de Migración (INM).<br>Teléfono: 664 382 76 85<br>legal@cmtijuana.org<br>Horario: Lunes a viernes: 10 a.m. 6 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría y acompañiento gratuito en trámites ante COMAR e Instituto Nacional de Migración (INM).</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 382 76 85
+legal@cmtijuana.org</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes: 10 a.m. 6 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0016835,32.5228103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Espacio Migrante</name>
+        <description><![CDATA[descripción: Clínica Legal Espacio Migrante. Asesoría legal general, derecho migratorio, trámites ante COMAR e Instituto Nacional de Migración. Orientación para trámite de RFC y Número de Seguro Social (NSS).<br>Teléfono: 664 385 35 26<br>clinicalegal@espaciomigrante.org<br>Horario: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Clínica Legal Espacio Migrante. Asesoría legal general, derecho migratorio, trámites ante COMAR e Instituto Nacional de Migración. Orientación para trámite de RFC y Número de Seguro Social (NSS).</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 385 35 26
+clinicalegal@espaciomigrante.org</value>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0342535,32.538341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de
+Defensoría Pública (IFDP)</name>
+        <description><![CDATA[descripción: Representación gratuita en trámites ante INM, COMAR y otras<br>instituciones.<br>Teléfono: 646 34 20 93 / 664 634 27 84 Linea de atención 24 horas: 800 224 24 26<br>ifdp_bc@correo.cjf.gob.mx<br>Horario: Lunes a Viernes de 9 a.m. a 3 p.m. y de 4 p.m. a 6 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representación gratuita en trámites ante INM, COMAR y otras
+instituciones.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>646 34 20 93 / 664 634 27 84 Linea de atención 24 horas: 800 224 24 26
+ifdp_bc@correo.cjf.gob.mx</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes de 9 a.m. a 3 p.m. y de 4 p.m. a 6 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0141134,32.5252623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USCRI México, Clínica Jurídica Binacional</name>
+        <description><![CDATA[descripción: Asesoría legal gratuita a personas refugiadas y en contexto de movilidad en México. Representación para proceso de asilo en Estados Unidos.<br>Teléfono: 664 905 60 42<br>dima.centrotj@gmail.com<br>Horario: Lunes a viernes de 9 a.m. a 6 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría legal gratuita a personas refugiadas y en contexto de movilidad en México. Representación para proceso de asilo en Estados Unidos.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 905 60 42
+dima.centrotj@gmail.com</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9 a.m. a 6 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0382688,32.5306653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Atención psicológica y emocional por estrés y/o violencia</name>
+      <Placemark>
+        <name>Instituto Municipal de la Mujer</name>
+        <description><![CDATA[descripción: Asesoría legal gratuita y apoyo psicológico a mujeres sobrevivientes de violencia, talleres de superación personal y educación sexual.<br>Teléfono: 664 622 25 31<br>Facebook: @immujertijuanagobmx<br>Horario: Lunes a viernes de 8 a.m a 4 p.m.]]></description>
+        <styleUrl>#icon-1639-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría legal gratuita y apoyo psicológico a mujeres sobrevivientes de violencia, talleres de superación personal y educación sexual.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 622 25 31
+Facebook: @immujertijuanagobmx</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 8 a.m a 4 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0337884,32.5374915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro 32, FBT México</name>
+        <description><![CDATA[descripción: Solicitud de atención psicológica gratuita y confidencial<br>Teléfono: 664 695 33 27<br>Horario: Lunes a viernes de 10 a.m. a 4 p.m.]]></description>
+        <styleUrl>#icon-1639-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Solicitud de atención psicológica gratuita y confidencial</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 695 33 27</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 10 a.m. a 4 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0158289,32.519687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fundación Scalabrini de México A.C.</name>
+        <description><![CDATA[descripción: Orientación psicológica, acompañamiento y manejo de emociones. Habilidades para la vida.<br>Teléfono: 664 362 91 67 psicologia.tijuana@fsmx.org<br>Horario: ]]></description>
+        <styleUrl>#icon-1639-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Orientación psicológica, acompañamiento y manejo de emociones. Habilidades para la vida.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 362 91 67 psicologia.tijuana@fsmx.org</value>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -117.0051415,32.5271684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Municipal Tijuana</name>
+        <description><![CDATA[descripción: Atención a personas con discapacidad y adultos mayores.<br>Atención psicológica de emergencia sin costo por medio de la<br>Línea de Apoyo 075 las 24 horas.<br>Teléfono: 664 608 82 00<br>Horario: Lunes a viernes de 8 a.m. a 3 p.m]]></description>
+        <styleUrl>#icon-1639-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a personas con discapacidad y adultos mayores.
+Atención psicológica de emergencia sin costo por medio de la
+Línea de Apoyo 075 las 24 horas.</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 608 82 00</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 8 a.m. a 3 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.9447642,32.5035179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEJUM Tijuana, Centro de Justicia Para las Mujeres del Estado De Baja California</name>
+        <description><![CDATA[descripción: Atención jurídica, psicológica y de trabajo social a mujeres sobrevivientes de violencia de género<br>Teléfono: 664 879 05 70 Línea de atención 24 horas 663 101 0707<br>Horario: ]]></description>
+        <styleUrl>#icon-1639-0097A7</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención jurídica, psicológica y de trabajo social a mujeres sobrevivientes de violencia de género</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>664 879 05 70 Línea de atención 24 horas 663 101 0707</value>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.9742844,32.4768181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Palenque - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Palenque, Chiapas?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1648-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1648-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1648-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1648-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1648-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergues </name>
+      <Placemark>
+        <name>Casa del Caminante Jtatic Samuel Ruiz García</name>
+        <description><![CDATA[Alojamiento y asistencia a personas migrantes y refugiadas.<br><br>916 100 02 17 <br><br>Diario, 7:00 am, 2:00 pm y 7:00 pm por el lapso de una hora.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9925432,17.5430906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos </name>
+      <Placemark>
+        <name>Comisión Estatal de Derechos Humanos</name>
+        <description><![CDATA[Protección, defensa, observancia, promoción, estudio y divulgación de los derechos humanos. Recepción de quejas. <br><br>Av. 5 de Mayo. Entre Abasolo y Aldama.<br><br>Tel.: 916 34 5 06 63 . <br> palenque@cedh-chiapas.org<br><br>Lunes a viernes, 8:30 am -4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9828884,17.508738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Defensor Municipal de Derechos Humanos </name>
+        <description><![CDATA[Acompafíamiento para realizar denuncias y quejas, asesoría en relación a violaciones <br>de derechos humanos y comisión de delitos.<br><br>Av. Miguel Hidalgo S/N, Centro  (Palacio Municipal, planta baja).  <br><br>916 345 0097 ext. 114<br><br>Lunes a viernes, 9:00 am -3:00 pm y 6:00 -8:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9811457,17.5096209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección de Atención a Personas Migrantes y Refugiadas (DAPMyR)</name>
+        <description><![CDATA[Orientación sobre trámites y servidos migratorios, de asilo o la condición de refugiado.<br><br>913 345 0097<br><br>Lunes a viernes, 8:00 am -4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9812396,17.5086181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instituciones Públicas</name>
+      <Placemark>
+        <name>Palacio Municipal de Palenque</name>
+        <description><![CDATA[Oficina dei Presidente Municipal y otras instancias dei município de Palenque. <br>Atención a ciudadanía, asesoría y canalización a servidos públicos.<br><br>Av. Miguel Hidalgo S/N, Centro. <br><br>916345 0097 <br><br>Lunes a viernes, 9:00 am -3:00 pm .]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9809937,17.509586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oficina de Regulación Migratoria (INM)</name>
+        <description><![CDATA[Espacio para realizar trámites migratorios, incluyendo presentar la solicitud de la condición de refugiado y solicitar la tarjeta de visitante.<br><br>55 5279 5386  ext. 14110<br><br>Lunes a viernes, 8:30 am -4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9934671,17.5183738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grupo Beta (INM)</name>
+        <description><![CDATA[Primeros auxílios, asistencia y orientación a personas migrantes y refugiadas. <br><br>55 5279 5386 Ext: 14110<br><br>Lunes a viernes, 8:30 am -4:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9934228,17.5185836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación Migratoria (INM)</name>
+        <description><![CDATA[lnstalación especial para migrantes que no están documentados.<br><br>55 5279 5386 Ext: 14110<br><br>Lunes a viernes, 8:30 am -4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9929122,17.5184334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMAR Comisión Mexicana de Ayuda a Refugiados</name>
+        <description><![CDATA[91 63 45 30 35 ext. 8288206<br> atencionasolicitante.comar@outlook.com]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9931882,17.5183533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez</name>
+      <Placemark>
+        <name>Procuraduría Municipal de Protección a Niñas, Niños y Adolescentes </name>
+        <description><![CDATA[Atención y protección a niiias, niiios y adolescentes acompanados y no acompaiiados, mexicanos o extranjero<br><br>916345 0545<br><br>Lunes a viernes, 8:00 am -4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9794565,17.5067803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Casa Migrante Palenque</name>
+        <description><![CDATA[Coordinar las actividades encaminadas a la atención de niñas, niños y adolescentes migrantes no acompañados.<br><br>Proporcionar atención integral siendo estas: Atención médica, psicológica, de trabajo social, Jurídico, alimentos y áreas de descanso.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.0012967,17.5123635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos Internacionales</name>
+      <Placemark>
+        <name>ACNUR - Agencia de la ONU para los Refugiados</name>
+        <description><![CDATA[Orientación, apoyo y programas de integración para personas que huyen  de sus países y que no pueden volver porque su vida o seguridad corren peligro. <br><br>55 79 59 0258<br><br>Lunes a viernes, 8:30 am -4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9915815,17.512142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Cruz Roja </name>
+        <description><![CDATA[Atención médica básica.<br><br>916345 4154 <br><br>Abierto las 24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9986564,17.5138951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital General Palenque</name>
+        <description><![CDATA[Atención médica y de urgencias.<br><br>916345 1433<br>916325 0733<br> <br>Abierto las 24 hrs. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9884396,17.5077443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jurisdicción Sanitaria de Palenque</name>
+        <description><![CDATA[Atención médica básica.<br><br>916345 0025<br><br>Lunes a viernes, 8:00 am -5:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9878227,17.5080842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organizaciones de la Sociedad Civil</name>
+      <Placemark>
+        <name>Asylum Access</name>
+        <description><![CDATA[Asesoría y orientación legal gratuita a <br>personas que huyen de sus países y que buscan protección como refugiadas.<br><br>916104 2600<br><br>Lunes a viernes, 9:00 am -2:00 pm / <br>4:00 -6:00 pm con cita. Atención en Albergue Casa el Caminante J'tatic: lunes, martes y jueves de 9:00 am -1:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9828296,17.5065118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RET international</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9786535,17.5081203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Orientación y apoyo</name>
+      <Placemark>
+        <name>Restaurante El Lago</name>
+        <description><![CDATA[Orientación general, alimentación (en base a disponibilidad) y agua. <br><br>Lunes a domingo.]]></description>
+        <styleUrl>#icon-1648-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9856621,17.494445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Deporte y cultura</name>
+      <Placemark>
+        <name>Gimnasio Comunitario</name>
+        <description><![CDATA[Espacio para realizar ejercicio. Cuota preferencial para personas migrantes, solicitantes y personas refugiadas.<br><br>Lunes a sábado, 7:00 am -3:00 pm y 5:00-9:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.99016,17.5423212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Deportiva Municipal</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -91.9786857,17.5139501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia</name>
+      <Placemark>
+        <name>Fiscalía especializada en delitos cometidos en contra de migrantes</name>
+        <description><![CDATA[Seguimiento a delitos cometidos por o en contra de personas migrantes.<br><br>916345 1540<br><br>Lunes a viernes, 9:00 am -5:00 pm.  ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -91.981007,17.5077952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

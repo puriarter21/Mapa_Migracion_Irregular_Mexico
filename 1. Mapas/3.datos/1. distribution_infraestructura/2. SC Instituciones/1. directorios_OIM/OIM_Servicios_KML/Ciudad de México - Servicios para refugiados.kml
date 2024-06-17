@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ciudad de México - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en la Ciudad de México?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1639-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1639-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1639-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1639-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1639-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1664-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1664-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1664-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1664-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1664-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergues y alimentación</name>
+      <Placemark>
+        <name>La Panza Es Primero</name>
+        <description><![CDATA[descripción: Comedor Comunitario.<br>Metro cercano: Velódromo/ Coyuya<br>Teléfono: <br>Horario: Lunes a Viernes 1:00 p.m - 4:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Comedor Comunitario.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Velódromo/ Coyuya</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 1:00 p.m - 4:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1018578,19.3950474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres y Violencia sexual</name>
+      <Placemark>
+        <name>Centro de Justicia para las Mujeres de la Ciudad de México</name>
+        <description><![CDATA[descripción: Institución que brinda atención integral a las mujeres víctimas de violencia.<br><br><br><br>Metro cercano: Azcapotzalco<br>Teléfono: 55 5029 1450<br>Horario: Lunes a Viernes 9:00 a.m. - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Institución que brinda atención integral a las mujeres víctimas de violencia.
+
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Azcapotzalco</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5029 1450</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9:00 a.m. - 5:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1853858,19.500868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Justicia para las Mujeres de la Ciudad de México - Iztapalapa </name>
+        <description><![CDATA[descripción: Institución que brinda atención integral a las mujeres víctimas de violencia.<br>Metro cercano: Santa Marta<br>Teléfono: 55 5346 8394<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Institución que brinda atención integral a las mujeres víctimas de violencia.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Santa Marta</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5346 8394</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.9967294,19.3430274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Atención a la violencia Intrafamiliar C.A.V.I.</name>
+        <description><![CDATA[descripción: Mujeres que víctimas violencia de pareja; niñas y niños hasta 12 años de edad y que viven violencia familiar.<br>Metro cercano: Balderas<br>Teléfono: 55 5345 5248/28/29<br>Horario: Lunes a Viernes, 9:00 a.m. - 7:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Mujeres que víctimas violencia de pareja; niñas y niños hasta 12 años de edad y que viven violencia familiar.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5345 5248/28/29</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 7:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1477185,19.4242043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía Especial Para Los Delitos De Violencia Contra Las Mujeres Y Trata De Personas</name>
+        <description><![CDATA[descripción: Investiga y persigue los delitos federales relacionados con hechos de violencia contra las mujeres.<br>Metro cercano: Sevilla<br>Teléfono: 55 5346 2516<br>Horario: Lunes a Viernes 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Investiga y persigue los delitos federales relacionados con hechos de violencia contra las mujeres.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Sevilla</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5346 2516</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1755039,19.4259855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de las Mujeres de la Ciudad de México</name>
+        <description><![CDATA[descripción: Apoyo a mujeres que viven violencia de género.<br>Metro cercano: Balderas <br>Teléfono: 55 56 5811 11, opción 3 / 555 512 2836<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Apoyo a mujeres que viven violencia de género.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 56 5811 11, opción 3 / 555 512 2836</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1489664,19.4319583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salud Integral Para La Mujer/SIPAM</name>
+        <description><![CDATA[descripción: Promueve y defiende el ejercicio libre y placentero de la sexualidad de las mujeres y jóvenes, así como el respeto de sus derechos sexuales y reproductivos como ejes de transformación personal, cultural y política.<br>Metro cercano: Eje Central<br>Teléfono: 55 5345 5737<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Promueve y defiende el ejercicio libre y placentero de la sexualidad de las mujeres y jóvenes, así como el respeto de sus derechos sexuales y reproductivos como ejes de transformación personal, cultural y política.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Eje Central</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5345 5737</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1469215,19.3584762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vifac CDMX</name>
+        <description><![CDATA[descripción: Asociación civil de corte religioso que brinda asistencia a mujeres embarazadas en condiciones de vulnerabilidad.<br>Metro cercano: Barranca del Muerto<br>Teléfono: 55 5562 4691 <br>Horario: Lunes a Viernes, 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asociación civil de corte religioso que brinda asistencia a mujeres embarazadas en condiciones de vulnerabilidad.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Barranca del Muerto</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5562 4691 </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1914825,19.353301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ADIVAC</name>
+        <description><![CDATA[descripción: Atención especializada a toda persona que ha vivido algún tipo de violencia sexual. <br>Metro cercano: San Cosme/ Buenavista <br>Teléfono: 555200 9632 / 55 52009633<br>Horario: Lunes a Viernes, 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención especializada a toda persona que ha vivido algún tipo de violencia sexual. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>San Cosme/ Buenavista </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>555200 9632 / 55 52009633</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1591847,19.4490524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencias del Ministerio Público Especializada en Delitos Sexuales</name>
+        <description><![CDATA[descripción: Justicia para Delitos Sexuales<br>Metro cercano: Insurgentes<br>Teléfono: 55 5682 7969 / 55 5547 4300 / 5547 8639<br>Horario: Lunes a Viernes, 9:00 a.m. / 7:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Justicia para Delitos Sexuales</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Insurgentes</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5682 7969 / 55 5547 4300 / 5547 8639</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. / 7:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1649836,19.425347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencias del Ministerio Público Especializada en Delitos Sexuales</name>
+        <description><![CDATA[descripción: Justicia para Delitos Sexuales<br>Metro cercano: Balbuena<br>Teléfono: 55 5207 5648<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Justicia para Delitos Sexuales</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balbuena</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5207 5648</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1119607,19.4202269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencias del Ministerio Público Especializada en Delitos Sexuales</name>
+        <description><![CDATA[descripción: Justicia para Delitos Sexuales<br>Metro cercano: Tepalcates<br>Teléfono: 55 5345 5830 / 55 5345 5832<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Justicia para Delitos Sexuales</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Tepalcates</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5345 5830 / 55 5345 5832</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0410315,19.3819229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencias del Ministerio Público Especializada en Delitos Sexuales</name>
+        <description><![CDATA[descripción: Justicia para Delitos Sexuales<br>Metro cercano: Instituto del Petróleo<br>Teléfono: 5345 5656 / 55 5345 5658<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Justicia para Delitos Sexuales</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Instituto del Petróleo</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>5345 5656 / 55 5345 5658</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1465851,19.4843399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencias del Ministerio Público Especializada en Delitos Sexuales</name>
+        <description><![CDATA[descripción: Justicia para Delitos Sexuales<br>Metro cercano: Salto del Agua<br>Teléfono: 55 5346 8043<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Justicia para Delitos Sexuales</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Salto del Agua</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5346 8043</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1476366,19.4244238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Terapia de Apoyo a Víctimas de Delitos Sexuales - FGJCDMX</name>
+        <description><![CDATA[descripción: Centro de Terapia de Apoyo a Víctimas de Delitos Sexuales.<br>Metro cercano: División del Norte<br>Teléfono: 55 5038 1700 Ext. 7933, 7902 y 7906<br>Horario: Lunes a Viernes, 8:00 a.m. - 2:30 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Centro de Terapia de Apoyo a Víctimas de Delitos Sexuales.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>División del Norte</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5038 1700 Ext. 7933, 7902 y 7906</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 8:00 a.m. - 2:30 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1610558,19.3811871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>LGBTI</name>
+      <Placemark>
+        <name>Centro Cultural Jauría Trans</name>
+        <description><![CDATA[descripción: Espacio seguro, de encuentro y acompañamiento para personas trans.<br><br><br><br>Metro cercano: Hospital General<br>Teléfono: 55 5518 7845<br>Horario: Martes a Sábado, 10:00 a.m - 4:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Espacio seguro, de encuentro y acompañamiento para personas trans.
+
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Hospital General</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5518 7845</value>
+          </Data>
+          <Data name="Horario">
+            <value>Martes a Sábado, 10:00 a.m - 4:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1563611,19.4166225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNADIS “Espacia Arcosiris”</name>
+        <description><![CDATA[descripción: Atención psicológica, intervención en crisis, contención emocional (terapia breve), asesoría legal, trabajo social, consejería y detección de VIH.<br>Metro cercano: Centro Médico <br>Teléfono: <br>Horario: Lunes a viernes de 9.00 am a 4.00 p.m. Previa cita y abierto en caso de emergencia.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención psicológica, intervención en crisis, contención emocional (terapia breve), asesoría legal, trabajo social, consejería y detección de VIH.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Centro Médico </value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a viernes de 9.00 am a 4.00 p.m. Previa cita y abierto en caso de emergencia.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1552242,19.4009162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Comunitario de Atención a la Diversidad Sexual</name>
+        <description><![CDATA[descripción: Brinda apoyo médico, psicológico y jurídico a personas población LGBTTIQ+ que sean víctimas de delitos.<br>Metro cercano: Insugentes<br>Teléfono: 55 5533 6008 info@fundacionarcoiris.org.mx  <br>Horario: Previa cita.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Brinda apoyo médico, psicológico y jurídico a personas población LGBTTIQ+ que sean víctimas de delitos.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Insugentes</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5533 6008 info@fundacionarcoiris.org.mx  </value>
+          </Data>
+          <Data name="Horario">
+            <value>Previa cita.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.16407,19.4271088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez y juventud</name>
+      <Placemark>
+        <name>Centros de Estancia Transitoria para Niños y Niñas</name>
+        <description><![CDATA[descripción: Albergue temporal en el que también brindan asesoría, protección y atención a los derechos de las y los niños víctimas de delictos como violencia familiar, abuso sexual, violación y abandono. <br>Metro cercano: Balderas<br>Teléfono: 55 5242 6270<br>Horario: Lunes a Viernes 9:00 a.m. - 9:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Albergue temporal en el que también brindan asesoría, protección y atención a los derechos de las y los niños víctimas de delictos como violencia familiar, abuso sexual, violación y abandono. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5242 6270</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9:00 a.m. - 9:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1473557,19.4236291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Defensoría de los Derechos de la Infancia - DIF</name>
+        <description><![CDATA[descripción: Asesoría y asistencia jurídica para la protección y defensa de los derechos de la niñez. <br>Metro cercano: Zapata<br>Teléfono: 55 5211 5946<br>Horario: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría y asistencia jurídica para la protección y defensa de los derechos de la niñez. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Zapata</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5211 5946</value>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1627104,19.3654832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REDIM Red por los Derechos de la Infancia en Mexico</name>
+        <description><![CDATA[descripción: Red Nacional de organizaciones que trabajan para defender los derechos de las niñas niños y adolecentes, brinda asesoría y orientación. <br>Metro cercano: Coyoacán<br>Teléfono: 55 5601 6278<br>Horario: Lunes a Viernes 9:00 a.m - 6:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Red Nacional de organizaciones que trabajan para defender los derechos de las niñas niños y adolecentes, brinda asesoría y orientación. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Coyoacán</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5601 6278</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9:00 a.m - 6:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1629498,19.3609104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procudaduría Federal de Protección de NNA</name>
+        <description><![CDATA[descripción: <br>Metro cercano: Zapata<br>Teléfono: 55 3003 2200 Ext. 2276<br>Horario: Lunes a martes 9:00 a.m. - 6:00 p.m. Jueves a domingo 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Zapata</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 3003 2200 Ext. 2276</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a martes 9:00 a.m. - 6:00 p.m. Jueves a domingo 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1585382,19.3666437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adultos mayores</name>
+      <Placemark>
+        <name>Instituto para el Envejecimiento Digno (INED)</name>
+        <description><![CDATA[descripción: Atención a personas adultos mayores que requieren atención; orientación y ayuda en casos de violencia y maltrato. Para atención y canalización, acuda a las ventanillas de atención de la SIBISO.<br>Metro cercano: San Antonio Abad<br>Teléfono: 55 8957 3486, ext. 191 / <br>55 5512 3799, ext. 132 / Capacitación a cuidadores de personas mayores: 55 5510 1286 y <br>55 8957 3404 Reporte y seguimiento ante casos de violencia y maltrato en contra de personas mayores: rmartinezfl@sibiso.cdmx.gob.mx <br>Horario: Viernes 9:00 a 15:00]]></description>
+        <styleUrl>#icon-1639-817717</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a personas adultos mayores que requieren atención; orientación y ayuda en casos de violencia y maltrato. Para atención y canalización, acuda a las ventanillas de atención de la SIBISO.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>San Antonio Abad</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 8957 3486, ext. 191 / 
+55 5512 3799, ext. 132 / Capacitación a cuidadores de personas mayores: 55 5510 1286 y 
+55 8957 3404 Reporte y seguimiento ante casos de violencia y maltrato en contra de personas mayores: rmartinezfl@sibiso.cdmx.gob.mx </value>
+          </Data>
+          <Data name="Horario">
+            <value>Viernes 9:00 a 15:00</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1335522,19.4190858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos humanos / Justicia</name>
+      <Placemark>
+        <name>Comisión Nacional de los Derechos Humanos de México (CNDH)</name>
+        <description><![CDATA[descripción: Institución encargada de defensa, promoción, estudio y divulgación de los derechos humanos reconocidos en la Constitución Mexicana, los tratados internacionales y las leyes.	<br><br><br><br>Metro cercano: <br>Teléfono: 800 715 2000<br>Horario: Lunes a Viernes 9:00 a.m - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Institución encargada de defensa, promoción, estudio y divulgación de los derechos humanos reconocidos en la Constitución Mexicana, los tratados internacionales y las leyes.	
+
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value/>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 715 2000</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9:00 a.m - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2205517,19.3217777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México - COPRED</name>
+        <description><![CDATA[descripción: Institución encargada de recibir las quejas y reclamaciones por discriminación en la Ciudad de México.<br><br>Metro cercano: Balderas<br>Teléfono: Línea no discriminación:<br>55 5556 5811<br><br>Casos urgentes<br>55-46-99-82-33<br>Horario: Lunes a Jueves 9:00 a.m - 6:00 p.m y Viernes 9:00 a.m - 3:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Institución encargada de recibir las quejas y reclamaciones por discriminación en la Ciudad de México.
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Línea no discriminación:
+55 5556 5811
+
+Casos urgentes
+55-46-99-82-33</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Jueves 9:00 a.m - 6:00 p.m y Viernes 9:00 a.m - 3:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1517443,19.4294776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión de Derechos Humanos de la Ciudad de México - CDHCDMX</name>
+        <description><![CDATA[descripción: Institución encargada de conocer sobre quejas y denuncias por presuntas violaciones a los Derechos Humanos cometidas por cualquier autoridad o persona de la administración pública de la Ciudad de México. <br><br><br>Metro cercano: Viveros<br>Teléfono: 55 5229 5600<br>Horario: 24 hrs al día, 356 días al año.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Institución encargada de conocer sobre quejas y denuncias por presuntas violaciones a los Derechos Humanos cometidas por cualquier autoridad o persona de la administración pública de la Ciudad de México. 
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Viveros</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5229 5600</value>
+          </Data>
+          <Data name="Horario">
+            <value>24 hrs al día, 356 días al año.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1747784,19.3550495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consejo Nacional Para Prevenir la Discriminación - CONAPRED</name>
+        <description><![CDATA[descripción: Si requieres orientación jurídica o fuiste víctima o testigo de discriminación, por acción o por omisión, por parte de un servidor público federal o un particular, puedes presentar una queja ante la CONAPRED.<br>Metro cercano: Sevilla<br>Teléfono: 55 5262 1490<br>Horario: Lunes a Jueves 9:00 a.m - 5:30 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Si requieres orientación jurídica o fuiste víctima o testigo de discriminación, por acción o por omisión, por parte de un servidor público federal o un particular, puedes presentar una queja ante la CONAPRED.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Sevilla</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5262 1490</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Jueves 9:00 a.m - 5:30 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1697128,19.4229242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEAVI-Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México</name>
+        <description><![CDATA[descripción: Institución encargada de registrar y atender a las personas que han sido víctimas de delitos o violaciones a los derechos humanos en México.<br>Metro cercano: Allende<br>Teléfono: 55 9131 4694<br>Horario: Lunes a Viernes, 9:00 a.m - 6:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Institución encargada de registrar y atender a las personas que han sido víctimas de delitos o violaciones a los derechos humanos en México.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Allende</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 9131 4694</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m - 6:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1374683,19.4372945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencia especializada para la atención de personas adultas mayores víctimas de violencia familiar</name>
+        <description><![CDATA[descripción: Brinda atención jurídica y asistencial a las personas adultas mayores que vivan violencia familiar. <br>Metro cercano: Balderas<br>Teléfono: 55 5345 5111/12<br>800 0074 533<br>adultosmayores@pdjdf.gob.mx <br>Horario: Lunes a domingo (festivos) de 09:00 a.m a 5:00 p.m y de 5:00 pm a 09:00p.m, la atención se proporciona en la guardia de la Fiscalía de Procesos en Juzgados Familiares. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Brinda atención jurídica y asistencial a las personas adultas mayores que vivan violencia familiar. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5345 5111/12
+800 0074 533
+adultosmayores@pdjdf.gob.mx </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a domingo (festivos) de 09:00 a.m a 5:00 p.m y de 5:00 pm a 09:00p.m, la atención se proporciona en la guardia de la Fiscalía de Procesos en Juzgados Familiares. </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1476366,19.4244238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consejo Ciudadano de Seguridad y Justicia de la Ciudad de México - CCSJCM</name>
+        <description><![CDATA[descripción: Organización civil que brinda asesoramiento y mediación a la ciudadanía y las autoridades de seguridad y justicia de la Ciudad de México y de todo el país.<br>Metro cercano: Insurgentes<br>Teléfono: 55 5533 5533<br><br>contacto@consejociudadanomx.org<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Organización civil que brinda asesoramiento y mediación a la ciudadanía y las autoridades de seguridad y justicia de la Ciudad de México y de todo el país.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Insurgentes</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5533 5533
+
+contacto@consejociudadanomx.org</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1649836,19.425347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía General de Justicia de la CDMX</name>
+        <description><![CDATA[descripción: Organismo encargado de investigar y perseguir delitos cometidos en la Ciudad de México.<br>Metro cercano: Balderas<br>Teléfono: 5345 5091 ext. 13190<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Organismo encargado de investigar y perseguir delitos cometidos en la Ciudad de México.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>5345 5091 ext. 13190</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1471914,19.4245285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía de Investigación de Delitos cometidos en agravio de grupos de Atención Prioritaria </name>
+        <description><![CDATA[descripción: Organismo encargado de investigar y perseguir delitos cometidos contra personas migrantes y sujetas de protección internacional en la Ciudad de México. <br>Metro cercano: Balderas<br>Teléfono: <br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Organismo encargado de investigar y perseguir delitos cometidos contra personas migrantes y sujetas de protección internacional en la Ciudad de México. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1476366,19.4244238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de Defensoría Pública</name>
+        <description><![CDATA[descripción: Ofrece orientación y asistencia legal gratuita. Asesoría sobre el procedimiento ante la COMAR.<br>Metro cercano: Juárez<br>Teléfono: 800 224 2426<br>Horario: Previa cita.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Ofrece orientación y asistencia legal gratuita. Asesoría sobre el procedimiento ante la COMAR.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Juárez</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 224 2426</value>
+          </Data>
+          <Data name="Horario">
+            <value>Previa cita.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1502992,19.4337905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía de Investigación de los delitos de materia de Trata de Personas </name>
+        <description><![CDATA[descripción: Investigación y persecución de delitos relacionados con la trata de personas.<br>Metro cercano: Balderas<br>Teléfono: 55 5346 8480 / 55 5346 8110<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Investigación y persecución de delitos relacionados con la trata de personas.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5346 8480 / 55 5346 8110</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1473881,19.4243727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agencia Especializada en Atención a Personas LGBTTTI+</name>
+        <description><![CDATA[descripción: Agencia del ministerio público para realizar denuncias<br>sobre crímenes cometidos en contra de la comunidad de la<br>diversidad sexual.<br>Metro cercano: Balderas<br>Teléfono: 55 5346 8543<br>Horario: Abierto 24 horas los 365 días del año]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Agencia del ministerio público para realizar denuncias
+sobre crímenes cometidos en contra de la comunidad de la
+diversidad sexual.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5346 8543</value>
+          </Data>
+          <Data name="Horario">
+            <value>Abierto 24 horas los 365 días del año</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1476366,19.4244238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institución Pública</name>
+      <Placemark>
+        <name>Comisión Mexicana de Ayuda a Refugiados (COMAR)</name>
+        <description><![CDATA[descripción: Oficina del Gobierno encargada de recibir, analizar y decidir sobre las solicitudes de la condición de refugiado.<br><br><br><br><br><br>Metro cercano: Cuauhtémoc<br>Teléfono: 55 5209 8800 Ext. 30147<br>Horario: Lunes a Viernes, 9:00 a.m - 6:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Oficina del Gobierno encargada de recibir, analizar y decidir sobre las solicitudes de la condición de refugiado.
+
+
+
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Cuauhtémoc</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5209 8800 Ext. 30147</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m - 6:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1549989,19.4300651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Migración (INM)</name>
+        <description><![CDATA[descripción: Oficina para realizar trámites migratorios, como la Tarjeta de visitante por razones humanitarias.<br><br><br>Metro cercano: Polanco<br>Teléfono: 800 004 6264<br>Horario: Lunes a Viernes, 9:00 a.m - 1:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Oficina para realizar trámites migratorios, como la Tarjeta de visitante por razones humanitarias.
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Polanco</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 004 6264</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m - 1:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2028128,19.4379497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de Trabajo y Fomento al Empleo - STyFE</name>
+        <description><![CDATA[descripción: Fomento, Constitución y Fortalecimiento de Empresas Sociales y Solidarias de la Ciudad de México. Fomento al Trabajo Digno. Seguro de desempleo. <br><br>Metro cercano: Pino Suárez<br>Teléfono: 55 5709 3233, ext. 3009 / Subprograma de Fortalecimiento de Empresas Sociales y Solidarias<br>Número de teléfono: <br>5038 0200, ext. 3071 o 3062<br><br>Subprograma de Fomento y Constitución de Empresas Sociales y Solidarias<br>Número de teléfono: <br>50-38-02-00 ext. 3015 o 3079<br>Horario: Lunes a Viernes, 9:00 a.m - 6:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Fomento, Constitución y Fortalecimiento de Empresas Sociales y Solidarias de la Ciudad de México. Fomento al Trabajo Digno. Seguro de desempleo. 
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Pino Suárez</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5709 3233, ext. 3009 / Subprograma de Fortalecimiento de Empresas Sociales y Solidarias
+Número de teléfono: 
+5038 0200, ext. 3071 o 3062
+
+Subprograma de Fomento y Constitución de Empresas Sociales y Solidarias
+Número de teléfono: 
+50-38-02-00 ext. 3015 o 3079</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m - 6:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1333393,19.4213098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Migración - INM - Oficinas Centrales</name>
+        <description><![CDATA[descripción: Oficina para realizar trámites migratorios, como la Tarjeta de visitante por razones humanitarias.<br>Metro cercano: Polanco<br>Teléfono: 800 004 6264<br>Horario: Lunes a Viernes, 9:00 a.m - 1:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Oficina para realizar trámites migratorios, como la Tarjeta de visitante por razones humanitarias.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Polanco</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 004 6264</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m - 1:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2113014,19.4368852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INM - Estación Migratoria - Las Agujas</name>
+        <description><![CDATA[descripción: Instalación especial para personas migrantes detenidas por no contar con un estatus regular en el país.<br>Metro cercano: Calle 11<br>Teléfono: 55 5387 2400<br>Horario: Lunes a Viernes, 9:00 a.m - 1:00 p.m]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Instalación especial para personas migrantes detenidas por no contar con un estatus regular en el país.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Calle 11</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5387 2400</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m - 1:00 p.m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0832561,19.3162704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de Inclusión y Bienestar Social -SIBISO</name>
+        <description><![CDATA[descripción: Subdirección de Migrantes. Dependencia local que tiene a su cargo la atención a las personas migrantes, refugiadas, solicitantes de asilo, capitalinas en retorno y desplazadas internas.<br>Ventanilla de atención: orientación, asesoría y canalización a diferentes servicios. Aquí se realiza el trámite de inscripción al Padrón de huéspedes y migrantes en retorno de la Ciudad de México.<br>Metro cercano: Pino Suárez/San Antonio Abad<br>Teléfono: 55 8957 3416 coordinacionmigrantes@sibiso.cdmx.gob.mx<br>Horario: Lunes a Jueves 9:00 a.m - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Subdirección de Migrantes. Dependencia local que tiene a su cargo la atención a las personas migrantes, refugiadas, solicitantes de asilo, capitalinas en retorno y desplazadas internas.
+Ventanilla de atención: orientación, asesoría y canalización a diferentes servicios. Aquí se realiza el trámite de inscripción al Padrón de huéspedes y migrantes en retorno de la Ciudad de México.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Pino Suárez/San Antonio Abad</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 8957 3416 coordinacionmigrantes@sibiso.cdmx.gob.mx</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Jueves 9:00 a.m - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.13355,19.4191333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto de Atención a Poblaciones Prioritarias - IAPP</name>
+        <description><![CDATA[descripción: Atención a personas para personas situación de calle y adultos mayores, vivienda temporal o permanente. Para atención y canalización, acuda a la ventanilla de atención de la SIBISO.<br>Metro cercano: Pino Suárez/San Antonio Abad<br>Teléfono: 555 741 3666 y <br>555 741 3498 ext. 111<br>Horario: Lunes a Jueves 9:00 a.m a 6:00 p.m Vierners 9:00 a.m a 3: 00 p.m ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a personas para personas situación de calle y adultos mayores, vivienda temporal o permanente. Para atención y canalización, acuda a la ventanilla de atención de la SIBISO.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Pino Suárez/San Antonio Abad</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>555 741 3666 y 
+555 741 3498 ext. 111</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Jueves 9:00 a.m a 6:00 p.m Vierners 9:00 a.m a 3: 00 p.m </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.13355,19.4191333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos internacionales y Organizaciones de la Sociedad Civil</name>
+      <Placemark>
+        <name>ACNUR, Alto Comisionado de las Naciones Unidas para los Refugiados</name>
+        <description><![CDATA[descripción: Trabaja para cuidar y promover los derechos de las personas que huyen de sus países y que no pueden volver porque su vida o seguridad corren peligro. <br>Metro cercano: Chapultepec<br>Teléfono: 800 226 8769, 800 283 2718, WhatsApp 55 7005 5950 y 55 2535 2950<br>Horario: Lunes a Jueves 9:00 a.m. - 5:00 p.m / Viernes 9:00 a.m. - 2:00 p-m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Trabaja para cuidar y promover los derechos de las personas que huyen de sus países y que no pueden volver porque su vida o seguridad corren peligro. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Chapultepec</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>800 226 8769, 800 283 2718, WhatsApp 55 7005 5950 y 55 2535 2950</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Jueves 9:00 a.m. - 5:00 p.m / Viernes 9:00 a.m. - 2:00 p-m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1806946,19.4311148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OIM, Organización Internacional para las Migraciones</name>
+        <description><![CDATA[descripción: Asesoría y orientación a población migrante para acceso a servicios, acceso a derechos, retornos voluntarios asistidos, fortalecimiento de albergues<br>Metro cercano: Auditorio<br>Teléfono: 5255 5536 3954 / 7775 / 3922 iommexico@iom.int<br>Horario: Lunes a Viernes, 9:00 a.m. - 5:30 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Asesoría y orientación a población migrante para acceso a servicios, acceso a derechos, retornos voluntarios asistidos, fortalecimiento de albergues</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Auditorio</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>5255 5536 3954 / 7775 / 3922 iommexico@iom.int</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 5:30 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2045732,19.4266104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HIAS CDMX</name>
+        <description><![CDATA[descripción: Servicios legales, de salud mental y de prevención de violencia basada en género a personas refugiadas y migrantes. <br>Metro cercano: Patriotismo<br>Teléfono: 55 2668 3256<br>Horario: Lunes a Viernes 9:00 a.m. - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Servicios legales, de salud mental y de prevención de violencia basada en género a personas refugiadas y migrantes. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Patriotismo</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 2668 3256</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9:00 a.m. - 5:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1805705,19.3994366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Programa Casa Refugiados (PCR)</name>
+        <description><![CDATA[descripción: Promoción de los derechos de personas en movimiento. Brinda asistencia humanitaria a través de un trabajo en redes; colabora y brinda acompañamiento con énfasis en la integración local.<br><br><br>Metro cercano: Tacubaya<br>Teléfono: Español: 55 2614 7992 /55 7314 0957<br>Inglés o francés: 55 7380 7682 / 55 8663 0991<br>Mensajes de WhatsApp español: 55 6164 4818<br>Mensajes de WhatsApp inglés o francés: 5573807682 / 5586630991<br>Horario: Lunes a Viernes de 9:00 - 2:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Promoción de los derechos de personas en movimiento. Brinda asistencia humanitaria a través de un trabajo en redes; colabora y brinda acompañamiento con énfasis en la integración local.
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Tacubaya</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Español: 55 2614 7992 /55 7314 0957
+Inglés o francés: 55 7380 7682 / 55 8663 0991
+Mensajes de WhatsApp español: 55 6164 4818
+Mensajes de WhatsApp inglés o francés: 5573807682 / 5586630991</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes de 9:00 - 2:00 pm.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1840953,19.4006288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sin Fronteras IAP</name>
+        <description><![CDATA[descripción: Contribuye a la promoción, protección y defensa de los Derechos Humanos de las personas migrantes y sujetas de protección internacional. Brinda servicios de asistencia legal, psicosocial y económica. Cuenta con el Centro de Día “La Ceiba”, un espacio de atención comunitaria.	<br><br><br>Metro cercano: Mixcoac <br>Teléfono: 55 514 1519 / 55 5514 1521<br>Horario: Lunes a Viernes, 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Contribuye a la promoción, protección y defensa de los Derechos Humanos de las personas migrantes y sujetas de protección internacional. Brinda servicios de asistencia legal, psicosocial y económica. Cuenta con el Centro de Día “La Ceiba”, un espacio de atención comunitaria.	
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Mixcoac </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 514 1519 / 55 5514 1521</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1944891,19.3770423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clínica Jurídica Alaíde Foppa, Universidad Iberoamericana </name>
+        <description><![CDATA[descripción: Servicios legales gratuitos de asesoría, asistencia y representación legal a personas con necesidades de protección internacional. <br><br><br>Metro cercano: Tacubaya ** tomar camión queda muy lejos <br>Teléfono: 55 5950 4000 clinicaderefugiados@ibero.mx<br>Horario: Lunes a Viernes, 10:00 a.m - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Servicios legales gratuitos de asesoría, asistencia y representación legal a personas con necesidades de protección internacional. 
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Tacubaya ** tomar camión queda muy lejos </value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5950 4000 clinicaderefugiados@ibero.mx</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 10:00 a.m - 5:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.2638998,19.3697998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asistencia y Orientación para la Movilidad Humana, Asmovilidad A.C</name>
+        <description><![CDATA[descripción: Fomenta el desarrollo económico y cultural de las personas en contextos de movilidad, mediante talleres y acompañamientos psico-sociales.<br><br>Metro cercano: Coyoacán<br>Teléfono: 55 2614 7992 www.asmovilidad.org <br>Horario: Lunes a Viernes, 9:00 a.m. - 1:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Fomenta el desarrollo económico y cultural de las personas en contextos de movilidad, mediante talleres y acompañamientos psico-sociales.
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Coyoacán</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 2614 7992 www.asmovilidad.org </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 1:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1632014,19.3623376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adevi Centro de Apoyo Sociojurídico a Víctimas de Delito Violento</name>
+        <description><![CDATA[descripción: Institución que brinda asistencia social, psicólogica, orientación legal y atención de emergencia a las víctimas del delito de tortura y secuestro.<br>Metro cercano: Balderas<br>Teléfono: 55 5200 9196, 9197 y 9200<br>Horario: Lunes a Viernes, 9:00 a.m. - 7:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Institución que brinda asistencia social, psicólogica, orientación legal y atención de emergencia a las víctimas del delito de tortura y secuestro.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5200 9196, 9197 y 9200</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 7:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1485071,19.4252581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Atención a Riesgos Victímales y Adicciones</name>
+        <description><![CDATA[descripción: Atención a víctimas de violencia familiar (mujeres, hombres, adolescentes y personas adultas mayores), discriminación, niñas, niños y adolescentes en riesgo, adicciones y Bullying.<br>Metro cercano: Balderas<br>Teléfono: 55 5200 9166/72<br>Horario: Lunes a Viernes, 9:00 a.m. - 7:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a víctimas de violencia familiar (mujeres, hombres, adolescentes y personas adultas mayores), discriminación, niñas, niños y adolescentes en riesgo, adicciones y Bullying.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Balderas</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5200 9166/72</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 7:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1485436,19.4252432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FGJCDMX CIVA Centro de Investigación Victimología y de Apoyo Operativo</name>
+        <description><![CDATA[descripción: Atención Psicológica a víctimas de amenazas y personas generadoras de violencia familiar. <br>Metro cercano: Doctores<br>Teléfono: 55 5200 9188/89 <br>Horario: Lunes a Viernes, 9:00 a.m. - 7:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención Psicológica a víctimas de amenazas y personas generadoras de violencia familiar. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Doctores</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5200 9188/89 </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 7:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1459335,19.4193642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fortaleza IAP</name>
+        <description><![CDATA[descripción: Ofrece apoyo integral a mujeres y sus hijas e hijos que viven situaciones de violencia, apoyo psicologíco, asesoría jurídica y opciones para acudir a un espacio para estar a salvo de violencia.<br>Metro cercano: Iztacalco<br>Teléfono: 55 5633 4512/ línea gratuita 24 hr: 800 839 1003<br>Horario: ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Ofrece apoyo integral a mujeres y sus hijas e hijos que viven situaciones de violencia, apoyo psicologíco, asesoría jurídica y opciones para acudir a un espacio para estar a salvo de violencia.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Iztacalco</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5633 4512/ línea gratuita 24 hr: 800 839 1003</value>
+          </Data>
+          <Data name="Horario">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1245454,19.3847497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IAPA - Instituto para la Atención y Prevención de las Adicciones</name>
+        <description><![CDATA[descripción: Proporcionar a la población de la Ciudad de México información, orientación y contención emocional por problemas asociados al consumo de sustancias psicoactivas, a las personas que lo soliciten, vía telefónica o de manera presencial.<br>Metro cercano: Viveros / Derechos Humanos<br>Teléfono: 55 4631 3035 ext. 2007 vperezr@iapa.cdmx.gob.mx <br>Horario: Lunes a Jueves 9:00 a.m. / 5:30 p.m. Viernes 9:00 a.m. / 2:00 p-m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Proporcionar a la población de la Ciudad de México información, orientación y contención emocional por problemas asociados al consumo de sustancias psicoactivas, a las personas que lo soliciten, vía telefónica o de manera presencial.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Viveros / Derechos Humanos</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 4631 3035 ext. 2007 vperezr@iapa.cdmx.gob.mx </value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Jueves 9:00 a.m. / 5:30 p.m. Viernes 9:00 a.m. / 2:00 p-m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1721745,19.3602409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Servicio Jesuita a Migrantes México (SJM-México)</name>
+        <description><![CDATA[descripción: Acompañamiento psico-jurídico a personas migrantes y solicitantes de protección internacional.<br>Metro cercano: Insurgentes<br>Teléfono: 55 5527 5423<br>Horario: Lunes a Viernes, 9:00 a.m. - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Acompañamiento psico-jurídico a personas migrantes y solicitantes de protección internacional.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Insurgentes</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5527 5423</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 5:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1608107,19.4220598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fundación Casa Alianza México I.A.P. Centro de Atención</name>
+        <description><![CDATA[descripción: Brindar asistencia social integral a niños, niñas y adolescentes en situación de calle, de riesgo o de alta vulnerabilidad.<br>Metro cercano: Guerrero<br>Teléfono: Línea de ayuda gratuita 24 hrs: 800 839 1003<br>Horario: Lunes a Viernes 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Brindar asistencia social integral a niños, niñas y adolescentes en situación de calle, de riesgo o de alta vulnerabilidad.</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Guerrero</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>Línea de ayuda gratuita 24 hrs: 800 839 1003</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.142221,19.4433486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Hospital General de México “Dr. Eduardo Liceaga”</name>
+        <description><![CDATA[descripción: Atención a la Salud. Dentro del Hospital se encuentra un módulo del Seguro Popular, horario para afiliación 9:00 a 14:00 hrs. <br><br><br>Metro cercano: Hospital General<br>Teléfono: <br>Horario: Lunes a Viernes, 10:30 a.m. - 3:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a la Salud. Dentro del Hospital se encuentra un módulo del Seguro Popular, horario para afiliación 9:00 a 14:00 hrs. 
+
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Hospital General</value>
+          </Data>
+          <Data name="Teléfono">
+            <value/>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 10:30 a.m. - 3:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1520225,19.4129258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clínica Especializada Condesa</name>
+        <description><![CDATA[descripción: Atención a sobrevivientes de violencia sexual; diagnóstico y atención de VIH, hepatitis C y otras infecciones de transmisión sexual; salud sexual y reproductiva, y atención a personas transgénero.   <br><br>Metro cercano: Patriotismo/ Juanacatlán<br>Teléfono: 55 55 15 83 11 / 55 26 14 29 58 / 55 50 38 17 00 ext. 6446<br>Horario: Lunes a Viernes, 8:30 a.m - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a sobrevivientes de violencia sexual; diagnóstico y atención de VIH, hepatitis C y otras infecciones de transmisión sexual; salud sexual y reproductiva, y atención a personas transgénero.   
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Patriotismo/ Juanacatlán</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 55 15 83 11 / 55 26 14 29 58 / 55 50 38 17 00 ext. 6446</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 8:30 a.m - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1823514,19.4089078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Clínica Especializada Condesa-Iztapalapa "Dr. Jaime Sepúlveda Amor" (CECI)]]></name>
+        <description><![CDATA[descripción: Atención a sobrevivientes de violencia sexual; diagnóstico y atención de VIH, hepatitis C y otras infecciones de transmisión sexual; salud sexual y reproductiva, y atención a personas transgénero.   <br><br>Metro cercano: Constitución de 1917<br>Teléfono: 55 50 38 17 00 ext. 7902, 7906 y 7933<br>Horario: Lunes a Viernes, 10:30 a.m - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Atención a sobrevivientes de violencia sexual; diagnóstico y atención de VIH, hepatitis C y otras infecciones de transmisión sexual; salud sexual y reproductiva, y atención a personas transgénero.   
+</value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Constitución de 1917</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 50 38 17 00 ext. 7902, 7906 y 7933</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 10:30 a.m - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.0511908,19.3568424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Educación</name>
+      <Placemark>
+        <name>INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DE LA CIUDAD DE MÉXICO -ICAT</name>
+        <description><![CDATA[descripción: Organismo público que ofrece capacitación y certificación de competencias laborales. <br>Metro cercano: Pino Suárez<br>Teléfono: 55 5740 0237<br>Horario: Lunes a Viernes, 9:00 a.m. - 6:00 p.m.]]></description>
+        <styleUrl>#icon-1664-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Organismo público que ofrece capacitación y certificación de competencias laborales. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Pino Suárez</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5740 0237</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes, 9:00 a.m. - 6:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1331668,19.4212658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Educación para Adultos - INEA </name>
+        <description><![CDATA[descripción: Insitución pública que promueve, imparte, acredita y certifica la educación básica para jóvenes y audltos, mediante programas educativos acordes a sus necesidades. <br>Metro cercano: Juanacatlán/Patriotismo<br>Teléfono: 55 5446 9454<br>Horario: Lunes a Viernes 10:00 a.m - 5:00 p.m.]]></description>
+        <styleUrl>#icon-1664-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Insitución pública que promueve, imparte, acredita y certifica la educación básica para jóvenes y audltos, mediante programas educativos acordes a sus necesidades. </value>
+          </Data>
+          <Data name="Metro cercano">
+            <value>Juanacatlán/Patriotismo</value>
+          </Data>
+          <Data name="Teléfono">
+            <value>55 5446 9454</value>
+          </Data>
+          <Data name="Horario">
+            <value>Lunes a Viernes 10:00 a.m - 5:00 p.m.</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.1809498,19.4124553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

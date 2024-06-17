@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Aguascalientes - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Aguascalientes, Aguascalientes?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1790-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1790-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1790-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1790-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1790-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue / Alimentación / Compras</name>
+      <Placemark>
+        <name>Casa Migrante Camino a la Vida</name>
+        <description><![CDATA[Asistencia humanitaria y de alojamiento a personas migrantes y que buscan protección en México.	<br><br>Calle José Guadalupe Posada S/N, Barrio de Guadalupe. <br><br>449 224 9548	<br><br>Lunes a domingo, 8:00 - 20:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3075858,21.8859981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cáritas Diocesana</name>
+        <description><![CDATA[Alimentos saludables a bajo costo.	<br><br>2a. Privada Gral. Emiliano Zapata No. 202, Centro. <br><br>449 915 9294 <br><br>Lunes a viernes, Desayuno: 7:00 - 11:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3011164,21.8821255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parroquia De Las Tres Ave Marías</name>
+        <description><![CDATA[Alimentos saludables a bajo costo.	<br><br>Avenida José Ma. Chávez No. 1101, Col. Las Américas. <br><br>449 978 2454	<br><br>Lunes a viernes 13:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2950688,21.868025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comer del Abuelo</name>
+        <description><![CDATA[Alimentos saludables para personas adultas mayores.	<br><br>Calle Libertad casi esquina con calle Mora, Centro.	<br><br>	Lunes, martes, jueves, viernes y sábado 13:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.299825,21.8874131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comedor San Judas Tadeo</name>
+        <description><![CDATA[Alimentos saludables a bajo costo.	<br><br>Calle Álamo No. 404, Col. El Sol.	<br><br>	Lunes, miércoles y viernes a las 13:00]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2957278,21.8938054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Compras / Cultura y Recreación</name>
+      <Placemark>
+        <name>Mercado Terán Juárez</name>
+        <description><![CDATA[Venta de alimentos y productos básicos.<br><br>Calle Unión, Centro.	<br><br>	Lunes a domingo, 9:00 - 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2966212,21.8845297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central de Abastos Aguascalientes</name>
+        <description><![CDATA[Venta de alimentos y productos básicos.	<br><br>Calle Del Abasto S/N, Col. San Francisco del Arenal.	<br><br>	Lunes a domingo, 9:00 - 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2929618,21.8320703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Municipal Aguascalentense para la Cultura</name>
+        <description><![CDATA[Vinculación cultural, servicios y derechos culturales a la población en general.	<br><br>Calle Antonio Acevedo No. 131, Centro.	<br><br>449 915 0700	<br><br>Lunes a viernes, 9:00 - 16:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2945313,21.8799223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Cultural de Aguascalientes</name>
+        <description><![CDATA[Vinculación cultural, servicios y derechos culturales a la población en general.	<br><br>Calle Venustiano Carranza No. 101, Centro.	<br><br>449 910 2010	<br><br>Lunes a viernes, 9:00 - 20:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2991832,21.8812135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto del Deporte del Estado de Aguascalientes</name>
+        <description><![CDATA[Promueve y mejora la calidad de vida física, social, emocional y productiva de las personas de todos los niveles socioeconómicos. <br><br>	Avenida Convención de 1914, Col. Héroes.	<br><br>449 970 1350	<br><br>Lunes a viernes, 8:30 - 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2717397,21.8806298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jardín de San Marcos</name>
+        <description><![CDATA[Actividades recreativas al aire libre.	<br><br>Calle Jesús F. Contreras S/N, Barrio de San Marcos.	<br><br>	Lunes a domingo, 8:00 - 20:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.303231,21.8795807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Rodolfo Landeros</name>
+        <description><![CDATA[Actividades recreativas al aire libre y área protección a las especies en peligro de extinción.	<br><br>Blvd. José María Chávez No. 1801, Desarrollo Especial Villa Asunción.	<br><br>449 978 5106	<br><br>Martes a domingo 9:00 - 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2915138,21.8516852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Ecologico El Cedazo</name>
+        <description><![CDATA[Práctica de fútbol, básquetbol, voleibol, tenis, gimnasio al aire libre, ciclo pista, pista para corredores y pista de patinaje.<br><br>Avenida Paseo de Ojocaliente No.5, Desarrollo Especial Parque Ecológico el Cedazo.	<br><br>449 974 1167	<br><br>Martes a domingo 9:00 - 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2563303,21.8686361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Centro de Justicia para Mujeres</name>
+        <description><![CDATA[Brinda apoyo y servicio a las mujeres, así como a sus hijos e hijas, víctimas de los delitos relacionados con la violencia de género.	<br><br>Avenida Aguascalientes Ote. LB, Col. El Cedazo. <br><br>449 974 8231	<br><br>Abierto 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2528075,21.8668426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Aguascalentense de la Mujer</name>
+        <description><![CDATA[Programas que buscan la igualdad de género prevención de la violencia contra las mujeres.	<br><br>Avenida Manuel Gómez Morín S/N, Col. Ferronales.	<br><br>(449) 9102128	<br><br>Lunes a viernes, 8:30 - 16:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2806974,21.889146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Municipal de la Mujer de Aguascalientes</name>
+        <description><![CDATA[Asesoría jurídica y piscosocial para las mujeres.	<br><br>Calle Pedro Parga No. 247, Centro.<br><br>(449) 9157439	<br><br>Lunes a viernes, 8:00 - 15:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2919403,21.8850228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez y juventud</name>
+      <Placemark>
+        <name>DIF Municipal de Aguascalientes</name>
+        <description><![CDATA[Programas para adultos mayores, personas con discapacidad, jóvenes, niñas, niños, y de integración familiar en el municipio de Aguascalientes.	<br><br>Avenida Universidad No. 612, Col. Primo Verdad.	<br><br>449 914 4930<br><br>Lunes a viernes, 8:00 - 15:30 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.310767,21.908612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DIF Estatal Aguascalientes</name>
+        <description><![CDATA[Programas para adultos mayores, personas con discapacidad, jóvenes, niñas, niños, y de integración familiar en todo el estado de Aguascalientes.	<br><br>Avenida de la Convención esquina con Avenida de los Maestros, Col. España.	<br><br>449 910 2020 ext. 500	<br><br>Lunes a viernes, 8:00 - 15:30 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.309394,21.8676712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría de Protección de Niñas, Niños y Adolescentes </name>
+        <description><![CDATA[Proporciona orientación social y asistencia jurídica a niñas, niños y adolescentes. <br><br>	Avenida de la Convención esquina con Avenida de los Maestros, Col. España.	<br><br>449 910 2585, ext. 6561	<br><br>Lunes a viernes, 8:30 - 16:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3095092,21.8678745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Municipal de la Juventud</name>
+        <description><![CDATA[Da oportunidades educativas y de recreación a las personas jóvenes.	<br><br>Avenida Francisco I. Madero No. 114, Centro.	<br><br>449 978 2846 / 449 978 2846<br><br>Lunes a viernes, 8:00 - 15:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.295057,21.8815815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Centenario Hospital Miguel Hidalgo</name>
+        <description><![CDATA[Medicina interna, pediatría, epidemiología, diagnóstico, psicología.	<br><br>Avenida Ferrocarril S/N, Alameda.	<br><br>449 994 6720	<br><br>Abierto 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2825251,21.8947652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Mexicano del Seguro Social (IMSS)</name>
+        <description><![CDATA[Brinda seguridad social, establecido como un servicio público de carácter nacional, para todos los trabajadores y trabajadoras y sus familias.	<br><br>Calle República de Ecuador No. 205, Col. Obraje.	<br><br>449 912 0803	<br><br>Lunes a viernes, 8:00 - 15:30 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2969018,21.8704618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Ambulatorio para la Prevenciòn y Atención del VIH/SIDA (CAPASITS)</name>
+        <description><![CDATA[Antención psicológica, pruebas de VIH.<br><br>Calle Artillero Mier No. 903, Col. Morelos.	<br><br>449 977 2060	<br><br>Lunes a viernes, 9:00 - 15:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2550007,21.8575533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja</name>
+        <description><![CDATA[Atención médica básica.	<br><br>Calle Dr. E. González Medina No. 104, Col. El Dorado 1ra Secc. <br><br>	449 916 5855	<br><br>Abierto 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3032217,21.8613155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institucion pública / Educación / Empleo</name>
+      <Placemark>
+        <name>Servicio Nacional de Empleo Aguascalientes</name>
+        <description><![CDATA[Facilita la vinculación entre ofertas y demandas deempleo, orienta a los buscadores de empleo.	<br><br>Avenida Aguascalientes No. 3214, Fraccionamiento Prados del Sur.	<br><br>449 971 9401	<br><br>Lunes a Viernes, 9:00 - 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2983128,21.8589705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proyecto Habesha</name>
+        <description><![CDATA[Oportunidades de educación superior a jóvenes refugiados de cualquier nacionalidad.<br><br>Calle Gral. Ignacio Allende No. 304, Centro.	<br><br>554 403 2382]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3002149,21.8807825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IEA Instituto de Educación de Aguascalientes</name>
+        <description><![CDATA[Servicios educativos para estudiantes.	<br><br>Avenida Aguascalientes No. 601, Col. Ojocaliente.	<br><br>449 910 2020 ext. 5001	<br><br>Lunes a Viernes, 9:00 - 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2536985,21.8719461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto para la Educación de las Personas Jóvenes y Adultas (INEPJA)</name>
+        <description><![CDATA[Ayuda a las personas jóvenes y adultas a retomar estudios o actividades para la formación productiva.	<br><br>Calle Ecuador No. 202, Col. Obraje.	<br><br>449 910 3100	<br><br>Lunes a Viernes, 9:00 - 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2971792,21.8699055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Aguascalentense de la Juventud</name>
+        <description><![CDATA[Ofrece oportunidades en las que participen las y los jóvenes que les ayuden a progresar y tener certeza sobre el futuro.	<br><br>Avenida Paseo de Ojocaliente No.556, Col. Gómez Portugal.	<br><br>449 910 2141 ext. 6804	<br><br>Lunes a Viernes, 9:00 - 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2628415,21.8696464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oficina de Atención al Migrante</name>
+        <description><![CDATA[Oficina encargada de atención a población migrante retornada y canalización.<br><br>Calle Cristóbal Colón No. 309, Barrio del Encino, Centro.	<br><br>449 916 4476	<br><br>Lunes a viernes, 8:30 - 15:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.294916,21.8782219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Migración </name>
+        <description><![CDATA[Trámites migratorios, regularización migratoria.	<br><br>Calle Lic. Miguel de la Madrid No. 2790, Col. Corral de Barroso, Jesús María.	<br><br>449 915 6069	<br><br>Lunes a viernes, 9:00 - 13:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3264611,21.9400366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de Bienestar</name>
+        <description><![CDATA[Promueve programas sociales para apoyar a las personas que los necesitan.	<br><br>Avenida Julio Díaz Torre No. 110, Col. Ciudad Industrial.	<br><br>449 971 0271<br><br>Lunes a viernes, 9:00 - 19:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2794489,21.8384489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia / Derechos Humanos / Seguridad</name>
+      <Placemark>
+        <name>Comisión Estatal de Derechos Humanos</name>
+        <description><![CDATA[Protección, defensa, observancia, promoción, estudio, divulgación de los derechos humanos y recepción de quejas.	<br><br>Calle República del Perú No. 502, Col. Jardines de Santa Elena.	<br><br>449 140 7870<br><br>Lunes a viernes, 8:30 - 16:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3023486,21.8644747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de la Defensoría Pública (IFDP)</name>
+        <description><![CDATA[Defensa pública en materia penal y el acceso a la justicia mediante la orientación, asesoría y representación jurídica en materia administrativa, fiscal, civil y de causas penales.	<br><br>Avenida Aguascalientes Sur No. 603, ala norte, planta baja, Fraccionamiento Jardines de Aguascalientes.	<br><br>449 971 3989	<br><br>Lunes a viernes, 8:30 - 16:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3051088,21.8590472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes</name>
+        <description><![CDATA[Defensa pública en materia penal y el acceso a la justicia mediante la orientación, asesoría y representación jurídica en materia administrativa, fiscal, civil y de causas penales.	<br><br>Calle Vázquez del Mercado No. 101, Centro.	<br><br>449 915 2988	<br><br>Lunes a viernes, 8:30 - 16:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2902495,21.8855849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía General del Estado</name>
+        <description><![CDATA[Se encarga de investigar los delitos denuciadoa ante las autoridades.	<br><br>Avenida Héroes de Nacozari No. 201, Barrio de la Purísima.	<br><br>(449) 4782800	<br><br>Abierto 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.282492,21.880829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bomberos</name>
+        <description><![CDATA[Control de incendios y fugas de gas.	<br><br>Avenida Aguascalientes Ote. No. 308, Desarrollo Especial Ojocaliente.<br><br>	449 970 0065 / 449 970 3939	<br><br>Abierto 24 hrs.]]></description>
+        <styleUrl>#icon-1790-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2553556,21.8750136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos Internacionales </name>
+      <Placemark>
+        <name>ACNUR La Agencia de la ONU para los Refugiados</name>
+        <description><![CDATA[Asistencia humanitaria, orientación, programas de integración para personas que huyen de sus países y que no pueden volver porque su vida o seguridad corren peligro.	<br><br>Calle Cristóbal Colón No. 309, Barrio del Encino, Centro.	<br><br>449 906 8438	<br><br>Lunes a viernes de 8:00 a 15:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2949742,21.8782219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Aeropuerto Internacional de Aguascalientes</name>
+        <description><![CDATA[Servicio de transporte aéreo nacional e internacional.	<br><br>Carretera Panamericana Km. 22, Buenavista de Peñuelas.	<br><br>449 918 2806<br><br>Abierto 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.3162276,21.701298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terminal de autobuses Aguascalientes</name>
+        <description><![CDATA[Servicio de transporte.	<br><br>Avenida Convención de 1914 Sur No. 408, Col. Las Américas.	<br><br>449 978 2224	<br><br>Abierto 24 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2989623,21.8657368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>LGBTI</name>
+      <Placemark>
+        <name>Colectivo SERGAY de Aguascalientes A. C. </name>
+        <description><![CDATA[Antención psicológica, pruebas de VIH/SIDA a personas LGBTI a bajo costo.	<br><br>Calle Pirúl No. 102, Col. Jardines de la Crúz.	<br><br>(449) 1469157	<br><br>Lunes a viernes, 10:00 - 15:00 hrs y 17:00 - 21:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -102.2717588,21.8741711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Querétaro - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Querétaro, Querétaro?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue y Alimentación</name>
+      <Placemark>
+        <name>Albergue para Migrantes Toribio
+Romo A. C.</name>
+        <description><![CDATA[Brinda servicios de hospedaje, alimentación y atención médica básica.<br><br>442 410 7521/ 442 336 0028<br><br>Lunes a viernes, 8:00 am a 6:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3972791,20.6380321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cáritas de Querétaro I.A.P.</name>
+        <description><![CDATA[Apoyo a personas vulnerables con comida, vestido, zapatos, transporte, medicamentos, cobijas, estudios médicos, kit de aseo personal, si requiere hospedaje se canaliza a un albergue.<br><br>442 212 3319 / 442 212 3596<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3889313,20.5904461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Apoyo Marista al Migrante
+(CAMMI)</name>
+        <description><![CDATA[Ofrece alimentación, atención medica básica, orientación jurídica y acompañamiento a solicitantes de asilo, psicológica, restablecimiento de contacto familiar.<br><br>442 543 9600 ext. 130<br><br> Lunes a viernes, 8:00 am a 5:00 pm y sábados,<br> 9:00 am a 2:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.386469,20.6013896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institución Pública</name>
+      <Placemark>
+        <name>SRE - Delegación de la Secretaría de Relaciones Exteriores en Querétaro</name>
+        <description><![CDATA[Emisión de pasaportes, trámites de naturalización.<br><br>442 214 2712<br><br>Lunes a viernes, 8:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3719024,20.5954905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Nacional de Migración</name>
+        <description><![CDATA[Espacio para realizar trámites migratorios incluyendo presentar la solicitud de condición de refugiado y solicitar las tarjetas de residencia o visitante.<br><br>442 214 2712/ 442 214 1538]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3880188,20.5983311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oficina de Atención a Migrantes</name>
+        <description><![CDATA[Repatriación de Migrantes Fallecidos en los Estados Unidos o en su Intento por cruzar la Frontera de los Estados Unidos.<br><br>442 238 5000 ext. 15184<br><br>Lunes a viernes, 8:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3881737,20.5940392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirección de Educación</name>
+        <description><![CDATA[Revalidación y certificación de títulos educativos.<br><br>442 303 2260 61 y 62 ext 215<br>y 226<br><br>Inicio de carpetas 24 horas, asesoría de lunes a<br>viernes, 8:00 am a 4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3700011,20.5626698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Módulo de Afiliación al Sistema de
+Salud</name>
+        <description><![CDATA[Afiliación al siatema de salud.<br><br>442 215 0751<br><br>Lunes a domingo, 8:00 am a 8:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4057431,20.5797837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja</name>
+        <description><![CDATA[Atención médica básica y de transporte a hospitales públicos.<br><br>442 537 5447/ 442 537 5449<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3639815,20.5801128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujer</name>
+      <Placemark>
+        <name>Centro de Justicia para las Mujeres
+Secretaria de Seguridad Ciudadana</name>
+        <description><![CDATA[Impartición de justicia y mantenimiento de la seguridad y el orden público para mujeres y niñas asesoría legal, atención psicológica, trabajo social.<br><br>442 303 2260 61 /62 ext 215 / 226<br><br>Inicio de carpetas 24 horas, asesoría de lunes a<br>viernes, 8:00 am a 4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3831627,20.5558465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Municipal de la Mujer de Corregidora</name>
+        <description><![CDATA[Asesoría psicológica, jurídica, detección de cáncer de mama con termógrafo y proyectos productivos a mujeres de 18 a 60 años.<br><br>442 629 9953 ext 58540 al 44<br><br>Lunes a viernes, 09:00 am a 6.00 pm y sábados y domingos atención por guardias del personal.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4476047,20.552119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Queretano de las Mujeres</name>
+        <description><![CDATA[Atención a mujeres víctimas de violencia, con asesoría jurídica y terapias psicológicas.<br><br> 442 215 3404<br><br>Lunes a viernes, 8:00 am a 3:30 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3870558,20.5981913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez y Juventud</name>
+      <Placemark>
+        <name>Secretaría de la Juventud 
+</name>
+        <description><![CDATA[Crear y diseñar políticas y acciones en pro de la juventud queretana. (12 a 29 años).<br><br>442 224 2254<br><br>Lunes a viernes, 9:00 am a 4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3819872,20.5927161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Empleo</name>
+      <Placemark>
+        <name>Servicio Nacional del Empleo</name>
+        <description><![CDATA[Facilitar la vinculación entre oferentes y demandantes de empleo, orientar a los buscadores de empleo y apoyar su calificación, así como auxiliar a las empresas en la búsqueda<br>de candidatos para cubrir sus vacantes de empleo.<br><br>442 235 6600<br><br>Lunes a viernes, 8:00 am a 3:30 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3982308,20.5916636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia y Derechos Humanos</name>
+      <Placemark>
+        <name>Procuraduría de la Defensa del Trabajo </name>
+        <description><![CDATA[Asesoría legal.<br><br>442 215 0003<br><br>Lunes a viernes, 9:00 am a 3:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4048949,20.5838181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Procuraduría Municipal de Protección de Niñas, Niños y Adolescentes de Corregidora</name>
+        <description><![CDATA[Atención y protección a niñas, niños y adolescentes acompañados y no acompañados mexicanos o extranjeros.<br><br>442 209 6000 ext. 2001<br><br>Lunes a viernes, 8:30 am a 4:30 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4328179,20.5463633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Defensoría de los Derechos Humanos</name>
+        <description><![CDATA[Encargada de promover, proteger, respetar, y garantizar los derechos humanos en la entidad federativa.<br><br>442 214 0837/ 442 214 6007/ 442 214 6039<br><br>365 días, de lunes a viernes, 9:00 am a 9:00 pm]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3896332,20.584255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Atención Integral para
+Victimas de la Comisión Ejecutiva de
+Atención a Victimas Federal</name>
+        <description><![CDATA[Se atiende a víctimas de delitos federales y violación a sus derechos humanos.<br><br>442 629 9953 ext 58540 al 44<br><br>Lunes a viernes, 09:00 am a las 6.00 pm y<br>sábados y domingos atención por guardias del<br>personal.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3862261,20.5836153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Municipal para Prevenir y Eliminar la Discriminación</name>
+        <description><![CDATA[Orientación legal, gestión social.<br><br>442 216 0827, 442 210 0624<br><br>Lunes a viernes, 8:00 am a 4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3724775,20.5491589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Compras</name>
+      <Placemark>
+        <name>Mercado Municipal Lomas de Casa Blanca</name>
+        <description><![CDATA[Variedad de productos alimenticios frescos y comida corrida de calidad. Venta de frutas, verduras, plantas medicinales, ropa, flores y comida. <br><br>442 195 6265<br><br>Lunes a domingo, 7:00 am a 7:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3922634,20.5712709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado Municipal Lázaro Cárdenas</name>
+        <description><![CDATA[Gran variedad de productos alimenticios frescos y comida corrida de calidad. Venta de frutas, verduras, plantas medicinales, ropa, flores y comida.<br><br>Lunes a domingo, 7:00 am a 4:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3815158,20.5571226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mercado Benito Juárez "El Tepetate"]]></name>
+        <description><![CDATA[Comercialización de productos básicos que requieren las familias queretanas.<br><br>442 212 2291<br><br>Lunes a sábado, 6:00 am a 5:00 pm y domingos<br> de 9:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3960696,20.6029818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mercado Josefa Ortiz de Domínguez "La Cruz"]]></name>
+        <description><![CDATA[Comercialización de productos básicos que requieren las familias queretanas.<br><br>442 873 8155<br><br>Lunes a domingo, 7:00 am a 6:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3858361,20.5981222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Central de Autobuses Querétaro</name>
+        <description><![CDATA[Servicio de transporte<br><br>442 229 0181<br><br> 24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3592591,20.5773249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeropuerto Intercontinental de Querétaro</name>
+        <description><![CDATA[Servicio de transporte aéreo nacional e internacional.<br><br>442 192 5500 ext. 581<br><br>24 horas.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.1872709,20.6225114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cultura</name>
+      <Placemark>
+        <name>Centro Cultural Tejeda</name>
+        <description><![CDATA[Servicio de aprendizaje de diversas disciplinas artísticas y eventos culturales.<br><br>442 209 6000 ext. 7577<br><br>Lunes a sábado, 8:00 am a 9:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.418548,20.5455988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural la Vieja Estación</name>
+        <description><![CDATA[Actividades culturales diversas que van desde talleres libres de danza, música, teatro, pintura, canto y manualidades, hasta presentaciones de libros, obras de teatro, cine, conferencias,<br>exposiciones de pintura y fotografía.<br><br>442 340 2780<br><br>Lunes a sábado, 12:00 pm a 7:30 pm y domingos 11:00 am a 5:30 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3968045,20.6012145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educativo Cultural del Estado de Querétaro</name>
+        <description><![CDATA[Múltiples servicios con el fin de satisfacer necesidades de educación, información, recreación, formación artística y expresión cultural en el Estado de Querétaro.<br><br>422 251 9600<br><br>Lunes a viernes, 9:00 am a 8:00 am, sábado<br> 9:00 am a 6:00 am y domingo 10:00 am a<br>5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.3863449,20.5857754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa de la Cultura</name>
+        <description><![CDATA[Desarrollo artístico y cultural para las niñas, niños, jóvenes, adultos y adultos mayores.<br><br>442 291 1084<br><br>Lunes a viernes, 9:00 am a 8:00 pm. ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.4232789,20.603359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

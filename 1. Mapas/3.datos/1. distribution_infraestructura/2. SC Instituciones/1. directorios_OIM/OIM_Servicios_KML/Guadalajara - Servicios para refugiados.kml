@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Guadalajara - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en el Área Metropolitana de Guadalajara, Jalisco?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1577-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1685-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1685-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1685-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1685-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1685-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue / Alimentación / Compras</name>
+      <Placemark>
+        <name>Centro de Atención y Desarrollo Integral para personas en Situación de Indigencia (Cadipsi)</name>
+        <description><![CDATA[Centro de acogida para personas sin hogar.<br><br>Calz. de las Palmas 76, Rincón de La Agua Azul. Guadalajara <br><br>Tel: 33 3562 3572]]></description>
+        <styleUrl>#icon-1603-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3487582,20.6577948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Casa Del Migrante Cerro Del Cuarto</name>
+        <description><![CDATA[Constitución 350, Cerro del Cuatro. San Pedro Tlaquepaque<br><br>Tel: 33 1338 8209]]></description>
+        <styleUrl>#icon-1603-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3498476,20.6014841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albergue para Migrantes El Refugio</name>
+        <description><![CDATA[Abierto las 24 hrs.<br><br>Constitución 300, Cerro del Cuatro. San Pedro Tlaquepaque<br><br>Tel: 33 3575 1475]]></description>
+        <styleUrl>#icon-1603-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3495971,20.6012698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banco Diocesano de Alimentos </name>
+        <description><![CDATA[Dotación de 2 despensas mensuales, con frutas, verduras, cereales, lácteos y productos industrializados. <br><br>Lunes a viernes 8 a 16:30 hrs., sábados 8 a 13:30 hrs.<br><br>Matriz: Pichón 1147. Col. Morelos. Guadalajara.<br><br>Requisitos: Identificación oficial, CURP de todos los integrantes de la familia y comprobante de domicilio.]]></description>
+        <styleUrl>#icon-1577-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3550738,20.6559302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comite Operativo del Banco Diocesano de Alimentos </name>
+        <description><![CDATA[Sede: Comité Operativo del Banco Diocesano de Alimentos: San Salvador 1983, entre Av. Cruz del Sur y Belice, Col. Jardines de la Cruz, Guadalajara. <br><br>Tel: 33 3810 6595.<br><br>Mail: contacto@bdalimentos.org<br><br>Requisitos: Identificación oficial, CURP de todos los integrantes de la familia y comprobante de domicilio.]]></description>
+        <styleUrl>#icon-1577-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3742175,20.6509774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Deporte y Cultura / Turismo / Compras</name>
+      <Placemark>
+        <name>Ex Convento Del Carmen</name>
+        <description><![CDATA[Librería, presentaciones de música, foros, eco-tianguis. Martes a sábado 10 a 20:30 hrs. Domingo 10 a 18 hrs.<br><br>Av. Juárez 638, Colonia Centro. Guadalajara. <br><br>Tel: 33 3030 1350.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3532585,20.6752641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa de la Cultura Jalisciense “Agustín Yáñez”</name>
+        <description><![CDATA[Exposición permanente sobre la cultura del mariachi, biblioteca, ciclos de arte y cine.<br><br>Lunes a viernes 10 a 18 hrs.<br><br>Av. Constituyentes 21, entre Av. 16 de septiembre y la Calzada Independencia. Guadalajara.<br><br>Tel: 33 3030 9783 y 33 3030 9782.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.349376,20.662189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Taller Jose Clemente Orozco</name>
+        <description><![CDATA[Exhibiciones de fotografía, dibujo, conciertos, conferencias.<br><br>Martes a sábado 10 a 18 hrs. Domingo 10 a 15 hrs.<br><br>Aurelio Aceves 27 Colonia. Arcos Vallarta. Guadalajara.<br><br>Tel: 33 3616 8329.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3854239,20.6740429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cultural Centenario</name>
+        <description><![CDATA[Exposiciones de arte infantil, dibujo, escultura, guitarra, artesanías, conferencias sobre cultura mexicana, enseñanza de lenguas indígenas, edición de libros en lenguas indígenas.<br><br>San Felipe 730, Col. Centro. Guadalajara.<br><br>Tel: 33 3825 1356.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3547946,20.6794785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural Casa Colomos</name>
+        <description><![CDATA[Pintura al óleo y acrílico, dibujo artístico, técnicas mixtas, acuarela, grabado, figura humana, escultura, creativarte, pintura, circo y malabares, danza folklórica.<br><br>Lunes a viernes 9 a 15 hrs.<br><br>Av. Chaco 3200, Bosque de Los Colomos, Col. Providencia. Guadalajara.<br><br>Tel: 33 3642 0132 y 33 3641 7633.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3907775,20.7052498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural Atlas</name>
+        <description><![CDATA[Dibujo artístico, pintura, creatividad artística, guitarra acústica, teatro, círculo de lectura, taller de crónica, huertos familiares. <br><br>Lunes a viernes de 9 a 21 hrs., sábado 9 a 17 hrs.<br><br>Río de la Barca s/n esq. Río Mascota, Col. Atlas. Guadalajara.<br><br>Tel: 33 1201 8710.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3282931,20.6446176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural San Diego</name>
+        <description><![CDATA[Danza contemporánea, ballet clásico infantil y juvenil. <br><br>Lunes a viernes 9 a 22 hrs.<br><br>González Ortega 443, Barrio de San Diego, Guadalajara.<br><br>Tel: 33 1201 8732.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3502006,20.6833277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural Luis Paez Brotchíe</name>
+        <description><![CDATA[Teatro, teatro musical, narración oral, circo y malabares, baile de salón, hawaiano, dibujo y pintura, dibujo y guitarra. <br><br>Lunes a viernes 9 a 21 hrs., sábado 10 a 14 hrs<br><br>Av. Centro Médico 208, Col. Independencia, Guadalajara.<br><br>Tel: 33 12018 728.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3306379,20.688803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural Hacienda de Oblatos / Biblioteca Maria Luisa Hidalgo Riestra</name>
+        <description><![CDATA[Canto infantil, teclado, guitarra, dibujo y pintura, fotografía y video, teatro, danza jazz infantil y juvenil, huerto urbano.<br><br>Lunes a viernes 8 a 20 hrs., sábado 10 a 15 hrs.<br><br>San Pedro 2919-A entre Plutarco Elías Calles y Artesanos, Col. Oblatos. Guadalajara. <br><br>Tel: 33 3644 7889.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.2938783,20.6844009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Cultural Santa Cecilia</name>
+        <description><![CDATA[Escultura infantil, dibujo artístico, pintura, grabado, circo y malabares, teatro, ballet clásico infantil y juvenil, arte y crecimiento, estudio de grabación.<br><br>Lunes a viernes 9 a 20 hrs., sábado 9 a 14 hrs.<br><br>Alfonso Esparza Oteo, entre Hacienda la Colmena y Agustín Lara, Col. Santa Cecilia Guadalajara.<br><br>Tel: 33 3674 7342.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.2894625,20.7067157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Creativo La Ferro</name>
+        <description><![CDATA[Modelado en barro, teatro infantil, radio, rap, guitarra, iniciación musical.<br><br>Lunes a viernes 11 a 13 hrs. y 16 a 19 hrs., sábado 10 a 14 hrs.<br><br>Calle 10 entre la 7 y la 9, Col. Ferrocarril Guadalajara.<br><br>Tel: 33 3810 5731.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3490502,20.6444636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMUDE Guadalajara (Consejo Municipal Del Deporte de Guadalajara)</name>
+        <description><![CDATA[Cuenta con 98 distintas unidades deportivas en Guadalajara y Zapopan, que ofrecen diversas actividades deportivas. Cuenta con 21 escuelas de las siguientes disciplinas: ajedrez, atletismo, bádminton, baloncesto, ciclismo, box, cardio, futbol, frontón, gimnasia, hanball, jazz, karate, ludoteca, mástil chino, natación, porras, psicomotricidad, softbol, tenis y voleibol. <br><br>Oficinas: Lunes a viernes de 9 a 19 hrs. <br><br>Sede: Nevado de Toluca 100, Independencia. Guadalajara, Jal.<br><br> Tel: 33 3883 4000 <br><br>www.comudeguadalajara.gob.mx<br><br>Conoce las ubicaciones de las 98 unidades deportivas aquí: https://portal.comudeguadalajara.gob.mx/ubicacion_poligonos.php. <br><br>* Pregunta por los costos, horarios y requisitos de inscripción para cada disciplina.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3331684,20.6949995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catedral de Guadalajara</name>
+        <description><![CDATA[Tiene una historia de más de 4 siglos. Sede de la Arquidiócesis de Guadalajara. Alberga reliquias y los restos de Santa Inocencia, mártir romana. <br><br>Lunes a viernes 8 a 20 hrs.<br><br>Av. Alcalde 10, Col. Centro. Guadalajara.<br><br>Tel: 33 3613 7168.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.346984,20.677034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teatro Degollado</name>
+        <description><![CDATA[Joya arquitectónica de estilo neoclásico, con capacidad para mil 027 espectadores, construida en el siglo XIX. Es la sede la Orquesta Filarmónica de Jalisco.<br><br>Martes a domingo 10 a 14 hrs.<br><br>Belén s/n entre Morelos y Av. Hidalgo, Col. Centro. Guadalajara.<br><br>Tel: 33 3030 9771 y 800 568 9854.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3444316,20.6770647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de la Liberación</name>
+        <description><![CDATA[También conocida como la Plaza de los Tres Poderes. Ahí se encuentra un monumento a Miguel Hidalgo. Es sede de exposiciones, conciertos y festivales, incluido el Festival Cultural de Mayo.<br><br>Av. Hidalgo entre Degollado, Morelos y Liceo. Guadalajara.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3457694,20.677015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rotonda de los Jaliscienses Ilustres</name>
+        <description><![CDATA[Construida en 1951, alberga los restos de quienes contribuyeron en el legado de Jalisco. Hay 98 urnas y 22 estatuas de jaliscienses destacados en literatura, ciencia, artes, lucha social y educación.<br><br>Av. Fray Antonio Alcalde 108, Col. Centro, Guadalajara.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3472206,20.6777516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Armas</name>
+        <description><![CDATA[Una de las más antiguas de la ciudad, construida a fines del s. XIX. Ofrece conciertos con la banda del Estado y la Municipal. Martes, jueves y domingos por las tardes.<br><br>Av. 16 de Septiembre s/n, Col. Centro, Guadalajara]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3469788,20.6761719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Tapatía</name>
+        <description><![CDATA[Explanada con las fuentes “Inmolación de Quetzalcóatl” y los Niños Meones y, el callejón del Diablo. Se encuentran diversos comercios, centros joyeros.<br><br>Calzada Independencia Sur, cerca del Centro Cultural Cabañas y del Mercado San Juan de Dios. Guadalajara.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3409704,20.6767004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Cultural Cabañas</name>
+        <description><![CDATA[Edificio de 1805 conocido como Hospicio Cabañas. Contiene frescos de José Clemente Orozco y su mural: “El Hombre del Llamas”. Se imparten diversos talleres de arte y tiene una sala de cine. <br><br>Martes a domingo de 10 a 18 hrs.<br><br>Tarifa: $ 70 pesos. Martes entrada libre.<br><br>Paseo Hospicio, San Juan de Dios. Cabañas 8, Centro Histórico. Localizado en un extremo de la Plaza Tapatía. <br><br>Tel: 33 366816 45, 33 3818 2800 exts. 31642 y 31014.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3373288,20.6769024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acuario Michin Guadalajara</name>
+        <description><![CDATA[Tiene especies marinas representativas de México, espacios interactivos y aviario. <br><br>Lunes a viernes 9 a 19 hrs. Sábado y domingos 8 a 19:30 hrs. <br><br>Tarifas: Adultos $ 199 pesos, niños de 3 a 12 años, Inapam, estudiantes y maestros con credencial: $ 140 pesos.<br><br>Av. Mariano de la Bárcena 990, Col. Centro, Guadalajara.<br><br>Tel: 33 1644 9910.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.351358,20.692824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bosque Los Colomos</name>
+        <description><![CDATA[Uno de los pulmones de Guadalajara. Lagos, jardines, recorridos, pistas, zonas para comer y centro cultural con actividades culturales y de educación ambiental. Lunes a Domingos 6 a 19 hrs.<br><br>Calle el Chaco 3200, Guadalajara, en los límites con Zapopan. <br><br>Tel: 33 3641 3793.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3935931,20.7087217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Metropolitano de Guadalajara</name>
+        <description><![CDATA[113 hectáreas con árboles, áreas de juegos y pistas para trotar o ir en bicicleta, áreas para comer, parque para perros, renta de bicicletas, lago, gimnasio y cine al aire libre.<br><br>Lunes a domingo 6 a 19 hrs.<br><br>Av. Beethoven 5800. Col. La Estancia, Zapopan.<br><br> Tel: 33 3673 9489, terminaciones 90 y 91.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4383442,20.6712451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zoológico Guadalajara</name>
+        <description><![CDATA[El principal de la ciudad de Guadalajara. Alberga diversidad de especies. Primer zoológico-safari. Cuenta acuario, serpentario, aviarios, selva tropical y Antártida. <br><br>Lunes a domingo 10 a 18 hrs. Cierra miércoles. <br><br>Precios: adultos $ 85 pesos y niños $ 50 pesos.<br><br>Calle Paseo del Zoológico 600, Huentitán El Alto. Guadalajara.<br><br>Tel: 33 3336 7444.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3069716,20.7288303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eco Tianguis Plaza Patria</name>
+        <description><![CDATA[Mercado ambulante de artículos nuevos y usados. Venta y regateo de muebles, bicicletas, ropa y electrónica.<br><br>Domingos 6 a 16:00 hrs.<br><br>Av. Patria Sur 1950. Plaza Patria. Zapopan.<br><br>Rutas: 30 A, estación de tren ligero Patria, 619 A.]]></description>
+        <styleUrl>#icon-1685-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3798798,20.7121901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central de Abastos</name>
+        <description><![CDATA[Gran variedad de productos alimenticios frescos y comida corrida de calidad y buen precio al mayoreo y menudeo.<br><br>Lunes a domingo 9 a 16 hrs.<br><br>Chícharo 26-27, Comercial Abastos. Guadalajara.<br><br>Rutas: 629, 214, 623-A,128, 646, 59B, 55, 59ª.]]></description>
+        <styleUrl>#icon-1685-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3835297,20.6544202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado Libertad - San Juan de Dios</name>
+        <description><![CDATA[Tres pisos comerciales temáticos con variedad de productos, servicios y comercialización de ropa y calzado, instrumentos musicales y aparatos eléctricos, alimentos frescos y comida a la venta y con regateo.<br><br>Lunes a sábado 7 a 19 hrs., domingos 7 a 17 hrs.<br><br>Av. Javier Mina 52, San Juan de Dios. Guadalajara.<br><br>Rutas: 258-D, 701, Línea del tren ligero 2, estación San Juan de Dios.]]></description>
+        <styleUrl>#icon-1685-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3398497,20.6755343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mercado "General Ramón Corona"]]></name>
+        <description><![CDATA[El primer mercado de la ciudad inaugurado en 1891. Venta de frutas, verduras, plantas medicinales, ropa, flores y comida.<br><br>Lunes a sábado 7 a 20:00 hrs., domingo 17 a 17:30 hrs.<br><br>Av. Hidalgo entre Santa Mónica y Zaragoza, Centro Histórico de Guadalajara.<br><br>Rutas: 52, 54,110, 321, 52-B, 258, 258A, 500, 249.]]></description>
+        <styleUrl>#icon-1685-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3494036,20.6777507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tianguis El Baratillo</name>
+        <description><![CDATA[El mercado ambulante más grande de la ciudad. Compra/venta de productos de vestir, alimenticios, y muebles nuevos o usados, con regateo.<br><br>Domingos 6:00 a 16:00 hrs.<br><br>Calle Juan R. Zavala 38, Santa María. Desde la calle Gómez Farías hasta Puerto Melaque, sector Libertad, oriente de Guadalajara.<br><br>Rutas: 320, 320-A, Estación de tren Oblatos, 45A, 214, 615.]]></description>
+        <styleUrl>#icon-1685-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3192294,20.6835529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tianguis del Sol</name>
+        <description><![CDATA[Venta callejera de fruta y verdura, comida, artículos de cómputo y celulares, ropa y calzado nuevo, usado y de imitación.<br><br>Miércoles, viernes y domingos 6:00 a 16:00 hrs.<br><br>Av. Nicolás Copérnico entre Tepeyac y Moctezuma Poniente, Zapopan.<br><br>Rutas: 629, 59, 51B, 249, 51A, 51D,101.]]></description>
+        <styleUrl>#icon-1685-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4328311,20.6517874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bazar del Padre Cuéllar</name>
+        <description><![CDATA[Compra y venta de artículos seminuevos como muebles y electrodomésticos, ropa, calzado y libros.<br><br>Lunes a viernes 15:00 a 17:00 hrs.<br><br>Calle Organización 955, Cd. de los Niños. Zapopan.<br><br>Tel: 33 3121 4506<br><br>Rutas: 358, 249, 51-A, 703-1,51-B, 51-D, 249.]]></description>
+        <styleUrl>#icon-1685-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4135908,20.6608557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>LGBTI</name>
+      <Placemark>
+        <name>Cohesión de Diversidades Para la Sustentabilidad A.C. (Codise)</name>
+        <description><![CDATA[Asesoría jurídica y orientación gratuita en derechos humanos, especializada en violencia, acoso y discriminación. Asesoría médica y psicológica. Pruebas de detección de VIH y sífilis, cursos y talleres, capacitación. <br><br>Lunes a viernes de 16:00 a 20:00 hrs.<br><br>Av. 8 de Julio 76. Guadalajara.<br><br>Tel: 33 3367 9219<br><br>Mail: contacto@codise.org.mx]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3524443,20.6753326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujeres</name>
+      <Placemark>
+        <name>Instituto Municipal de las Mujeres en Guadalajara</name>
+        <description><![CDATA[Consultas homeopáticas, educación para adultos (INEA), becas, grupo de ayuda mutua; asesorías jurídicas y psicológicas, actividades para mujeres (yoga, defensa personal, inglés). <br><br>Lunes a viernes 8:00 a 14:30 hrs.<br><br>Mitla 386, Col. Monumental. Guadalajara.<br><br>Tel: 33 3638 5287.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3222778,20.6990934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez y juventud</name>
+      <Placemark>
+        <name>Sistema DIF Zapopan</name>
+        <description><![CDATA[Ludotecas, atención psicológica, guardería, desayuno escolar, despensa y leche para niños menores de 4 años. Comedores comunitarios, escuela para padres, actividades deportivas y culturales, servicios de salud.<br><br>Lunes a viernes 9:00 a 15:00 hrs.<br><br>Av. Laureles 1151 Colonia FOVISSTE. Zapopan.<br><br> Tel: 33 3836 3444<br><br>Mail: contacto@difzapopan.gob.mx<br><br>Requisitos variables dependiendo de cada programa.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4014951,20.7364094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sistema DIF Jalisco</name>
+        <description><![CDATA[Ludotecas, atención psicológica, guardería, desayuno escolar, despensa y leche para niños menores de 4 años. Comedores comunitarios, escuela para padres, actividades deportivas y culturales, servicios de salud.<br><br>Lunes a viernes 9 a 15 hrs.<br><br>Av. 5 de Febrero 1309, Quinta Velarde. Guadalajara.<br><br>Tel: 33 3030 3800 y 33 3030 4600.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3306026,20.6562594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Cruz Verde Leonardo Oliva</name>
+        <description><![CDATA[Cirugía general, urgencias, consulta, otorrinolaringología, traumatología y ortopedia, psicología, certificados médicos, laboratorio y rayos X las 24 hrs.<br><br>Cruz del Sur 2592, Col. Jardines de la Cruz, Guadalajara.<br><br>Tel: 33 120 18 649<br><br>Rutas: 625 - 30 -623A - 214- 128.<br><br>* En estas instituciones es requisito tener Seguro Popular.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3819772,20.6459875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Verde Ernesto Arias</name>
+        <description><![CDATA[Atención Psicológica, urgencias, traumatología y ortopedia, consulta General, laboratorio clínico, rayos X, certificados médicos las 24 hrs.<br><br>Los Ángeles y Analco, Col. Las Conchas, Zona Centro. <br><br>Tel: 33 36691 321, 33 36691 322 y 33 36691 325.<br><br>Rutas: 182A - 186 - 604- 320/320A - 706.<br><br>* En estas instituciones es requisito tener Seguro Popular.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3428911,20.6622694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital Civil Viejo Fray Antonio Alcalde</name>
+        <description><![CDATA[Clínicas: de dolor, de sueño y de osteoporosis. Consultas: externa de especialidad y de primera vez. Pediatría, nutrición, odontología, psicología, neuropsicología y rehabilitación; especialidades, hospitalización y urgencias.<br><br>Lunes a viernes 5 a 20 hrs. Urgencias 24 hrs.<br><br>Coronel Calderón 777, El Retiro. Guadalajara.<br><br>Tel: 33 3942 4400.<br><br>Rutas: 636-636A-231C-249-54-110-110A-258A.<br><br>* En estas instituciones es requisito tener Seguro Popular.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3435825,20.6880786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital General de Occidente Zoquipan</name>
+        <description><![CDATA[Atención médica en especialidades y urgencias. Unidad de violencia sexual (COESIDA), psiquiatría, infectología, rayos X, especialidades, consulta externa e interna. Lunes a viernes 6 a 20 hrs. Urgencias 24 hrs.<br><br>Av. Zoquipan 1050, Seattle. Zapopan.<br><br>Tel: 33 3030 6300.<br><br>Rutas: 19 -142A - 15- 636MAR- 30.<br><br>* En estas instituciones es requisito tener Seguro Popular.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3697041,20.7174108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto de Salud Mental (SALME)
+</name>
+        <description><![CDATA[Atención psicológica y psiquiátrica.<br><br>8 a 20 hrs. Urgencias 24 hrs.<br><br>Av. Zoquipan 1130, Zoquipan. Zapopan.<br><br>Tel: 33 3030 9900.<br><br>Rutas: 19 - 142A - 15- 636MAR- 30.<br><br>* En estas instituciones es requisito tener Seguro Popular.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.371096,20.718261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital Materno Infantil Esperanza López Mateos</name>
+        <description><![CDATA[Ginecología y obstetricia, psicología, pediatría, urgencias y acompañamiento en embarazos; nutrición y aplicación de vacunas.<br><br>8:00 a 20:00 hrs. Urgencias 24 hrs.<br><br>Constituyentes 1075, Moderna. Guadalajara.<br><br>Tel: 33 3619 4813.<br><br>Rutas: 52- 52B-54-183-101-55-142a<br><br>* En estas instituciones es requisito tener Seguro Popular.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.351225,20.6624776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IMSS Centro Medico de Occidente</name>
+        <description><![CDATA[Atención psicológica, audiología, foniatría y otoneurología. Clínicas: del dolor, de osteoporosis, de sueño. Consulta: externa, de especialidad, primera vez. Pediatría, especialidades, hospitalización, radiología e imagen, unidades móviles. <br><br>Las 24 hrs.<br><br>Independencia Oriente, 44340 Guadalajara.<br><br>Tel: 33 3617 0060.<br><br>Rutas: 603B-701-258D-62- Macrobús- 604.<br><br>Requisitos: Número de afiliación y alta en el Seguro Social.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3262263,20.686779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Departamento de Clínicas Odontológicas Integrales</name>
+        <description><![CDATA[Endodoncias, periodoncia, exodoncia, prótesis y cirugía. <br><br>Lunes a viernes 8:00 a 20:00 hrs.<br><br>Salvador Quevedo y Zubieta 228, Independencia Oriente.<br><br>Tel: 33 1058 5200.<br><br>Rutas: 52C- 258-258D-33A-701.<br><br>Requisitos: Cubrir pago de consulta y carnet de atención: $ 25 pesos.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3328761,20.6851422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institucion pública</name>
+      <Placemark>
+        <name>Instituto Nacional para la Educación de los Adultos (INEA)</name>
+        <description><![CDATA[Atiende a personas mayores de 15 años que desean aprender a leer o a escribir. Acredita y certifica la educación básica para adultos y jóvenes.<br><br>Lunes a viernes de 9 a 15 hrs.<br><br>Calle Pedro Moreno 1250, Americana. Guadalajara. <br><br>Tel: 33 3827 3451.<br><br>Requisitos: CURP, copia de credencial de residencia o visa.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3634016,20.6756472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preparatoria Abierta SEP-Colegio de Bachilleres del Estado de Jalisco (COBAEJ)</name>
+        <description><![CDATA[Sistema de educación no escolarizada para todas aquellas personas que concluyeron la secundaria y desean iniciar o continuar sus estudios de bachillerato. Se extiende certificado con validez oficial a nivel nacional.<br><br>Lunes a viernes 7 a 19 hrs.<br><br>Pedro Moreno 1491, Col. Americana. Guadalajara.<br><br>Tel: 33 3882 55 70, 33 3882 5577 y 33 3882 5573.<br><br>Requisitos: Asistir a plática informativa, CURP, credencial oficial, pago de $ 65 pesos, certificado de secundaria, constancia de identidad y comprobante de domicilio.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.368023,20.675228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de Educación Pública (Jalisco)</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3836173,20.6705969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Capacitación para el Trabajo Industrial (CECATI) 190</name>
+        <description><![CDATA[Ofrecen capacitación para el trabajo a personas de 15 años o más que sepan leer y escribir, en situación de vulnerabilidad social y/o económica.<br><br>Lunes a viernes 8 a 19 hrs.<br><br>Sede general para información y los trámites: CECATI 190.<br><br>Puerto Melaque S/N, esq. Fco. González León. Unidad Habitacional Los Arrayanes. Guadalajara.<br><br>Tel: 33 3608 0264.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.279472,20.6778487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Jalisciense para los Migrantes</name>
+        <description><![CDATA[Oficina de atención al migrante. Ofrece los siguientes servicios: trámites en asuntos de Registro Civil, expedición Cartas de Origen, asesoría migratoria, apoyo a migrantes en tránsito entre otros. <br><br>Lunes a viernes 9 a 17 hrs.<br><br>Calle Penitenciaria 180, Colonia Americana. Guadalajara. <br><br>Tel: 33 3818 2880<br><br>Mail: ijami.sedis@jalisco.gob.mx <br><br>www.soyde.jalisco.gob.mx   ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3558104,20.6738705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seguro Popular</name>
+        <description><![CDATA[Brinda servicios de salud a todas las personas inscritas en el sistema de protección social. <br><br>Lunes a sábado 8:00 a 20:00 hrs. <br><br>Av. Chapultepec Nte.113, Ladrón de Guevara, Ladrón de Guevara. Guadalajara.<br><br>Tel: 33 3030 5555<br><br>Rutas: 622-258A-258D-626BRI-626FOR-626MIR-629.<br><br>Requisitos: No ser beneficiario de otra institución de seguridad social, cubrir la cuota correspondiente, identificación oficial vigente, comprobante de domicilio y CURP.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3690631,20.6781657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secretaría de Movilidad</name>
+        <description><![CDATA[Emite licencias de manejo de automovilista, chofer y motociclista con examen y previa cita. Costo: $ 500 pesos. <br><br>Lunes a viernes 8 a 14 hrs.<br><br>Prolongación Alcalde esq. Circunvalación 1351, Jardines Alcalde. Guadalajara.<br><br>Tel: 33 3819 2400<br><br>Rutas: 371- 703-52-54-604-52B.<br><br>Requisitos: CURP, identificación oficial, comprobante de domicilio, tipo de sangre, documento migratorio vigente.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3461804,20.7056247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Jalisciense de Ciencias Forenses / Unidad Administrativa Las Águilas</name>
+        <description><![CDATA[Expide Carta de no antecedentes penales con vigencia de 90 días. $ 62 pesos. <br><br>Lunes a viernes 9 a 15 hrs. Sábados de 9 a 13 hrs.<br><br>Zapopan Sur "Las Águilas". Av. López Mateos Sur. 5150. Col. La Calma. Zapopan.<br><br>Tel: 33 3632 2636<br><br>Requisitos: Matrícula consular, credencial de residencia o visa de trabajo y CURP.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4169073,20.6311816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Jalisciense de Ciencias Forenses / Palacio Federal Guadalajara</name>
+        <description><![CDATA[Expide Carta de no antecedentes penales con vigencia de 90 días. $ 62 pesos.<br><br>Lunes a viernes 9 a 15 hrs. Sábados de 9:00 a 13:00 hrs.<br><br>Av. Fray Antonio Alcalde 500, Piso 1. Guadalajara.<br><br>Tel: 33 3613-5840<br><br>Requisitos: Matrícula consular, credencial de residencia o visa de trabajo y CURP.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3473382,20.6849983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Jalisciense de Ciencias Forenses / Gran Terraza Belenes</name>
+        <description><![CDATA[Expide Carta de no antecedentes penales con vigencia de 90 días. $ 62 pesos. <br><br>Lunes a viernes 9 a 15 hrs. Sábados de 9:00 a 13:00 hrs.<br><br>Módulo Gran Terraza Belenes: Av. Laureles 1300, Belenes Nte., casi al cruce con el Periférico. Local L-122. Zapopan.<br><br>Tel: 33 3365 1994<br><br>Requisitos: Matrícula consular, credencial de residencia o visa de trabajo y CURP.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4009953,20.7382089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Justicia / Derechos Humanos</name>
+      <Placemark>
+        <name>Comision Estatal De Derechos Humanos Jalisco</name>
+        <description><![CDATA[Defensora frente a los actos administrativos u omisiones de autoridades que no respetan la dignidad elemental de mujeres y hombres, como los elementos de la policía o los servidores públicos que trabajan en dependencias de gobierno. La CEDHJ no atiende quejas hacia empleadores u otras personas.<br><br>Pedro Moreno 1616, Colonia Americana. Guadalajara.<br><br>Tel: 33 3669 1101. Quejas: 33 3669 1100. <br><br>Lada sin costo: 800 2018 991. <br><br>Dirección de quejas: quejas@cedhj.org.mx]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3709581,20.6756754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Justicia para las Mujeres</name>
+        <description><![CDATA[Proporciona atención integral a las víctimas de delitos relacionados con la violencia de género, mediante la procuración e impartición de justicia pronta y expedita.<br><br>Álvaro Alcázar No. 1480 entre calles Rafael Ochoa e Ignacio Ramos Praslow, Col. Jardines Alcalde. Guadalajara.<br><br>Tel: 33 3030 5450 Ext. 19325.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3376534,20.7015624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar (CEPAVI)</name>
+        <description><![CDATA[Cuenta con un equipo de profesionales que trabajan en la atención y prevención de la violencia intrafamiliar.<br><br>Lunes a viernes 8:00 a 16:00 hrs.<br><br>Av. Américas 599, Torre Cuauhtémoc, Col. Ladrón de Guevara, Col. Centro. Guadalajara.<br><br>Tel: 33 3030 8200 ext. 48558, 48560 y 48240<br><br> Mail: cepavi@yahoo.com.mx ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3737561,20.687046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consejo para la Atención de las Víctimas del Transporte Público</name>
+        <description><![CDATA[Apoyo a víctimas en su revisión física, atención médica, hospitalaria, intervención quirúrgica y, en caso de ser necesario, apoyo funerario.<br><br>Lunes a viernes 8:00 a 16:00 hrs.<br><br>Lago Tequesquitengo 2600, Col. Lagos del Country, Zapopan.<br><br>Tel: 33 3823 5512.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3704081,20.7157977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiscalía General Del Estado de Jalisco</name>
+        <description><![CDATA[Responsable de la seguridad pública y la procuración de justicia del estado. Tiene a su cargo el Ministerio Público. Vigila la conducción de las funciones de la investigación de los delitos, de la seguridad pública, el orden y la paz pública, la acción penal y la reparación del daño ante los tribunales.<br><br>Lunes a viernes 8:00 a 21:00 hrs. Guardias las 24 hrs.<br><br>Ignacio Herrera y Cairo, Calle Jesús 1034, Guadalajara.<br><br>Tel: 33 3837 6000 y 33 3668 7946.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3588984,20.6829761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organismos Internacionales y Consulados</name>
+      <Placemark>
+        <name>Consulado de Guatemala en Guadalajara </name>
+        <description><![CDATA[Lunes a viernes de 9:00 a 11:00 hrs.<br><br>Mango 1440. Col. del Fresno. Guadalajara.<br><br>Tel: 33 3811 1503 y 33 3612 7292.<br><br>Mail: cruza@prodigy.net.mx]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3786076,20.6598566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de El Salvador </name>
+        <description><![CDATA[Atención solo con previa cita.<br><br>Av. Guadalupe 4358. Fracc. Camino Real. Guadalajara.<br><br>Tel: 33 3121 8712 y 33 3812 6539<br><br>Mail: jkoloffon@rree.gob.sv]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4141309,20.664455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Nicaragua en Guadalajara</name>
+        <description><![CDATA[Lunes a viernes de 10:00 a 14:00 hrs.<br><br>Av. Mariano Otero 3685, Col. La Calma. Zapopan. <br><br>Tel: 33 3587 2836, 33 3587 9836 y 33 3587 9836.<br><br>Mail: consulnicjal@hotmail.com]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.4182052,20.6386644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organizaciones de la Sociedad Civil</name>
+      <Placemark>
+        <name>FM4 Paso Libre (Dignidad y Justicia en el camino A.C.)</name>
+        <description><![CDATA[Organización sin fines de lucro dedicada a la defensa y promoción de derechos humanos de las personas migrantes y refugiadas mediante la atención humanitaria integral, la incidencia en políticas y la investigación desde el occidente de México.<br><br>Calderón de la Barca 468-A. Colonia Arcos Vallarta. Guadalajara.<br><br>Tel: 33 3330 0306 y 33 2003 0936. <br><br>https://fm4pasolibre.org.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.379149,20.6674427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asociación Jalisciense de Apoyo a los Grupos Indígenas, A.C. (AJAGI)</name>
+        <description><![CDATA[Trabajar por el respeto a los pueblos indígenas, en apoyo a sus propuestas de desarrollo con una perspectiva propia, crítica, técnica, ambiental y económica.<br><br>Pedro Landazuri 735, Col. La Perla. Guadalajara. <br><br>Tel: 33 3825 6886 y 33 3826 6103<br><br>Mail: ajagi1@prodigy.net.mx]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3323734,20.6829147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Justicia para la Paz y el Desarrollo A.C. (CEPAD)</name>
+        <description><![CDATA[Apoya la defensa de casos de violaciones de los derechos humanos individuales y colectivos, con vinculaciones e interacción con organizaciones sociales e instituciones públicas y civiles.<br><br>Garibaldi 641, Zona Centro. Guadalajara.<br><br>Tel: 33 3613 4066<br><br>Mail: defensa@cepad.org.mx]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3528985,20.6810287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ACNUR - Agencia de la ONU para los Refugiados</name>
+        <description><![CDATA[Edificio El Bosque Oficinas 8 y 9.<br><br>55 7932 8698]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -103.3751944,20.6704485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

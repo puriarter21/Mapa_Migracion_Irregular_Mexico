@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tapachula - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en la Ciudad de Tapachula, Chiapas?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1502-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1504-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1504-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1504-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1504-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1504-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1520-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1520-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1520-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1520-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1520-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1531-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1531-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1531-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1531-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1531-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1546-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1546-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1546-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1546-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1546-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1548-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1548-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1548-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1548-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1548-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1552-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1552-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1552-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1552-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1552-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1574-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1574-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1574-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1574-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1574-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1624-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1624-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1624-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1624-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1624-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1628-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1628-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1628-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1628-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1628-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1682-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1682-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1682-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1682-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1682-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Albergue / Alimentación</name>
+      <Placemark>
+        <name>Albergue Jesús El Buen Pastor</name>
+        <description><![CDATA[Asistencia humanitaria y de alojamiento a personas migrantes y que buscan protección en<br>México. <br><br>Camino a Raymundo Enríquez s/n.]]></description>
+        <styleUrl>#icon-1603-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.307416,14.8766423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albergue Belén</name>
+        <description><![CDATA[Asistencia humanitaria y de alojamiento a personas migrantes y que buscan protección en<br>México.<br><br>Avenida Hidalgo No. 2, Col. San Antonio Cahoacán.<br><br>Tel. 962 6254 812 / 962 6206 176 <br><br>Lunes a domingo, 8:00 - 20:00 hrs.<br><br>Ruta Venustiano Carranza]]></description>
+        <styleUrl>#icon-1603-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2442253,14.8873021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospitalidad y Solidaridad </name>
+        <description><![CDATA[Asistencia humanitaria y alojamiento para personas solicitantes de la condición de refugiado.<br>Carretera Tapachula-Puerto Madero, Km. 12+500 (a un costado de la Universidad del Sudeste UDS) <br><br>Rutas Tapachula-Puerto Madero y Tapachula-Ejido Morelos]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.3321935,14.8287644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Atencion a violencia sexual</name>
+      <Placemark>
+        <name>Distrito Sanitario VII</name>
+        <description><![CDATA[Oficinas administrativas del sector salud.<br><br>Carretera Antiguo Aeropuerto, Col. Los Cerritos.<br><br>Tel. 962 6286 886 <br><br>Lunes a viernes, 8:00 - 20:00 hrs.<br><br>Ruta COBACH, Solidaridad 2000]]></description>
+        <styleUrl>#icon-1628-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.290459,14.8865467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Ejecutiva de Atención a Vícticas (CEAV)</name>
+        <description><![CDATA[Atiende y apoya a quienes hayan sido víctimas de un delito federal o de una violación a sus derechos humanos.	<br><br>2da Avenida Norte No. 1, entre Central y 1ª Poniente, Col. Centro.<br><br>Tel 962 6428 691]]></description>
+        <styleUrl>#icon-1628-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2641152,14.907242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Policía Violeta (Módulo de atención inmediata)</name>
+        <description><![CDATA[Apoyo en materia de seguridad y protección a personas que por su género han sufrido agresiones de cualquier tipo.<br><br>Central norte S/N entre 19a y 21a privada (Módulo Color morado)<br><br>Atención presencial: lunes a sábado de 08:00 a 16:00. Urgencias 24 horas.<br>911 / 962 626 2803 ]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2581316,14.9156664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Por la Superación de la Mujer A.C.</name>
+        <description><![CDATA[Brinda protección, atención integral y especializada a las mujeres víctimas de violencia, sus hijas e hijos, en situación de riesgo.<br><br>Tel. 962 6283 759<br><br>Avenida Niños Heroes Mz. 15 Lt. 35, Fracc. la Antorcha Tercera Etapa.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2921514,14.8895209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Consulados</name>
+      <Placemark>
+        <name>Consulado General de El Salvador</name>
+        <description><![CDATA[Atención a ciudadanos salvadoreños.<br><br>Avenida Central Norte s/n entre 37ª y 39ª Poniente, Col. 5 de Febrero.<br><br>Tel. 962 1181 361<br><br>Lunes a viernes, 9:00 - 17:00 hrs.]]></description>
+        <styleUrl>#icon-1574-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2539158,14.9249838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Ecuador</name>
+        <description><![CDATA[Atención a ciudadanos ecuatorianos.<br><br>8ª Avenida Norte esquina 29ª Poniente No.9, Col. 5 de Febrero.<br><br>Tel. 962 1181 532<br><br>Lunes a viernes, 9:00 - 17:00 hrs.]]></description>
+        <styleUrl>#icon-1574-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2597313,14.9217648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Honduras</name>
+        <description><![CDATA[Atención a ciudadanos hondureños<br><br>2ª Poniente entre Central Sur y 2ª Avenida Sur.<br><br>Tel. 962 6428 150 / 962 6428 111<br><br>Lunes a viernes, 9:00 - 16:00 hrs.]]></description>
+        <styleUrl>#icon-1574-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2646867,14.9057185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Guatemala</name>
+        <description><![CDATA[Atención a ciudadanos guatemaltecos.<br><br>5ª Avenida Norte No.67 entre 11ª y 13ª Calle Oriente, Col. Centro.<br><br>Tel. 962 6261 252<br><br>Lunes a viernes, 9:00 - 14:00 y 15:30 -17:30 hrs.]]></description>
+        <styleUrl>#icon-1574-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.257432,14.9105957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consulado de Nicaragua</name>
+        <description><![CDATA[Atención a ciudadanos nicaragüenses.<br><br>Calle del Zorro No. 1B, Col. Boulevard del Bosque.<br><br>Tel. 962 6286 458 / 962 1 181 427<br><br>Lunes a viernes, 9:00 - 17:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2470549,14.9019174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Deporte y cultura</name>
+      <Placemark>
+        <name>Parque de la Col. Cafetales</name>
+        <description><![CDATA[Actividades recreativas al aire libre.<br><br>Calle Santa Ofelia No.228 (cerca de la parada del Tapachulteco).<br><br>Ruta Tapachulteco y Solidaridad por cuarta/Cafetales<br><br>Basquetbol: martes y jueves de 18:00 a 20:00 hrs.]]></description>
+        <styleUrl>#icon-1520-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.3061664,14.8723977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Parque Recreativo "Los Cerritos"]]></name>
+        <description><![CDATA[Actividades recreativas al aire libre.<br><br>Carretera Antiguo Aeropuerto, frente al Planetario<br><br>Ruta Solidaridad por cuarta, COBACH, Libertad-El Carmen]]></description>
+        <styleUrl>#icon-1520-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2932921,14.8862758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cancha Raymundo Enríquez</name>
+        <description><![CDATA[Espacio para practicar deportes al aire libre, fútbol y correr.<br><br>3ª Avenida Sur s/n, Ejido Raymundo Enríquez.<br>Ruta Raymundo Enriquez<br><br>Futbol soccer: martes a viernes de 17:00 a 19:00 hrs.]]></description>
+        <styleUrl>#icon-1520-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.3153599,14.8641225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque de la Col. El Rinconcito</name>
+        <description><![CDATA[Actividades recreativas al aire libre.<br><br>Calle Tapachula, Col. Xochimilco (cerca de la Colonia 5 de Febrero).<br><br>Ruta Xochimilco<br><br>Basquetbol: miércoles y viernes de 17:00 a 19:00 hrs.]]></description>
+        <styleUrl>#icon-1520-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.257494,14.9383987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque de la Col. Santa Clara</name>
+        <description><![CDATA[Actividades recreativas al aire libre.<br><br>Calle Perla del Soconusco, Col. Santa Clara (ubicado a un costado del Oxxo).<br><br>Ruta Tapachulteco Ruta Los Palacios]]></description>
+        <styleUrl>#icon-1520-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2515164,14.8796847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Territorio Joven</name>
+        <description><![CDATA[Atención a personas jóvenes: capacitaciones tecnológicas, psicológicas, actividades deportivas como box, karate, futbol.<br><br>9ª Norte esquina 9ª Poniente, Col. Centro (Centro de Convivencias).]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2559302,14.9084136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Institución Pública</name>
+      <Placemark>
+        <name>Fiscalía Especializada en Delitos Cometidos en Contra de Inmigrantes</name>
+        <description><![CDATA[Seguimiento a delitos cometidos poro en contra de personas migrantes.<br><br>Tel. 962 6267 633<br><br>Boulevard Díaz Ordáz No.9, Col. Lomas de Sayula.]]></description>
+        <styleUrl>#icon-1552-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2489115,14.9097245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Federal de la Defensoría Pública (IFDP)</name>
+        <description><![CDATA[Defensa pública en materia penal y el acceso a la justicia mediante la orientación, asesoría y representación jurídica en materia administrativa, fiscal, civil y de causas penales.<br><br>Tel. 962 6252 318<br><br>Libramiento Sur Oriente, a 450 metros de la carretera a Cantón Murillo, Huerto Santa Isabel.]]></description>
+        <styleUrl>#icon-1552-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2660692,14.8564243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMAR Comisión Mexicana de Ayuda a Refugiados</name>
+        <description><![CDATA[Oficina encargada de recibir, analizar y decidirsobre las solicitudes de la condición de refugiado.<br><br>Tel. 962 6425 318 / 962 6425 319<br><br>8ª Avenida Sur esquina 4ª Poniente, Col. Centro.]]></description>
+        <styleUrl>#icon-1546-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2682518,14.9060677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMAR Comisión Mexicana de Ayuda a los Refugiados</name>
+        <description>2a Avenida Sur entre 18 y 20 Poniente. Col. San Sebastián </description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2696634,14.8980976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oficina de Regularización Migratoria del Instituto Nacional de Migración </name>
+        <description><![CDATA[Espacio para realizar trámites migratorios, como la Tarjeta de visitante por razones humanitarias.<br><br>Vialidad No. 435, Col. Las Vegas.]]></description>
+        <styleUrl>#icon-1546-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2808912,14.8932915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Servicio Nacional del Empleo</name>
+        <description><![CDATA[Facilita la vinculación entre ofertas y demandas deempleo, orienta a los buscadores de empleo.<br><br>17 calle Oriente No.11, Col. Cedros de Erika (1er piso del edificio de la Secretaría de Economía<br>y del Trabajo).<br><br>Tel. 962 6260 576]]></description>
+        <styleUrl>#icon-1546-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2452075,14.9002172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación Migratoria Siglo XXI (INM)</name>
+        <description><![CDATA[Instalación especial para personas migrantes detenidas por no contar con un estatus<br>regular en el país.<br><br>Carretera Tapachula - Nueva Alemania Km 1.5, Col. 5 de Febrero.<br><br>Lunes a domingo, 9:00 - 18:00 hrs.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2521342,14.9462863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Comisión Nacional de los Derechos Humanos Oficina Foránea</name>
+        <description><![CDATA[Institución encargada de defensa, promoción, estudio y divulgación de los derechos humanos<br>reconocidos en la Constitución Mexicana, los tratados internacionales y las leyes.<br><br>15ª Oriente No. 20, entre 3ª y 5ª Avenida Norte, Col. Centro.<br><br>Tel. 962 6201 466<br><br>Lunes a viernes, 9:00 - 14:30 y 17:00 - 19:00 hrs.<br><br>Ruta Lomas del Soconusco]]></description>
+        <styleUrl>#icon-1548-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2572505,14.9123125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEDH Comision Estatal de los Derechos Humanos Chiapas</name>
+        <description><![CDATA[Protección, defensa, observancia, promoción, estudio, divulgación de los derechos<br>humanos y recepción de quejas.<br><br>2a Poniente No. 20 entre 2a y 4a Sur, Col. Centro.<br><br>Tel. 962 6261 041<br><br>Lunes a viernes, 8:30 - 16:00 hrs.<br><br>Ruta Bonanza por 3era./FOVISSTE]]></description>
+        <styleUrl>#icon-1548-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2657815,14.9063005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Niñez y juventud</name>
+      <Placemark>
+        <name>Procuraduría de los Derechos de Niñas, Niños y Adolescentes</name>
+        <description><![CDATA[Proporciona orientación social y asistencia jurídica a niñas, niños y adolescentes. <br><br>Tel. 962 6281 382<br><br>Carretera a Puerto Madero Km 3.5 esquina con Ayuntamiento, Col. Joaquín del Pino. ]]></description>
+        <styleUrl>#icon-1682-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2825318,14.8810032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Día: Centro de Atención a Niños, Niñas y Jóvenes Migrantes</name>
+        <description><![CDATA[Servicios de alimentación, atención psicológica, educación, asesoría legal y restitución de sus derechos humanos a niñas niños y adolescentes migrantes de cero a diecisiete años once meses de edad.<br><br>Tel. 962 1180 949<br><br>5ª Privada Sur esquina 4ª Oriente, Col. Centro.]]></description>
+        <styleUrl>#icon-1682-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2622439,14.9024114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Organizaciones Internacionales y No Gubernamentales</name>
+      <Placemark>
+        <name>ACNUR, La Agencia de la ONU para los Refugiados</name>
+        <description><![CDATA[Asistencia humanitaria, orientación, programas de integración para personas que huyen de sus países y que no pueden volver porque su vida o seguridad corren peligro.<br><br>Tel. 962 6425 198 / 962 6425 199<br><br>21 Oriente No. 22, entre 9ª y 11ª Avenida Norte, Col. Lomas del Soconusco.       ]]></description>
+        <styleUrl>#icon-1502-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2525063,14.9146805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNICEF. Fondo de las Naciones Unidas para la Infancia.</name>
+        <description><![CDATA[Promoción de los derechos de niñas, niños y adolescentes. 4ª Avenida Sur No.12 entre<br>Central y 2ª Poniente, Col. Centro.<br><br>Ruta A pie]]></description>
+        <styleUrl>#icon-1502-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2654161,14.907122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OIM, Organización Internacional para las Migraciones</name>
+        <description><![CDATA[Orienta y fortelece los mecanismos para llevar a cabo la migración en forma ordenada, segura y regular.<br><br>Tel. 962 642 5674 / 962 6097 940<br><br>4ª avenida Sur No.12 entre Central y 2ª Poniente, Col. Centro.]]></description>
+        <styleUrl>#icon-1502-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2653485,14.907213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Una Mano Amiga en la Lucha Contra el Sida (UMA)</name>
+        <description><![CDATA[Pruebas rápidas de VIH con pre y post consejería; Canalización a servicios médicos; Orientación jurídica; Educación en derechos sexuales y reproductivos; Campañas de prevención en VIH y otra infecciones de transmisión sexual - ETS.<br><br>Tel. 962 6267 896 / Cel: 962 2400 025<br><br>Central Norte No.168 altos entre 23ª y 25ª Poniente Planta Alta, Col. 5 de Febrero.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2569754,14.9181642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ventanillas de atención a migrantes y refugiados de la OIM</name>
+        <description><![CDATA[Atención y orientación a personas migrantes y solicitantes de protección internacional. <br><br>Tel. 962 1112 582<br><br>Av. Central Poniente No. 14, entre 2ª y 4ª sur, Edificio Soconusco, 2a planta, Col. Centro.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2644864,14.9069459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Derechos Humanos Fray Matías de Córdova A.C.</name>
+        <description><![CDATA[Promoción, difusión y defensa integral de los derechos humanos de las personas migrantes.<br><br>Tel. 962 6425 098<br><br> 4ª Avenida Sur No. 6, Col. Centro.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2654745,14.907095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Servicio Jesuita para Refugiados</name>
+        <description><![CDATA[Acompañamiento psicojurídico a personas migrantes y solicitantes de protección internacional. <br><br>3a Avenida Norte No. 5 entre Central Oriente y 1a Calle Oriente, Col. Centro.<br><br>Tel. 962 1963 717 / 962 6256 961]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2611506,14.9059916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Registro y Asistencia Humanitaria  CERAH - ACNUR</name>
+        <description><![CDATA[Información y orientación a personas que huyen de sus países y que no pueden volver porque su vida o seguridad corren peligro.<br><br>Tel. 962 6288 034<br><br>Calle Central Oriente No.34 entre 3ª y 5ª Avenida Norte, Col. Centro (entre la Chevrolet y el Oxxo)]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2607145,14.9046668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Save the Children</name>
+        <description><![CDATA[Defiende los derechos de la niñez, protegiéndolos de violencia infantil, desnutrición, acoso, maltrato y explotación.<br><br>Calle Sauces Mz. 42, Fraccionamiento Laureles 2.]]></description>
+        <styleUrl>#icon-1531-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2519696,14.8903316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iniciativas para el Desarrollo Humano A.C. (IDEHU)</name>
+        <description><![CDATA[Promoción de los derechos y procesos alternativos para mejorar la calidad de vida de<br>niñas, niños y adolescentes.<br><br>10 av. Sur No. 46, Col. Centro.<br><br>Tel. 962 2869 198 <br><br>Lunes a jueves, 9:00 - 14:00 hrs. <br><br>Sábados, 10:00 - 13:00 hrs.<br><br>Ruta a pie]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.27184,14.9013151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Hospital General de Tapachula</name>
+        <description><![CDATA[Atención médica básica. <br>Medicina interna, cirugía general, pediatría, gineco-obstetricia y anestesiología.<br><br>Carretera Tapachula-Puerto Madero]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.3184763,14.8426439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Méxicana</name>
+        <description><![CDATA[Atención médica básica.	<br><br>1ª Calle Oriente entre 7ª y 9ª Avenida Norte, Col. Centro.	<br><br>Tel: 962 6261 949]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2581812,14.9048102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Tapachula</name>
+        <description><![CDATA[Atención médica básica y medicina familiar.	<br><br>Tel. 962 6265 294<br><br>8ª Avenida Norte entre 19ª y 21ª Calle Poniente, Col. 5 de febrero.]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.26091,14.9171354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Indeco Cebadilla</name>
+        <description><![CDATA[Atención médica básica y medicina familiar.	Avenida Juan Aldama No. 6, Col. Indeco.	<br><br>Tel: 962 6424 214]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2652482,14.8777797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Raymundo Enriquez</name>
+        <description><![CDATA[Atención médica básica y medicina familiar.	<br><br>Camino a Raymundo Enriquez]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.31298,14.8656612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Llano de la Lima</name>
+        <description><![CDATA[Atención médica básica.	<br><br>Ejido de la Lima]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2984064,14.8669784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Santa Clara</name>
+        <description><![CDATA[Atención médica básica y medicina familiar.<br><br>Prolongación Duraznos s/n, Col. Santa Clara.<br>Tel. 962 6426 087 <br><br>Diariamente, 8:00 - 20:00 hrs.<br>Ruta Laureles 2]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2494676,14.8813816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Villa Flores</name>
+        <description><![CDATA[Atención médica básica y medicina familiar.	<br><br>Jazmin s/n, Esquina con Jacarandas. Col. Villa Flores.]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2720568,14.8836727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centros Ambulatorios de Prevención y Atención en SIDA e ITS (CAPACITS)</name>
+        <description><![CDATA[Atención médica en SIDA e infecciones de transmisión sexual, así como orientación general e información preventiva.	<br><br>Prolongación Boulevard Akishino, esquina Vicente Guerrero s/n, Col. La Antorcha, Etapa 4.<br><br>Tel: 962 6284 076]]></description>
+        <styleUrl>#icon-1624-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2915466,14.892609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Salud Nuevo Milenio</name>
+        <description><![CDATA[Atención médica básica y medicina familiar.<br>Obregón s/n entre avenida San Ramón y San Isidro, Col. Libertad. <br><br>Diariamente, 8:00 - 20:00 hrs.<br><br>Ruta Nuevo Milenio]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2999102,14.8910703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Salud Palmeras</name>
+        <description><![CDATA[Atención médica básica.<br><br>13a Calle de Gyves Córdova, camino a la Pita. <br><br>Lunes a viernes, 9:00 - 14:00 hrs.<br><br>Ruta Palmeras]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2754095,14.8672198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Aeropuerto Internacional de Tapachula</name>
+        <description><![CDATA[Servicio de transporte aéreo nacional e internacional.<br><br>Tel: 962 6264 189]]></description>
+        <styleUrl>#icon-1504-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.3687911,14.7904152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Autobuses Rapidos del Sur</name>
+        <description><![CDATA[Servicio de transporte. <br><br>Novena Pte. 63, Col. Centro]]></description>
+        <styleUrl>#icon-1532-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2666745,14.9137887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terminal de Autobuses Tapachula</name>
+        <description><![CDATA[Servicio de transporte.<br><br>Calle 17A Oriente número 45, Col. Centro]]></description>
+        <styleUrl>#icon-1532-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2577911,14.9133638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central Camionera De Cortos Recorridos</name>
+        <description>Servicio de transporte</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.2672425,14.9125801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

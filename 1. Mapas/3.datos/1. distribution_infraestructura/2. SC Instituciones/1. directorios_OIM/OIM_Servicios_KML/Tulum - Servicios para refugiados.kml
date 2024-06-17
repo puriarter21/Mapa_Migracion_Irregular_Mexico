@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tulum - Servicios para refugiados</name>
+    <description><![CDATA[¿No eres de México y te encuentras en Tulum, Quintana Roo?<br><br>La Agencia de las Naciones Unidas para los Refugiados (ACNUR) en colaboración con otros socios y aliados han preparado este mapa que muestra la ubicación de los principales servicios en la ciudad y que esperamos sea de utilidad para tu mejor integración en la comunidad.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Justicia</name>
+      <Placemark>
+        <name>Dirección de Igualdad de Género
+(Ayuntamiento de Tulum)</name>
+        <description><![CDATA[Oficinas de atención a la mujer en materia de<br>emprendimiento, capacitación, compañamiento en casos de violencia de género.<br><br>984 871 2304<br><br>Lunes a viernes, 9:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4633767,20.2105996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Derechos Humanos</name>
+      <Placemark>
+        <name>Comision de los Derechos Humanos</name>
+        <description><![CDATA[Protección, defensa, observancia, promoción,<br>estudio y divulgación de los derechos humanos.<br>Recepción de quejas.<br><br>984 802 5548,<br>984 180 8462<br><br>Lunes a viernes, 8:00 am a 4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4632223,20.2082041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Salud</name>
+      <Placemark>
+        <name>Centro De Salud Urbano Tulum</name>
+        <description><![CDATA[Atención médica básica, de urgencias y afiliación al sistema de salud.<br><br>984 802 5534<br><br>Lunes a viernes, 8:00 am a 4:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4653396,20.208972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cruz Roja Mexicana Tulum</name>
+        <description><![CDATA[Atención médica básica de urgencias<br><br>984 802 5521<br><br>Abierto las 24 horas ambulancia servicio<br>medico de lunes a viernes de 8:00 am<br>11: 00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4506189,20.2073614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mujer</name>
+      <Placemark>
+        <name>Instituto Quintanarroense de la Mujer</name>
+        <description><![CDATA[Promover y fomentar la igualdad de oportunidades, prevenir y eliminar cualquier forma de discriminación por motivos de género.<br><br>984 871 2005<br><br>Lunes a viernes, 9:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4607209,20.2156866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Transporte</name>
+      <Placemark>
+        <name>Terminal Autobuses</name>
+        <description><![CDATA[Servicio de transporte local.<br><br>984 311 9247<br><br>24 horas]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4650399,20.2106411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Compras</name>
+      <Placemark>
+        <name>Mercado Tulum</name>
+        <description><![CDATA[Variedad de productos, servicios y comercialización de ropa y calzado.<br><br>Lunes a domingo, 6:00 am a 9:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4622734,20.20893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cultura</name>
+      <Placemark>
+        <name>Casa de la Cultura </name>
+        <description><![CDATA[Espacio destinado a la impartición de talleres de arte y a presentaciones de obras de teatro, danza y conciertos musicales, así como a la exhibición de obras y lecturas de creaciones literarias y muestras de cine.<br><br>984 871 2496<br><br>Lunes a viernes, 09:00 am a 8:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4627189,20.2082185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zona Arqueológica de Tulum</name>
+        <description><![CDATA[Atractivo turístico de la Riviera Maya.<br><br>984 802 5405<br><br>Lunes a domingo, 8:00 am a 5:00 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.4294668,20.2150812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gran Cenote</name>
+        <description><![CDATA[Cenote y caverna de piedra caliza con pasarelas y áreas para practicar esnórquel.<br><br>998 980 0332<br><br>Lunes a domingo, 8:00 am a 4:45 pm.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.464201,20.2465818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
