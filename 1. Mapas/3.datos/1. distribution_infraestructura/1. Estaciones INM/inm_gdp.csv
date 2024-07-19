@@ -1,54 +1,58 @@
-name,descripcion,latitud,longitud,geometry,distancia_metros,distancia_km
-Campeche Estacion Provisional,Centro Detencion INM,19.84566009,-90.53974092,POINT (-90.5397409201 19.8456600896),375000,375
-Chihuahua Estacion Migratoria,Centro Detencion INM,28.64225733,-106.0844028,POINT (-106.0844027996 28.6422573348),2418893,2418.893
-Ciudad Cuauhtémoc Estacion Provisional,Centro Detencion INM,15.66766816,-92.00234413,POINT (-92.0023441315 15.6676681597),1598,1.598
-Ciudad del Carmen Estacion Provisional,Centro Detencion INM,18.64262612,-91.82360709,POINT (-91.8236070871 18.6426261197),276445,276.445
-Colima Estancia Provisional,Centro Detencion INM,18.5262955,-88.2833324,POINT (-88.2833324 18.5262955),3907,3.907
-Echegaray Estacion Provisional,Centro Detencion INM,15.654755,-93.149776,POINT (-93.149776 15.654755),166143,166.143
-El Hueyate Estacion Provisional,Centro Detencion INM,15.1605676,-92.5157851,POINT (-92.5157851 15.1605676),74962,74.962
-Escarcega Estacion Migratoria,Centro Detencion INM,18.60664518,-90.73938847,POINT (-90.7393884659 18.6066451798),264000,264
-Guadalajara Estacion Provisional,Centro Detencion INM,20.72696663,-103.3450627,POINT (-103.3450627327 20.7269666347),1518056,1518.056
-Huehuetan Estacion Provisional,Centro Detencion INM,15.0196034,-92.3931781,POINT (-92.3931781 15.0196034),42895,42.895
-La Ventosa Estacion Provisional,Centro Detencion INM,16.54834163,-94.94865417,POINT (-94.9486541748 16.5483416313),407495,407.495
-Mazatlan Estacion Migratoria,Centro Detencion INM,23.19281522,-106.4196897,POINT (-106.4196896553 23.192815224),1989941,1989.941
-Merida Estacion Migratoria,Centro Detencion INM,20.98721581,-89.62713003,POINT (-89.6271300316 20.9872158071),377252,377.252
-Mexicali Estacion Migratoria,Centro Detencion INM,32.58584718,-115.4389393,POINT (-115.438939333 32.5858471793),3563658,3563.658
-Miguel Aleman Estacion Provisional,Centro Detencion INM,26.39794342,-99.03011799,POINT (-99.0301179886 26.3979434248),1743471,1743.471
-Pachuca Estacion Migratoria,Centro Detencion INM,20.08475233,-98.75936508,POINT (-98.7593650818 20.0847523299),993946,993.946
-Playas de Catazaja Estacion Provisional,Centro Detencion INM,17.7212181,-92.01599121,POINT (-92.0159912109 17.7212180954),105485,105.485
-Puebla Estacion Migratoria,Centro Detencion INM,19.05984639,-98.2273221,POINT (-98.2273221016 19.0598463913),863925,863.925
-Saltillo Estacion Migratoria,Centro Detencion INM,25.42244306,-100.9447861,POINT (-100.9447860718 25.4224430572),1745158,1745.158
-San Gregorio Chamic Estacion Provisional,Centro Detencion INM,15.68022929,-92.00569153,POINT (-92.0056915283 15.6802292948),3712,3.712
-San Luis Potosi Estacion Migratoria,Centro Detencion INM,22.14359738,-100.9977651,POINT (-100.9977650642 22.143597377),1380517,1380.517
-Tampico Estacion Migratoria,Centro Detencion INM,22.26319396,-97.79580295,POINT (-97.7958029509 22.2631939604),1125169,1125.169
-Tlaxcala Estacion Migratoria,Centro Detencion INM,19.33662649,-98.19339752,POINT (-98.193397522 19.3366264861),895123,895.123
-Torreón Estacion Provisional,Centro Detencion INM,25.5388592,-103.4533536,POINT (-103.4533536 25.5388592),1969461,1969.461
-Tuxtla Gutierrez Estacion Migratoria,Centro Detencion INM,16.75392043,-93.10526848,POINT (-93.1052684784 16.753920429),204448,204.448
-Veracruz Estacion Migratoria,Centro Detencion INM,19.19948516,-96.14011288,POINT (-96.1401128769 19.1994851593),692294,692.294
-Zihuatanejo Estacion Migratoria,Centro Detencion INM,17.64424696,-101.5539694,POINT (-101.5539693832 17.6442469586),1678196,1678.196
-Agua Prieta Estacion Provisional,Centro Detencion INM,31.33294658,-109.560374,POINT (-109.5603740215 31.3329465838),2939083,2939.083
-Aguascalientes Estacion Migratoria,Centro Detencion INM,21.92955053,-102.3202229,POINT (-102.3202228546 21.9295505321),1467257,1467.257
-Chetumal Estacion Migratoria,Centro Detencion INM,18.5262955,-88.2833324,POINT (-88.2833324 18.5262955),3907,3.907
-El Ceibo Estacion Provisional,Centro Detencion INM,17.26028726,-90.98837286,POINT (-90.98837286181924 17.2602872621919),1429,1.429
-Hermosillo Estacion Migratoria,Centro Detencion INM,29.07957121,-110.9552622,POINT (-110.9552621841 29.0795712124),2865032,2865.032
-Huatulco Estancia Provisional,Centro Detencion INM,15.827777,-96.320882,POINT (-96.320882 15.827777),634521,634.521
-Janos Estacion Migratoria,Centro Detencion INM,30.88484253,-108.1943893,POINT (-108.1943893433 30.8848425322),2777950,2777.95
-Matamoros Estacion Migratoria,Centro Detencion INM,25.8908476,-97.50314713,POINT (-97.5031471252 25.8908475977),1637034,1637.034
-Monterrey Estacion Provisional,Centro Detencion INM,25.64272573,-100.318737,POINT (-100.31873703 25.6427257262),1654681,1654.681
-Nuevo Laredo Estacion Migratoria,Centro Detencion INM,27.49808895,-99.50720787,POINT (-99.5072078705 27.4980889528),1875681,1875.681
-Oaxaca Estacion Migratoria,Centro Detencion INM,17.06134888,-96.72231317,POINT (-96.7223131657 17.0613488849),704211,704.211
-Palenque Estacion Migratoria,Centro Detencion INM,17.49472895,-91.98612213,POINT (-91.9861221313 17.494728952),74906,74.906
-Piedras Negras Estacion Provisional,Centro Detencion INM,28.68038027,-100.573504,POINT (-100.5735039711 28.6803802726),2042587,2042.587
-San Cristobal de las Casas Estacion Provisional,Centro Detencion INM,16.73446159,-92.6491642,POINT (-92.6491641998 16.7344615875),146096,146.096
-San Pedro Tapanatepec Estacion Provisional,Centro Detencion INM,16.36976245,-94.19235706,POINT (-94.1923570633 16.3697624504),317214,317.214
-Tenosique Estacion Migratoria,Centro Detencion INM,17.45776516,-91.44521713,POINT (-91.4452171326 17.4577651556),76417,76.417
-Villahermosa Estacion Migratoria,Centro Detencion INM,17.9899559,-92.9429324,POINT (-92.9429324 17.9899559),222669,222.669
-Zacatecas Estacion Migratoria,Centro Detencion INM,22.76581404,-102.5780582,POINT (-102.5780582428 22.7658140374),1574006,1574.006
-Acayucan Estación Migratoria,Centro Detencion INM,18.00185138,-94.9210765,POINT (-94.92107650273852 18.00185137606842),457336,457.336
-Ciudad Juarez Estacion Migratoria,Centro Detencion INM,31.74558597,-106.4839641,POINT (-106.4839641005 31.7455859739),2929403,2929.403
-Comitán Estacion Provisional,Centro Detencion INM,16.21432432,-92.11557627,POINT (-92.1155762672 16.2143243177),54727,54.727
-Iztapalapa Estacion Migratoria (Estacion Migratoria de la Ciudad de Mexico),Centro Detencion INM,19.31646912,-99.08320427,POINT (-99.0832042694 19.3164691213),973662,973.662
-Tapachula Estacion Migratoria (Siglo XXI),Centro Detencion INM,14.92019548,-92.25910664,POINT (-92.259106636 14.9201954792),15312,15.312
-Tijuana Estacion Migratoria,Centro Detencion INM,32.4713011,-117.0136857,POINT (-117.0136857033 32.4713011026),4094590,4094.59
-"Centro de Atención Integral al Tráfico Fronterizo ""La Trinitaria""",Centro Detencion INM,16.14993427,-92.07211098,POINT (-92.07211097989494 16.149934265965072),49954,49.954
-Centro de Atención Integral al Tránsito Fronterizo CAITF HUIXTLA,Centro Detencion INM,15.16274927,-92.53298711,POINT (-92.53298711377242 15.16274926829836),77383,77.383
+,name,tipo,sub_tipo,latitud,longitud,ciudad,estado,id_poligon,region
+0,Acayucan Estacion Migratoria,INM,Estacion Migratoria INM,18.00185138,-94.9210765,Acayucan,Veracruz,PG1378,Golfo
+1,Agua Prieta Estacion Provisional,INM,Estacion Migratoria INM,31.33294658,-109.560374,Agua Prieta,Sonora,PG578,Pacifico
+2,Aguascalientes Estacion Migratoria,INM,Estacion Migratoria INM,21.92955053,-102.3202229,Aguascalientes,Aguascalientes,PG994,Centro
+3,Campeche Estacion Provisional,INM,Estacion Migratoria INM,19.84566009,-90.53974092,Campeche,Campeche,PG1654,Sur
+4,"Centro de Atencion Integral al Trafico Fronterizo ""La Trinitaria""",INM,Centro de Atencion Integral,16.14993427,-92.07211098,La Trinitaria,Chiapas,PG1531,Sur
+5,Centro de Atencion Integral al Transito Fronterizo CAITF HUIXTLA,INM,Centro de Atencion Integral,15.16274927,-92.53298711,Salto de Agua,Chiapas,PG1530,Sur
+6,Chetumal Estacion Migratoria,INM,Estacion Migratoria INM,18.5262955,-88.2833324,Chetumal,Quintana Roo,PG1769,Sur
+7,Chihuahua Estacion Migratoria,INM,Estacion Migratoria INM,28.64225733,-106.0844028,Chihuahua,Chihuahua,PG769,Centro
+8,Ciudad Cuauhtemoc Estacion Provisional,INM,Estacion Migratoria INM,15.66766816,-92.00234413,Ciudad Cuauhtemoc,Chiapas,PG1531,Sur
+9,Ciudad del Carmen Estacion Provisional,INM,Estacion Migratoria INM,18.64262612,-91.82360709,Ciudad del Carmen,Campeche,PG1574,Sur
+10,Ciudad Juarez Estacion Migratoria,INM,Estacion Migratoria INM,31.74558597,-106.4839641,Ciudad Juarez,Chihuahua,PG774,Centro
+11,Colima Estancia Provisional,INM,Estacion Migratoria INM,18.5262955,-88.2833324,Colima,Quintana Roo,PG1769,Sur
+12,Comitan Estacion Provisional,INM,Estacion Migratoria INM,16.21432432,-92.11557627,Comitan,Chiapas,PG1531,Sur
+13,Echegaray Estacion Provisional,INM,Estacion Migratoria INM,15.654755,-93.149776,Echegaray,Chiapas,PG1492,Sur
+14,El Ceibo Estacion Provisional,INM,Estacion Migratoria INM,17.26028726,-90.98837286,El Ceibo,Tabasco,PG1611,Sur
+15,El Hueyate Estacion Provisional,INM,Estacion Migratoria INM,15.1605676,-92.5157851,El Hueyate,Chiapas,PG1530,Sur
+16,Escarcega Estacion Migratoria,INM,Estacion Migratoria INM,18.60664518,-90.73938847,Escarcega,Campeche,PG1613,Sur
+17,Guadalajara Estacion Provisional,INM,Estacion Migratoria INM,20.72696663,-103.3450627,Guadalajara,Jalisco,PG914,Pacifico
+18,Hermosillo Estacion Migratoria,INM,Estacion Migratoria INM,29.07957121,-110.9552622,Hermosillo,Sonora,PG497,Pacifico
+19,Huatulco Estancia Provisional,INM,Estacion Migratoria INM,15.827777,-96.320882,Huatulco,Oaxaca,PG1297,Sur
+20,Huehuetan Estacion Provisional,INM,Estacion Migratoria INM,15.0196034,-92.3931781,Huehuetan,Chiapas,PG1530,Sur
+21,Iztapalapa Estacion Migratoria (Estacion Migratoria de la Ciudad de Mexico),INM,Estacion Migratoria INM,19.31646912,-99.08320427,Iztapalapa,Estado de Mexico,PG1146,Centro
+22,Janos Estacion Migratoria,INM,Estacion Migratoria INM,30.88484253,-108.1943893,Janos,Chihuahua,PG655,Centro
+23,La Ventosa Estacion Provisional,INM,Estacion Migratoria INM,16.54834163,-94.94865417,La Ventosa,Oaxaca,PG1376,Sur
+24,Matamoros Estacion Migratoria,INM,Estacion Migratoria INM,25.8908476,-97.50314713,Matamoros,Tamaulipas,PG1272,Golfo
+25,Mazatlan Estacion Migratoria,INM,Estacion Migratoria INM,23.19281522,-106.4196897,Mazatlan,Sinaloa,PG761,Pacifico
+26,Merida Estacion Migratoria,INM,Estacion Migratoria INM,20.98721581,-89.62713003,Merida,Yucatan,PG1694,Sur
+27,Mexicali Estacion Migratoria,INM,Estacion Migratoria INM,32.58584718,-115.4389393,Mexicali,Baja California,PG268,Pacifico
+28,Miguel Aleman Estacion Provisional,INM,Estacion Migratoria INM,26.39794342,-99.03011799,Miguel Aleman,Tamaulipas,PG1156,Golfo
+29,Monterrey Estacion Provisional,INM,Estacion Migratoria INM,25.64272573,-100.318737,Monterrey,Coahuila,PG1116,Golfo
+30,Nuevo Laredo Estacion Migratoria,INM,Estacion Migratoria INM,27.49808895,-99.50720787,Nuevo Laredo,Tamaulipas,PG1157,Golfo
+31,Oaxaca Estacion Migratoria,INM,Estacion Migratoria INM,17.06134888,-96.72231317,Oaxaca,Oaxaca,PG1299,Sur
+32,Pachuca Estacion Migratoria,INM,Estacion Migratoria INM,20.08475233,-98.75936508,Pachuca,Hidalgo,PG1186,Centro
+33,Palenque Estacion Migratoria,INM,Estacion Migratoria INM,17.49472895,-91.98612213,Palenque,Tabasco,PG1572,Golfo
+34,Palenque Estacion Migratoria,INM,Estacion Migratoria INM,17.49472895,-91.98612213,Palenque,Tabasco,PG1572,Sur
+35,Piedras Negras Estacion Provisional,INM,Estacion Migratoria INM,28.68038027,-100.573504,Piedras Negras,Coahuila,PG1081,Centro
+36,Playas de Catazaja Estacion Provisional,INM,Estacion Migratoria INM,17.7212181,-92.01599121,Playas de Catazaja,Chiapas,PG1534,Golfo
+37,Playas de Catazaja Estacion Provisional,INM,Estacion Migratoria INM,17.7212181,-92.01599121,Playas de Catazaja,Chiapas,PG1534,Sur
+38,Puebla Estacion Migratoria,INM,Estacion Migratoria INM,19.05984639,-98.2273221,Puebla,Puebla,PG1223,Centro
+39,Saltillo Estacion Migratoria,INM,Estacion Migratoria INM,25.42244306,-100.9447861,Saltillo,Coahuila,PG1077,Golfo
+40,Saltillo Estacion Migratoria,INM,Estacion Migratoria INM,25.42244306,-100.9447861,Saltillo,Coahuila,PG1077,Centro
+41,San Cristobal de las Casas Estacion Provisional,INM,Estacion Migratoria INM,16.73446159,-92.6491642,San Cristobal de las Casas,Chiapas,PG1532,Sur
+42,San Gregorio Chamic Estacion Provisional,INM,Estacion Migratoria INM,15.68022929,-92.00569153,San Gregorio Chamic,Chiapas,PG1531,Sur
+43,San Luis Potosi Estacion Migratoria,INM,Estacion Migratoria INM,22.14359738,-100.9977651,San Luis Potosi,San Luis Potosi,PG1072,Centro
+44,San Pedro Tapanatepec Estacion Provisional,INM,Estacion Migratoria INM,16.36976245,-94.19235706,San Pedro Tapanatepec,Oaxaca,PG1415,Sur
+45,Tampico Estacion Migratoria,INM,Estacion Migratoria INM,22.26319396,-97.79580295,Tampico,Veracruz,PG1228,Golfo
+46,Tapachula Estacion Migratoria (Siglo XXI),INM,Estacion Migratoria INM,14.92019548,-92.25910664,Tapachula,Chiapas,PG1530,Sur
+47,Tenosique Estacion Migratoria,INM,Estacion Migratoria INM,17.45776516,-91.44521713,Tenosique,Tabasco,PG1572,Golfo
+48,Tenosique Estacion Migratoria,INM,Estacion Migratoria INM,17.45776516,-91.44521713,Tenosique,Tabasco,PG1572,Sur
+49,Tijuana Estacion Migratoria,INM,Estacion Migratoria INM,32.4713011,-117.0136857,Tijuana,Baja California,PG190,Pacifico
+50,Tlaxcala Estacion Migratoria,INM,Estacion Migratoria INM,19.33662649,-98.19339752,Tlaxcala,Puebla,PG1224,Centro
+51,Torreon Estacion Provisional,INM,Estacion Migratoria INM,25.5388592,-103.4533536,Torreon,Coahuila,PG921,Centro
+52,Tuxtla Gutierrez Estacion Migratoria,INM,Estacion Migratoria INM,16.75392043,-93.10526848,Tuxtla Gutierrez,Chiapas,PG1493,Sur
+53,Veracruz Estacion Migratoria,INM,Estacion Migratoria INM,19.19948516,-96.14011288,Veracruz,Veracruz,PG1341,Golfo
+54,Villahermosa Estacion Migratoria,INM,Estacion Migratoria INM,17.9899559,-92.9429324,Villahermosa,Chiapas,PG1495,Golfo
+55,Zacatecas Estacion Migratoria,INM,Estacion Migratoria INM,22.76581404,-102.5780582,Zacatecas,Aguascalientes,PG956,Centro
+56,Zihuatanejo Estacion Migratoria,INM,Estacion Migratoria INM,17.64424696,-101.5539694,Zihuatanejo,Guerrero,PG1026,Pacifico
